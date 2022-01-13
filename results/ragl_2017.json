@@ -3874,5 +3874,5765 @@
             "name": "JuiceBox",
             "url": "/player/6504?period=all"
         }
+    },
+    {
+        "date": "2017-09-13 08:52:47",
+        "map": "Dual Cold Front (RAGL:S4)",
+        "p0": {
+            "name": "3.Lucian",
+            "url": "/player/6665?period=all"
+        },
+        "p1": {
+            "name": "NethIafin",
+            "url": "/player/6852?period=all"
+        }
+    },
+    {
+        "date": "2017-09-13 09:21:52",
+        "map": "A Nuclear Winter (RAGL:S4)",
+        "p0": {
+            "name": "3.Lucian",
+            "url": "/player/6665?period=all"
+        },
+        "p1": {
+            "name": "NethIafin",
+            "url": "/player/6852?period=all"
+        }
+    },
+    {
+        "date": "2017-09-13 18:13:59",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "Wippie",
+            "url": "/player/6446?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2017-09-13 18:48:48",
+        "map": "A Nuclear Winter (RAGL:S4)",
+        "p0": {
+            "name": "Wippie",
+            "url": "/player/6446?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2017-09-14 15:58:15",
+        "map": "Behind the Veil (RAGL:S4)",
+        "p0": {
+            "name": "SeaCucumber",
+            "url": "/player/-22?period=all"
+        },
+        "p1": {
+            "name": "DaolDnaKcol",
+            "url": "/player/6891?period=all"
+        }
+    },
+    {
+        "date": "2017-09-14 16:08:42",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "jvk",
+            "url": "/player/6812?period=all"
+        },
+        "p1": {
+            "name": "Abarrat",
+            "url": "/player/7472?period=all"
+        }
+    },
+    {
+        "date": "2017-09-14 16:19:14",
+        "map": "Sidestep (RAGL:S4)",
+        "p0": {
+            "name": "jvk",
+            "url": "/player/6812?period=all"
+        },
+        "p1": {
+            "name": "Abarrat",
+            "url": "/player/7472?period=all"
+        }
+    },
+    {
+        "date": "2017-09-14 16:28:54",
+        "map": "A Nuclear Winter (RAGL:S4)",
+        "p0": {
+            "name": "SeaCucumber",
+            "url": "/player/-22?period=all"
+        },
+        "p1": {
+            "name": "DaolDnaKcol",
+            "url": "/player/6891?period=all"
+        }
+    },
+    {
+        "date": "2017-09-14 20:04:41",
+        "map": "Keep Off The Grass 2 (RAGL:S4)",
+        "p0": {
+            "name": "corrode",
+            "url": "/player/6776?period=all"
+        },
+        "p1": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        }
+    },
+    {
+        "date": "2017-09-14 20:06:24",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "potato",
+            "url": "/player/6861?period=all"
+        },
+        "p1": {
+            "name": "dragunoff",
+            "url": "/player/7229?period=all"
+        }
+    },
+    {
+        "date": "2017-09-14 20:15:02",
+        "map": "Borrowed Time (RAGL:S4)",
+        "p0": {
+            "name": "corrode",
+            "url": "/player/6776?period=all"
+        },
+        "p1": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        }
+    },
+    {
+        "date": "2017-09-14 20:26:10",
+        "map": "Ysmir (RAGL:S4)",
+        "p0": {
+            "name": "dragunoff",
+            "url": "/player/7229?period=all"
+        },
+        "p1": {
+            "name": "potato",
+            "url": "/player/6861?period=all"
+        }
+    },
+    {
+        "date": "2017-09-14 22:26:47",
+        "map": "A Nuclear Winter (RAGL:S4)",
+        "p0": {
+            "name": "Sotsch",
+            "url": "/player/6832?period=all"
+        },
+        "p1": {
+            "name": "Abarrat",
+            "url": "/player/7472?period=all"
+        }
+    },
+    {
+        "date": "2017-09-14 22:37:31",
+        "map": "Shadow Fiend (RAGL:S4)",
+        "p0": {
+            "name": "Sotsch",
+            "url": "/player/6832?period=all"
+        },
+        "p1": {
+            "name": "Abarrat",
+            "url": "/player/7472?period=all"
+        }
+    },
+    {
+        "date": "2017-09-15 05:57:02",
+        "map": "A Nuclear Winter (RAGL:S4)",
+        "p0": {
+            "name": "Abarrat",
+            "url": "/player/7472?period=all"
+        },
+        "p1": {
+            "name": "Bamsi",
+            "url": "/player/-25?period=all"
+        }
+    },
+    {
+        "date": "2017-09-15 06:13:02",
+        "map": "Borrowed Time (RAGL:S4)",
+        "p0": {
+            "name": "Abarrat",
+            "url": "/player/7472?period=all"
+        },
+        "p1": {
+            "name": "Bamsi",
+            "url": "/player/-25?period=all"
+        }
+    },
+    {
+        "date": "2017-09-15 18:16:03",
+        "map": "Sidestep (RAGL:S4)",
+        "p0": {
+            "name": "eskimo",
+            "url": "/player/6695?period=all"
+        },
+        "p1": {
+            "name": "netnazgul",
+            "url": "/player/6856?period=all"
+        }
+    },
+    {
+        "date": "2017-09-15 18:38:55",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "eskimo",
+            "url": "/player/6695?period=all"
+        },
+        "p1": {
+            "name": "netnazgul",
+            "url": "/player/6856?period=all"
+        }
+    },
+    {
+        "date": "2017-09-15 19:30:30",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "SoScared",
+            "url": "/player/2793?period=all"
+        },
+        "p1": {
+            "name": "t",
+            "url": "/player/-2?period=all"
+        }
+    },
+    {
+        "date": "2017-09-15 19:54:54",
+        "map": "Agenda (RAGL:S4)",
+        "p0": {
+            "name": "SoScared",
+            "url": "/player/2793?period=all"
+        },
+        "p1": {
+            "name": "t",
+            "url": "/player/-2?period=all"
+        }
+    },
+    {
+        "date": "2017-09-15 20:01:25",
+        "map": "A Nuclear Winter (RAGL:S4)",
+        "p0": {
+            "name": "Abarrat",
+            "url": "/player/7472?period=all"
+        },
+        "p1": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        }
+    },
+    {
+        "date": "2017-09-15 20:15:10",
+        "map": "Keep Off The Grass 2 (RAGL:S4)",
+        "p0": {
+            "name": "Abarrat",
+            "url": "/player/7472?period=all"
+        },
+        "p1": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        }
+    },
+    {
+        "date": "2017-09-16 15:48:56",
+        "map": "Agenda (RAGL:S4)",
+        "p0": {
+            "name": "WaRRyKeR",
+            "url": "/player/6938?period=all"
+        },
+        "p1": {
+            "name": "netnazgul",
+            "url": "/player/6856?period=all"
+        }
+    },
+    {
+        "date": "2017-09-16 15:54:37",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "Anykeyich",
+            "url": "/player/6822?period=all"
+        },
+        "p1": {
+            "name": "ConcaveCats",
+            "url": "/player/-29?period=all"
+        }
+    },
+    {
+        "date": "2017-09-16 16:04:32",
+        "map": "Dual Cold Front (RAGL:S4)",
+        "p0": {
+            "name": "Anykeyich",
+            "url": "/player/6822?period=all"
+        },
+        "p1": {
+            "name": "ConcaveCats",
+            "url": "/player/-29?period=all"
+        }
+    },
+    {
+        "date": "2017-09-16 16:25:55",
+        "map": "Borrowed Time (RAGL:S4)",
+        "p0": {
+            "name": "Lord of War",
+            "url": "/player/-24?period=all"
+        },
+        "p1": {
+            "name": "Snufflegrunt",
+            "url": "/player/-23?period=all"
+        }
+    },
+    {
+        "date": "2017-09-16 16:28:17",
+        "map": "Winter Storm 2 (RAGL:S4)",
+        "p0": {
+            "name": "WaRRyKeR",
+            "url": "/player/6938?period=all"
+        },
+        "p1": {
+            "name": "netnazgul",
+            "url": "/player/6856?period=all"
+        }
+    },
+    {
+        "date": "2017-09-16 16:37:43",
+        "map": "Agenda (RAGL:S4)",
+        "p0": {
+            "name": "Lord of War",
+            "url": "/player/-24?period=all"
+        },
+        "p1": {
+            "name": "Snufflegrunt",
+            "url": "/player/-23?period=all"
+        }
+    },
+    {
+        "date": "2017-09-16 17:03:20",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "mechANIC",
+            "url": "/player/6757?period=all"
+        },
+        "p1": {
+            "name": "flamewh33l",
+            "url": "/player/6470?period=all"
+        }
+    },
+    {
+        "date": "2017-09-16 17:13:15",
+        "map": "Behind the Veil (RAGL:S4)",
+        "p0": {
+            "name": "mechANIC",
+            "url": "/player/6757?period=all"
+        },
+        "p1": {
+            "name": "flamewh33l",
+            "url": "/player/6470?period=all"
+        }
+    },
+    {
+        "date": "2017-09-16 17:45:34",
+        "map": "Shadow Fiend (RAGL:S4)",
+        "p0": {
+            "name": "Craig Christ",
+            "url": "/player/6883?period=all"
+        },
+        "p1": {
+            "name": "Beef",
+            "url": "/player/3534?period=all"
+        }
+    },
+    {
+        "date": "2017-09-16 18:13:41",
+        "map": "Agenda (RAGL:S4)",
+        "p0": {
+            "name": "Craig Christ",
+            "url": "/player/6883?period=all"
+        },
+        "p1": {
+            "name": "Beef",
+            "url": "/player/3534?period=all"
+        }
+    },
+    {
+        "date": "2017-09-16 18:17:00",
+        "map": "Ysmir (RAGL:S4)",
+        "p0": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        },
+        "p1": {
+            "name": "abcdefg30",
+            "url": "/player/3812?period=all"
+        }
+    },
+    {
+        "date": "2017-09-16 18:32:55",
+        "map": "Dual Cold Front (RAGL:S4)",
+        "p0": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        },
+        "p1": {
+            "name": "abcdefg30",
+            "url": "/player/3812?period=all"
+        }
+    },
+    {
+        "date": "2017-09-16 20:02:57",
+        "map": "Ysmir (RAGL:S4)",
+        "p0": {
+            "name": "Sotsch",
+            "url": "/player/6832?period=all"
+        },
+        "p1": {
+            "name": "ass_pounder_4000",
+            "url": "/player/-28?period=all"
+        }
+    },
+    {
+        "date": "2017-09-16 20:06:52",
+        "map": "Keep Off The Grass 2 (RAGL:S4)",
+        "p0": {
+            "name": "Bamsi",
+            "url": "/player/-25?period=all"
+        },
+        "p1": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        }
+    },
+    {
+        "date": "2017-09-16 20:12:50",
+        "map": "Shadow Fiend (RAGL:S4)",
+        "p0": {
+            "name": "Sotsch",
+            "url": "/player/6832?period=all"
+        },
+        "p1": {
+            "name": "ass_pounder_4000",
+            "url": "/player/-28?period=all"
+        }
+    },
+    {
+        "date": "2017-09-16 20:19:54",
+        "map": "A Nuclear Winter (RAGL:S4)",
+        "p0": {
+            "name": "Chewey",
+            "url": "/player/6859?period=all"
+        },
+        "p1": {
+            "name": "manu200",
+            "url": "/player/6880?period=all"
+        }
+    },
+    {
+        "date": "2017-09-16 20:26:47",
+        "map": "Winter Storm 2 (RAGL:S4)",
+        "p0": {
+            "name": "Bamsi",
+            "url": "/player/-25?period=all"
+        },
+        "p1": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        }
+    },
+    {
+        "date": "2017-09-16 20:48:01",
+        "map": "Winter Storm 2 (RAGL:S4)",
+        "p0": {
+            "name": "Chewey",
+            "url": "/player/6859?period=all"
+        },
+        "p1": {
+            "name": "manu200",
+            "url": "/player/6880?period=all"
+        }
+    },
+    {
+        "date": "2017-09-16 21:08:03",
+        "map": "Behind the Veil (RAGL:S4)",
+        "p0": {
+            "name": "Chin0",
+            "url": "/player/-26?period=all"
+        },
+        "p1": {
+            "name": "Petit Dejeuner",
+            "url": "/player/-31?period=all"
+        }
+    },
+    {
+        "date": "2017-09-16 21:26:24",
+        "map": "Agenda (RAGL:S4)",
+        "p0": {
+            "name": "Chin0",
+            "url": "/player/-26?period=all"
+        },
+        "p1": {
+            "name": "Petit Dejeuner",
+            "url": "/player/-31?period=all"
+        }
+    },
+    {
+        "date": "2017-09-17 15:34:55",
+        "map": "Agenda (RAGL:S4)",
+        "p0": {
+            "name": "Lorrydriver",
+            "url": "/player/6646?period=all"
+        },
+        "p1": {
+            "name": "Smitty",
+            "url": "/player/6586?period=all"
+        }
+    },
+    {
+        "date": "2017-09-17 15:57:16",
+        "map": "Sidestep (RAGL:S4)",
+        "p0": {
+            "name": "Lorrydriver",
+            "url": "/player/6646?period=all"
+        },
+        "p1": {
+            "name": "Smitty",
+            "url": "/player/6586?period=all"
+        }
+    },
+    {
+        "date": "2017-09-17 16:04:14",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "Doomsday",
+            "url": "/player/6621?period=all"
+        },
+        "p1": {
+            "name": "Mentats",
+            "url": "/player/-19?period=all"
+        }
+    },
+    {
+        "date": "2017-09-17 16:25:14",
+        "map": "A Nuclear Winter (RAGL:S4)",
+        "p0": {
+            "name": "Doomsday",
+            "url": "/player/6621?period=all"
+        },
+        "p1": {
+            "name": "Mentats",
+            "url": "/player/-19?period=all"
+        }
+    },
+    {
+        "date": "2017-09-17 16:29:57",
+        "map": "Winter Storm 2 (RAGL:S4)",
+        "p0": {
+            "name": "Clockwork",
+            "url": "/player/6680?period=all"
+        },
+        "p1": {
+            "name": "WhoCares",
+            "url": "/player/6723?period=all"
+        }
+    },
+    {
+        "date": "2017-09-17 16:36:52",
+        "map": "Behind the Veil (RAGL:S4)",
+        "p0": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        },
+        "p1": {
+            "name": "Han",
+            "url": "/player/6316?period=all"
+        }
+    },
+    {
+        "date": "2017-09-17 16:41:16",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "Clockwork",
+            "url": "/player/6680?period=all"
+        },
+        "p1": {
+            "name": "WhoCares",
+            "url": "/player/6723?period=all"
+        }
+    },
+    {
+        "date": "2017-09-17 16:59:52",
+        "map": "A Nuclear Winter (RAGL:S4)",
+        "p0": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        },
+        "p1": {
+            "name": "Han",
+            "url": "/player/6316?period=all"
+        }
+    },
+    {
+        "date": "2017-09-17 21:49:15",
+        "map": "Ysmir (RAGL:S4)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2017-09-17 22:00:33",
+        "map": "Behind the Veil (RAGL:S4)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2017-09-18 00:54:01",
+        "map": "Dual Cold Front (RAGL:S4)",
+        "p0": {
+            "name": "shpooky",
+            "url": "/player/6231?period=all"
+        },
+        "p1": {
+            "name": "chrisf",
+            "url": "/player/2196?period=all"
+        }
+    },
+    {
+        "date": "2017-09-18 01:08:30",
+        "map": "Agenda (RAGL:S4)",
+        "p0": {
+            "name": "shpooky",
+            "url": "/player/6231?period=all"
+        },
+        "p1": {
+            "name": "chrisf",
+            "url": "/player/2196?period=all"
+        }
+    },
+    {
+        "date": "2017-09-19 17:13:37",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "mechANIC",
+            "url": "/player/6757?period=all"
+        },
+        "p1": {
+            "name": "Craig Christ",
+            "url": "/player/6883?period=all"
+        }
+    },
+    {
+        "date": "2017-09-19 17:13:45",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "mechANIC",
+            "url": "/player/6757?period=all"
+        },
+        "p1": {
+            "name": "Craig Christ",
+            "url": "/player/6883?period=all"
+        }
+    },
+    {
+        "date": "2017-09-19 17:28:53",
+        "map": "Ysmir (RAGL:S4)",
+        "p0": {
+            "name": "mechANIC",
+            "url": "/player/6757?period=all"
+        },
+        "p1": {
+            "name": "Craig Christ",
+            "url": "/player/6883?period=all"
+        }
+    },
+    {
+        "date": "2017-09-19 17:29:00",
+        "map": "Ysmir (RAGL:S4)",
+        "p0": {
+            "name": "mechANIC",
+            "url": "/player/6757?period=all"
+        },
+        "p1": {
+            "name": "Craig Christ",
+            "url": "/player/6883?period=all"
+        }
+    },
+    {
+        "date": "2017-09-19 17:55:43",
+        "map": "Ysmir (RAGL:S4)",
+        "p0": {
+            "name": "netnazgul",
+            "url": "/player/6856?period=all"
+        },
+        "p1": {
+            "name": "xy",
+            "url": "/player/6336?period=all"
+        }
+    },
+    {
+        "date": "2017-09-19 18:10:32",
+        "map": "Sidestep (RAGL:S4)",
+        "p0": {
+            "name": "netnazgul",
+            "url": "/player/6856?period=all"
+        },
+        "p1": {
+            "name": "xy",
+            "url": "/player/6336?period=all"
+        }
+    },
+    {
+        "date": "2017-09-19 18:34:48",
+        "map": "Behind the Veil (RAGL:S4)",
+        "p0": {
+            "name": "Medium Tank",
+            "url": "/player/6410?period=all"
+        },
+        "p1": {
+            "name": "Kuba",
+            "url": "/player/-9?period=all"
+        }
+    },
+    {
+        "date": "2017-09-19 18:49:17",
+        "map": "Keep Off The Grass 2 (RAGL:S4)",
+        "p0": {
+            "name": "Medium Tank",
+            "url": "/player/6410?period=all"
+        },
+        "p1": {
+            "name": "Kuba",
+            "url": "/player/-9?period=all"
+        }
+    },
+    {
+        "date": "2017-09-19 20:49:16",
+        "map": "A Nuclear Winter (RAGL:S4)",
+        "p0": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        },
+        "p1": {
+            "name": "Abarrat",
+            "url": "/player/7472?period=all"
+        }
+    },
+    {
+        "date": "2017-09-19 21:04:35",
+        "map": "Keep Off The Grass 2 (RAGL:S4)",
+        "p0": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        },
+        "p1": {
+            "name": "Abarrat",
+            "url": "/player/7472?period=all"
+        }
+    },
+    {
+        "date": "2017-09-20 17:36:34",
+        "map": "Shadow Fiend (RAGL:S4)",
+        "p0": {
+            "name": "Gatekeeper",
+            "url": "/player/6026?period=all"
+        },
+        "p1": {
+            "name": "SirCake",
+            "url": "/player/6288?period=all"
+        }
+    },
+    {
+        "date": "2017-09-20 17:44:25",
+        "map": "Sidestep (RAGL:S4)",
+        "p0": {
+            "name": "Gatekeeper",
+            "url": "/player/6026?period=all"
+        },
+        "p1": {
+            "name": "SirCake",
+            "url": "/player/6288?period=all"
+        }
+    },
+    {
+        "date": "2017-09-20 18:20:16",
+        "map": "Shadow Fiend (RAGL:S4)",
+        "p0": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        },
+        "p1": {
+            "name": "Gatekeeper",
+            "url": "/player/6026?period=all"
+        }
+    },
+    {
+        "date": "2017-09-20 18:34:54",
+        "map": "Ysmir (RAGL:S4)",
+        "p0": {
+            "name": "Gatekeeper",
+            "url": "/player/6026?period=all"
+        },
+        "p1": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        }
+    },
+    {
+        "date": "2017-09-20 20:35:19",
+        "map": "A Nuclear Winter (RAGL:S4)",
+        "p0": {
+            "name": "SeaCucumber",
+            "url": "/player/-22?period=all"
+        },
+        "p1": {
+            "name": "manu200",
+            "url": "/player/6880?period=all"
+        }
+    },
+    {
+        "date": "2017-09-20 20:35:19",
+        "map": "A Nuclear Winter (RAGL:S4)",
+        "p0": {
+            "name": "SeaCucumber",
+            "url": "/player/-22?period=all"
+        },
+        "p1": {
+            "name": "manu200",
+            "url": "/player/6880?period=all"
+        }
+    },
+    {
+        "date": "2017-09-20 21:04:10",
+        "map": "Winter Storm 2 (RAGL:S4)",
+        "p0": {
+            "name": "SeaCucumber",
+            "url": "/player/-22?period=all"
+        },
+        "p1": {
+            "name": "manu200",
+            "url": "/player/6880?period=all"
+        }
+    },
+    {
+        "date": "2017-09-21 17:11:06",
+        "map": "Winter Storm 2 (RAGL:S4)",
+        "p0": {
+            "name": "ass_pounder_4000",
+            "url": "/player/-28?period=all"
+        },
+        "p1": {
+            "name": "corrode",
+            "url": "/player/6776?period=all"
+        }
+    },
+    {
+        "date": "2017-09-21 17:11:06",
+        "map": "Winter Storm 2 (RAGL:S4)",
+        "p0": {
+            "name": "ass_pounder_4000",
+            "url": "/player/-28?period=all"
+        },
+        "p1": {
+            "name": "corrode",
+            "url": "/player/6776?period=all"
+        }
+    },
+    {
+        "date": "2017-09-21 17:30:31",
+        "map": "Sidestep (RAGL:S4)",
+        "p0": {
+            "name": "Raishiwi",
+            "url": "/player/6625?period=all"
+        },
+        "p1": {
+            "name": "noobmapmaker",
+            "url": "/player/4037?period=all"
+        }
+    },
+    {
+        "date": "2017-09-21 17:48:17",
+        "map": "Behind the Veil (RAGL:S4)",
+        "p0": {
+            "name": "noobmapmaker",
+            "url": "/player/4037?period=all"
+        },
+        "p1": {
+            "name": "Raishiwi",
+            "url": "/player/6625?period=all"
+        }
+    },
+    {
+        "date": "2017-09-21 17:49:27",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "corrode",
+            "url": "/player/6776?period=all"
+        },
+        "p1": {
+            "name": "ass_pounder_4000",
+            "url": "/player/-28?period=all"
+        }
+    },
+    {
+        "date": "2017-09-21 17:49:27",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "corrode",
+            "url": "/player/6776?period=all"
+        },
+        "p1": {
+            "name": "ass_pounder_4000",
+            "url": "/player/-28?period=all"
+        }
+    },
+    {
+        "date": "2017-09-22 17:19:47",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "jvk",
+            "url": "/player/6812?period=all"
+        },
+        "p1": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        }
+    },
+    {
+        "date": "2017-09-22 17:34:36",
+        "map": "Shadow Fiend (RAGL:S4)",
+        "p0": {
+            "name": "jvk",
+            "url": "/player/6812?period=all"
+        },
+        "p1": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        }
+    },
+    {
+        "date": "2017-09-23 10:58:12",
+        "map": "Shadow Fiend (RAGL:S4)",
+        "p0": {
+            "name": "KOYK_GR",
+            "url": "/player/2580?period=all"
+        },
+        "p1": {
+            "name": "flamewh33l",
+            "url": "/player/6470?period=all"
+        }
+    },
+    {
+        "date": "2017-09-23 11:10:26",
+        "map": "Behind the Veil (RAGL:S4)",
+        "p0": {
+            "name": "KOYK_GR",
+            "url": "/player/2580?period=all"
+        },
+        "p1": {
+            "name": "flamewh33l",
+            "url": "/player/6470?period=all"
+        }
+    },
+    {
+        "date": "2017-09-23 11:18:40",
+        "map": "Dual Cold Front (RAGL:S4)",
+        "p0": {
+            "name": "Clockwork",
+            "url": "/player/6680?period=all"
+        },
+        "p1": {
+            "name": "noobmapmaker",
+            "url": "/player/4037?period=all"
+        }
+    },
+    {
+        "date": "2017-09-23 11:30:12",
+        "map": "Sidestep (RAGL:S4)",
+        "p0": {
+            "name": "Clockwork",
+            "url": "/player/6680?period=all"
+        },
+        "p1": {
+            "name": "noobmapmaker",
+            "url": "/player/4037?period=all"
+        }
+    },
+    {
+        "date": "2017-09-23 12:17:11",
+        "map": "Borrowed Time (RAGL:S4)",
+        "p0": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        },
+        "p1": {
+            "name": "SirCake",
+            "url": "/player/6288?period=all"
+        }
+    },
+    {
+        "date": "2017-09-23 16:55:49",
+        "map": "Ysmir (RAGL:S4)",
+        "p0": {
+            "name": "bullE",
+            "url": "/player/6896?period=all"
+        },
+        "p1": {
+            "name": "NethIafin",
+            "url": "/player/6852?period=all"
+        }
+    },
+    {
+        "date": "2017-09-23 17:09:59",
+        "map": "A Nuclear Winter (RAGL:S4)",
+        "p0": {
+            "name": "bullE",
+            "url": "/player/6896?period=all"
+        },
+        "p1": {
+            "name": "NethIafin",
+            "url": "/player/6852?period=all"
+        }
+    },
+    {
+        "date": "2017-09-23 17:31:42",
+        "map": "A Nuclear Winter (RAGL:S4)",
+        "p0": {
+            "name": "Abarrat",
+            "url": "/player/7472?period=all"
+        },
+        "p1": {
+            "name": "Snufflegrunt",
+            "url": "/player/-23?period=all"
+        }
+    },
+    {
+        "date": "2017-09-23 17:43:00",
+        "map": "Behind the Veil (RAGL:S4)",
+        "p0": {
+            "name": "Abarrat",
+            "url": "/player/7472?period=all"
+        },
+        "p1": {
+            "name": "Snufflegrunt",
+            "url": "/player/-23?period=all"
+        }
+    },
+    {
+        "date": "2017-09-23 18:01:11",
+        "map": "Keep Off The Grass 2 (RAGL:S4)",
+        "p0": {
+            "name": "Sotsch",
+            "url": "/player/6832?period=all"
+        },
+        "p1": {
+            "name": "Snufflegrunt",
+            "url": "/player/-23?period=all"
+        }
+    },
+    {
+        "date": "2017-09-23 18:12:25",
+        "map": "Ysmir (RAGL:S4)",
+        "p0": {
+            "name": "Sotsch",
+            "url": "/player/6832?period=all"
+        },
+        "p1": {
+            "name": "Snufflegrunt",
+            "url": "/player/-23?period=all"
+        }
+    },
+    {
+        "date": "2017-09-23 18:58:13",
+        "map": "Keep Off The Grass 2 (RAGL:S4)",
+        "p0": {
+            "name": "eskimo",
+            "url": "/player/6695?period=all"
+        },
+        "p1": {
+            "name": "ConcaveCats",
+            "url": "/player/-29?period=all"
+        }
+    },
+    {
+        "date": "2017-09-23 19:03:06",
+        "map": "Borrowed Time (RAGL:S4)",
+        "p0": {
+            "name": "Anykeyich",
+            "url": "/player/6822?period=all"
+        },
+        "p1": {
+            "name": "_Bo",
+            "url": "/player/8152?period=all"
+        }
+    },
+    {
+        "date": "2017-09-23 19:13:04",
+        "map": "A Nuclear Winter (RAGL:S4)",
+        "p0": {
+            "name": "Anykeyich",
+            "url": "/player/6822?period=all"
+        },
+        "p1": {
+            "name": "_Bo",
+            "url": "/player/8152?period=all"
+        }
+    },
+    {
+        "date": "2017-09-23 19:13:05",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "eskimo",
+            "url": "/player/6695?period=all"
+        },
+        "p1": {
+            "name": "ConcaveCats",
+            "url": "/player/-29?period=all"
+        }
+    },
+    {
+        "date": "2017-09-23 20:24:23",
+        "map": "A Nuclear Winter (RAGL:S4)",
+        "p0": {
+            "name": "bullE",
+            "url": "/player/6896?period=all"
+        },
+        "p1": {
+            "name": "Kallen",
+            "url": "/player/-33?period=all"
+        }
+    },
+    {
+        "date": "2017-09-23 20:35:21",
+        "map": "Behind the Veil (RAGL:S4)",
+        "p0": {
+            "name": "bullE",
+            "url": "/player/6896?period=all"
+        },
+        "p1": {
+            "name": "Kallen",
+            "url": "/player/-33?period=all"
+        }
+    },
+    {
+        "date": "2017-09-24 15:10:20",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "Smitty",
+            "url": "/player/6586?period=all"
+        },
+        "p1": {
+            "name": "Han",
+            "url": "/player/6316?period=all"
+        }
+    },
+    {
+        "date": "2017-09-24 15:25:14",
+        "map": "Agenda (RAGL:S4)",
+        "p0": {
+            "name": "Smitty",
+            "url": "/player/6586?period=all"
+        },
+        "p1": {
+            "name": "Han",
+            "url": "/player/6316?period=all"
+        }
+    },
+    {
+        "date": "2017-09-24 20:52:50",
+        "map": "Dual Cold Front (RAGL:S4)",
+        "p0": {
+            "name": "Digital Jihad",
+            "url": "/player/-27?period=all"
+        },
+        "p1": {
+            "name": "chrisf",
+            "url": "/player/2196?period=all"
+        }
+    },
+    {
+        "date": "2017-09-24 21:06:43",
+        "map": "Keep Off The Grass 2 (RAGL:S4)",
+        "p0": {
+            "name": "Digital Jihad",
+            "url": "/player/-27?period=all"
+        },
+        "p1": {
+            "name": "chrisf",
+            "url": "/player/2196?period=all"
+        }
+    },
+    {
+        "date": "2017-09-25 18:11:14",
+        "map": "Siberian Summer (RAGL:S4)",
+        "p0": {
+            "name": "SoScared",
+            "url": "/player/2793?period=all"
+        },
+        "p1": {
+            "name": "WhoCares",
+            "url": "/player/6723?period=all"
+        }
+    },
+    {
+        "date": "2017-09-25 18:33:12",
+        "map": "Ysmir (RAGL:S4)",
+        "p0": {
+            "name": "SoScared",
+            "url": "/player/2793?period=all"
+        },
+        "p1": {
+            "name": "WhoCares",
+            "url": "/player/6723?period=all"
+        }
+    },
+    {
+        "date": "2017-09-26 10:14:07",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "OMnom",
+            "url": "/player/6608?period=all"
+        },
+        "p1": {
+            "name": "noobmapmaker",
+            "url": "/player/4037?period=all"
+        }
+    },
+    {
+        "date": "2017-09-26 10:23:19",
+        "map": "A Nuclear Winter (RAGL:S4)",
+        "p0": {
+            "name": "OMnom",
+            "url": "/player/6608?period=all"
+        },
+        "p1": {
+            "name": "noobmapmaker",
+            "url": "/player/4037?period=all"
+        }
+    },
+    {
+        "date": "2017-09-26 20:29:09",
+        "map": "Borrowed Time (RAGL:S4)",
+        "p0": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        },
+        "p1": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        }
+    },
+    {
+        "date": "2017-09-26 20:29:09",
+        "map": "Borrowed Time (RAGL:S4)",
+        "p0": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        },
+        "p1": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        }
+    },
+    {
+        "date": "2017-09-26 20:38:32",
+        "map": "Keep Off The Grass 2 (RAGL:S4)",
+        "p0": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        },
+        "p1": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        }
+    },
+    {
+        "date": "2017-09-26 20:38:32",
+        "map": "Keep Off The Grass 2 (RAGL:S4)",
+        "p0": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        },
+        "p1": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        }
+    },
+    {
+        "date": "2017-09-27 19:39:27",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "SeaCucumber",
+            "url": "/player/-22?period=all"
+        },
+        "p1": {
+            "name": "potato",
+            "url": "/player/6861?period=all"
+        }
+    },
+    {
+        "date": "2017-09-27 20:12:41",
+        "map": "A Nuclear Winter (RAGL:S4)",
+        "p0": {
+            "name": "SeaCucumber",
+            "url": "/player/-22?period=all"
+        },
+        "p1": {
+            "name": "potato",
+            "url": "/player/6861?period=all"
+        }
+    },
+    {
+        "date": "2017-09-28 17:47:58",
+        "map": "Agenda (RAGL:S4)",
+        "p0": {
+            "name": "Craig Christ",
+            "url": "/player/6883?period=all"
+        },
+        "p1": {
+            "name": "Chin0",
+            "url": "/player/-26?period=all"
+        }
+    },
+    {
+        "date": "2017-09-28 17:54:16",
+        "map": "Sidestep (RAGL:S4)",
+        "p0": {
+            "name": "Craig Christ",
+            "url": "/player/6883?period=all"
+        },
+        "p1": {
+            "name": "Chin0",
+            "url": "/player/-26?period=all"
+        }
+    },
+    {
+        "date": "2017-09-28 18:58:19",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "Lorrydriver",
+            "url": "/player/6646?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2017-09-28 19:09:15",
+        "map": "Agenda (RAGL:S4)",
+        "p0": {
+            "name": "Lorrydriver",
+            "url": "/player/6646?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2017-09-29 17:28:42",
+        "map": "Keep Off The Grass 2 (RAGL:S4)",
+        "p0": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        },
+        "p1": {
+            "name": "abcdefg30",
+            "url": "/player/3812?period=all"
+        }
+    },
+    {
+        "date": "2017-09-29 17:36:36",
+        "map": "Agenda (RAGL:S4)",
+        "p0": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        },
+        "p1": {
+            "name": "abcdefg30",
+            "url": "/player/3812?period=all"
+        }
+    },
+    {
+        "date": "2017-09-29 19:18:23",
+        "map": "Dual Cold Front (RAGL:S4)",
+        "p0": {
+            "name": "Clockwork",
+            "url": "/player/6680?period=all"
+        },
+        "p1": {
+            "name": "Kuba",
+            "url": "/player/-9?period=all"
+        }
+    },
+    {
+        "date": "2017-09-29 19:23:39",
+        "map": "Keep Off The Grass 2 (RAGL:S4)",
+        "p0": {
+            "name": "Clockwork",
+            "url": "/player/6680?period=all"
+        },
+        "p1": {
+            "name": "Kuba",
+            "url": "/player/-9?period=all"
+        }
+    },
+    {
+        "date": "2017-09-29 20:18:37",
+        "map": "Dual Cold Front (RAGL:S4)",
+        "p0": {
+            "name": "Lorrydriver",
+            "url": "/player/6646?period=all"
+        },
+        "p1": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        }
+    },
+    {
+        "date": "2017-09-29 20:29:16",
+        "map": "Sidestep (RAGL:S4)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "Lorrydriver",
+            "url": "/player/6646?period=all"
+        }
+    },
+    {
+        "date": "2017-09-30 14:06:07",
+        "map": "Borrowed Time (RAGL:S4)",
+        "p0": {
+            "name": "Smitty",
+            "url": "/player/6586?period=all"
+        },
+        "p1": {
+            "name": "SirCake",
+            "url": "/player/6288?period=all"
+        }
+    },
+    {
+        "date": "2017-09-30 14:15:12",
+        "map": "Shadow Fiend (RAGL:S4)",
+        "p0": {
+            "name": "KOYK_GR",
+            "url": "/player/2580?period=all"
+        },
+        "p1": {
+            "name": "mechANIC",
+            "url": "/player/6757?period=all"
+        }
+    },
+    {
+        "date": "2017-09-30 14:20:41",
+        "map": "Behind the Veil (RAGL:S4)",
+        "p0": {
+            "name": "Smitty",
+            "url": "/player/6586?period=all"
+        },
+        "p1": {
+            "name": "SirCake",
+            "url": "/player/6288?period=all"
+        }
+    },
+    {
+        "date": "2017-09-30 15:34:32",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "mechANIC",
+            "url": "/player/6757?period=all"
+        },
+        "p1": {
+            "name": "KOYK_GR",
+            "url": "/player/2580?period=all"
+        }
+    },
+    {
+        "date": "2017-09-30 17:00:07",
+        "map": "Sidestep (RAGL:S4)",
+        "p0": {
+            "name": "xy",
+            "url": "/player/6336?period=all"
+        },
+        "p1": {
+            "name": "ConcaveCats",
+            "url": "/player/-29?period=all"
+        }
+    },
+    {
+        "date": "2017-09-30 17:12:45",
+        "map": "Ysmir (RAGL:S4)",
+        "p0": {
+            "name": "xy",
+            "url": "/player/6336?period=all"
+        },
+        "p1": {
+            "name": "ConcaveCats",
+            "url": "/player/-29?period=all"
+        }
+    },
+    {
+        "date": "2017-09-30 18:10:35",
+        "map": "Behind the Veil (RAGL:S4)",
+        "p0": {
+            "name": "3.Lucian",
+            "url": "/player/6665?period=all"
+        },
+        "p1": {
+            "name": "flamewh33l",
+            "url": "/player/6470?period=all"
+        }
+    },
+    {
+        "date": "2017-09-30 18:47:39",
+        "map": "Almost Arid (RAGL:S4)",
+        "p0": {
+            "name": "3.Lucian",
+            "url": "/player/6665?period=all"
+        },
+        "p1": {
+            "name": "flamewh33l",
+            "url": "/player/6470?period=all"
+        }
+    },
+    {
+        "date": "2017-09-30 19:07:45",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "Bamsi",
+            "url": "/player/-25?period=all"
+        },
+        "p1": {
+            "name": "ass_pounder_4000",
+            "url": "/player/-28?period=all"
+        }
+    },
+    {
+        "date": "2017-09-30 19:43:29",
+        "map": "Shadow Fiend (RAGL:S4)",
+        "p0": {
+            "name": "Bamsi",
+            "url": "/player/-25?period=all"
+        },
+        "p1": {
+            "name": "ass_pounder_4000",
+            "url": "/player/-28?period=all"
+        }
+    },
+    {
+        "date": "2017-09-30 20:07:25",
+        "map": "A Nuclear Winter (RAGL:S4)",
+        "p0": {
+            "name": "Chewey",
+            "url": "/player/6859?period=all"
+        },
+        "p1": {
+            "name": "potato",
+            "url": "/player/6861?period=all"
+        }
+    },
+    {
+        "date": "2017-09-30 20:07:40",
+        "map": "Agenda (RAGL:S4)",
+        "p0": {
+            "name": "corrode",
+            "url": "/player/6776?period=all"
+        },
+        "p1": {
+            "name": "Snufflegrunt",
+            "url": "/player/-23?period=all"
+        }
+    },
+    {
+        "date": "2017-09-30 20:26:26",
+        "map": "A Nuclear Winter (RAGL:S4)",
+        "p0": {
+            "name": "corrode",
+            "url": "/player/6776?period=all"
+        },
+        "p1": {
+            "name": "Snufflegrunt",
+            "url": "/player/-23?period=all"
+        }
+    },
+    {
+        "date": "2017-09-30 20:27:00",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "eskimo",
+            "url": "/player/6695?period=all"
+        },
+        "p1": {
+            "name": "_Bo",
+            "url": "/player/8152?period=all"
+        }
+    },
+    {
+        "date": "2017-09-30 20:29:48",
+        "map": "Sidestep (RAGL:S4)",
+        "p0": {
+            "name": "Chewey",
+            "url": "/player/6859?period=all"
+        },
+        "p1": {
+            "name": "potato",
+            "url": "/player/6861?period=all"
+        }
+    },
+    {
+        "date": "2017-09-30 20:54:18",
+        "map": "Sidestep (RAGL:S4)",
+        "p0": {
+            "name": "eskimo",
+            "url": "/player/6695?period=all"
+        },
+        "p1": {
+            "name": "_Bo",
+            "url": "/player/8152?period=all"
+        }
+    },
+    {
+        "date": "2017-09-30 23:12:51",
+        "map": "Shadow Fiend (RAGL:S4)",
+        "p0": {
+            "name": "Kallen",
+            "url": "/player/-33?period=all"
+        },
+        "p1": {
+            "name": "Beef",
+            "url": "/player/3534?period=all"
+        }
+    },
+    {
+        "date": "2017-09-30 23:31:03",
+        "map": "A Nuclear Winter (RAGL:S4)",
+        "p0": {
+            "name": "Kallen",
+            "url": "/player/-33?period=all"
+        },
+        "p1": {
+            "name": "Beef",
+            "url": "/player/3534?period=all"
+        }
+    },
+    {
+        "date": "2017-10-01 21:14:04",
+        "map": "Sidestep (RAGL:S4)",
+        "p0": {
+            "name": "OMnom",
+            "url": "/player/6608?period=all"
+        },
+        "p1": {
+            "name": "t",
+            "url": "/player/-2?period=all"
+        }
+    },
+    {
+        "date": "2017-10-01 21:14:04",
+        "map": "Sidestep (RAGL:S4)",
+        "p0": {
+            "name": "OMnom",
+            "url": "/player/6608?period=all"
+        },
+        "p1": {
+            "name": "t",
+            "url": "/player/-2?period=all"
+        }
+    },
+    {
+        "date": "2017-10-01 21:24:38",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "OMnom",
+            "url": "/player/6608?period=all"
+        },
+        "p1": {
+            "name": "t",
+            "url": "/player/-2?period=all"
+        }
+    },
+    {
+        "date": "2017-10-01 21:24:38",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "OMnom",
+            "url": "/player/6608?period=all"
+        },
+        "p1": {
+            "name": "t",
+            "url": "/player/-2?period=all"
+        }
+    },
+    {
+        "date": "2017-10-03 20:19:21",
+        "map": "Keep Off The Grass 2 (RAGL:S4)",
+        "p0": {
+            "name": "jvk",
+            "url": "/player/6812?period=all"
+        },
+        "p1": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        }
+    },
+    {
+        "date": "2017-10-03 20:30:43",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "jvk",
+            "url": "/player/6812?period=all"
+        },
+        "p1": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        }
+    },
+    {
+        "date": "2017-10-04 17:37:31",
+        "map": "A Nuclear Winter (RAGL:S4)",
+        "p0": {
+            "name": "netnazgul",
+            "url": "/player/6856?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2017-10-04 17:53:32",
+        "map": "Sidestep (RAGL:S4)",
+        "p0": {
+            "name": "netnazgul",
+            "url": "/player/6856?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2017-10-04 19:21:12",
+        "map": "Ysmir (RAGL:S4)",
+        "p0": {
+            "name": "xy",
+            "url": "/player/6336?period=all"
+        },
+        "p1": {
+            "name": "_Bo",
+            "url": "/player/8152?period=all"
+        }
+    },
+    {
+        "date": "2017-10-04 19:36:12",
+        "map": "Ysmir (RAGL:S4)",
+        "p0": {
+            "name": "xy",
+            "url": "/player/6336?period=all"
+        },
+        "p1": {
+            "name": "_Bo",
+            "url": "/player/8152?period=all"
+        }
+    },
+    {
+        "date": "2017-10-05 15:26:04",
+        "map": "Shadow Fiend (RAGL:S4)",
+        "p0": {
+            "name": "KOYK_GR",
+            "url": "/player/2580?period=all"
+        },
+        "p1": {
+            "name": "Craig Christ",
+            "url": "/player/6883?period=all"
+        }
+    },
+    {
+        "date": "2017-10-05 15:41:40",
+        "map": "Dual Cold Front (RAGL:S4)",
+        "p0": {
+            "name": "KOYK_GR",
+            "url": "/player/2580?period=all"
+        },
+        "p1": {
+            "name": "Craig Christ",
+            "url": "/player/6883?period=all"
+        }
+    },
+    {
+        "date": "2017-10-05 17:54:43",
+        "map": "Agenda (RAGL:S4)",
+        "p0": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        },
+        "p1": {
+            "name": "ass_pounder_4000",
+            "url": "/player/-28?period=all"
+        }
+    },
+    {
+        "date": "2017-10-05 18:04:23",
+        "map": "Borrowed Time (RAGL:S4)",
+        "p0": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        },
+        "p1": {
+            "name": "ass_pounder_4000",
+            "url": "/player/-28?period=all"
+        }
+    },
+    {
+        "date": "2017-10-05 18:57:13",
+        "map": "A Nuclear Winter (RAGL:S4)",
+        "p0": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        },
+        "p1": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        }
+    },
+    {
+        "date": "2017-10-05 19:17:33",
+        "map": "Siberian Summer (RAGL:S4)",
+        "p0": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        },
+        "p1": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        }
+    },
+    {
+        "date": "2017-10-07 10:21:27",
+        "map": "Behind the Veil (RAGL:S4)",
+        "p0": {
+            "name": "mechANIC",
+            "url": "/player/6757?period=all"
+        },
+        "p1": {
+            "name": "3.Lucian",
+            "url": "/player/6665?period=all"
+        }
+    },
+    {
+        "date": "2017-10-07 11:36:37",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "mechANIC",
+            "url": "/player/6757?period=all"
+        },
+        "p1": {
+            "name": "3.Lucian",
+            "url": "/player/6665?period=all"
+        }
+    },
+    {
+        "date": "2017-10-07 12:39:21",
+        "map": "Keep Off The Grass 2 (RAGL:S4)",
+        "p0": {
+            "name": "OMnom",
+            "url": "/player/6608?period=all"
+        },
+        "p1": {
+            "name": "lucassss",
+            "url": "/player/6211?period=all"
+        }
+    },
+    {
+        "date": "2017-10-07 12:50:34",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "OMnom",
+            "url": "/player/6608?period=all"
+        },
+        "p1": {
+            "name": "lucassss",
+            "url": "/player/6211?period=all"
+        }
+    },
+    {
+        "date": "2017-10-07 15:03:00",
+        "map": "Agenda (RAGL:S4)",
+        "p0": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        },
+        "p1": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        }
+    },
+    {
+        "date": "2017-10-07 15:20:21",
+        "map": "Siberian Summer (RAGL:S4)",
+        "p0": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        },
+        "p1": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        }
+    },
+    {
+        "date": "2017-10-07 16:46:34",
+        "map": "Siberian Summer (RAGL:S4)",
+        "p0": {
+            "name": "Gatekeeper",
+            "url": "/player/6026?period=all"
+        },
+        "p1": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        }
+    },
+    {
+        "date": "2017-10-07 17:09:03",
+        "map": "Ysmir (RAGL:S4)",
+        "p0": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        },
+        "p1": {
+            "name": "Gatekeeper",
+            "url": "/player/6026?period=all"
+        }
+    },
+    {
+        "date": "2017-10-07 17:27:49",
+        "map": "Behind the Veil (RAGL:S4)",
+        "p0": {
+            "name": "bullE",
+            "url": "/player/6896?period=all"
+        },
+        "p1": {
+            "name": "flamewh33l",
+            "url": "/player/6470?period=all"
+        }
+    },
+    {
+        "date": "2017-10-07 17:40:23",
+        "map": "A Nuclear Winter (RAGL:S4)",
+        "p0": {
+            "name": "NethIafin",
+            "url": "/player/6852?period=all"
+        },
+        "p1": {
+            "name": "Beef",
+            "url": "/player/3534?period=all"
+        }
+    },
+    {
+        "date": "2017-10-07 17:49:19",
+        "map": "Borrowed Time (RAGL:S4)",
+        "p0": {
+            "name": "bullE",
+            "url": "/player/6896?period=all"
+        },
+        "p1": {
+            "name": "flamewh33l",
+            "url": "/player/6470?period=all"
+        }
+    },
+    {
+        "date": "2017-10-07 18:04:14",
+        "map": "Shadow Fiend (RAGL:S4)",
+        "p0": {
+            "name": "NethIafin",
+            "url": "/player/6852?period=all"
+        },
+        "p1": {
+            "name": "Beef",
+            "url": "/player/3534?period=all"
+        }
+    },
+    {
+        "date": "2017-10-07 18:05:24",
+        "map": "Sidestep (RAGL:S4)",
+        "p0": {
+            "name": "Sotsch",
+            "url": "/player/6832?period=all"
+        },
+        "p1": {
+            "name": "Lord of War",
+            "url": "/player/-24?period=all"
+        }
+    },
+    {
+        "date": "2017-10-07 18:29:45",
+        "map": "Ysmir (RAGL:S4)",
+        "p0": {
+            "name": "Lord of War",
+            "url": "/player/-24?period=all"
+        },
+        "p1": {
+            "name": "Sotsch",
+            "url": "/player/6832?period=all"
+        }
+    },
+    {
+        "date": "2017-10-07 18:45:28",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "SoScared",
+            "url": "/player/2793?period=all"
+        },
+        "p1": {
+            "name": "Kuba",
+            "url": "/player/-9?period=all"
+        }
+    },
+    {
+        "date": "2017-10-07 19:06:38",
+        "map": "Keep Off The Grass 2 (RAGL:S4)",
+        "p0": {
+            "name": "SoScared",
+            "url": "/player/2793?period=all"
+        },
+        "p1": {
+            "name": "Kuba",
+            "url": "/player/-9?period=all"
+        }
+    },
+    {
+        "date": "2017-10-07 20:04:59",
+        "map": "Siberian Summer (RAGL:S4)",
+        "p0": {
+            "name": "Smitty",
+            "url": "/player/6586?period=all"
+        },
+        "p1": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        }
+    },
+    {
+        "date": "2017-10-07 20:19:29",
+        "map": "Borrowed Time (RAGL:S4)",
+        "p0": {
+            "name": "Smitty",
+            "url": "/player/6586?period=all"
+        },
+        "p1": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        }
+    },
+    {
+        "date": "2017-10-07 20:41:06",
+        "map": "Sidestep",
+        "p0": {
+            "name": "eskimo",
+            "url": "/player/6695?period=all"
+        },
+        "p1": {
+            "name": "Anykeyich",
+            "url": "/player/6822?period=all"
+        }
+    },
+    {
+        "date": "2017-10-07 20:52:06",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "Doomsday",
+            "url": "/player/6621?period=all"
+        },
+        "p1": {
+            "name": "lucassss",
+            "url": "/player/6211?period=all"
+        }
+    },
+    {
+        "date": "2017-10-07 21:00:56",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "eskimo",
+            "url": "/player/6695?period=all"
+        },
+        "p1": {
+            "name": "Anykeyich",
+            "url": "/player/6822?period=all"
+        }
+    },
+    {
+        "date": "2017-10-07 21:01:42",
+        "map": "Keep Off The Grass 2 (RAGL:S4)",
+        "p0": {
+            "name": "Doomsday",
+            "url": "/player/6621?period=all"
+        },
+        "p1": {
+            "name": "lucassss",
+            "url": "/player/6211?period=all"
+        }
+    },
+    {
+        "date": "2017-10-08 06:58:57",
+        "map": "A Nuclear Winter (RAGL:S4)",
+        "p0": {
+            "name": "Abarrat",
+            "url": "/player/7472?period=all"
+        },
+        "p1": {
+            "name": "Lord of War",
+            "url": "/player/-24?period=all"
+        }
+    },
+    {
+        "date": "2017-10-08 07:15:35",
+        "map": "Borrowed Time (RAGL:S4)",
+        "p0": {
+            "name": "Abarrat",
+            "url": "/player/7472?period=all"
+        },
+        "p1": {
+            "name": "Lord of War",
+            "url": "/player/-24?period=all"
+        }
+    },
+    {
+        "date": "2017-10-08 15:10:56",
+        "map": "A Nuclear Winter (RAGL:S4)",
+        "p0": {
+            "name": "NethIafin",
+            "url": "/player/6852?period=all"
+        },
+        "p1": {
+            "name": "Petit Dejeuner",
+            "url": "/player/-31?period=all"
+        }
+    },
+    {
+        "date": "2017-10-08 15:12:19",
+        "map": "Ysmir (RAGL:S4)",
+        "p0": {
+            "name": "kazu.",
+            "url": "/player/6528?period=all"
+        },
+        "p1": {
+            "name": "dragunoff",
+            "url": "/player/7229?period=all"
+        }
+    },
+    {
+        "date": "2017-10-08 15:12:21",
+        "map": "Ysmir (RAGL:S4)",
+        "p0": {
+            "name": "kazu.",
+            "url": "/player/6528?period=all"
+        },
+        "p1": {
+            "name": "dragunoff",
+            "url": "/player/7229?period=all"
+        }
+    },
+    {
+        "date": "2017-10-08 15:24:34",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "kazu.",
+            "url": "/player/6528?period=all"
+        },
+        "p1": {
+            "name": "dragunoff",
+            "url": "/player/7229?period=all"
+        }
+    },
+    {
+        "date": "2017-10-08 15:24:36",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "kazu.",
+            "url": "/player/6528?period=all"
+        },
+        "p1": {
+            "name": "dragunoff",
+            "url": "/player/7229?period=all"
+        }
+    },
+    {
+        "date": "2017-10-08 15:28:46",
+        "map": "Agenda (RAGL:S4)",
+        "p0": {
+            "name": "NethIafin",
+            "url": "/player/6852?period=all"
+        },
+        "p1": {
+            "name": "Petit Dejeuner",
+            "url": "/player/-31?period=all"
+        }
+    },
+    {
+        "date": "2017-10-08 17:34:47",
+        "map": "Borrowed Time (RAGL:S4)",
+        "p0": {
+            "name": "kazu.",
+            "url": "/player/6528?period=all"
+        },
+        "p1": {
+            "name": "Zaqzorn",
+            "url": "/player/6265?period=all"
+        }
+    },
+    {
+        "date": "2017-10-08 17:47:59",
+        "map": "Ysmir (RAGL:S4)",
+        "p0": {
+            "name": "kazu.",
+            "url": "/player/6528?period=all"
+        },
+        "p1": {
+            "name": "Zaqzorn",
+            "url": "/player/6265?period=all"
+        }
+    },
+    {
+        "date": "2017-10-08 18:13:22",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "kazu.",
+            "url": "/player/6528?period=all"
+        },
+        "p1": {
+            "name": "Chewey",
+            "url": "/player/6859?period=all"
+        }
+    },
+    {
+        "date": "2017-10-08 18:22:33",
+        "map": "Shadow Fiend (RAGL:S4)",
+        "p0": {
+            "name": "Mentats",
+            "url": "/player/-19?period=all"
+        },
+        "p1": {
+            "name": "Raishiwi",
+            "url": "/player/6625?period=all"
+        }
+    },
+    {
+        "date": "2017-10-08 18:39:17",
+        "map": "A Nuclear Winter (RAGL:S4)",
+        "p0": {
+            "name": "kazu.",
+            "url": "/player/6528?period=all"
+        },
+        "p1": {
+            "name": "Chewey",
+            "url": "/player/6859?period=all"
+        }
+    },
+    {
+        "date": "2017-10-08 18:41:55",
+        "map": "Borrowed Time (RAGL:S4)",
+        "p0": {
+            "name": "Bamsi",
+            "url": "/player/-25?period=all"
+        },
+        "p1": {
+            "name": "Snufflegrunt",
+            "url": "/player/-23?period=all"
+        }
+    },
+    {
+        "date": "2017-10-08 19:02:28",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "Raishiwi",
+            "url": "/player/6625?period=all"
+        },
+        "p1": {
+            "name": "Mentats",
+            "url": "/player/-19?period=all"
+        }
+    },
+    {
+        "date": "2017-10-08 19:14:21",
+        "map": "Shadow Fiend (RAGL:S4)",
+        "p0": {
+            "name": "Bamsi",
+            "url": "/player/-25?period=all"
+        },
+        "p1": {
+            "name": "Snufflegrunt",
+            "url": "/player/-23?period=all"
+        }
+    },
+    {
+        "date": "2017-10-08 19:33:37",
+        "map": "A Nuclear Winter (RAGL:S4)",
+        "p0": {
+            "name": "Chewey",
+            "url": "/player/6859?period=all"
+        },
+        "p1": {
+            "name": "Zaqzorn",
+            "url": "/player/6265?period=all"
+        }
+    },
+    {
+        "date": "2017-10-08 19:37:52",
+        "map": "Behind the Veil (RAGL:S4)",
+        "p0": {
+            "name": "Mentats",
+            "url": "/player/-19?period=all"
+        },
+        "p1": {
+            "name": "Medium Tank",
+            "url": "/player/6410?period=all"
+        }
+    },
+    {
+        "date": "2017-10-08 19:41:58",
+        "map": "A Nuclear Winter (RAGL:S4)",
+        "p0": {
+            "name": "Abarrat",
+            "url": "/player/7472?period=all"
+        },
+        "p1": {
+            "name": "ass_pounder_4000",
+            "url": "/player/-28?period=all"
+        }
+    },
+    {
+        "date": "2017-10-08 19:57:27",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "Abarrat",
+            "url": "/player/7472?period=all"
+        },
+        "p1": {
+            "name": "ass_pounder_4000",
+            "url": "/player/-28?period=all"
+        }
+    },
+    {
+        "date": "2017-10-08 19:57:28",
+        "map": "A Nuclear Winter (RAGL:S4)",
+        "p0": {
+            "name": "Zaqzorn",
+            "url": "/player/6265?period=all"
+        },
+        "p1": {
+            "name": "dragunoff",
+            "url": "/player/7229?period=all"
+        }
+    },
+    {
+        "date": "2017-10-08 20:08:04",
+        "map": "Borrowed Time (RAGL:S4)",
+        "p0": {
+            "name": "Wippie",
+            "url": "/player/6446?period=all"
+        },
+        "p1": {
+            "name": "Follicle",
+            "url": "/player/-30?period=all"
+        }
+    },
+    {
+        "date": "2017-10-08 20:20:08",
+        "map": "Ysmir (RAGL:S4)",
+        "p0": {
+            "name": "Zaqzorn",
+            "url": "/player/6265?period=all"
+        },
+        "p1": {
+            "name": "dragunoff",
+            "url": "/player/7229?period=all"
+        }
+    },
+    {
+        "date": "2017-10-08 20:25:21",
+        "map": "Sidestep (RAGL:S4)",
+        "p0": {
+            "name": "Medium Tank",
+            "url": "/player/6410?period=all"
+        },
+        "p1": {
+            "name": "Mentats",
+            "url": "/player/-19?period=all"
+        }
+    },
+    {
+        "date": "2017-10-08 20:27:21",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "Wippie",
+            "url": "/player/6446?period=all"
+        },
+        "p1": {
+            "name": "Follicle",
+            "url": "/player/-30?period=all"
+        }
+    },
+    {
+        "date": "2017-10-08 20:52:07",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "Medium Tank",
+            "url": "/player/6410?period=all"
+        },
+        "p1": {
+            "name": "Raishiwi",
+            "url": "/player/6625?period=all"
+        }
+    },
+    {
+        "date": "2017-10-08 21:03:58",
+        "map": "Behind the Veil (RAGL:S4)",
+        "p0": {
+            "name": "Mentats",
+            "url": "/player/-19?period=all"
+        },
+        "p1": {
+            "name": "lucassss",
+            "url": "/player/6211?period=all"
+        }
+    },
+    {
+        "date": "2017-10-08 21:17:48",
+        "map": "Agenda (RAGL:S4)",
+        "p0": {
+            "name": "Medium Tank",
+            "url": "/player/6410?period=all"
+        },
+        "p1": {
+            "name": "Raishiwi",
+            "url": "/player/6625?period=all"
+        }
+    },
+    {
+        "date": "2017-10-08 21:21:46",
+        "map": "Keep Off The Grass 2 (RAGL:S4)",
+        "p0": {
+            "name": "Mentats",
+            "url": "/player/-19?period=all"
+        },
+        "p1": {
+            "name": "lucassss",
+            "url": "/player/6211?period=all"
+        }
+    },
+    {
+        "date": "2017-10-09 18:02:18",
+        "map": "Sidestep (RAGL:S4)",
+        "p0": {
+            "name": "WaRRyKeR",
+            "url": "/player/6938?period=all"
+        },
+        "p1": {
+            "name": "ConcaveCats",
+            "url": "/player/-29?period=all"
+        }
+    },
+    {
+        "date": "2017-10-09 18:17:29",
+        "map": "Agenda (RAGL:S4)",
+        "p0": {
+            "name": "WaRRyKeR",
+            "url": "/player/6938?period=all"
+        },
+        "p1": {
+            "name": "ConcaveCats",
+            "url": "/player/-29?period=all"
+        }
+    },
+    {
+        "date": "2017-10-09 18:49:01",
+        "map": "Agenda (RAGL:S4)",
+        "p0": {
+            "name": "WaRRyKeR",
+            "url": "/player/6938?period=all"
+        },
+        "p1": {
+            "name": "Follicle",
+            "url": "/player/-30?period=all"
+        }
+    },
+    {
+        "date": "2017-10-09 19:09:23",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "WaRRyKeR",
+            "url": "/player/6938?period=all"
+        },
+        "p1": {
+            "name": "Follicle",
+            "url": "/player/-30?period=all"
+        }
+    },
+    {
+        "date": "2017-10-10 18:19:57",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "OMnom",
+            "url": "/player/6608?period=all"
+        },
+        "p1": {
+            "name": "Kuba",
+            "url": "/player/-9?period=all"
+        }
+    },
+    {
+        "date": "2017-10-10 18:30:44",
+        "map": "Keep Off The Grass 2 (RAGL:S4)",
+        "p0": {
+            "name": "OMnom",
+            "url": "/player/6608?period=all"
+        },
+        "p1": {
+            "name": "Kuba",
+            "url": "/player/-9?period=all"
+        }
+    },
+    {
+        "date": "2017-10-11 07:16:43",
+        "map": "Sidestep (RAGL:S4)",
+        "p0": {
+            "name": "Chewey",
+            "url": "/player/6859?period=all"
+        },
+        "p1": {
+            "name": "dragunoff",
+            "url": "/player/7229?period=all"
+        }
+    },
+    {
+        "date": "2017-10-11 07:25:55",
+        "map": "Borrowed Time (RAGL:S4)",
+        "p0": {
+            "name": "Chewey",
+            "url": "/player/6859?period=all"
+        },
+        "p1": {
+            "name": "dragunoff",
+            "url": "/player/7229?period=all"
+        }
+    },
+    {
+        "date": "2017-10-11 20:03:28",
+        "map": "A Nuclear Winter (RAGL:S4)",
+        "p0": {
+            "name": "kazu.",
+            "url": "/player/6528?period=all"
+        },
+        "p1": {
+            "name": "SeaCucumber",
+            "url": "/player/-22?period=all"
+        }
+    },
+    {
+        "date": "2017-10-11 20:22:37",
+        "map": "Ysmir (RAGL:S4)",
+        "p0": {
+            "name": "kazu.",
+            "url": "/player/6528?period=all"
+        },
+        "p1": {
+            "name": "SeaCucumber",
+            "url": "/player/-22?period=all"
+        }
+    },
+    {
+        "date": "2017-10-12 18:33:38",
+        "map": "Winter Storm 2 (RAGL:S4)",
+        "p0": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        },
+        "p1": {
+            "name": "Snufflegrunt",
+            "url": "/player/-23?period=all"
+        }
+    },
+    {
+        "date": "2017-10-12 18:49:11",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        },
+        "p1": {
+            "name": "Snufflegrunt",
+            "url": "/player/-23?period=all"
+        }
+    },
+    {
+        "date": "2017-10-12 19:02:53",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "jvk",
+            "url": "/player/6812?period=all"
+        },
+        "p1": {
+            "name": "ass_pounder_4000",
+            "url": "/player/-28?period=all"
+        }
+    },
+    {
+        "date": "2017-10-12 19:15:38",
+        "map": "A Nuclear Winter (RAGL:S4)",
+        "p0": {
+            "name": "jvk",
+            "url": "/player/6812?period=all"
+        },
+        "p1": {
+            "name": "ass_pounder_4000",
+            "url": "/player/-28?period=all"
+        }
+    },
+    {
+        "date": "2017-10-13 18:24:56",
+        "map": "Dual Cold Front (RAGL:S4)",
+        "p0": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        },
+        "p1": {
+            "name": "ConcaveCats",
+            "url": "/player/-29?period=all"
+        }
+    },
+    {
+        "date": "2017-10-13 18:39:35",
+        "map": "Keep Off The Grass 2 (RAGL:S4)",
+        "p0": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        },
+        "p1": {
+            "name": "ConcaveCats",
+            "url": "/player/-29?period=all"
+        }
+    },
+    {
+        "date": "2017-10-14 10:13:14",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "bullE",
+            "url": "/player/6896?period=all"
+        },
+        "p1": {
+            "name": "mechANIC",
+            "url": "/player/6757?period=all"
+        }
+    },
+    {
+        "date": "2017-10-14 10:28:43",
+        "map": "A Nuclear Winter (RAGL:S4)",
+        "p0": {
+            "name": "mechANIC",
+            "url": "/player/6757?period=all"
+        },
+        "p1": {
+            "name": "bullE",
+            "url": "/player/6896?period=all"
+        }
+    },
+    {
+        "date": "2017-10-14 14:01:20",
+        "map": "Agenda (RAGL:S4)",
+        "p0": {
+            "name": "lucassss",
+            "url": "/player/6211?period=all"
+        },
+        "p1": {
+            "name": "t",
+            "url": "/player/-2?period=all"
+        }
+    },
+    {
+        "date": "2017-10-14 14:20:56",
+        "map": "Shadow Fiend (RAGL:S4)",
+        "p0": {
+            "name": "lucassss",
+            "url": "/player/6211?period=all"
+        },
+        "p1": {
+            "name": "t",
+            "url": "/player/-2?period=all"
+        }
+    },
+    {
+        "date": "2017-10-14 16:26:12",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "WaRRyKeR",
+            "url": "/player/6938?period=all"
+        },
+        "p1": {
+            "name": "Anykeyich",
+            "url": "/player/6822?period=all"
+        }
+    },
+    {
+        "date": "2017-10-14 16:48:00",
+        "map": "Sidestep (RAGL:S4)",
+        "p0": {
+            "name": "WaRRyKeR",
+            "url": "/player/6938?period=all"
+        },
+        "p1": {
+            "name": "Anykeyich",
+            "url": "/player/6822?period=all"
+        }
+    },
+    {
+        "date": "2017-10-14 19:20:08",
+        "map": "Agenda (RAGL:S4)",
+        "p0": {
+            "name": "Chin0",
+            "url": "/player/-26?period=all"
+        },
+        "p1": {
+            "name": "NethIafin",
+            "url": "/player/6852?period=all"
+        }
+    },
+    {
+        "date": "2017-10-14 19:38:16",
+        "map": "Dual Cold Front (RAGL:S4)",
+        "p0": {
+            "name": "NethIafin",
+            "url": "/player/6852?period=all"
+        },
+        "p1": {
+            "name": "Chin0",
+            "url": "/player/-26?period=all"
+        }
+    },
+    {
+        "date": "2017-10-14 21:16:44",
+        "map": "Sidestep (RAGL:S4)",
+        "p0": {
+            "name": "WaRRyKeR",
+            "url": "/player/6938?period=all"
+        },
+        "p1": {
+            "name": "eskimo",
+            "url": "/player/6695?period=all"
+        }
+    },
+    {
+        "date": "2017-10-14 22:01:14",
+        "map": "Agenda (RAGL:S4)",
+        "p0": {
+            "name": "WaRRyKeR",
+            "url": "/player/6938?period=all"
+        },
+        "p1": {
+            "name": "eskimo",
+            "url": "/player/6695?period=all"
+        }
+    },
+    {
+        "date": "2017-10-15 06:33:39",
+        "map": "Ysmir (RAGL:S4)",
+        "p0": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        },
+        "p1": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        }
+    },
+    {
+        "date": "2017-10-15 06:48:52",
+        "map": "A Nuclear Winter (RAGL:S4)",
+        "p0": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        },
+        "p1": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        }
+    },
+    {
+        "date": "2017-10-15 08:59:07",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "xy",
+            "url": "/player/6336?period=all"
+        },
+        "p1": {
+            "name": "Anykeyich",
+            "url": "/player/6822?period=all"
+        }
+    },
+    {
+        "date": "2017-10-15 09:12:42",
+        "map": "A Nuclear Winter (RAGL:S4)",
+        "p0": {
+            "name": "Han",
+            "url": "/player/6316?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2017-10-15 09:26:04",
+        "map": "Sidestep (RAGL:S4)",
+        "p0": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        },
+        "p1": {
+            "name": "Han",
+            "url": "/player/6316?period=all"
+        }
+    },
+    {
+        "date": "2017-10-15 09:39:13",
+        "map": "Ysmir (RAGL:S4)",
+        "p0": {
+            "name": "Anykeyich",
+            "url": "/player/6822?period=all"
+        },
+        "p1": {
+            "name": "xy",
+            "url": "/player/6336?period=all"
+        }
+    },
+    {
+        "date": "2017-10-15 13:45:21",
+        "map": "Borrowed Time (RAGL:S4)",
+        "p0": {
+            "name": "Lord of War",
+            "url": "/player/-24?period=all"
+        },
+        "p1": {
+            "name": "corrode",
+            "url": "/player/6776?period=all"
+        }
+    },
+    {
+        "date": "2017-10-15 14:01:29",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "Lord of War",
+            "url": "/player/-24?period=all"
+        },
+        "p1": {
+            "name": "corrode",
+            "url": "/player/6776?period=all"
+        }
+    },
+    {
+        "date": "2017-10-15 15:16:26",
+        "map": "A Nuclear Winter (RAGL:S4)",
+        "p0": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        },
+        "p1": {
+            "name": "SirCake",
+            "url": "/player/6288?period=all"
+        }
+    },
+    {
+        "date": "2017-10-15 15:28:34",
+        "map": "Behind the Veil (RAGL:S4)",
+        "p0": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        },
+        "p1": {
+            "name": "SirCake",
+            "url": "/player/6288?period=all"
+        }
+    },
+    {
+        "date": "2017-10-18 17:56:08",
+        "map": "Agenda (RAGL:S4)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "Han",
+            "url": "/player/6316?period=all"
+        }
+    },
+    {
+        "date": "2017-10-18 18:16:08",
+        "map": "Behind the Veil (RAGL:S4)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "Han",
+            "url": "/player/6316?period=all"
+        }
+    },
+    {
+        "date": "2017-10-19 00:51:02",
+        "map": "Sidestep (RAGL:S4)",
+        "p0": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        },
+        "p1": {
+            "name": "Smitty",
+            "url": "/player/6586?period=all"
+        }
+    },
+    {
+        "date": "2017-10-19 01:19:01",
+        "map": "Siberian Summer (RAGL:S4)",
+        "p0": {
+            "name": "Smitty",
+            "url": "/player/6586?period=all"
+        },
+        "p1": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        }
+    },
+    {
+        "date": "2017-10-19 17:29:59",
+        "map": "Keep Off The Grass 2 (RAGL:S4)",
+        "p0": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        },
+        "p1": {
+            "name": "Follicle",
+            "url": "/player/-30?period=all"
+        }
+    },
+    {
+        "date": "2017-10-19 17:46:56",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        },
+        "p1": {
+            "name": "Follicle",
+            "url": "/player/-30?period=all"
+        }
+    },
+    {
+        "date": "2017-10-20 11:20:24",
+        "map": "Ysmir (RAGL:S4)",
+        "p0": {
+            "name": "3.Lucian",
+            "url": "/player/6665?period=all"
+        },
+        "p1": {
+            "name": "KOYK_GR",
+            "url": "/player/2580?period=all"
+        }
+    },
+    {
+        "date": "2017-10-20 12:01:44",
+        "map": "Shadow Fiend (RAGL:S4)",
+        "p0": {
+            "name": "KOYK_GR",
+            "url": "/player/2580?period=all"
+        },
+        "p1": {
+            "name": "3.Lucian",
+            "url": "/player/6665?period=all"
+        }
+    },
+    {
+        "date": "2017-10-21 18:11:57",
+        "map": "Agenda (RAGL:S4)",
+        "p0": {
+            "name": "t",
+            "url": "/player/-2?period=all"
+        },
+        "p1": {
+            "name": "Mentats",
+            "url": "/player/-19?period=all"
+        }
+    },
+    {
+        "date": "2017-10-21 18:32:51",
+        "map": "Behind the Veil (RAGL:S4)",
+        "p0": {
+            "name": "Mentats",
+            "url": "/player/-19?period=all"
+        },
+        "p1": {
+            "name": "t",
+            "url": "/player/-2?period=all"
+        }
+    },
+    {
+        "date": "2017-10-22 18:08:38",
+        "map": "Keep Off The Grass 2 (RAGL:S4)",
+        "p0": {
+            "name": "Sotsch",
+            "url": "/player/6832?period=all"
+        },
+        "p1": {
+            "name": "corrode",
+            "url": "/player/6776?period=all"
+        }
+    },
+    {
+        "date": "2017-10-22 18:12:14",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "SirCake",
+            "url": "/player/6288?period=all"
+        }
+    },
+    {
+        "date": "2017-10-22 18:18:32",
+        "map": "Shadow Fiend (RAGL:S4)",
+        "p0": {
+            "name": "Sotsch",
+            "url": "/player/6832?period=all"
+        },
+        "p1": {
+            "name": "corrode",
+            "url": "/player/6776?period=all"
+        }
+    },
+    {
+        "date": "2017-10-22 18:23:31",
+        "map": "Ysmir (RAGL:S4)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "SirCake",
+            "url": "/player/6288?period=all"
+        }
+    },
+    {
+        "date": "2017-10-26 19:05:40",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "Doomsday",
+            "url": "/player/6621?period=all"
+        },
+        "p1": {
+            "name": "Kuba",
+            "url": "/player/-9?period=all"
+        }
+    },
+    {
+        "date": "2017-10-26 19:21:18",
+        "map": "Keep Off The Grass 2 (RAGL:S4)",
+        "p0": {
+            "name": "Doomsday",
+            "url": "/player/6621?period=all"
+        },
+        "p1": {
+            "name": "Kuba",
+            "url": "/player/-9?period=all"
+        }
+    },
+    {
+        "date": "2017-10-26 20:03:53",
+        "map": "Shadow Fiend (RAGL:S4)",
+        "p0": {
+            "name": "SeaCucumber",
+            "url": "/player/-22?period=all"
+        },
+        "p1": {
+            "name": "dragunoff",
+            "url": "/player/7229?period=all"
+        }
+    },
+    {
+        "date": "2017-10-26 20:46:40",
+        "map": "Borrowed Time (RAGL:S4)",
+        "p0": {
+            "name": "SeaCucumber",
+            "url": "/player/-22?period=all"
+        },
+        "p1": {
+            "name": "dragunoff",
+            "url": "/player/7229?period=all"
+        }
+    },
+    {
+        "date": "2017-10-26 23:12:15",
+        "map": "Sidestep (RAGL:S4)",
+        "p0": {
+            "name": "Doomsday",
+            "url": "/player/6621?period=all"
+        },
+        "p1": {
+            "name": "t",
+            "url": "/player/-2?period=all"
+        }
+    },
+    {
+        "date": "2017-10-26 23:22:23",
+        "map": "Agenda (RAGL:S4)",
+        "p0": {
+            "name": "t",
+            "url": "/player/-2?period=all"
+        },
+        "p1": {
+            "name": "Doomsday",
+            "url": "/player/6621?period=all"
+        }
+    },
+    {
+        "date": "2017-10-28 19:04:40",
+        "map": "Shadow Fiend (RAGL:S4)",
+        "p0": {
+            "name": "Smitty",
+            "url": "/player/6586?period=all"
+        },
+        "p1": {
+            "name": "abcdefg30",
+            "url": "/player/3812?period=all"
+        }
+    },
+    {
+        "date": "2017-10-28 19:21:33",
+        "map": "Behind the Veil (RAGL:S4)",
+        "p0": {
+            "name": "Smitty",
+            "url": "/player/6586?period=all"
+        },
+        "p1": {
+            "name": "abcdefg30",
+            "url": "/player/3812?period=all"
+        }
+    },
+    {
+        "date": "2017-10-28 19:40:34",
+        "map": "Sidestep (RAGL:S4)",
+        "p0": {
+            "name": "Abarrat",
+            "url": "/player/7472?period=all"
+        },
+        "p1": {
+            "name": "corrode",
+            "url": "/player/6776?period=all"
+        }
+    },
+    {
+        "date": "2017-10-28 19:54:51",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "Abarrat",
+            "url": "/player/7472?period=all"
+        },
+        "p1": {
+            "name": "corrode",
+            "url": "/player/6776?period=all"
+        }
+    },
+    {
+        "date": "2017-10-28 20:34:42",
+        "map": "Ysmir (RAGL:S4)",
+        "p0": {
+            "name": "Craig Christ",
+            "url": "/player/6883?period=all"
+        },
+        "p1": {
+            "name": "3.Lucian",
+            "url": "/player/6665?period=all"
+        }
+    },
+    {
+        "date": "2017-10-28 20:55:16",
+        "map": "Behind the Veil (RAGL:S4)",
+        "p0": {
+            "name": "Craig Christ",
+            "url": "/player/6883?period=all"
+        },
+        "p1": {
+            "name": "3.Lucian",
+            "url": "/player/6665?period=all"
+        }
+    },
+    {
+        "date": "2017-10-28 21:04:16",
+        "map": "Sidestep (RAGL:S4)",
+        "p0": {
+            "name": "mechANIC",
+            "url": "/player/6757?period=all"
+        },
+        "p1": {
+            "name": "Petit Dejeuner",
+            "url": "/player/-31?period=all"
+        }
+    },
+    {
+        "date": "2017-10-28 21:15:02",
+        "map": "Keep Off The Grass 2 (RAGL:S4)",
+        "p0": {
+            "name": "mechANIC",
+            "url": "/player/6757?period=all"
+        },
+        "p1": {
+            "name": "Petit Dejeuner",
+            "url": "/player/-31?period=all"
+        }
+    },
+    {
+        "date": "2017-10-28 23:16:16",
+        "map": "Sidestep (RAGL:S4)",
+        "p0": {
+            "name": "SoScared",
+            "url": "/player/2793?period=all"
+        },
+        "p1": {
+            "name": "Raishiwi",
+            "url": "/player/6625?period=all"
+        }
+    },
+    {
+        "date": "2017-10-28 23:42:43",
+        "map": "Behind the Veil (RAGL:S4)",
+        "p0": {
+            "name": "Raishiwi",
+            "url": "/player/6625?period=all"
+        },
+        "p1": {
+            "name": "SoScared",
+            "url": "/player/2793?period=all"
+        }
+    },
+    {
+        "date": "2017-10-29 14:05:25",
+        "map": "Sidestep (RAGL:S4)",
+        "p0": {
+            "name": "Doomsday",
+            "url": "/player/6621?period=all"
+        },
+        "p1": {
+            "name": "noobmapmaker",
+            "url": "/player/4037?period=all"
+        }
+    },
+    {
+        "date": "2017-10-29 14:27:53",
+        "map": "Agenda (RAGL:S4)",
+        "p0": {
+            "name": "Doomsday",
+            "url": "/player/6621?period=all"
+        },
+        "p1": {
+            "name": "noobmapmaker",
+            "url": "/player/4037?period=all"
+        }
+    },
+    {
+        "date": "2017-10-29 14:49:50",
+        "map": "Sidestep (RAGL:S4)",
+        "p0": {
+            "name": "SoScared",
+            "url": "/player/2793?period=all"
+        },
+        "p1": {
+            "name": "noobmapmaker",
+            "url": "/player/4037?period=all"
+        }
+    },
+    {
+        "date": "2017-10-29 15:04:29",
+        "map": "Borrowed Time (RAGL:S4)",
+        "p0": {
+            "name": "Lord of War",
+            "url": "/player/-24?period=all"
+        },
+        "p1": {
+            "name": "Bamsi",
+            "url": "/player/-25?period=all"
+        }
+    },
+    {
+        "date": "2017-10-29 15:04:35",
+        "map": "Agenda (RAGL:S4)",
+        "p0": {
+            "name": "SoScared",
+            "url": "/player/2793?period=all"
+        },
+        "p1": {
+            "name": "noobmapmaker",
+            "url": "/player/4037?period=all"
+        }
+    },
+    {
+        "date": "2017-10-29 15:26:01",
+        "map": "Shadow Fiend (RAGL:S4)",
+        "p0": {
+            "name": "bullE",
+            "url": "/player/6896?period=all"
+        },
+        "p1": {
+            "name": "KOYK_GR",
+            "url": "/player/2580?period=all"
+        }
+    },
+    {
+        "date": "2017-10-29 15:38:40",
+        "map": "Shadow Fiend (RAGL:S4)",
+        "p0": {
+            "name": "Lord of War",
+            "url": "/player/-24?period=all"
+        },
+        "p1": {
+            "name": "Bamsi",
+            "url": "/player/-25?period=all"
+        }
+    },
+    {
+        "date": "2017-10-29 15:39:38",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "bullE",
+            "url": "/player/6896?period=all"
+        },
+        "p1": {
+            "name": "KOYK_GR",
+            "url": "/player/2580?period=all"
+        }
+    },
+    {
+        "date": "2017-10-29 16:11:15",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "jvk",
+            "url": "/player/6812?period=all"
+        },
+        "p1": {
+            "name": "Snufflegrunt",
+            "url": "/player/-23?period=all"
+        }
+    },
+    {
+        "date": "2017-10-29 16:23:06",
+        "map": "Borrowed Time (RAGL:S4)",
+        "p0": {
+            "name": "jvk",
+            "url": "/player/6812?period=all"
+        },
+        "p1": {
+            "name": "Snufflegrunt",
+            "url": "/player/-23?period=all"
+        }
+    },
+    {
+        "date": "2017-10-30 18:32:53",
+        "map": "Keep Off The Grass 2 (RAGL:S4)",
+        "p0": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        },
+        "p1": {
+            "name": "Lord of War",
+            "url": "/player/-24?period=all"
+        }
+    },
+    {
+        "date": "2017-10-30 18:44:07",
+        "map": "Borrowed Time (RAGL:S4)",
+        "p0": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        },
+        "p1": {
+            "name": "Lord of War",
+            "url": "/player/-24?period=all"
+        }
+    },
+    {
+        "date": "2017-10-31 13:56:09",
+        "map": "Keep Off The Grass 2",
+        "p0": {
+            "name": "ass_pounder_4000",
+            "url": "/player/-28?period=all"
+        },
+        "p1": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        }
+    },
+    {
+        "date": "2017-10-31 14:11:04",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "ass_pounder_4000",
+            "url": "/player/-28?period=all"
+        },
+        "p1": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        }
+    },
+    {
+        "date": "2017-10-31 19:07:22",
+        "map": "Ysmir (RAGL:S4)",
+        "p0": {
+            "name": "Sotsch",
+            "url": "/player/6832?period=all"
+        },
+        "p1": {
+            "name": "Bamsi",
+            "url": "/player/-25?period=all"
+        }
+    },
+    {
+        "date": "2017-10-31 19:23:36",
+        "map": "Shadow Fiend (RAGL:S4)",
+        "p0": {
+            "name": "Sotsch",
+            "url": "/player/6832?period=all"
+        },
+        "p1": {
+            "name": "Bamsi",
+            "url": "/player/-25?period=all"
+        }
+    },
+    {
+        "date": "2017-11-01 21:24:30",
+        "map": "Keep Off The Grass 2 (RAGL:S4)",
+        "p0": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        },
+        "p1": {
+            "name": "_Bo",
+            "url": "/player/8152?period=all"
+        }
+    },
+    {
+        "date": "2017-11-01 21:42:16",
+        "map": "Keep Off The Grass 2 (RAGL:S4)",
+        "p0": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        },
+        "p1": {
+            "name": "_Bo",
+            "url": "/player/8152?period=all"
+        }
+    },
+    {
+        "date": "2017-11-02 19:08:30",
+        "map": "Agenda (RAGL:S4)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        }
+    },
+    {
+        "date": "2017-11-02 19:19:07",
+        "map": "Ysmir (RAGL:S4)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        }
+    },
+    {
+        "date": "2017-11-03 20:50:31",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "Kuba",
+            "url": "/player/-9?period=all"
+        },
+        "p1": {
+            "name": "lucassss",
+            "url": "/player/6211?period=all"
+        }
+    },
+    {
+        "date": "2017-11-03 21:13:49",
+        "map": "Keep Off The Grass 2 (RAGL:S4)",
+        "p0": {
+            "name": "lucassss",
+            "url": "/player/6211?period=all"
+        },
+        "p1": {
+            "name": "Kuba",
+            "url": "/player/-9?period=all"
+        }
+    },
+    {
+        "date": "2017-11-04 13:24:48",
+        "map": "Borrowed Time (RAGL:S4)",
+        "p0": {
+            "name": "bullE",
+            "url": "/player/6896?period=all"
+        },
+        "p1": {
+            "name": "3.Lucian",
+            "url": "/player/6665?period=all"
+        }
+    },
+    {
+        "date": "2017-11-04 13:39:52",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "bullE",
+            "url": "/player/6896?period=all"
+        },
+        "p1": {
+            "name": "3.Lucian",
+            "url": "/player/6665?period=all"
+        }
+    },
+    {
+        "date": "2017-11-04 19:51:12",
+        "map": "Borrowed Time (RAGL:S4)",
+        "p0": {
+            "name": "Wippie",
+            "url": "/player/6446?period=all"
+        },
+        "p1": {
+            "name": "ConcaveCats",
+            "url": "/player/-29?period=all"
+        }
+    },
+    {
+        "date": "2017-11-04 20:07:34",
+        "map": "Keep Off The Grass 2 (RAGL:S4)",
+        "p0": {
+            "name": "Wippie",
+            "url": "/player/6446?period=all"
+        },
+        "p1": {
+            "name": "ConcaveCats",
+            "url": "/player/-29?period=all"
+        }
+    },
+    {
+        "date": "2017-11-04 21:52:28",
+        "map": "Borrowed Time (RAGL:S4)",
+        "p0": {
+            "name": "Wippie",
+            "url": "/player/6446?period=all"
+        },
+        "p1": {
+            "name": "_Bo",
+            "url": "/player/8152?period=all"
+        }
+    },
+    {
+        "date": "2017-11-04 22:19:44",
+        "map": "Borrowed Time (RAGL:S4)",
+        "p0": {
+            "name": "Wippie",
+            "url": "/player/6446?period=all"
+        },
+        "p1": {
+            "name": "_Bo",
+            "url": "/player/8152?period=all"
+        }
+    },
+    {
+        "date": "2017-11-05 13:15:04",
+        "map": "A Nuclear Winter (RAGL:S4)",
+        "p0": {
+            "name": "Gatekeeper",
+            "url": "/player/6026?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2017-11-05 13:23:36",
+        "map": "Borrowed Time (RAGL:S4)",
+        "p0": {
+            "name": "Gatekeeper",
+            "url": "/player/6026?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2017-11-05 15:06:12",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "Smitty",
+            "url": "/player/6586?period=all"
+        },
+        "p1": {
+            "name": "Gatekeeper",
+            "url": "/player/6026?period=all"
+        }
+    },
+    {
+        "date": "2017-11-05 15:22:52",
+        "map": "Borrowed Time (RAGL:S4)",
+        "p0": {
+            "name": "Gatekeeper",
+            "url": "/player/6026?period=all"
+        },
+        "p1": {
+            "name": "Smitty",
+            "url": "/player/6586?period=all"
+        }
+    },
+    {
+        "date": "2017-11-05 16:33:23",
+        "map": "Agenda (RAGL:S4)",
+        "p0": {
+            "name": "netnazgul",
+            "url": "/player/6856?period=all"
+        },
+        "p1": {
+            "name": "Wippie",
+            "url": "/player/6446?period=all"
+        }
+    },
+    {
+        "date": "2017-11-05 17:13:17",
+        "map": "Dual Cold Front (RAGL:S4)",
+        "p0": {
+            "name": "netnazgul",
+            "url": "/player/6856?period=all"
+        },
+        "p1": {
+            "name": "Wippie",
+            "url": "/player/6446?period=all"
+        }
+    },
+    {
+        "date": "2017-11-05 18:03:49",
+        "map": "Keep Off The Grass 2 (RAGL:S4)",
+        "p0": {
+            "name": "mechANIC",
+            "url": "/player/6757?period=all"
+        },
+        "p1": {
+            "name": "Beef",
+            "url": "/player/3534?period=all"
+        }
+    },
+    {
+        "date": "2017-11-05 18:13:27",
+        "map": "Keep Off The Grass 2 (RAGL:S4)",
+        "p0": {
+            "name": "Anykeyich",
+            "url": "/player/6822?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2017-11-05 18:19:11",
+        "map": "Shadow Fiend (RAGL:S4)",
+        "p0": {
+            "name": "mechANIC",
+            "url": "/player/6757?period=all"
+        },
+        "p1": {
+            "name": "Beef",
+            "url": "/player/3534?period=all"
+        }
+    },
+    {
+        "date": "2017-11-05 18:40:17",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "Anykeyich",
+            "url": "/player/6822?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2017-11-05 19:20:47",
+        "map": "Borrowed Time (RAGL:S4)",
+        "p0": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        },
+        "p1": {
+            "name": "Sotsch",
+            "url": "/player/6832?period=all"
+        }
+    },
+    {
+        "date": "2017-11-05 20:18:12",
+        "map": "Ysmir (RAGL:S4)",
+        "p0": {
+            "name": "Sotsch",
+            "url": "/player/6832?period=all"
+        },
+        "p1": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        }
+    },
+    {
+        "date": "2017-11-05 21:54:02",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "Lorrydriver",
+            "url": "/player/6646?period=all"
+        },
+        "p1": {
+            "name": "SirCake",
+            "url": "/player/6288?period=all"
+        }
+    },
+    {
+        "date": "2017-11-06 18:45:26",
+        "map": "Shadow Fiend (RAGL:S4)",
+        "p0": {
+            "name": "netnazgul",
+            "url": "/player/6856?period=all"
+        },
+        "p1": {
+            "name": "ConcaveCats",
+            "url": "/player/-29?period=all"
+        }
+    },
+    {
+        "date": "2017-11-06 18:59:42",
+        "map": "Dual Cold Front (RAGL:S4)",
+        "p0": {
+            "name": "netnazgul",
+            "url": "/player/6856?period=all"
+        },
+        "p1": {
+            "name": "ConcaveCats",
+            "url": "/player/-29?period=all"
+        }
+    },
+    {
+        "date": "2017-11-07 20:47:10",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "manu200",
+            "url": "/player/6880?period=all"
+        },
+        "p1": {
+            "name": "potato",
+            "url": "/player/6861?period=all"
+        }
+    },
+    {
+        "date": "2017-11-07 21:14:33",
+        "map": "Agenda (RAGL:S4)",
+        "p0": {
+            "name": "potato",
+            "url": "/player/6861?period=all"
+        },
+        "p1": {
+            "name": "manu200",
+            "url": "/player/6880?period=all"
+        }
+    },
+    {
+        "date": "2017-11-08 20:56:37",
+        "map": "Keep Off The Grass 2 (RAGL:S4)",
+        "p0": {
+            "name": "eskimo",
+            "url": "/player/6695?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2017-11-08 21:13:48",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        },
+        "p1": {
+            "name": "eskimo",
+            "url": "/player/6695?period=all"
+        }
+    },
+    {
+        "date": "2017-11-09 19:06:49",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "jvk",
+            "url": "/player/6812?period=all"
+        },
+        "p1": {
+            "name": "Lord of War",
+            "url": "/player/-24?period=all"
+        }
+    },
+    {
+        "date": "2017-11-09 19:22:32",
+        "map": "Ysmir (RAGL:S4)",
+        "p0": {
+            "name": "jvk",
+            "url": "/player/6812?period=all"
+        },
+        "p1": {
+            "name": "Lord of War",
+            "url": "/player/-24?period=all"
+        }
+    },
+    {
+        "date": "2017-11-09 19:53:59",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "kazu.",
+            "url": "/player/6528?period=all"
+        },
+        "p1": {
+            "name": "Digital Jihad",
+            "url": "/player/-27?period=all"
+        }
+    },
+    {
+        "date": "2017-11-09 20:20:05",
+        "map": "Borrowed Time (RAGL:S4)",
+        "p0": {
+            "name": "kazu.",
+            "url": "/player/6528?period=all"
+        },
+        "p1": {
+            "name": "Digital Jihad",
+            "url": "/player/-27?period=all"
+        }
+    },
+    {
+        "date": "2017-11-11 09:03:45",
+        "map": "Behind the Veil (RAGL:S4)",
+        "p0": {
+            "name": "Chewey",
+            "url": "/player/6859?period=all"
+        },
+        "p1": {
+            "name": "SeaCucumber",
+            "url": "/player/-22?period=all"
+        }
+    },
+    {
+        "date": "2017-11-11 14:38:39",
+        "map": "Sidestep (RAGL:S4)",
+        "p0": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        },
+        "p1": {
+            "name": "Smitty",
+            "url": "/player/6586?period=all"
+        }
+    },
+    {
+        "date": "2017-11-11 14:59:52",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "Smitty",
+            "url": "/player/6586?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2017-11-12 12:27:57",
+        "map": "Dual Cold Front (RAGL:S4)",
+        "p0": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        },
+        "p1": {
+            "name": "abcdefg30",
+            "url": "/player/3812?period=all"
+        }
+    },
+    {
+        "date": "2017-11-12 12:42:25",
+        "map": "Agenda",
+        "p0": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        },
+        "p1": {
+            "name": "abcdefg30",
+            "url": "/player/3812?period=all"
+        }
+    },
+    {
+        "date": "2017-11-12 19:16:43",
+        "map": "Agenda (RAGL:S4)",
+        "p0": {
+            "name": "WaRRyKeR",
+            "url": "/player/6938?period=all"
+        },
+        "p1": {
+            "name": "xy",
+            "url": "/player/6336?period=all"
+        }
+    },
+    {
+        "date": "2017-11-12 19:40:37",
+        "map": "Ysmir (RAGL:S4)",
+        "p0": {
+            "name": "WaRRyKeR",
+            "url": "/player/6938?period=all"
+        },
+        "p1": {
+            "name": "xy",
+            "url": "/player/6336?period=all"
+        }
+    },
+    {
+        "date": "2017-11-12 20:03:16",
+        "map": "Sidestep (RAGL:S4)",
+        "p0": {
+            "name": "Anykeyich",
+            "url": "/player/6822?period=all"
+        },
+        "p1": {
+            "name": "Wippie",
+            "url": "/player/6446?period=all"
+        }
+    },
+    {
+        "date": "2017-11-12 20:12:38",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "Wippie",
+            "url": "/player/6446?period=all"
+        },
+        "p1": {
+            "name": "Anykeyich",
+            "url": "/player/6822?period=all"
+        }
+    },
+    {
+        "date": "2017-11-12 20:12:41",
+        "map": "Shadow Fiend (RAGL:S4)",
+        "p0": {
+            "name": "Bamsi",
+            "url": "/player/-25?period=all"
+        },
+        "p1": {
+            "name": "corrode",
+            "url": "/player/6776?period=all"
+        }
+    },
+    {
+        "date": "2017-11-12 20:54:43",
+        "map": "Keep Off The Grass 2 (RAGL:S4)",
+        "p0": {
+            "name": "noobmapmaker",
+            "url": "/player/4037?period=all"
+        },
+        "p1": {
+            "name": "lucassss",
+            "url": "/player/6211?period=all"
+        }
+    },
+    {
+        "date": "2017-11-12 20:59:20",
+        "map": "Keep Off The Grass 2 (RAGL:S4)",
+        "p0": {
+            "name": "Bamsi",
+            "url": "/player/-25?period=all"
+        },
+        "p1": {
+            "name": "corrode",
+            "url": "/player/6776?period=all"
+        }
+    },
+    {
+        "date": "2017-11-12 21:17:48",
+        "map": "Shadow Fiend (RAGL:S4)",
+        "p0": {
+            "name": "lucassss",
+            "url": "/player/6211?period=all"
+        },
+        "p1": {
+            "name": "noobmapmaker",
+            "url": "/player/4037?period=all"
+        }
+    },
+    {
+        "date": "2017-11-12 21:18:53",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "bullE",
+            "url": "/player/6896?period=all"
+        },
+        "p1": {
+            "name": "Craig Christ",
+            "url": "/player/6883?period=all"
+        }
+    },
+    {
+        "date": "2017-11-12 21:36:08",
+        "map": "Behind the Veil (RAGL:S4)",
+        "p0": {
+            "name": "bullE",
+            "url": "/player/6896?period=all"
+        },
+        "p1": {
+            "name": "Craig Christ",
+            "url": "/player/6883?period=all"
+        }
+    },
+    {
+        "date": "2017-11-12 23:11:09",
+        "map": "Agenda",
+        "p0": {
+            "name": "t",
+            "url": "/player/-2?period=all"
+        },
+        "p1": {
+            "name": "Kuba",
+            "url": "/player/-9?period=all"
+        }
+    },
+    {
+        "date": "2017-11-12 23:11:09",
+        "map": "Agenda",
+        "p0": {
+            "name": "t",
+            "url": "/player/-2?period=all"
+        },
+        "p1": {
+            "name": "Kuba",
+            "url": "/player/-9?period=all"
+        }
+    },
+    {
+        "date": "2017-11-12 23:27:17",
+        "map": "Keep Off The Grass 2",
+        "p0": {
+            "name": "t",
+            "url": "/player/-2?period=all"
+        },
+        "p1": {
+            "name": "Kuba",
+            "url": "/player/-9?period=all"
+        }
+    },
+    {
+        "date": "2017-11-12 23:27:17",
+        "map": "Keep Off The Grass 2",
+        "p0": {
+            "name": "t",
+            "url": "/player/-2?period=all"
+        },
+        "p1": {
+            "name": "Kuba",
+            "url": "/player/-9?period=all"
+        }
+    },
+    {
+        "date": "2017-11-13 18:08:38",
+        "map": "Shadow Fiend (RAGL:S4)",
+        "p0": {
+            "name": "Anykeyich",
+            "url": "/player/6822?period=all"
+        },
+        "p1": {
+            "name": "netnazgul",
+            "url": "/player/6856?period=all"
+        }
+    },
+    {
+        "date": "2017-11-13 18:32:40",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "Anykeyich",
+            "url": "/player/6822?period=all"
+        },
+        "p1": {
+            "name": "netnazgul",
+            "url": "/player/6856?period=all"
+        }
+    },
+    {
+        "date": "2017-11-15 18:02:13",
+        "map": "Dual Cold Front (RAGL:S4)",
+        "p0": {
+            "name": "Clockwork",
+            "url": "/player/6680?period=all"
+        },
+        "p1": {
+            "name": "Mentats",
+            "url": "/player/-19?period=all"
+        }
+    },
+    {
+        "date": "2017-11-15 18:17:55",
+        "map": "Behind the Veil (RAGL:S4)",
+        "p0": {
+            "name": "Clockwork",
+            "url": "/player/6680?period=all"
+        },
+        "p1": {
+            "name": "Mentats",
+            "url": "/player/-19?period=all"
+        }
+    },
+    {
+        "date": "2017-11-15 21:35:59",
+        "map": "Sidestep (RAGL:S4)",
+        "p0": {
+            "name": "Digital Jihad",
+            "url": "/player/-27?period=all"
+        },
+        "p1": {
+            "name": "dragunoff",
+            "url": "/player/7229?period=all"
+        }
+    },
+    {
+        "date": "2017-11-15 21:47:52",
+        "map": "Ysmir (RAGL:S4)",
+        "p0": {
+            "name": "Digital Jihad",
+            "url": "/player/-27?period=all"
+        },
+        "p1": {
+            "name": "dragunoff",
+            "url": "/player/7229?period=all"
+        }
+    },
+    {
+        "date": "2017-11-15 22:35:09",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "SirCake",
+            "url": "/player/6288?period=all"
+        },
+        "p1": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        }
+    },
+    {
+        "date": "2017-11-15 22:57:52",
+        "map": "Ysmir (RAGL:S4)",
+        "p0": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        },
+        "p1": {
+            "name": "SirCake",
+            "url": "/player/6288?period=all"
+        }
+    },
+    {
+        "date": "2017-11-16 17:58:18",
+        "map": "Shadow Fiend (RAGL:S4)",
+        "p0": {
+            "name": "Mentats",
+            "url": "/player/-19?period=all"
+        },
+        "p1": {
+            "name": "noobmapmaker",
+            "url": "/player/4037?period=all"
+        }
+    },
+    {
+        "date": "2017-11-16 18:13:34",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "noobmapmaker",
+            "url": "/player/4037?period=all"
+        },
+        "p1": {
+            "name": "Mentats",
+            "url": "/player/-19?period=all"
+        }
+    },
+    {
+        "date": "2017-11-17 17:16:49",
+        "map": "Agenda (RAGL:S4)",
+        "p0": {
+            "name": "SoScared",
+            "url": "/player/2793?period=all"
+        },
+        "p1": {
+            "name": "Mentats",
+            "url": "/player/-19?period=all"
+        }
+    },
+    {
+        "date": "2017-11-17 17:39:28",
+        "map": "Shadow Fiend (RAGL:S4)",
+        "p0": {
+            "name": "Mentats",
+            "url": "/player/-19?period=all"
+        },
+        "p1": {
+            "name": "SoScared",
+            "url": "/player/2793?period=all"
+        }
+    },
+    {
+        "date": "2017-11-17 20:27:35",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        },
+        "p1": {
+            "name": "corrode",
+            "url": "/player/6776?period=all"
+        }
+    },
+    {
+        "date": "2017-11-17 20:37:50",
+        "map": "Borrowed Time (RAGL:S4)",
+        "p0": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        },
+        "p1": {
+            "name": "corrode",
+            "url": "/player/6776?period=all"
+        }
+    },
+    {
+        "date": "2017-11-18 06:59:36",
+        "map": "Keep Off The Grass 2 (RAGL:S4)",
+        "p0": {
+            "name": "mechANIC",
+            "url": "/player/6757?period=all"
+        },
+        "p1": {
+            "name": "NethIafin",
+            "url": "/player/6852?period=all"
+        }
+    },
+    {
+        "date": "2017-11-18 07:11:24",
+        "map": "A Nuclear Winter (RAGL:S4)",
+        "p0": {
+            "name": "mechANIC",
+            "url": "/player/6757?period=all"
+        },
+        "p1": {
+            "name": "NethIafin",
+            "url": "/player/6852?period=all"
+        }
+    },
+    {
+        "date": "2017-11-18 16:31:14",
+        "map": "Keep Off The Grass 2 (RAGL:S4)",
+        "p0": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        },
+        "p1": {
+            "name": "Snufflegrunt",
+            "url": "/player/-23?period=all"
+        }
+    },
+    {
+        "date": "2017-11-18 16:51:59",
+        "map": "Sidestep (RAGL:S4)",
+        "p0": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        },
+        "p1": {
+            "name": "Snufflegrunt",
+            "url": "/player/-23?period=all"
+        }
+    },
+    {
+        "date": "2017-11-18 22:23:37",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "kazu.",
+            "url": "/player/6528?period=all"
+        },
+        "p1": {
+            "name": "chrisf",
+            "url": "/player/2196?period=all"
+        }
+    },
+    {
+        "date": "2017-11-18 22:35:38",
+        "map": "Dual Cold Front (RAGL:S4)",
+        "p0": {
+            "name": "kazu.",
+            "url": "/player/6528?period=all"
+        },
+        "p1": {
+            "name": "chrisf",
+            "url": "/player/2196?period=all"
+        }
+    },
+    {
+        "date": "2017-11-19 13:04:58",
+        "map": "Dual Cold Front (RAGL:S4)",
+        "p0": {
+            "name": "NethIafin",
+            "url": "/player/6852?period=all"
+        },
+        "p1": {
+            "name": "flamewh33l",
+            "url": "/player/6470?period=all"
+        }
+    },
+    {
+        "date": "2017-11-19 13:22:07",
+        "map": "Behind the Veil (RAGL:S4)",
+        "p0": {
+            "name": "NethIafin",
+            "url": "/player/6852?period=all"
+        },
+        "p1": {
+            "name": "flamewh33l",
+            "url": "/player/6470?period=all"
+        }
+    },
+    {
+        "date": "2017-11-19 17:22:55",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "Lorrydriver",
+            "url": "/player/6646?period=all"
+        },
+        "p1": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        }
+    },
+    {
+        "date": "2017-11-19 17:35:11",
+        "map": "A Nuclear Winter (RAGL:S4)",
+        "p0": {
+            "name": "Lorrydriver",
+            "url": "/player/6646?period=all"
+        },
+        "p1": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        }
+    },
+    {
+        "date": "2017-11-19 17:47:49",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        }
+    },
+    {
+        "date": "2017-11-19 17:58:32",
+        "map": "Ysmir (RAGL:S4)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        }
+    },
+    {
+        "date": "2017-11-19 19:01:30",
+        "map": "Ysmir (RAGL:S4)",
+        "p0": {
+            "name": "Sotsch",
+            "url": "/player/6832?period=all"
+        },
+        "p1": {
+            "name": "jvk",
+            "url": "/player/6812?period=all"
+        }
+    },
+    {
+        "date": "2017-11-19 19:07:26",
+        "map": "Keep Off The Grass 2 (RAGL:S4)",
+        "p0": {
+            "name": "Clockwork",
+            "url": "/player/6680?period=all"
+        },
+        "p1": {
+            "name": "Doomsday",
+            "url": "/player/6621?period=all"
+        }
+    },
+    {
+        "date": "2017-11-19 19:14:15",
+        "map": "Dual Cold Front (RAGL:S4)",
+        "p0": {
+            "name": "Clockwork",
+            "url": "/player/6680?period=all"
+        },
+        "p1": {
+            "name": "Doomsday",
+            "url": "/player/6621?period=all"
+        }
+    },
+    {
+        "date": "2017-11-19 19:19:23",
+        "map": "Behind the Veil (RAGL:S4)",
+        "p0": {
+            "name": "Sotsch",
+            "url": "/player/6832?period=all"
+        },
+        "p1": {
+            "name": "jvk",
+            "url": "/player/6812?period=all"
+        }
+    },
+    {
+        "date": "2017-11-19 19:32:50",
+        "map": "Dual Cold Front (RAGL:S4)",
+        "p0": {
+            "name": "Craig Christ",
+            "url": "/player/6883?period=all"
+        },
+        "p1": {
+            "name": "NethIafin",
+            "url": "/player/6852?period=all"
+        }
+    },
+    {
+        "date": "2017-11-19 19:50:38",
+        "map": "Sidestep (RAGL:S4)",
+        "p0": {
+            "name": "Craig Christ",
+            "url": "/player/6883?period=all"
+        },
+        "p1": {
+            "name": "NethIafin",
+            "url": "/player/6852?period=all"
+        }
+    },
+    {
+        "date": "2017-11-19 20:14:51",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        },
+        "p1": {
+            "name": "xy",
+            "url": "/player/6336?period=all"
+        }
+    },
+    {
+        "date": "2017-11-19 21:03:34",
+        "map": "Ysmir (RAGL:S4)",
+        "p0": {
+            "name": "xy",
+            "url": "/player/6336?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2017-11-19 21:26:37",
+        "map": "Winter Storm 2 (RAGL:S4)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "abcdefg30",
+            "url": "/player/3812?period=all"
+        }
+    },
+    {
+        "date": "2017-11-19 21:30:49",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "abcdefg30",
+            "url": "/player/3812?period=all"
+        }
+    },
+    {
+        "date": "2017-11-21 19:20:40",
+        "map": "Ysmir (RAGL:S4)",
+        "p0": {
+            "name": "kazu.",
+            "url": "/player/6528?period=all"
+        },
+        "p1": {
+            "name": "manu200",
+            "url": "/player/6880?period=all"
+        }
+    },
+    {
+        "date": "2017-11-21 19:40:59",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "kazu.",
+            "url": "/player/6528?period=all"
+        },
+        "p1": {
+            "name": "manu200",
+            "url": "/player/6880?period=all"
+        }
+    },
+    {
+        "date": "2017-11-23 19:34:21",
+        "map": "Agenda (RAGL:S4)",
+        "p0": {
+            "name": "noobmapmaker",
+            "url": "/player/4037?period=all"
+        },
+        "p1": {
+            "name": "Kuba",
+            "url": "/player/-9?period=all"
+        }
+    },
+    {
+        "date": "2017-11-23 19:56:40",
+        "map": "Keep Off The Grass 2 (RAGL:S4)",
+        "p0": {
+            "name": "noobmapmaker",
+            "url": "/player/4037?period=all"
+        },
+        "p1": {
+            "name": "Kuba",
+            "url": "/player/-9?period=all"
+        }
+    },
+    {
+        "date": "2017-11-23 21:15:08",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        },
+        "p1": {
+            "name": "SirCake",
+            "url": "/player/6288?period=all"
+        }
+    },
+    {
+        "date": "2017-11-23 21:47:42",
+        "map": "Agenda (RAGL:S4)",
+        "p0": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        },
+        "p1": {
+            "name": "SirCake",
+            "url": "/player/6288?period=all"
+        }
+    },
+    {
+        "date": "2017-11-24 05:02:30",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "Chewey",
+            "url": "/player/6859?period=all"
+        },
+        "p1": {
+            "name": "Digital Jihad",
+            "url": "/player/-27?period=all"
+        }
+    },
+    {
+        "date": "2017-11-24 05:12:08",
+        "map": "Shadow Fiend (RAGL:S4)",
+        "p0": {
+            "name": "Digital Jihad",
+            "url": "/player/-27?period=all"
+        },
+        "p1": {
+            "name": "Chewey",
+            "url": "/player/6859?period=all"
+        }
+    },
+    {
+        "date": "2017-11-24 16:05:44",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "Smitty",
+            "url": "/player/6586?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2017-11-24 16:24:46",
+        "map": "A Nuclear Winter (RAGL:S4)",
+        "p0": {
+            "name": "Smitty",
+            "url": "/player/6586?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2017-11-24 18:35:13",
+        "map": "Keep Off The Grass 2 (RAGL:S4)",
+        "p0": {
+            "name": "WaRRyKeR",
+            "url": "/player/6938?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2017-11-24 18:47:34",
+        "map": "Agenda (RAGL:S4)",
+        "p0": {
+            "name": "WaRRyKeR",
+            "url": "/player/6938?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2017-11-25 13:07:33",
+        "map": "Agenda (RAGL:S4)",
+        "p0": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2017-11-25 13:22:29",
+        "map": "A Nuclear Winter (RAGL:S4)",
+        "p0": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2017-11-25 14:00:42",
+        "map": "Sidestep (RAGL:S4)",
+        "p0": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        },
+        "p1": {
+            "name": "Bamsi",
+            "url": "/player/-25?period=all"
+        }
+    },
+    {
+        "date": "2017-11-25 14:11:05",
+        "map": "Borrowed Time (RAGL:S4)",
+        "p0": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        },
+        "p1": {
+            "name": "Bamsi",
+            "url": "/player/-25?period=all"
+        }
+    },
+    {
+        "date": "2017-11-25 18:25:13",
+        "map": "Agenda (RAGL:S4)",
+        "p0": {
+            "name": "Digital Jihad",
+            "url": "/player/-27?period=all"
+        },
+        "p1": {
+            "name": "Zaqzorn",
+            "url": "/player/6265?period=all"
+        }
+    },
+    {
+        "date": "2017-11-25 18:37:03",
+        "map": "Shadow Fiend (RAGL:S4)",
+        "p0": {
+            "name": "Digital Jihad",
+            "url": "/player/-27?period=all"
+        },
+        "p1": {
+            "name": "Zaqzorn",
+            "url": "/player/6265?period=all"
+        }
+    },
+    {
+        "date": "2017-11-25 19:32:13",
+        "map": "Shadow Fiend (RAGL:S4)",
+        "p0": {
+            "name": "Sotsch",
+            "url": "/player/6832?period=all"
+        },
+        "p1": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        }
+    },
+    {
+        "date": "2017-11-25 19:43:50",
+        "map": "Keep Off The Grass 2 (RAGL:S4)",
+        "p0": {
+            "name": "Sotsch",
+            "url": "/player/6832?period=all"
+        },
+        "p1": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        }
+    },
+    {
+        "date": "2017-11-26 12:59:18",
+        "map": "Agenda (RAGL:S4)",
+        "p0": {
+            "name": "t",
+            "url": "/player/-2?period=all"
+        },
+        "p1": {
+            "name": "noobmapmaker",
+            "url": "/player/4037?period=all"
+        }
+    },
+    {
+        "date": "2017-11-26 13:18:42",
+        "map": "Sidestep (RAGL:S4)",
+        "p0": {
+            "name": "noobmapmaker",
+            "url": "/player/4037?period=all"
+        },
+        "p1": {
+            "name": "t",
+            "url": "/player/-2?period=all"
+        }
+    },
+    {
+        "date": "2017-11-26 17:15:32",
+        "map": "Borrowed Time (RAGL:S4)",
+        "p0": {
+            "name": "Gatekeeper",
+            "url": "/player/6026?period=all"
+        },
+        "p1": {
+            "name": "Lorrydriver",
+            "url": "/player/6646?period=all"
+        }
+    },
+    {
+        "date": "2017-11-26 17:39:02",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "Lorrydriver",
+            "url": "/player/6646?period=all"
+        },
+        "p1": {
+            "name": "Gatekeeper",
+            "url": "/player/6026?period=all"
+        }
+    },
+    {
+        "date": "2017-11-26 19:00:07",
+        "map": "Agenda (RAGL:S4)",
+        "p0": {
+            "name": "jvk",
+            "url": "/player/6812?period=all"
+        },
+        "p1": {
+            "name": "corrode",
+            "url": "/player/6776?period=all"
+        }
+    },
+    {
+        "date": "2017-11-26 19:08:44",
+        "map": "Behind the Veil (RAGL:S4)",
+        "p0": {
+            "name": "OMnom",
+            "url": "/player/6608?period=all"
+        },
+        "p1": {
+            "name": "Mentats",
+            "url": "/player/-19?period=all"
+        }
+    },
+    {
+        "date": "2017-11-26 19:10:09",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "jvk",
+            "url": "/player/6812?period=all"
+        },
+        "p1": {
+            "name": "corrode",
+            "url": "/player/6776?period=all"
+        }
+    },
+    {
+        "date": "2017-11-26 19:55:00",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "OMnom",
+            "url": "/player/6608?period=all"
+        },
+        "p1": {
+            "name": "Mentats",
+            "url": "/player/-19?period=all"
+        }
+    },
+    {
+        "date": "2017-11-26 20:52:35",
+        "map": "Dual Cold Front (RAGL:S4)",
+        "p0": {
+            "name": "Clockwork",
+            "url": "/player/6680?period=all"
+        },
+        "p1": {
+            "name": "lucassss",
+            "url": "/player/6211?period=all"
+        }
+    },
+    {
+        "date": "2017-11-26 21:05:08",
+        "map": "Shadow Fiend (RAGL:S4)",
+        "p0": {
+            "name": "Clockwork",
+            "url": "/player/6680?period=all"
+        },
+        "p1": {
+            "name": "lucassss",
+            "url": "/player/6211?period=all"
+        }
+    },
+    {
+        "date": "2017-11-26 21:05:21",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "kazu.",
+            "url": "/player/6528?period=all"
+        },
+        "p1": {
+            "name": "potato",
+            "url": "/player/6861?period=all"
+        }
+    },
+    {
+        "date": "2017-11-26 21:16:17",
+        "map": "Sidestep (RAGL:S4)",
+        "p0": {
+            "name": "kazu.",
+            "url": "/player/6528?period=all"
+        },
+        "p1": {
+            "name": "potato",
+            "url": "/player/6861?period=all"
+        }
+    },
+    {
+        "date": "2017-11-27 19:25:12",
+        "map": "Dual Cold Front (RAGL:S4)",
+        "p0": {
+            "name": "NethIafin",
+            "url": "/player/6852?period=all"
+        },
+        "p1": {
+            "name": "KOYK_GR",
+            "url": "/player/2580?period=all"
+        }
+    },
+    {
+        "date": "2017-11-27 19:48:25",
+        "map": "Shadow Fiend (RAGL:S4)",
+        "p0": {
+            "name": "KOYK_GR",
+            "url": "/player/2580?period=all"
+        },
+        "p1": {
+            "name": "NethIafin",
+            "url": "/player/6852?period=all"
+        }
+    },
+    {
+        "date": "2017-11-29 14:32:56",
+        "map": "Borrowed Time (RAGL:S4)",
+        "p0": {
+            "name": "Gatekeeper",
+            "url": "/player/6026?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2017-11-29 15:04:35",
+        "map": "A Nuclear Winter (RAGL:S4)",
+        "p0": {
+            "name": "Gatekeeper",
+            "url": "/player/6026?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2017-11-29 19:40:48",
+        "map": "Ysmir (RAGL:S4)",
+        "p0": {
+            "name": "Lord of War",
+            "url": "/player/-24?period=all"
+        },
+        "p1": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        }
+    },
+    {
+        "date": "2017-11-29 19:41:27",
+        "map": "Sidestep (RAGL:S4)",
+        "p0": {
+            "name": "kazu.",
+            "url": "/player/6528?period=all"
+        },
+        "p1": {
+            "name": "Doomsday",
+            "url": "/player/6621?period=all"
+        }
+    },
+    {
+        "date": "2017-11-29 19:53:35",
+        "map": "Keep Off The Grass 2 (RAGL:S4)",
+        "p0": {
+            "name": "Lord of War",
+            "url": "/player/-24?period=all"
+        },
+        "p1": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        }
+    },
+    {
+        "date": "2017-11-29 20:25:08",
+        "map": "Sidestep (RAGL:S4)",
+        "p0": {
+            "name": "Doomsday",
+            "url": "/player/6621?period=all"
+        },
+        "p1": {
+            "name": "SoScared",
+            "url": "/player/2793?period=all"
+        }
+    },
+    {
+        "date": "2017-11-29 20:37:19",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "SoScared",
+            "url": "/player/2793?period=all"
+        },
+        "p1": {
+            "name": "Doomsday",
+            "url": "/player/6621?period=all"
+        }
+    },
+    {
+        "date": "2017-11-29 21:05:47",
+        "map": "Shadow Fiend (RAGL:S4)",
+        "p0": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        },
+        "p1": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        }
+    },
+    {
+        "date": "2017-11-29 21:07:56",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "OMnom",
+            "url": "/player/6608?period=all"
+        },
+        "p1": {
+            "name": "SoScared",
+            "url": "/player/2793?period=all"
+        }
+    },
+    {
+        "date": "2017-11-29 21:18:56",
+        "map": "Agenda (RAGL:S4)",
+        "p0": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        },
+        "p1": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        }
+    },
+    {
+        "date": "2017-11-29 21:31:47",
+        "map": "A Nuclear Winter (RAGL:S4)",
+        "p0": {
+            "name": "OMnom",
+            "url": "/player/6608?period=all"
+        },
+        "p1": {
+            "name": "SoScared",
+            "url": "/player/2793?period=all"
+        }
+    },
+    {
+        "date": "2017-11-29 22:18:28",
+        "map": "Agenda (RAGL:S4)",
+        "p0": {
+            "name": "Lorrydriver",
+            "url": "/player/6646?period=all"
+        },
+        "p1": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        }
+    },
+    {
+        "date": "2017-11-29 22:24:34",
+        "map": "Agenda (RAGL:S4)",
+        "p0": {
+            "name": "OMnom",
+            "url": "/player/6608?period=all"
+        },
+        "p1": {
+            "name": "Doomsday",
+            "url": "/player/6621?period=all"
+        }
+    },
+    {
+        "date": "2017-11-29 22:51:29",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "Lorrydriver",
+            "url": "/player/6646?period=all"
+        },
+        "p1": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        }
+    },
+    {
+        "date": "2017-11-30 15:29:25",
+        "map": "Borrowed Time (RAGL:S4)",
+        "p0": {
+            "name": "Lorrydriver",
+            "url": "/player/6646?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2017-11-30 15:55:00",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "Lorrydriver",
+            "url": "/player/6646?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2017-11-30 17:08:52",
+        "map": "Ysmir (RAGL:S4)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2017-11-30 17:30:06",
+        "map": "Sidestep (RAGL:S4)",
+        "p0": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        },
+        "p1": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        }
+    },
+    {
+        "date": "2017-11-30 20:15:33",
+        "map": "Behind the Veil (RAGL:S4)",
+        "p0": {
+            "name": "Mentats",
+            "url": "/player/-19?period=all"
+        },
+        "p1": {
+            "name": "Kuba",
+            "url": "/player/-9?period=all"
+        }
+    },
+    {
+        "date": "2017-11-30 20:29:57",
+        "map": "Dual Cold Front (RAGL:S4)",
+        "p0": {
+            "name": "Mentats",
+            "url": "/player/-19?period=all"
+        },
+        "p1": {
+            "name": "Kuba",
+            "url": "/player/-9?period=all"
+        }
+    },
+    {
+        "date": "2017-12-03 14:26:15",
+        "map": "Ysmir (RAGL:S4)",
+        "p0": {
+            "name": "Lord of War",
+            "url": "/player/-24?period=all"
+        },
+        "p1": {
+            "name": "ass_pounder_4000",
+            "url": "/player/-28?period=all"
+        }
+    },
+    {
+        "date": "2017-12-03 14:43:49",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "Lord of War",
+            "url": "/player/-24?period=all"
+        },
+        "p1": {
+            "name": "ass_pounder_4000",
+            "url": "/player/-28?period=all"
+        }
+    },
+    {
+        "date": "2017-12-03 15:04:22",
+        "map": "A Nuclear Winter (RAGL:S4)",
+        "p0": {
+            "name": "kazu.",
+            "url": "/player/6528?period=all"
+        },
+        "p1": {
+            "name": "fittsaft",
+            "url": "/player/-32?period=all"
+        }
+    },
+    {
+        "date": "2017-12-03 17:57:21",
+        "map": "Borrowed Time (RAGL:S4)",
+        "p0": {
+            "name": "Lorrydriver",
+            "url": "/player/6646?period=all"
+        },
+        "p1": {
+            "name": "kazu.",
+            "url": "/player/6528?period=all"
+        }
+    },
+    {
+        "date": "2017-12-05 20:38:32",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "dragunoff",
+            "url": "/player/7229?period=all"
+        },
+        "p1": {
+            "name": "manu200",
+            "url": "/player/6880?period=all"
+        }
+    },
+    {
+        "date": "2017-12-05 20:53:24",
+        "map": "Borrowed Time (RAGL:S4)",
+        "p0": {
+            "name": "dragunoff",
+            "url": "/player/7229?period=all"
+        },
+        "p1": {
+            "name": "manu200",
+            "url": "/player/6880?period=all"
+        }
+    },
+    {
+        "date": "2017-12-06 17:38:21",
+        "map": "Siberian Summer (RAGL:S4)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "Gatekeeper",
+            "url": "/player/6026?period=all"
+        }
+    },
+    {
+        "date": "2017-12-06 18:00:20",
+        "map": "Sidestep (RAGL:S4)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "Gatekeeper",
+            "url": "/player/6026?period=all"
+        }
+    },
+    {
+        "date": "2017-12-06 19:08:50",
+        "map": "A Nuclear Winter (RAGL:S4)",
+        "p0": {
+            "name": "Clockwork",
+            "url": "/player/6680?period=all"
+        },
+        "p1": {
+            "name": "SoScared",
+            "url": "/player/2793?period=all"
+        }
+    },
+    {
+        "date": "2017-12-06 19:22:24",
+        "map": "Dual Cold Front (RAGL:S4)",
+        "p0": {
+            "name": "Clockwork",
+            "url": "/player/6680?period=all"
+        },
+        "p1": {
+            "name": "SoScared",
+            "url": "/player/2793?period=all"
+        }
+    },
+    {
+        "date": "2017-12-08 17:00:47",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "SoScared",
+            "url": "/player/2793?period=all"
+        },
+        "p1": {
+            "name": "lucassss",
+            "url": "/player/6211?period=all"
+        }
+    },
+    {
+        "date": "2017-12-08 17:18:50",
+        "map": "Keep Off The Grass 2 (RAGL:S4)",
+        "p0": {
+            "name": "lucassss",
+            "url": "/player/6211?period=all"
+        },
+        "p1": {
+            "name": "SoScared",
+            "url": "/player/2793?period=all"
+        }
+    },
+    {
+        "date": "2017-12-09 06:39:51",
+        "map": "Agenda (RAGL:S4)",
+        "p0": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2017-12-09 06:57:44",
+        "map": "Borrowed Time (RAGL:S4)",
+        "p0": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2017-12-09 16:58:02",
+        "map": "Ysmir (RAGL:S4)",
+        "p0": {
+            "name": "Smitty",
+            "url": "/player/6586?period=all"
+        },
+        "p1": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        }
+    },
+    {
+        "date": "2017-12-09 17:29:21",
+        "map": "A Nuclear Winter (RAGL:S4)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "Smitty",
+            "url": "/player/6586?period=all"
+        }
+    },
+    {
+        "date": "2017-12-13 13:03:28",
+        "map": "Borrowed Time (RAGL:S4)",
+        "p0": {
+            "name": "kazu.",
+            "url": "/player/6528?period=all"
+        },
+        "p1": {
+            "name": "Sotsch",
+            "url": "/player/6832?period=all"
+        }
+    },
+    {
+        "date": "2017-12-13 19:59:32",
+        "map": "Borrowed Time (RAGL:S4)",
+        "p0": {
+            "name": "Clockwork",
+            "url": "/player/6680?period=all"
+        },
+        "p1": {
+            "name": "SoScared",
+            "url": "/player/2793?period=all"
+        }
+    },
+    {
+        "date": "2017-12-13 20:05:20",
+        "map": "Borrowed Time (RAGL:S4)",
+        "p0": {
+            "name": "Clockwork",
+            "url": "/player/6680?period=all"
+        },
+        "p1": {
+            "name": "SoScared",
+            "url": "/player/2793?period=all"
+        }
+    },
+    {
+        "date": "2017-12-13 20:17:06",
+        "map": "Agenda (RAGL:S4)",
+        "p0": {
+            "name": "Clockwork",
+            "url": "/player/6680?period=all"
+        },
+        "p1": {
+            "name": "SoScared",
+            "url": "/player/2793?period=all"
+        }
+    },
+    {
+        "date": "2017-12-15 11:05:53",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "kazu.",
+            "url": "/player/6528?period=all"
+        },
+        "p1": {
+            "name": "WaRRyKeR",
+            "url": "/player/6938?period=all"
+        }
+    },
+    {
+        "date": "2017-12-15 11:28:55",
+        "map": "Sidestep (RAGL:S4)",
+        "p0": {
+            "name": "kazu.",
+            "url": "/player/6528?period=all"
+        },
+        "p1": {
+            "name": "WaRRyKeR",
+            "url": "/player/6938?period=all"
+        }
+    },
+    {
+        "date": "2017-12-15 19:15:48",
+        "map": "Behind the Veil (RAGL:S4)",
+        "p0": {
+            "name": "WaRRyKeR",
+            "url": "/player/6938?period=all"
+        },
+        "p1": {
+            "name": "bullE",
+            "url": "/player/6896?period=all"
+        }
+    },
+    {
+        "date": "2017-12-15 19:40:29",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "bullE",
+            "url": "/player/6896?period=all"
+        },
+        "p1": {
+            "name": "WaRRyKeR",
+            "url": "/player/6938?period=all"
+        }
+    },
+    {
+        "date": "2017-12-15 19:56:48",
+        "map": "Agenda (RAGL:S4)",
+        "p0": {
+            "name": "bullE",
+            "url": "/player/6896?period=all"
+        },
+        "p1": {
+            "name": "WaRRyKeR",
+            "url": "/player/6938?period=all"
+        }
+    },
+    {
+        "date": "2017-12-15 20:24:39",
+        "map": "Sidestep (RAGL:S4)",
+        "p0": {
+            "name": "WaRRyKeR",
+            "url": "/player/6938?period=all"
+        },
+        "p1": {
+            "name": "bullE",
+            "url": "/player/6896?period=all"
+        }
+    },
+    {
+        "date": "2017-12-15 20:49:54",
+        "map": "A Nuclear Winter (RAGL:S4)",
+        "p0": {
+            "name": "WaRRyKeR",
+            "url": "/player/6938?period=all"
+        },
+        "p1": {
+            "name": "bullE",
+            "url": "/player/6896?period=all"
+        }
+    },
+    {
+        "date": "2017-12-16 21:07:53",
+        "map": "Winter Storm 2 (RAGL:S4)",
+        "p0": {
+            "name": "OMnom",
+            "url": "/player/6608?period=all"
+        },
+        "p1": {
+            "name": "Doomsday",
+            "url": "/player/6621?period=all"
+        }
+    },
+    {
+        "date": "2017-12-16 21:21:14",
+        "map": "Sidestep (RAGL:S4)",
+        "p0": {
+            "name": "OMnom",
+            "url": "/player/6608?period=all"
+        },
+        "p1": {
+            "name": "Doomsday",
+            "url": "/player/6621?period=all"
+        }
+    },
+    {
+        "date": "2017-12-16 21:28:54",
+        "map": "Keep Off The Grass 2 (RAGL:S4)",
+        "p0": {
+            "name": "OMnom",
+            "url": "/player/6608?period=all"
+        },
+        "p1": {
+            "name": "Doomsday",
+            "url": "/player/6621?period=all"
+        }
+    },
+    {
+        "date": "2017-12-17 17:04:28",
+        "map": "Winter Storm 2 (RAGL:S4)",
+        "p0": {
+            "name": "Gatekeeper",
+            "url": "/player/6026?period=all"
+        },
+        "p1": {
+            "name": "Smitty",
+            "url": "/player/6586?period=all"
+        }
+    },
+    {
+        "date": "2017-12-22 19:47:00",
+        "map": "Ysmir (RAGL:S4)",
+        "p0": {
+            "name": "kazu.",
+            "url": "/player/6528?period=all"
+        },
+        "p1": {
+            "name": "Sotsch",
+            "url": "/player/6832?period=all"
+        }
+    },
+    {
+        "date": "2017-12-22 20:12:46",
+        "map": "A Nuclear Winter (RAGL:S4)",
+        "p0": {
+            "name": "kazu.",
+            "url": "/player/6528?period=all"
+        },
+        "p1": {
+            "name": "Sotsch",
+            "url": "/player/6832?period=all"
+        }
+    },
+    {
+        "date": "2017-12-22 20:46:53",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "Sotsch",
+            "url": "/player/6832?period=all"
+        },
+        "p1": {
+            "name": "kazu.",
+            "url": "/player/6528?period=all"
+        }
+    },
+    {
+        "date": "2017-12-22 21:31:34",
+        "map": "Behind the Veil (RAGL:S4)",
+        "p0": {
+            "name": "kazu.",
+            "url": "/player/6528?period=all"
+        },
+        "p1": {
+            "name": "Sotsch",
+            "url": "/player/6832?period=all"
+        }
+    },
+    {
+        "date": "2017-12-23 16:15:32",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "Lorrydriver",
+            "url": "/player/6646?period=all"
+        },
+        "p1": {
+            "name": "Smitty",
+            "url": "/player/6586?period=all"
+        }
+    },
+    {
+        "date": "2017-12-23 16:29:34",
+        "map": "Agenda (RAGL:S4)",
+        "p0": {
+            "name": "Lorrydriver",
+            "url": "/player/6646?period=all"
+        },
+        "p1": {
+            "name": "Smitty",
+            "url": "/player/6586?period=all"
+        }
+    },
+    {
+        "date": "2017-12-23 16:40:55",
+        "map": "Shadow Fiend (RAGL:S4)",
+        "p0": {
+            "name": "Lorrydriver",
+            "url": "/player/6646?period=all"
+        },
+        "p1": {
+            "name": "Smitty",
+            "url": "/player/6586?period=all"
+        }
+    },
+    {
+        "date": "2017-12-24 18:07:46",
+        "map": "Shadow Fiend (RAGL:S4)",
+        "p0": {
+            "name": "Gatekeeper",
+            "url": "/player/6026?period=all"
+        },
+        "p1": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        }
+    },
+    {
+        "date": "2017-12-24 18:41:55",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "Gatekeeper",
+            "url": "/player/6026?period=all"
+        }
+    },
+    {
+        "date": "2017-12-24 18:54:35",
+        "map": "Sidestep (RAGL:S4)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "Gatekeeper",
+            "url": "/player/6026?period=all"
+        }
+    },
+    {
+        "date": "2017-12-24 19:17:03",
+        "map": "Winter Storm 2 (RAGL:S4)",
+        "p0": {
+            "name": "Gatekeeper",
+            "url": "/player/6026?period=all"
+        },
+        "p1": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        }
+    },
+    {
+        "date": "2017-12-24 19:44:18",
+        "map": "Ysmir (RAGL:S4)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "Gatekeeper",
+            "url": "/player/6026?period=all"
+        }
+    },
+    {
+        "date": "2017-12-28 16:05:28",
+        "map": "Ysmir (RAGL:S4)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "kazu.",
+            "url": "/player/6528?period=all"
+        }
+    },
+    {
+        "date": "2017-12-30 17:15:20",
+        "map": "Agenda (RAGL:S4)",
+        "p0": {
+            "name": "Gatekeeper",
+            "url": "/player/6026?period=all"
+        },
+        "p1": {
+            "name": "Smitty",
+            "url": "/player/6586?period=all"
+        }
+    },
+    {
+        "date": "2017-12-30 17:26:21",
+        "map": "Pitfight (RAGL:S4)",
+        "p0": {
+            "name": "Smitty",
+            "url": "/player/6586?period=all"
+        },
+        "p1": {
+            "name": "Gatekeeper",
+            "url": "/player/6026?period=all"
+        }
+    },
+    {
+        "date": "2017-12-30 17:58:32",
+        "map": "Borrowed Time (RAGL:S4)",
+        "p0": {
+            "name": "Smitty",
+            "url": "/player/6586?period=all"
+        },
+        "p1": {
+            "name": "Gatekeeper",
+            "url": "/player/6026?period=all"
+        }
+    },
+    {
+        "date": "2017-12-30 18:19:20",
+        "map": "Winter Storm 2 (RAGL:S4)",
+        "p0": {
+            "name": "Smitty",
+            "url": "/player/6586?period=all"
+        },
+        "p1": {
+            "name": "Gatekeeper",
+            "url": "/player/6026?period=all"
+        }
+    },
+    {
+        "date": "2017-12-30 20:23:04",
+        "map": "BIGGER MAP",
+        "p0": {
+            "name": "Smitty",
+            "url": "/player/6586?period=all"
+        },
+        "p1": {
+            "name": "Gatekeeper",
+            "url": "/player/6026?period=all"
+        }
     }
 ]
