@@ -3022,5 +3022,3305 @@
             "name": "Orb",
             "url": "/player/6748?period=all"
         }
+    },
+    {
+        "date": "2018-10-11 17:04:36",
+        "map": "Badger Hills (RAGL:S6)",
+        "p0": {
+            "name": "WhoCares",
+            "url": "/player/6723?period=all"
+        },
+        "p1": {
+            "name": "Punsho",
+            "url": "/player/7223?period=all"
+        }
+    },
+    {
+        "date": "2018-10-11 17:35:52",
+        "map": "Snakes and Ladders (RAGL:S6)",
+        "p0": {
+            "name": "WhoCares",
+            "url": "/player/6723?period=all"
+        },
+        "p1": {
+            "name": "Punsho",
+            "url": "/player/7223?period=all"
+        }
+    },
+    {
+        "date": "2018-10-12 11:43:45",
+        "map": "Map X (RAGL:S6)",
+        "p0": {
+            "name": "WhoCares",
+            "url": "/player/6723?period=all"
+        },
+        "p1": {
+            "name": "Julle",
+            "url": "/player/-38?period=all"
+        }
+    },
+    {
+        "date": "2018-10-12 11:57:11",
+        "map": "Beyond Destruction (RAGL:S6)",
+        "p0": {
+            "name": "WhoCares",
+            "url": "/player/6723?period=all"
+        },
+        "p1": {
+            "name": "Julle",
+            "url": "/player/-38?period=all"
+        }
+    },
+    {
+        "date": "2018-10-13 03:42:10",
+        "map": "Forgotten Plains (RAGL:S6)",
+        "p0": {
+            "name": "WhoCares",
+            "url": "/player/6723?period=all"
+        },
+        "p1": {
+            "name": "Odourless",
+            "url": "/player/-40?period=all"
+        }
+    },
+    {
+        "date": "2018-10-13 03:52:46",
+        "map": "Shadowfiend II (RAGL:S6)",
+        "p0": {
+            "name": "Odourless",
+            "url": "/player/-40?period=all"
+        },
+        "p1": {
+            "name": "WhoCares",
+            "url": "/player/6723?period=all"
+        }
+    },
+    {
+        "date": "2018-10-13 08:12:22",
+        "map": "Forgotten Plains (RAGL:S6)",
+        "p0": {
+            "name": "WhoCares",
+            "url": "/player/6723?period=all"
+        },
+        "p1": {
+            "name": "mechANIC",
+            "url": "/player/6757?period=all"
+        }
+    },
+    {
+        "date": "2018-10-13 08:36:10",
+        "map": "Map X (RAGL:S6)",
+        "p0": {
+            "name": "mechANIC",
+            "url": "/player/6757?period=all"
+        },
+        "p1": {
+            "name": "WhoCares",
+            "url": "/player/6723?period=all"
+        }
+    },
+    {
+        "date": "2018-10-13 09:08:17",
+        "map": "Fallout (RAGL:S6)",
+        "p0": {
+            "name": "WhoCares",
+            "url": "/player/6723?period=all"
+        },
+        "p1": {
+            "name": "merimursu",
+            "url": "/player/-39?period=all"
+        }
+    },
+    {
+        "date": "2018-10-13 09:18:26",
+        "map": "Forgotten Plains (RAGL:S6)",
+        "p0": {
+            "name": "WhoCares",
+            "url": "/player/6723?period=all"
+        },
+        "p1": {
+            "name": "merimursu",
+            "url": "/player/-39?period=all"
+        }
+    },
+    {
+        "date": "2018-10-13 18:30:37",
+        "map": "Map X (RAGL:S6)",
+        "p0": {
+            "name": "SirCake",
+            "url": "/player/6288?period=all"
+        },
+        "p1": {
+            "name": "WhoCares",
+            "url": "/player/6723?period=all"
+        }
+    },
+    {
+        "date": "2018-10-13 18:38:29",
+        "map": "Shadowfiend II (RAGL:S6)",
+        "p0": {
+            "name": "WhoCares",
+            "url": "/player/6723?period=all"
+        },
+        "p1": {
+            "name": "SirCake",
+            "url": "/player/6288?period=all"
+        }
+    },
+    {
+        "date": "2018-10-13 19:17:21",
+        "map": "Forgotten Plains (RAGL:S6)",
+        "p0": {
+            "name": "Jur",
+            "url": "/player/6941?period=all"
+        },
+        "p1": {
+            "name": "WhoCares",
+            "url": "/player/6723?period=all"
+        }
+    },
+    {
+        "date": "2018-10-13 19:36:53",
+        "map": "Beyond Destruction (RAGL:S6)",
+        "p0": {
+            "name": "WhoCares",
+            "url": "/player/6723?period=all"
+        },
+        "p1": {
+            "name": "Jur",
+            "url": "/player/6941?period=all"
+        }
+    },
+    {
+        "date": "2018-10-14 12:56:22",
+        "map": "Shadowfiend II (RAGL:S6)",
+        "p0": {
+            "name": "WhoCares",
+            "url": "/player/6723?period=all"
+        },
+        "p1": {
+            "name": "Dualwarhead",
+            "url": "/player/-41?period=all"
+        }
+    },
+    {
+        "date": "2018-10-14 13:12:41",
+        "map": "Shared Responsibility (RAGL:S6)",
+        "p0": {
+            "name": "WhoCares",
+            "url": "/player/6723?period=all"
+        },
+        "p1": {
+            "name": "Dualwarhead",
+            "url": "/player/-41?period=all"
+        }
+    },
+    {
+        "date": "2018-10-15 11:20:50",
+        "map": "Map X (RAGL:S6)",
+        "p0": {
+            "name": "WhoCares",
+            "url": "/player/6723?period=all"
+        },
+        "p1": {
+            "name": "Zaqzorn",
+            "url": "/player/6265?period=all"
+        }
+    },
+    {
+        "date": "2018-10-15 11:34:34",
+        "map": "Beyond Destruction (RAGL:S6)",
+        "p0": {
+            "name": "WhoCares",
+            "url": "/player/6723?period=all"
+        },
+        "p1": {
+            "name": "Zaqzorn",
+            "url": "/player/6265?period=all"
+        }
+    },
+    {
+        "date": "2018-10-15 11:52:05",
+        "map": "Uzala (RAGL:S6)",
+        "p0": {
+            "name": "WhoCares",
+            "url": "/player/6723?period=all"
+        },
+        "p1": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        }
+    },
+    {
+        "date": "2018-10-15 11:59:52",
+        "map": "Forgotten Plains (RAGL:S6)",
+        "p0": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        },
+        "p1": {
+            "name": "WhoCares",
+            "url": "/player/6723?period=all"
+        }
+    },
+    {
+        "date": "2018-10-15 17:24:46",
+        "map": "Map X (RAGL:S6)",
+        "p0": {
+            "name": "WhoCares",
+            "url": "/player/6723?period=all"
+        },
+        "p1": {
+            "name": "beuk",
+            "url": "/player/-43?period=all"
+        }
+    },
+    {
+        "date": "2018-10-15 17:35:41",
+        "map": "Shared Responsibility (RAGL:S6)",
+        "p0": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        },
+        "p1": {
+            "name": "netnazgul",
+            "url": "/player/6856?period=all"
+        }
+    },
+    {
+        "date": "2018-10-15 17:36:41",
+        "map": "Snakes and Ladders (RAGL:S6)",
+        "p0": {
+            "name": "WhoCares",
+            "url": "/player/6723?period=all"
+        },
+        "p1": {
+            "name": "beuk",
+            "url": "/player/-43?period=all"
+        }
+    },
+    {
+        "date": "2018-10-15 17:54:24",
+        "map": "Badger Hills (RAGL:S6)",
+        "p0": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        },
+        "p1": {
+            "name": "netnazgul",
+            "url": "/player/6856?period=all"
+        }
+    },
+    {
+        "date": "2018-10-15 19:51:29",
+        "map": "Forgotten Plains (RAGL:S6)",
+        "p0": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        },
+        "p1": {
+            "name": "Jur",
+            "url": "/player/6941?period=all"
+        }
+    },
+    {
+        "date": "2018-10-15 20:02:18",
+        "map": "Beyond Destruction (RAGL:S6)",
+        "p0": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        },
+        "p1": {
+            "name": "Jur",
+            "url": "/player/6941?period=all"
+        }
+    },
+    {
+        "date": "2018-10-15 21:03:24",
+        "map": "Forgotten Plains (RAGL:S6)",
+        "p0": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        },
+        "p1": {
+            "name": "dragunoff",
+            "url": "/player/7229?period=all"
+        }
+    },
+    {
+        "date": "2018-10-15 21:16:44",
+        "map": "Shared Responsibility (RAGL:S6)",
+        "p0": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        },
+        "p1": {
+            "name": "dragunoff",
+            "url": "/player/7229?period=all"
+        }
+    },
+    {
+        "date": "2018-10-16 18:06:22",
+        "map": "Oil Sands (RAGL:S6)",
+        "p0": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2018-10-16 18:21:25",
+        "map": "Uzala (RAGL:S6)",
+        "p0": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2018-10-16 19:23:36",
+        "map": "Badger Hills (RAGL:S6)",
+        "p0": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        },
+        "p1": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        }
+    },
+    {
+        "date": "2018-10-16 19:39:21",
+        "map": "Oil Sands (RAGL:S6)",
+        "p0": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        },
+        "p1": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        }
+    },
+    {
+        "date": "2018-10-17 11:35:08",
+        "map": "Stanitsa (RAGL:S6)",
+        "p0": {
+            "name": "WhoCares",
+            "url": "/player/6723?period=all"
+        },
+        "p1": {
+            "name": "DoDoCat",
+            "url": "/player/7687?period=all"
+        }
+    },
+    {
+        "date": "2018-10-17 11:47:35",
+        "map": "Forgotten Plains (RAGL:S6)",
+        "p0": {
+            "name": "WhoCares",
+            "url": "/player/6723?period=all"
+        },
+        "p1": {
+            "name": "DoDoCat",
+            "url": "/player/7687?period=all"
+        }
+    },
+    {
+        "date": "2018-10-17 18:32:50",
+        "map": "Forgotten Plains (RAGL:S6)",
+        "p0": {
+            "name": "Punsho",
+            "url": "/player/7223?period=all"
+        },
+        "p1": {
+            "name": "merimursu",
+            "url": "/player/-39?period=all"
+        }
+    },
+    {
+        "date": "2018-10-17 18:43:29",
+        "map": "Uzala (RAGL:S6)",
+        "p0": {
+            "name": "Punsho",
+            "url": "/player/7223?period=all"
+        },
+        "p1": {
+            "name": "merimursu",
+            "url": "/player/-39?period=all"
+        }
+    },
+    {
+        "date": "2018-10-17 19:42:37",
+        "map": "Shared Responsibility (RAGL:S6)",
+        "p0": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        },
+        "p1": {
+            "name": "dragunoff",
+            "url": "/player/7229?period=all"
+        }
+    },
+    {
+        "date": "2018-10-17 19:42:37",
+        "map": "Shared Responsibility (RAGL:S6)",
+        "p0": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        },
+        "p1": {
+            "name": "dragunoff",
+            "url": "/player/7229?period=all"
+        }
+    },
+    {
+        "date": "2018-10-17 20:19:37",
+        "map": "Snakes and Ladders (RAGL:S6)",
+        "p0": {
+            "name": "dragunoff",
+            "url": "/player/7229?period=all"
+        },
+        "p1": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        }
+    },
+    {
+        "date": "2018-10-17 20:19:37",
+        "map": "Snakes and Ladders (RAGL:S6)",
+        "p0": {
+            "name": "dragunoff",
+            "url": "/player/7229?period=all"
+        },
+        "p1": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        }
+    },
+    {
+        "date": "2018-10-18 17:15:08",
+        "map": "Forgotten Plains (RAGL:S6)",
+        "p0": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        },
+        "p1": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        }
+    },
+    {
+        "date": "2018-10-18 17:34:24",
+        "map": "Uzala (RAGL:S6)",
+        "p0": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        },
+        "p1": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        }
+    },
+    {
+        "date": "2018-10-18 18:37:42",
+        "map": "Oil Sands (RAGL:S6)",
+        "p0": {
+            "name": "netnazgul",
+            "url": "/player/6856?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2018-10-18 18:52:06",
+        "map": "Shared Responsibility (RAGL:S6)",
+        "p0": {
+            "name": "netnazgul",
+            "url": "/player/6856?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2018-10-20 11:08:09",
+        "map": "Forgotten Plains (RAGL:S6)",
+        "p0": {
+            "name": "Zaqzorn",
+            "url": "/player/6265?period=all"
+        },
+        "p1": {
+            "name": "SirCake",
+            "url": "/player/6288?period=all"
+        }
+    },
+    {
+        "date": "2018-10-20 11:21:01",
+        "map": "Oil Sands (RAGL:S6)",
+        "p0": {
+            "name": "Zaqzorn",
+            "url": "/player/6265?period=all"
+        },
+        "p1": {
+            "name": "SirCake",
+            "url": "/player/6288?period=all"
+        }
+    },
+    {
+        "date": "2018-10-20 12:58:42",
+        "map": "Stanitsa (RAGL:S6)",
+        "p0": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2018-10-20 13:15:44",
+        "map": "Uzala (RAGL:S6)",
+        "p0": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2018-10-21 07:40:06",
+        "map": "Shared Responsibility (RAGL:S6)",
+        "p0": {
+            "name": "Dualwarhead",
+            "url": "/player/-41?period=all"
+        },
+        "p1": {
+            "name": "Odourless",
+            "url": "/player/-40?period=all"
+        }
+    },
+    {
+        "date": "2018-10-21 08:47:15",
+        "map": "Shadowfiend II (RAGL:S6)",
+        "p0": {
+            "name": "Odourless",
+            "url": "/player/-40?period=all"
+        },
+        "p1": {
+            "name": "Dualwarhead",
+            "url": "/player/-41?period=all"
+        }
+    },
+    {
+        "date": "2018-10-21 10:05:45",
+        "map": "Map X (RAGL:S6)",
+        "p0": {
+            "name": "Dualwarhead",
+            "url": "/player/-41?period=all"
+        },
+        "p1": {
+            "name": "mechANIC",
+            "url": "/player/6757?period=all"
+        }
+    },
+    {
+        "date": "2018-10-21 10:22:55",
+        "map": "Shared Responsibility (RAGL:S6)",
+        "p0": {
+            "name": "Dualwarhead",
+            "url": "/player/-41?period=all"
+        },
+        "p1": {
+            "name": "mechANIC",
+            "url": "/player/6757?period=all"
+        }
+    },
+    {
+        "date": "2018-10-21 12:12:13",
+        "map": "Map X (RAGL:S6)",
+        "p0": {
+            "name": "beuk",
+            "url": "/player/-43?period=all"
+        },
+        "p1": {
+            "name": "DoDoCat",
+            "url": "/player/7687?period=all"
+        }
+    },
+    {
+        "date": "2018-10-21 12:23:00",
+        "map": "Shared Responsibility (RAGL:S6)",
+        "p0": {
+            "name": "beuk",
+            "url": "/player/-43?period=all"
+        },
+        "p1": {
+            "name": "DoDoCat",
+            "url": "/player/7687?period=all"
+        }
+    },
+    {
+        "date": "2018-10-21 12:32:48",
+        "map": "Shared Responsibility (RAGL:S6)",
+        "p0": {
+            "name": "SirCake",
+            "url": "/player/6288?period=all"
+        },
+        "p1": {
+            "name": "Dualwarhead",
+            "url": "/player/-41?period=all"
+        }
+    },
+    {
+        "date": "2018-10-21 12:40:11",
+        "map": "Map X (RAGL:S6)",
+        "p0": {
+            "name": "Dualwarhead",
+            "url": "/player/-41?period=all"
+        },
+        "p1": {
+            "name": "SirCake",
+            "url": "/player/6288?period=all"
+        }
+    },
+    {
+        "date": "2018-10-21 17:45:57",
+        "map": "Stanitsa (RAGL:S5)",
+        "p0": {
+            "name": "Jur",
+            "url": "/player/6941?period=all"
+        },
+        "p1": {
+            "name": "merimursu",
+            "url": "/player/-39?period=all"
+        }
+    },
+    {
+        "date": "2018-10-21 17:57:15",
+        "map": "Forgotten Plains (RAGL:S6)",
+        "p0": {
+            "name": "Jur",
+            "url": "/player/6941?period=all"
+        },
+        "p1": {
+            "name": "merimursu",
+            "url": "/player/-39?period=all"
+        }
+    },
+    {
+        "date": "2018-10-21 18:05:18",
+        "map": "Map X (RAGL:S6)",
+        "p0": {
+            "name": "mechANIC",
+            "url": "/player/6757?period=all"
+        },
+        "p1": {
+            "name": "Zaqzorn",
+            "url": "/player/6265?period=all"
+        }
+    },
+    {
+        "date": "2018-10-21 18:15:21",
+        "map": "Oil Sands (RAGL:S6)",
+        "p0": {
+            "name": "Zaqzorn",
+            "url": "/player/6265?period=all"
+        },
+        "p1": {
+            "name": "mechANIC",
+            "url": "/player/6757?period=all"
+        }
+    },
+    {
+        "date": "2018-10-23 18:52:16",
+        "map": "Stanitsa (RAGL:S6)",
+        "p0": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        },
+        "p1": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        }
+    },
+    {
+        "date": "2018-10-23 19:08:13",
+        "map": "Badger Hills (RAGL:S6)",
+        "p0": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        },
+        "p1": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        }
+    },
+    {
+        "date": "2018-10-24 18:06:40",
+        "map": "Shared Responsibility (RAGL:S6)",
+        "p0": {
+            "name": "netnazgul",
+            "url": "/player/6856?period=all"
+        },
+        "p1": {
+            "name": "dragunoff",
+            "url": "/player/7229?period=all"
+        }
+    },
+    {
+        "date": "2018-10-24 18:25:14",
+        "map": "Snakes and Ladders (RAGL:S6)",
+        "p0": {
+            "name": "netnazgul",
+            "url": "/player/6856?period=all"
+        },
+        "p1": {
+            "name": "dragunoff",
+            "url": "/player/7229?period=all"
+        }
+    },
+    {
+        "date": "2018-10-24 18:52:48",
+        "map": "Map X (RAGL:S6)",
+        "p0": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        },
+        "p1": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        }
+    },
+    {
+        "date": "2018-10-24 19:05:42",
+        "map": "Snakes and Ladders (RAGL:S6)",
+        "p0": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        },
+        "p1": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        }
+    },
+    {
+        "date": "2018-10-25 04:14:54",
+        "map": "Shadowfiend II (RAGL:S6)",
+        "p0": {
+            "name": "Odourless",
+            "url": "/player/-40?period=all"
+        },
+        "p1": {
+            "name": "mechANIC",
+            "url": "/player/6757?period=all"
+        }
+    },
+    {
+        "date": "2018-10-25 17:49:43",
+        "map": "Shadowfiend II (RAGL:S6)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "eskimo",
+            "url": "/player/6695?period=all"
+        }
+    },
+    {
+        "date": "2018-10-25 17:56:20",
+        "map": "Map X (RAGL:S6)",
+        "p0": {
+            "name": "Punsho",
+            "url": "/player/7223?period=all"
+        },
+        "p1": {
+            "name": "lundiz",
+            "url": "/player/6974?period=all"
+        }
+    },
+    {
+        "date": "2018-10-25 18:03:56",
+        "map": "Badger Hills (RAGL:S6)",
+        "p0": {
+            "name": "Punsho",
+            "url": "/player/7223?period=all"
+        },
+        "p1": {
+            "name": "lundiz",
+            "url": "/player/6974?period=all"
+        }
+    },
+    {
+        "date": "2018-10-25 18:09:10",
+        "map": "Uzala (RAGL:S6)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "eskimo",
+            "url": "/player/6695?period=all"
+        }
+    },
+    {
+        "date": "2018-10-25 18:42:36",
+        "map": "Badger Hills (RAGL:S6)",
+        "p0": {
+            "name": "Jur",
+            "url": "/player/6941?period=all"
+        },
+        "p1": {
+            "name": "lundiz",
+            "url": "/player/6974?period=all"
+        }
+    },
+    {
+        "date": "2018-10-25 19:19:50",
+        "map": "Forgotten Plains (RAGL:S6)",
+        "p0": {
+            "name": "Jur",
+            "url": "/player/6941?period=all"
+        },
+        "p1": {
+            "name": "lundiz",
+            "url": "/player/6974?period=all"
+        }
+    },
+    {
+        "date": "2018-10-26 21:25:13",
+        "map": "Badger Hills (RAGL:S6)",
+        "p0": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2018-10-26 21:37:54",
+        "map": "Oil Sands (RAGL:S6)",
+        "p0": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2018-10-27 05:05:16",
+        "map": "Map X (RAGL:S6)",
+        "p0": {
+            "name": "Dualwarhead",
+            "url": "/player/-41?period=all"
+        },
+        "p1": {
+            "name": "DoDoCat",
+            "url": "/player/7687?period=all"
+        }
+    },
+    {
+        "date": "2018-10-27 05:59:20",
+        "map": "Shadowfiend II (RAGL:S6)",
+        "p0": {
+            "name": "Dualwarhead",
+            "url": "/player/-41?period=all"
+        },
+        "p1": {
+            "name": "DoDoCat",
+            "url": "/player/7687?period=all"
+        }
+    },
+    {
+        "date": "2018-10-27 14:59:07",
+        "map": "Stanitsa (RAGL:S6)",
+        "p0": {
+            "name": "merimursu",
+            "url": "/player/-39?period=all"
+        },
+        "p1": {
+            "name": "Julle",
+            "url": "/player/-38?period=all"
+        }
+    },
+    {
+        "date": "2018-10-27 15:36:15",
+        "map": "Shadowfiend II (RAGL:S6)",
+        "p0": {
+            "name": "merimursu",
+            "url": "/player/-39?period=all"
+        },
+        "p1": {
+            "name": "Julle",
+            "url": "/player/-38?period=all"
+        }
+    },
+    {
+        "date": "2018-10-27 16:22:12",
+        "map": "Shadowfiend II (RAGL:S6)",
+        "p0": {
+            "name": "eskimo",
+            "url": "/player/6695?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2018-10-27 16:37:38",
+        "map": "Forgotten Plains (RAGL:S6)",
+        "p0": {
+            "name": "eskimo",
+            "url": "/player/6695?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2018-10-27 17:19:00",
+        "map": "Snakes and Ladders (RAGL:S6)",
+        "p0": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2018-10-27 17:33:06",
+        "map": "Map X (RAGL:S6)",
+        "p0": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2018-10-27 17:38:44",
+        "map": "Badger Hills (RAGL:S6)",
+        "p0": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        },
+        "p1": {
+            "name": "dragunoff",
+            "url": "/player/7229?period=all"
+        }
+    },
+    {
+        "date": "2018-10-27 17:50:26",
+        "map": "Snakes and Ladders (RAGL:S6)",
+        "p0": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        },
+        "p1": {
+            "name": "dragunoff",
+            "url": "/player/7229?period=all"
+        }
+    },
+    {
+        "date": "2018-10-27 18:08:53",
+        "map": "Badger Hills (RAGL:S6)",
+        "p0": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        },
+        "p1": {
+            "name": "eskimo",
+            "url": "/player/6695?period=all"
+        }
+    },
+    {
+        "date": "2018-10-27 18:29:16",
+        "map": "Map X (RAGL:S6)",
+        "p0": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        },
+        "p1": {
+            "name": "eskimo",
+            "url": "/player/6695?period=all"
+        }
+    },
+    {
+        "date": "2018-10-27 18:49:58",
+        "map": "Beyond Destruction (RAGL:S6)",
+        "p0": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2018-10-27 18:59:08",
+        "map": "Map X (RAGL:S6)",
+        "p0": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2018-10-28 12:43:42",
+        "map": "Snakes and Ladders (RAGL:S6)",
+        "p0": {
+            "name": "WhoCares",
+            "url": "/player/6723?period=all"
+        },
+        "p1": {
+            "name": "lundiz",
+            "url": "/player/6974?period=all"
+        }
+    },
+    {
+        "date": "2018-10-28 12:58:52",
+        "map": "Shared Responsibility r2 (RAGL:S6)",
+        "p0": {
+            "name": "WhoCares",
+            "url": "/player/6723?period=all"
+        },
+        "p1": {
+            "name": "lundiz",
+            "url": "/player/6974?period=all"
+        }
+    },
+    {
+        "date": "2018-10-29 19:05:34",
+        "map": "Stanitsa (RAGL:S6)",
+        "p0": {
+            "name": "Jur",
+            "url": "/player/6941?period=all"
+        },
+        "p1": {
+            "name": "Punsho",
+            "url": "/player/7223?period=all"
+        }
+    },
+    {
+        "date": "2018-10-29 19:27:09",
+        "map": "Beyond Destruction (RAGL:S6)",
+        "p0": {
+            "name": "Jur",
+            "url": "/player/6941?period=all"
+        },
+        "p1": {
+            "name": "Punsho",
+            "url": "/player/7223?period=all"
+        }
+    },
+    {
+        "date": "2018-10-30 17:37:52",
+        "map": "Stanitsa (RAGL:S6)",
+        "p0": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        },
+        "p1": {
+            "name": "netnazgul",
+            "url": "/player/6856?period=all"
+        }
+    },
+    {
+        "date": "2018-10-30 17:50:35",
+        "map": "Shared Responsibility r2 (RAGL:S6)",
+        "p0": {
+            "name": "netnazgul",
+            "url": "/player/6856?period=all"
+        },
+        "p1": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        }
+    },
+    {
+        "date": "2018-10-30 18:13:35",
+        "map": "Forgotten Plains (RAGL:S6)",
+        "p0": {
+            "name": "eskimo",
+            "url": "/player/6695?period=all"
+        },
+        "p1": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        }
+    },
+    {
+        "date": "2018-10-30 18:51:01",
+        "map": "Snakes and Ladders (RAGL:S6)",
+        "p0": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        },
+        "p1": {
+            "name": "eskimo",
+            "url": "/player/6695?period=all"
+        }
+    },
+    {
+        "date": "2018-10-30 19:58:02",
+        "map": "Badger Hills (RAGL:S6)",
+        "p0": {
+            "name": "lundiz",
+            "url": "/player/6974?period=all"
+        },
+        "p1": {
+            "name": "beuk",
+            "url": "/player/-43?period=all"
+        }
+    },
+    {
+        "date": "2018-10-30 20:23:44",
+        "map": "Map X (RAGL:S6)",
+        "p0": {
+            "name": "lundiz",
+            "url": "/player/6974?period=all"
+        },
+        "p1": {
+            "name": "beuk",
+            "url": "/player/-43?period=all"
+        }
+    },
+    {
+        "date": "2018-10-30 21:25:06",
+        "map": "Beyond Destruction (RAGL:S6)",
+        "p0": {
+            "name": "Jur",
+            "url": "/player/6941?period=all"
+        },
+        "p1": {
+            "name": "beuk",
+            "url": "/player/-43?period=all"
+        }
+    },
+    {
+        "date": "2018-10-30 21:41:44",
+        "map": "Map X (RAGL:S6)",
+        "p0": {
+            "name": "beuk",
+            "url": "/player/-43?period=all"
+        },
+        "p1": {
+            "name": "Jur",
+            "url": "/player/6941?period=all"
+        }
+    },
+    {
+        "date": "2018-10-31 14:27:39",
+        "map": "Forgotten Plains (RAGL:S6)",
+        "p0": {
+            "name": "Zaqzorn",
+            "url": "/player/6265?period=all"
+        },
+        "p1": {
+            "name": "merimursu",
+            "url": "/player/-39?period=all"
+        }
+    },
+    {
+        "date": "2018-10-31 14:48:59",
+        "map": "Beyond Destruction (RAGL:S6)",
+        "p0": {
+            "name": "Zaqzorn",
+            "url": "/player/6265?period=all"
+        },
+        "p1": {
+            "name": "merimursu",
+            "url": "/player/-39?period=all"
+        }
+    },
+    {
+        "date": "2018-10-31 15:18:38",
+        "map": "Shadowfiend II (RAGL:S6)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        }
+    },
+    {
+        "date": "2018-10-31 15:32:26",
+        "map": "Uzala (RAGL:S6)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        }
+    },
+    {
+        "date": "2018-11-01 11:02:16",
+        "map": "Map X (RAGL:S6)",
+        "p0": {
+            "name": "SirCake",
+            "url": "/player/6288?period=all"
+        },
+        "p1": {
+            "name": "jjkramok",
+            "url": "/player/-42?period=all"
+        }
+    },
+    {
+        "date": "2018-11-01 11:25:39",
+        "map": "Stanitsa (RAGL:S6)",
+        "p0": {
+            "name": "SirCake",
+            "url": "/player/6288?period=all"
+        },
+        "p1": {
+            "name": "jjkramok",
+            "url": "/player/-42?period=all"
+        }
+    },
+    {
+        "date": "2018-11-01 14:21:42",
+        "map": "Map X (RAGL:S6)",
+        "p0": {
+            "name": "jjkramok",
+            "url": "/player/-42?period=all"
+        },
+        "p1": {
+            "name": "merimursu",
+            "url": "/player/-39?period=all"
+        }
+    },
+    {
+        "date": "2018-11-01 14:34:37",
+        "map": "Shadowfiend II (RAGL:S6)",
+        "p0": {
+            "name": "jjkramok",
+            "url": "/player/-42?period=all"
+        },
+        "p1": {
+            "name": "merimursu",
+            "url": "/player/-39?period=all"
+        }
+    },
+    {
+        "date": "2018-11-01 15:24:51",
+        "map": "Map X (RAGL:S6)",
+        "p0": {
+            "name": "merimursu",
+            "url": "/player/-39?period=all"
+        },
+        "p1": {
+            "name": "beuk",
+            "url": "/player/-43?period=all"
+        }
+    },
+    {
+        "date": "2018-11-01 15:44:27",
+        "map": "Stanitsa (RAGL:S6)",
+        "p0": {
+            "name": "beuk",
+            "url": "/player/-43?period=all"
+        },
+        "p1": {
+            "name": "merimursu",
+            "url": "/player/-39?period=all"
+        }
+    },
+    {
+        "date": "2018-11-01 20:35:43",
+        "map": "Shadowfiend II (RAGL:S6)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "dragunoff",
+            "url": "/player/7229?period=all"
+        }
+    },
+    {
+        "date": "2018-11-01 20:44:21",
+        "map": "Snakes and Ladders (RAGL:S6)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "dragunoff",
+            "url": "/player/7229?period=all"
+        }
+    },
+    {
+        "date": "2018-11-02 14:02:52",
+        "map": "Map X (RAGL:S6)",
+        "p0": {
+            "name": "Punsho",
+            "url": "/player/7223?period=all"
+        },
+        "p1": {
+            "name": "jjkramok",
+            "url": "/player/-42?period=all"
+        }
+    },
+    {
+        "date": "2018-11-02 14:15:54",
+        "map": "Snakes and Ladders (RAGL:S6)",
+        "p0": {
+            "name": "Punsho",
+            "url": "/player/7223?period=all"
+        },
+        "p1": {
+            "name": "jjkramok",
+            "url": "/player/-42?period=all"
+        }
+    },
+    {
+        "date": "2018-11-02 14:32:37",
+        "map": "Uzala (RAGL:S6)",
+        "p0": {
+            "name": "Punsho",
+            "url": "/player/7223?period=all"
+        },
+        "p1": {
+            "name": "Zaqzorn",
+            "url": "/player/6265?period=all"
+        }
+    },
+    {
+        "date": "2018-11-02 14:44:58",
+        "map": "Snakes and Ladders (RAGL:S6)",
+        "p0": {
+            "name": "Punsho",
+            "url": "/player/7223?period=all"
+        },
+        "p1": {
+            "name": "Zaqzorn",
+            "url": "/player/6265?period=all"
+        }
+    },
+    {
+        "date": "2018-11-02 15:05:05",
+        "map": "Map X (RAGL:S6)",
+        "p0": {
+            "name": "jjkramok",
+            "url": "/player/-42?period=all"
+        },
+        "p1": {
+            "name": "DoDoCat",
+            "url": "/player/7687?period=all"
+        }
+    },
+    {
+        "date": "2018-11-02 15:24:07",
+        "map": "Beyond Destruction (RAGL:S6)",
+        "p0": {
+            "name": "jjkramok",
+            "url": "/player/-42?period=all"
+        },
+        "p1": {
+            "name": "DoDoCat",
+            "url": "/player/7687?period=all"
+        }
+    },
+    {
+        "date": "2018-11-02 15:38:49",
+        "map": "Map X (RAGL:S6)",
+        "p0": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        },
+        "p1": {
+            "name": "Zaqzorn",
+            "url": "/player/6265?period=all"
+        }
+    },
+    {
+        "date": "2018-11-02 15:41:24",
+        "map": "Map X (RAGL:S6)",
+        "p0": {
+            "name": "Punsho",
+            "url": "/player/7223?period=all"
+        },
+        "p1": {
+            "name": "beuk",
+            "url": "/player/-43?period=all"
+        }
+    },
+    {
+        "date": "2018-11-02 15:53:08",
+        "map": "Snakes and Ladders (RAGL:S6)",
+        "p0": {
+            "name": "beuk",
+            "url": "/player/-43?period=all"
+        },
+        "p1": {
+            "name": "Punsho",
+            "url": "/player/7223?period=all"
+        }
+    },
+    {
+        "date": "2018-11-02 15:59:53",
+        "map": "Shadowfiend II (RAGL:S6)",
+        "p0": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        },
+        "p1": {
+            "name": "Zaqzorn",
+            "url": "/player/6265?period=all"
+        }
+    },
+    {
+        "date": "2018-11-03 16:45:09",
+        "map": "Badger Hills (RAGL:S6)",
+        "p0": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        },
+        "p1": {
+            "name": "netnazgul",
+            "url": "/player/6856?period=all"
+        }
+    },
+    {
+        "date": "2018-11-03 16:59:08",
+        "map": "Snakes and Ladders (RAGL:S6)",
+        "p0": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        },
+        "p1": {
+            "name": "netnazgul",
+            "url": "/player/6856?period=all"
+        }
+    },
+    {
+        "date": "2018-11-03 17:27:03",
+        "map": "Badger Hills (RAGL:S6)",
+        "p0": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        },
+        "p1": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        }
+    },
+    {
+        "date": "2018-11-03 17:44:57",
+        "map": "Shared Responsibility r2 (RAGL:S6)",
+        "p0": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        },
+        "p1": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        }
+    },
+    {
+        "date": "2018-11-04 07:03:57",
+        "map": "Shadowfiend II (RAGL:S6)",
+        "p0": {
+            "name": "Odourless",
+            "url": "/player/-40?period=all"
+        },
+        "p1": {
+            "name": "Punsho",
+            "url": "/player/7223?period=all"
+        }
+    },
+    {
+        "date": "2018-11-04 07:19:34",
+        "map": "Map X (RAGL:S6)",
+        "p0": {
+            "name": "Punsho",
+            "url": "/player/7223?period=all"
+        },
+        "p1": {
+            "name": "Odourless",
+            "url": "/player/-40?period=all"
+        }
+    },
+    {
+        "date": "2018-11-04 16:03:30",
+        "map": "Beyond Destruction (RAGL:S6)",
+        "p0": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        },
+        "p1": {
+            "name": "dragunoff",
+            "url": "/player/7229?period=all"
+        }
+    },
+    {
+        "date": "2018-11-04 16:20:06",
+        "map": "Snakes and Ladders (RAGL:S6)",
+        "p0": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        },
+        "p1": {
+            "name": "dragunoff",
+            "url": "/player/7229?period=all"
+        }
+    },
+    {
+        "date": "2018-11-04 16:52:14",
+        "map": "Badger Hills (RAGL:S6)",
+        "p0": {
+            "name": "Clockwork",
+            "url": "/player/6680?period=all"
+        },
+        "p1": {
+            "name": "dragunoff",
+            "url": "/player/7229?period=all"
+        }
+    },
+    {
+        "date": "2018-11-04 17:02:35",
+        "map": "Map X (RAGL:S6)",
+        "p0": {
+            "name": "Clockwork",
+            "url": "/player/6680?period=all"
+        },
+        "p1": {
+            "name": "dragunoff",
+            "url": "/player/7229?period=all"
+        }
+    },
+    {
+        "date": "2018-11-04 18:11:29",
+        "map": "Badger Hills (RAGL:S6)",
+        "p0": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2018-11-04 18:28:43",
+        "map": "Uzala (RAGL:S6)",
+        "p0": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2018-11-04 19:02:13",
+        "map": "Badger Hills (RAGL:S6)",
+        "p0": {
+            "name": "Clockwork",
+            "url": "/player/6680?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2018-11-04 19:17:36",
+        "map": "Oil Sands (RAGL:S6)",
+        "p0": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        },
+        "p1": {
+            "name": "Clockwork",
+            "url": "/player/6680?period=all"
+        }
+    },
+    {
+        "date": "2018-11-05 11:08:04",
+        "map": "Badger Hills (RAGL:S6)",
+        "p0": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2018-11-05 11:37:54",
+        "map": "Shadowfiend II (RAGL:S6)",
+        "p0": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2018-11-05 15:05:27",
+        "map": "Oil Sands (RAGL:S6)",
+        "p0": {
+            "name": "Clockwork",
+            "url": "/player/6680?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2018-11-05 15:18:16",
+        "map": "Badger Hills (RAGL:S6)",
+        "p0": {
+            "name": "Clockwork",
+            "url": "/player/6680?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2018-11-05 17:05:21",
+        "map": "Oil Sands (RAGL:S6)",
+        "p0": {
+            "name": "eskimo",
+            "url": "/player/6695?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2018-11-05 17:22:06",
+        "map": "Shadowfiend II (RAGL:S6)",
+        "p0": {
+            "name": "eskimo",
+            "url": "/player/6695?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2018-11-06 18:10:59",
+        "map": "Badger Hills (RAGL:S6)",
+        "p0": {
+            "name": "eskimo",
+            "url": "/player/6695?period=all"
+        },
+        "p1": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        }
+    },
+    {
+        "date": "2018-11-06 18:28:05",
+        "map": "Forgotten Plains (RAGL:S6)",
+        "p0": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        },
+        "p1": {
+            "name": "eskimo",
+            "url": "/player/6695?period=all"
+        }
+    },
+    {
+        "date": "2018-11-06 18:48:55",
+        "map": "Badger Hills (RAGL:S6)",
+        "p0": {
+            "name": "jjkramok",
+            "url": "/player/-42?period=all"
+        },
+        "p1": {
+            "name": "Jur",
+            "url": "/player/6941?period=all"
+        }
+    },
+    {
+        "date": "2018-11-06 19:05:00",
+        "map": "Beyond Destruction (RAGL:S6)",
+        "p0": {
+            "name": "jjkramok",
+            "url": "/player/-42?period=all"
+        },
+        "p1": {
+            "name": "Jur",
+            "url": "/player/6941?period=all"
+        }
+    },
+    {
+        "date": "2018-11-06 19:26:13",
+        "map": "Badger Hills (RAGL:S6)",
+        "p0": {
+            "name": "jjkramok",
+            "url": "/player/-42?period=all"
+        },
+        "p1": {
+            "name": "beuk",
+            "url": "/player/-43?period=all"
+        }
+    },
+    {
+        "date": "2018-11-06 19:40:26",
+        "map": "Map X (RAGL:S6)",
+        "p0": {
+            "name": "jjkramok",
+            "url": "/player/-42?period=all"
+        },
+        "p1": {
+            "name": "beuk",
+            "url": "/player/-43?period=all"
+        }
+    },
+    {
+        "date": "2018-11-07 09:44:07",
+        "map": "Stanitsa (RAGL:S6)",
+        "p0": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        },
+        "p1": {
+            "name": "dragunoff",
+            "url": "/player/7229?period=all"
+        }
+    },
+    {
+        "date": "2018-11-07 10:00:07",
+        "map": "Uzala (RAGL:S6)",
+        "p0": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        },
+        "p1": {
+            "name": "dragunoff",
+            "url": "/player/7229?period=all"
+        }
+    },
+    {
+        "date": "2018-11-07 17:43:58",
+        "map": "Badger Hills (RAGL:S6)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "netnazgul",
+            "url": "/player/6856?period=all"
+        }
+    },
+    {
+        "date": "2018-11-07 18:14:24",
+        "map": "Snakes and Ladders (RAGL:S6)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "netnazgul",
+            "url": "/player/6856?period=all"
+        }
+    },
+    {
+        "date": "2018-11-08 19:01:08",
+        "map": "Beyond Destruction (RAGL:S6)",
+        "p0": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        },
+        "p1": {
+            "name": "dragunoff",
+            "url": "/player/7229?period=all"
+        }
+    },
+    {
+        "date": "2018-11-09 16:43:27",
+        "map": "Shared Responsibility r2 (RAGL:S6)",
+        "p0": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2018-11-09 16:52:25",
+        "map": "Forgotten Plains (RAGL:S6)",
+        "p0": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        },
+        "p1": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        }
+    },
+    {
+        "date": "2018-11-10 13:18:46",
+        "map": "Stanitsa (RAGL:S6)",
+        "p0": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        },
+        "p1": {
+            "name": "netnazgul",
+            "url": "/player/6856?period=all"
+        }
+    },
+    {
+        "date": "2018-11-10 13:29:49",
+        "map": "Shadowfiend II (RAGL:S6)",
+        "p0": {
+            "name": "Punsho",
+            "url": "/player/7223?period=all"
+        },
+        "p1": {
+            "name": "Dualwarhead",
+            "url": "/player/-41?period=all"
+        }
+    },
+    {
+        "date": "2018-11-10 13:37:50",
+        "map": "Shared Responsibility r2 (RAGL:S6)",
+        "p0": {
+            "name": "netnazgul",
+            "url": "/player/6856?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2018-11-10 13:47:05",
+        "map": "Map X (RAGL:S6)",
+        "p0": {
+            "name": "Punsho",
+            "url": "/player/7223?period=all"
+        },
+        "p1": {
+            "name": "Dualwarhead",
+            "url": "/player/-41?period=all"
+        }
+    },
+    {
+        "date": "2018-11-10 14:47:22",
+        "map": "Uzala (RAGL:S6)",
+        "p0": {
+            "name": "lundiz",
+            "url": "/player/6974?period=all"
+        },
+        "p1": {
+            "name": "SirCake",
+            "url": "/player/6288?period=all"
+        }
+    },
+    {
+        "date": "2018-11-10 14:58:59",
+        "map": "Badger Hills (RAGL:S6)",
+        "p0": {
+            "name": "SirCake",
+            "url": "/player/6288?period=all"
+        },
+        "p1": {
+            "name": "lundiz",
+            "url": "/player/6974?period=all"
+        }
+    },
+    {
+        "date": "2018-11-10 15:22:58",
+        "map": "Badger Hills (RAGL:S6)",
+        "p0": {
+            "name": "jjkramok",
+            "url": "/player/-42?period=all"
+        },
+        "p1": {
+            "name": "lundiz",
+            "url": "/player/6974?period=all"
+        }
+    },
+    {
+        "date": "2018-11-10 15:24:21",
+        "map": "Map X (RAGL:S6)",
+        "p0": {
+            "name": "Punsho",
+            "url": "/player/7223?period=all"
+        },
+        "p1": {
+            "name": "mechANIC",
+            "url": "/player/6757?period=all"
+        }
+    },
+    {
+        "date": "2018-11-10 15:43:00",
+        "map": "Shared Responsibility r2 (RAGL:S6)",
+        "p0": {
+            "name": "Punsho",
+            "url": "/player/7223?period=all"
+        },
+        "p1": {
+            "name": "mechANIC",
+            "url": "/player/6757?period=all"
+        }
+    },
+    {
+        "date": "2018-11-10 15:47:35",
+        "map": "Map X (RAGL:S6)",
+        "p0": {
+            "name": "lundiz",
+            "url": "/player/6974?period=all"
+        },
+        "p1": {
+            "name": "jjkramok",
+            "url": "/player/-42?period=all"
+        }
+    },
+    {
+        "date": "2018-11-11 14:29:39",
+        "map": "Beyond Destruction (RAGL:S6)",
+        "p0": {
+            "name": "mechANIC",
+            "url": "/player/6757?period=all"
+        },
+        "p1": {
+            "name": "SirCake",
+            "url": "/player/6288?period=all"
+        }
+    },
+    {
+        "date": "2018-11-11 14:40:52",
+        "map": "Snakes and Ladders (RAGL:S6)",
+        "p0": {
+            "name": "mechANIC",
+            "url": "/player/6757?period=all"
+        },
+        "p1": {
+            "name": "SirCake",
+            "url": "/player/6288?period=all"
+        }
+    },
+    {
+        "date": "2018-11-11 19:06:28",
+        "map": "Badger Hills (RAGL:S6)",
+        "p0": {
+            "name": "mechANIC",
+            "url": "/player/6757?period=all"
+        },
+        "p1": {
+            "name": "lundiz",
+            "url": "/player/6974?period=all"
+        }
+    },
+    {
+        "date": "2018-11-11 19:36:44",
+        "map": "Snakes and Ladders (RAGL:S6)",
+        "p0": {
+            "name": "lundiz",
+            "url": "/player/6974?period=all"
+        },
+        "p1": {
+            "name": "mechANIC",
+            "url": "/player/6757?period=all"
+        }
+    },
+    {
+        "date": "2018-11-13 18:54:50",
+        "map": "Forgotten Plains (RAGL:S6)",
+        "p0": {
+            "name": "Zaqzorn",
+            "url": "/player/6265?period=all"
+        },
+        "p1": {
+            "name": "beuk",
+            "url": "/player/-43?period=all"
+        }
+    },
+    {
+        "date": "2018-11-13 19:10:45",
+        "map": "Snakes and Ladders (RAGL:S6)",
+        "p0": {
+            "name": "Zaqzorn",
+            "url": "/player/6265?period=all"
+        },
+        "p1": {
+            "name": "beuk",
+            "url": "/player/-43?period=all"
+        }
+    },
+    {
+        "date": "2018-11-15 17:14:41",
+        "map": "Beyond Destruction (RAGL:S6)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2018-11-15 17:28:37",
+        "map": "Forgotten Plains (RAGL:S6)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2018-11-15 18:39:38",
+        "map": "Forgotten Plains (RAGL:S6)",
+        "p0": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        },
+        "p1": {
+            "name": "netnazgul",
+            "url": "/player/6856?period=all"
+        }
+    },
+    {
+        "date": "2018-11-15 18:53:11",
+        "map": "Snakes and Ladders (RAGL:S6)",
+        "p0": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        },
+        "p1": {
+            "name": "netnazgul",
+            "url": "/player/6856?period=all"
+        }
+    },
+    {
+        "date": "2018-11-15 20:18:58",
+        "map": "Beyond Destruction (RAGL:S6)",
+        "p0": {
+            "name": "dragunoff",
+            "url": "/player/7229?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2018-11-15 20:35:30",
+        "map": "Forgotten Plains (RAGL:S6)",
+        "p0": {
+            "name": "dragunoff",
+            "url": "/player/7229?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2018-11-17 10:20:41",
+        "map": "Oil Sands (RAGL:S6)",
+        "p0": {
+            "name": "Punsho",
+            "url": "/player/7223?period=all"
+        },
+        "p1": {
+            "name": "DoDoCat",
+            "url": "/player/7687?period=all"
+        }
+    },
+    {
+        "date": "2018-11-17 10:24:48",
+        "map": "Snakes and Ladders (RAGL:S6)",
+        "p0": {
+            "name": "Punsho",
+            "url": "/player/7223?period=all"
+        },
+        "p1": {
+            "name": "DoDoCat",
+            "url": "/player/7687?period=all"
+        }
+    },
+    {
+        "date": "2018-11-17 10:32:06",
+        "map": "Stanitsa (RAGL:S6)",
+        "p0": {
+            "name": "merimursu",
+            "url": "/player/-39?period=all"
+        },
+        "p1": {
+            "name": "DoDoCat",
+            "url": "/player/7687?period=all"
+        }
+    },
+    {
+        "date": "2018-11-17 10:38:23",
+        "map": "Map X (RAGL:S6)",
+        "p0": {
+            "name": "merimursu",
+            "url": "/player/-39?period=all"
+        },
+        "p1": {
+            "name": "DoDoCat",
+            "url": "/player/7687?period=all"
+        }
+    },
+    {
+        "date": "2018-11-17 12:07:49",
+        "map": "Snakes and Ladders (RAGL:S6)",
+        "p0": {
+            "name": "Punsho",
+            "url": "/player/7223?period=all"
+        },
+        "p1": {
+            "name": "SirCake",
+            "url": "/player/6288?period=all"
+        }
+    },
+    {
+        "date": "2018-11-17 12:15:55",
+        "map": "Map X (RAGL:S6)",
+        "p0": {
+            "name": "Punsho",
+            "url": "/player/7223?period=all"
+        },
+        "p1": {
+            "name": "SirCake",
+            "url": "/player/6288?period=all"
+        }
+    },
+    {
+        "date": "2018-11-18 12:44:39",
+        "map": "Forgotten Plains (RAGL:S6)",
+        "p0": {
+            "name": "eskimo",
+            "url": "/player/6695?period=all"
+        },
+        "p1": {
+            "name": "netnazgul",
+            "url": "/player/6856?period=all"
+        }
+    },
+    {
+        "date": "2018-11-18 13:03:40",
+        "map": "Snakes and Ladders (RAGL:S6)",
+        "p0": {
+            "name": "netnazgul",
+            "url": "/player/6856?period=all"
+        },
+        "p1": {
+            "name": "eskimo",
+            "url": "/player/6695?period=all"
+        }
+    },
+    {
+        "date": "2018-11-18 13:45:20",
+        "map": "Shadowfiend II (RAGL:S6)",
+        "p0": {
+            "name": "eskimo",
+            "url": "/player/6695?period=all"
+        },
+        "p1": {
+            "name": "dragunoff",
+            "url": "/player/7229?period=all"
+        }
+    },
+    {
+        "date": "2018-11-18 13:45:21",
+        "map": "Shadowfiend II (RAGL:S6)",
+        "p0": {
+            "name": "eskimo",
+            "url": "/player/6695?period=all"
+        },
+        "p1": {
+            "name": "dragunoff",
+            "url": "/player/7229?period=all"
+        }
+    },
+    {
+        "date": "2018-11-18 14:06:15",
+        "map": "Forgotten Plains (RAGL:S6)",
+        "p0": {
+            "name": "eskimo",
+            "url": "/player/6695?period=all"
+        },
+        "p1": {
+            "name": "dragunoff",
+            "url": "/player/7229?period=all"
+        }
+    },
+    {
+        "date": "2018-11-18 14:06:15",
+        "map": "Forgotten Plains (RAGL:S6)",
+        "p0": {
+            "name": "eskimo",
+            "url": "/player/6695?period=all"
+        },
+        "p1": {
+            "name": "dragunoff",
+            "url": "/player/7229?period=all"
+        }
+    },
+    {
+        "date": "2018-11-18 22:05:03",
+        "map": "Shadowfiend II (RAGL:S6)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        }
+    },
+    {
+        "date": "2018-11-18 22:18:40",
+        "map": "Stanitsa (RAGL:S6)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        }
+    },
+    {
+        "date": "2018-11-19 01:55:12",
+        "map": "Badger Hills (RAGL:S6)",
+        "p0": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2018-11-19 02:09:53",
+        "map": "Stanitsa (RAGL:S6)",
+        "p0": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2018-11-19 02:28:50",
+        "map": "Forgotten Plains (RAGL:S6)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2018-11-19 02:42:12",
+        "map": "Badger Hills (RAGL:S6)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2018-11-19 03:32:31",
+        "map": "Snakes and Ladders (RAGL:S6)",
+        "p0": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        },
+        "p1": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        }
+    },
+    {
+        "date": "2018-11-19 04:10:01",
+        "map": "Badger Hills (RAGL:S6)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        }
+    },
+    {
+        "date": "2018-11-19 14:07:37",
+        "map": "Shadowfiend II (RAGL:S6)",
+        "p0": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        },
+        "p1": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        }
+    },
+    {
+        "date": "2018-11-19 14:27:03",
+        "map": "Shared Responsibility r2 (RAGL:S6)",
+        "p0": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        },
+        "p1": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        }
+    },
+    {
+        "date": "2018-11-19 18:12:44",
+        "map": "Shadowfiend II (RAGL:S6)",
+        "p0": {
+            "name": "eskimo",
+            "url": "/player/6695?period=all"
+        },
+        "p1": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        }
+    },
+    {
+        "date": "2018-11-19 18:33:46",
+        "map": "Shared Responsibility r2 (RAGL:S6)",
+        "p0": {
+            "name": "eskimo",
+            "url": "/player/6695?period=all"
+        },
+        "p1": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        }
+    },
+    {
+        "date": "2018-11-20 17:15:36",
+        "map": "Oil Sands (RAGL:S6)",
+        "p0": {
+            "name": "Zaqzorn",
+            "url": "/player/6265?period=all"
+        },
+        "p1": {
+            "name": "jjkramok",
+            "url": "/player/-42?period=all"
+        }
+    },
+    {
+        "date": "2018-11-20 17:31:15",
+        "map": "Badger Hills (RAGL:S6)",
+        "p0": {
+            "name": "Zaqzorn",
+            "url": "/player/6265?period=all"
+        },
+        "p1": {
+            "name": "jjkramok",
+            "url": "/player/-42?period=all"
+        }
+    },
+    {
+        "date": "2018-11-20 18:52:49",
+        "map": "Beyond Destruction (RAGL:S6)",
+        "p0": {
+            "name": "Jur",
+            "url": "/player/6941?period=all"
+        },
+        "p1": {
+            "name": "Zaqzorn",
+            "url": "/player/6265?period=all"
+        }
+    },
+    {
+        "date": "2018-11-20 19:05:37",
+        "map": "Forgotten Plains (RAGL:S6)",
+        "p0": {
+            "name": "Jur",
+            "url": "/player/6941?period=all"
+        },
+        "p1": {
+            "name": "Zaqzorn",
+            "url": "/player/6265?period=all"
+        }
+    },
+    {
+        "date": "2018-11-20 19:27:31",
+        "map": "Shared Responsibility r2 (RAGL:S6)",
+        "p0": {
+            "name": "Jur",
+            "url": "/player/6941?period=all"
+        },
+        "p1": {
+            "name": "Dualwarhead",
+            "url": "/player/-41?period=all"
+        }
+    },
+    {
+        "date": "2018-11-20 19:36:57",
+        "map": "Forgotten Plains (RAGL:S6)",
+        "p0": {
+            "name": "Jur",
+            "url": "/player/6941?period=all"
+        },
+        "p1": {
+            "name": "Dualwarhead",
+            "url": "/player/-41?period=all"
+        }
+    },
+    {
+        "date": "2018-11-21 19:50:12",
+        "map": "Snakes and Ladders (RAGL:S6)",
+        "p0": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        },
+        "p1": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        }
+    },
+    {
+        "date": "2018-11-21 20:04:51",
+        "map": "Stanitsa (RAGL:S6)",
+        "p0": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        },
+        "p1": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        }
+    },
+    {
+        "date": "2018-11-22 19:52:23",
+        "map": "Beyond Destruction (RAGL:S6)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        }
+    },
+    {
+        "date": "2018-11-22 20:15:07",
+        "map": "Badger Hills (RAGL:S6)",
+        "p0": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        },
+        "p1": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        }
+    },
+    {
+        "date": "2018-11-22 21:15:32",
+        "map": "Snakes and Ladders (RAGL:S6)",
+        "p0": {
+            "name": "netnazgul",
+            "url": "/player/6856?period=all"
+        },
+        "p1": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        }
+    },
+    {
+        "date": "2018-11-22 21:26:35",
+        "map": "Beyond Destruction (RAGL:S6)",
+        "p0": {
+            "name": "netnazgul",
+            "url": "/player/6856?period=all"
+        },
+        "p1": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        }
+    },
+    {
+        "date": "2018-11-23 16:58:15",
+        "map": "Snakes and Ladders (RAGL:S6)",
+        "p0": {
+            "name": "mechANIC",
+            "url": "/player/6757?period=all"
+        },
+        "p1": {
+            "name": "merimursu",
+            "url": "/player/-39?period=all"
+        }
+    },
+    {
+        "date": "2018-11-23 17:12:21",
+        "map": "Stanitsa (RAGL:S6)",
+        "p0": {
+            "name": "mechANIC",
+            "url": "/player/6757?period=all"
+        },
+        "p1": {
+            "name": "merimursu",
+            "url": "/player/-39?period=all"
+        }
+    },
+    {
+        "date": "2018-11-23 18:49:11",
+        "map": "Snakes and Ladders (RAGL:S6)",
+        "p0": {
+            "name": "merimursu",
+            "url": "/player/-39?period=all"
+        },
+        "p1": {
+            "name": "SirCake",
+            "url": "/player/6288?period=all"
+        }
+    },
+    {
+        "date": "2018-11-23 19:09:26",
+        "map": "Badger Hills (RAGL:S6)",
+        "p0": {
+            "name": "SirCake",
+            "url": "/player/6288?period=all"
+        },
+        "p1": {
+            "name": "merimursu",
+            "url": "/player/-39?period=all"
+        }
+    },
+    {
+        "date": "2018-11-23 19:11:07",
+        "map": "Forgotten Plains (RAGL:S6)",
+        "p0": {
+            "name": "lundiz",
+            "url": "/player/6974?period=all"
+        },
+        "p1": {
+            "name": "Dualwarhead",
+            "url": "/player/-41?period=all"
+        }
+    },
+    {
+        "date": "2018-11-23 19:34:28",
+        "map": "Shared Responsibility r2 (RAGL:S6)",
+        "p0": {
+            "name": "Dualwarhead",
+            "url": "/player/-41?period=all"
+        },
+        "p1": {
+            "name": "lundiz",
+            "url": "/player/6974?period=all"
+        }
+    },
+    {
+        "date": "2018-11-24 11:28:15",
+        "map": "Shared Responsibility r2 (RAGL:S6)",
+        "p0": {
+            "name": "Jur",
+            "url": "/player/6941?period=all"
+        },
+        "p1": {
+            "name": "SirCake",
+            "url": "/player/6288?period=all"
+        }
+    },
+    {
+        "date": "2018-11-24 11:28:15",
+        "map": "Shared Responsibility r2 (RAGL:S6)",
+        "p0": {
+            "name": "Jur",
+            "url": "/player/6941?period=all"
+        },
+        "p1": {
+            "name": "SirCake",
+            "url": "/player/6288?period=all"
+        }
+    },
+    {
+        "date": "2018-11-24 11:49:55",
+        "map": "Forgotten Plains (RAGL:S6)",
+        "p0": {
+            "name": "Jur",
+            "url": "/player/6941?period=all"
+        },
+        "p1": {
+            "name": "SirCake",
+            "url": "/player/6288?period=all"
+        }
+    },
+    {
+        "date": "2018-11-24 11:49:55",
+        "map": "Forgotten Plains (RAGL:S6)",
+        "p0": {
+            "name": "Jur",
+            "url": "/player/6941?period=all"
+        },
+        "p1": {
+            "name": "SirCake",
+            "url": "/player/6288?period=all"
+        }
+    },
+    {
+        "date": "2018-11-24 13:59:39",
+        "map": "Forgotten Plains (RAGL:S6)",
+        "p0": {
+            "name": "jjkramok",
+            "url": "/player/-42?period=all"
+        },
+        "p1": {
+            "name": "Dualwarhead",
+            "url": "/player/-41?period=all"
+        }
+    },
+    {
+        "date": "2018-11-24 14:14:55",
+        "map": "Shared Responsibility r2 (RAGL:S6)",
+        "p0": {
+            "name": "Dualwarhead",
+            "url": "/player/-41?period=all"
+        },
+        "p1": {
+            "name": "jjkramok",
+            "url": "/player/-42?period=all"
+        }
+    },
+    {
+        "date": "2018-11-24 14:54:36",
+        "map": "Badger Hills (RAGL:S6)",
+        "p0": {
+            "name": "mechANIC",
+            "url": "/player/6757?period=all"
+        },
+        "p1": {
+            "name": "beuk",
+            "url": "/player/-43?period=all"
+        }
+    },
+    {
+        "date": "2018-11-24 15:11:08",
+        "map": "Snakes and Ladders (RAGL:S6)",
+        "p0": {
+            "name": "mechANIC",
+            "url": "/player/6757?period=all"
+        },
+        "p1": {
+            "name": "beuk",
+            "url": "/player/-43?period=all"
+        }
+    },
+    {
+        "date": "2018-11-24 15:35:48",
+        "map": "Shared Responsibility r2 (RAGL:S6)",
+        "p0": {
+            "name": "Dualwarhead",
+            "url": "/player/-41?period=all"
+        },
+        "p1": {
+            "name": "beuk",
+            "url": "/player/-43?period=all"
+        }
+    },
+    {
+        "date": "2018-11-24 15:56:08",
+        "map": "Map X (RAGL:S6)",
+        "p0": {
+            "name": "Dualwarhead",
+            "url": "/player/-41?period=all"
+        },
+        "p1": {
+            "name": "beuk",
+            "url": "/player/-43?period=all"
+        }
+    },
+    {
+        "date": "2018-11-24 16:09:29",
+        "map": "Badger Hills (RAGL:S6)",
+        "p0": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        },
+        "p1": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        }
+    },
+    {
+        "date": "2018-11-24 16:21:30",
+        "map": "Stanitsa (RAGL:S6)",
+        "p0": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2018-11-24 17:40:27",
+        "map": "Beyond Destruction (RAGL:S6)",
+        "p0": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        },
+        "p1": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        }
+    },
+    {
+        "date": "2018-11-24 18:09:21",
+        "map": "Forgotten Plains (RAGL:S6)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2018-11-24 18:32:27",
+        "map": "Beyond Destruction (RAGL:S6)",
+        "p0": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2018-11-24 18:44:53",
+        "map": "Shared Responsibility r2 (RAGL:S6)",
+        "p0": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2018-11-25 12:35:30",
+        "map": "Shared Responsibility r2 (RAGL:S6)",
+        "p0": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        },
+        "p1": {
+            "name": "eskimo",
+            "url": "/player/6695?period=all"
+        }
+    },
+    {
+        "date": "2018-11-25 12:53:29",
+        "map": "Badger Hills (RAGL:S6)",
+        "p0": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        },
+        "p1": {
+            "name": "eskimo",
+            "url": "/player/6695?period=all"
+        }
+    },
+    {
+        "date": "2018-11-25 14:16:12",
+        "map": "Badger Hills (RAGL:S6)",
+        "p0": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2018-11-25 14:40:23",
+        "map": "Stanitsa (RAGL:S6)",
+        "p0": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        },
+        "p1": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        }
+    },
+    {
+        "date": "2018-11-25 15:48:46",
+        "map": "Map X (RAGL:S6)",
+        "p0": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        },
+        "p1": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        }
+    },
+    {
+        "date": "2018-11-25 16:00:06",
+        "map": "Beyond Destruction (RAGL:S6)",
+        "p0": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        },
+        "p1": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        }
+    },
+    {
+        "date": "2018-11-25 18:09:25",
+        "map": "Snakes and Ladders (RAGL:S6)",
+        "p0": {
+            "name": "mechANIC",
+            "url": "/player/6757?period=all"
+        },
+        "p1": {
+            "name": "jjkramok",
+            "url": "/player/-42?period=all"
+        }
+    },
+    {
+        "date": "2018-11-25 18:29:25",
+        "map": "Beyond Destruction (RAGL:S6)",
+        "p0": {
+            "name": "jjkramok",
+            "url": "/player/-42?period=all"
+        },
+        "p1": {
+            "name": "mechANIC",
+            "url": "/player/6757?period=all"
+        }
+    },
+    {
+        "date": "2018-11-26 17:07:46",
+        "map": "Snakes and Ladders (RAGL:S6)",
+        "p0": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        },
+        "p1": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        }
+    },
+    {
+        "date": "2018-11-26 17:18:22",
+        "map": "Forgotten Plains (RAGL:S6)",
+        "p0": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2018-11-27 18:43:14",
+        "map": "Beyond Destruction (RAGL:S6)",
+        "p0": {
+            "name": "Zaqzorn",
+            "url": "/player/6265?period=all"
+        },
+        "p1": {
+            "name": "Dualwarhead",
+            "url": "/player/-41?period=all"
+        }
+    },
+    {
+        "date": "2018-11-27 19:02:00",
+        "map": "Shared Responsibility r2 (RAGL:S6)",
+        "p0": {
+            "name": "Dualwarhead",
+            "url": "/player/-41?period=all"
+        },
+        "p1": {
+            "name": "Zaqzorn",
+            "url": "/player/6265?period=all"
+        }
+    },
+    {
+        "date": "2018-11-27 19:27:48",
+        "map": "Stanitsa (RAGL:S6)",
+        "p0": {
+            "name": "Dualwarhead",
+            "url": "/player/-41?period=all"
+        },
+        "p1": {
+            "name": "merimursu",
+            "url": "/player/-39?period=all"
+        }
+    },
+    {
+        "date": "2018-11-27 19:35:05",
+        "map": "Shared Responsibility r2 (RAGL:S6)",
+        "p0": {
+            "name": "Dualwarhead",
+            "url": "/player/-41?period=all"
+        },
+        "p1": {
+            "name": "merimursu",
+            "url": "/player/-39?period=all"
+        }
+    },
+    {
+        "date": "2018-11-30 17:54:42",
+        "map": "Badger Hills (RAGL:S6)",
+        "p0": {
+            "name": "lundiz",
+            "url": "/player/6974?period=all"
+        },
+        "p1": {
+            "name": "merimursu",
+            "url": "/player/-39?period=all"
+        }
+    },
+    {
+        "date": "2018-11-30 18:10:26",
+        "map": "Map X (RAGL:S6)",
+        "p0": {
+            "name": "lundiz",
+            "url": "/player/6974?period=all"
+        },
+        "p1": {
+            "name": "merimursu",
+            "url": "/player/-39?period=all"
+        }
+    },
+    {
+        "date": "2018-12-01 11:41:30",
+        "map": "Snakes and Ladders (RAGL:S6)",
+        "p0": {
+            "name": "Jur",
+            "url": "/player/6941?period=all"
+        },
+        "p1": {
+            "name": "mechANIC",
+            "url": "/player/6757?period=all"
+        }
+    },
+    {
+        "date": "2018-12-01 11:53:57",
+        "map": "Beyond Destruction (RAGL:S6)",
+        "p0": {
+            "name": "mechANIC",
+            "url": "/player/6757?period=all"
+        },
+        "p1": {
+            "name": "Jur",
+            "url": "/player/6941?period=all"
+        }
+    },
+    {
+        "date": "2018-12-01 15:56:14",
+        "map": "Map X (RAGL:S6)",
+        "p0": {
+            "name": "SirCake",
+            "url": "/player/6288?period=all"
+        },
+        "p1": {
+            "name": "beuk",
+            "url": "/player/-43?period=all"
+        }
+    },
+    {
+        "date": "2018-12-01 16:41:10",
+        "map": "Snakes and Ladders (RAGL:S6)",
+        "p0": {
+            "name": "beuk",
+            "url": "/player/-43?period=all"
+        },
+        "p1": {
+            "name": "SirCake",
+            "url": "/player/6288?period=all"
+        }
+    },
+    {
+        "date": "2018-12-01 17:39:03",
+        "map": "Forgotten Plains (RAGL:S6)",
+        "p0": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        },
+        "p1": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        }
+    },
+    {
+        "date": "2018-12-01 17:58:13",
+        "map": "Shadowfiend II (RAGL:S6)",
+        "p0": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        },
+        "p1": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        }
+    },
+    {
+        "date": "2018-12-01 18:17:46",
+        "map": "Shared Responsibility r2 (RAGL:S6)",
+        "p0": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        },
+        "p1": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        }
+    },
+    {
+        "date": "2018-12-01 18:34:56",
+        "map": "Beyond Destruction (RAGL:S6)",
+        "p0": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        },
+        "p1": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        }
+    },
+    {
+        "date": "2018-12-01 18:53:11",
+        "map": "Oil Sands (RAGL:S6)",
+        "p0": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        },
+        "p1": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        }
+    },
+    {
+        "date": "2018-12-10 13:29:07",
+        "map": "Shadowfiend II (RAGL:S6)",
+        "p0": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2018-12-17 15:02:32",
+        "map": "Snakes and Ladders (RAGL:S6)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2018-12-17 15:16:26",
+        "map": "Forgotten Plains (RAGL:S6)",
+        "p0": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        },
+        "p1": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        }
+    },
+    {
+        "date": "2018-12-17 15:16:26",
+        "map": "Forgotten Plains (RAGL:S6)",
+        "p0": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        },
+        "p1": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        }
+    },
+    {
+        "date": "2018-12-17 15:30:35",
+        "map": "Map X (RAGL:S6)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2018-12-17 15:44:10",
+        "map": "Oil Sands (RAGL:S6)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2018-12-18 21:40:31",
+        "map": "Badger Hills (RAGL:S6)",
+        "p0": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        },
+        "p1": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        }
+    },
+    {
+        "date": "2018-12-18 21:53:02",
+        "map": "Shared Responsibility r2 (RAGL:S6)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        }
+    },
+    {
+        "date": "2018-12-18 22:05:14",
+        "map": "Oil Sands (RAGL:S6)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        }
+    },
+    {
+        "date": "2018-12-18 22:17:15",
+        "map": "Uzala (RAGL:S6)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        }
+    },
+    {
+        "date": "2018-12-23 16:37:31",
+        "map": "Oil Sands (RAGL:S6)",
+        "p0": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2018-12-23 16:49:35",
+        "map": "Forgotten Plains (RAGL:S6)",
+        "p0": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        },
+        "p1": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        }
+    },
+    {
+        "date": "2018-12-23 17:13:22",
+        "map": "Badger Hills (RAGL:S6)",
+        "p0": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2018-12-23 17:31:45",
+        "map": "Shadowfiend II (RAGL:S6)",
+        "p0": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
     }
 ]
