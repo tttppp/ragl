@@ -1,116 +1,266 @@
 # The Rulebook
 
-Prize Pool
-Current total: $260
+Red Alert Global League (RAGL), Season 7 is played out over up to 10 weeks from March 4th till May 12th, 2019. This timespan includes 8 weeks for the group stage and 2 weeks reserved for unforeseen delays, tiebreakers and Playoffs.
 
-For details on prize pool contributions, check out the Prize Pool section at the end of this post. Thanks!
+Current prize pool total: $242
 
-# Introduction
+For details on prize pool contributions, check out the Prize Pool section at the end of this post.
 
-Red Alert Global League (RAGL), Season 6 is played out over up to 10 weeks from October 15th till December 23rd, 2018. This timespan includes 8 weeks for the group stage and 2 weeks reserved for unforeseen delays and Masters division playoffs.
+```
+1. Format
+1.1 League structure
+1.2 Group stage
+1.3 Placements, promotions, relegations
+1.4 Playoffs
+1.5 Prizes
+2. Registrations
+2.1 New signups
+2.2 Returning players
+2.3 Qualifications
+2.4 Waiting list
+3. Communications
+3.1 Match scheduling
+3.2 Match reporting
+3.3 Match delays
+3.4 Failed contact notices
+3.5 Season Forfeit
+3.6 Disputes
+4. Match regulations
+4.1 Game setup
+4.2 Map pool
+4.3 Game disconnects
+5. Miscellaneous
+5.1 Streaming/casting
+5.2 Prize pool contributions
+5.3 Officials
+```
 
-The group stage is held in a round robin format, where each player is to play a match against every opponent in his group. There will be a maximum of 16 players for every group. The match consists of 2 games, and game wins are added to a score table. Matches are tacked on to weeks/rounds, in which players have to play their match-ups against a specific opponent.
-New in Season 6: there will be 2 rounds scheduled for every week, so each player will have to play two matches per week.
-At the end of the season the top 4 players in Masters will face off in a best of 5 playoffs. The results of the playoff series and final standings for those outside the playoffs decides who wins prizes and titles as well as promotions, qualifiers and relegation towards other divisions.
+# 1. Format
 
+## 1.1 League structure
 
-Official communications between the players and with league officials are primarily done through email, involving reporting results and various league business. However, a Discord is being implemented as an alternative means.
+1.1.1 The League is split into Masters (1st tier) and Minions (2nd tier) divisions.
 
-# Registrations
+1.1.2 Recruits division (3rd tier) might be considered in case there are enough signups for its creation.
 
-(also see: [Season 6 Registrations thread](https://forum.openra.net/viewtopic.php?f=85&t=20628))
+1.1.3 Each division may consist of one or more groups of players. There is a minimum of 8 players per group. There is a maximum of 16 players per group.
 
-For Season 6, all recurring players have until October 7th (23:59 UTC+0) to confirm their participation. Players transferring over from a previous season don't have to provide any other information than the expressed confirmation. Recurring players simply register with an email titled CONFIRMATION.
+1.1.4 Players are assigned to divisions according to their performance in the previous season. The ranking list is as follows:
+* Players that finished above relegation spots in Masters
+* Promoted players from Minions
+* Relegated players from Masters
+* Players that finished below promotion spots in Minions
+* Players qualified through pre-season events
 
-Recurring players are seeded per guidelines provided by the previous season results. Players who feel like they've found themselves in a division above their skill level may request to be dropped a division lower to better accommodate them. If the league officials can find another player who's ability more closely matches that division in skill, that player will be granted a promotion into that league. New players will be evaluated by league officials and placed in a division that best matches their skill, based of availability of the divisions.
+1.1.5 In case the division is split into groups, some sort of seeding according to the ranking list takes place to prevent uneven draw of the groups rosters.
 
-New for Season 6: Recruits tier is removed from the league, replaced by a 1-day qualification tournament. Vacant spots in Minions tier will be occupied by players participating in this tournament in order of performance. All new players and players that didn’t finish Season 5 Recruits are eligible for qualification. See additional info on registrations and qualifications in the relevant thread. Qualification tournament is likely to be held on October 12th (Saturday).
+1.1.6 Players who feel like they've found themselves in a division above their skill level may request to be dropped a division lower to better accommodate them.
 
-In case there are enough vacant slots in Minions, qualification tournament is not held; all eligible players are promoted to Minions directly.
+1.1.7 League officials reserve the rights to not honour the above rules in special cases (i.e. players that have substantial past experience in RAGL and would better be placed in Masters directly rather than Minions).
 
-All players eligible for qualification tournament have until October 10th (23:59 UTC+0) to send the registration info.
+## 1.2 Group stage
 
-It is strongly recommended that players prioritize an active email account in order to reduce response time with messages from players or league officials.
-Registration emails from new players are titled REGISTRATION and must include the following:
-Nickname that will be used throughout the season.
-3-lettered initials for tagging replays (e.g. SoScared = SOS).
-Country and timezone expressed in UTC (see http://www.timeanddate.com)
-OpenRA discord name and forums name (both optional, but highly recommended)
+1.2.1 The group stage is held in a round robin format, where each player is to play a match against every opponent in his group.
 
-# Waiting list
+1.2.2 A single match consists of 2 games. Game wins are added to score table as points.
 
-In the event of players forfeiting the Minions division during first two weeks for any reasons vacant slots may be re-occupied. Waiting list is composed of players failing to qualify through pre-season qualification tournament and late signups that have missed the qualification tournament (or when the tournament didn't take place), in order of performance in qualification tournament and then by enlisting datetime.
+1.2.3 Matches are scheduled before the season and are tacked on to specific weeks, in which players are to play their assigned matchups against specific opponents. 2 matches per week are scheduled to be played for each player (excluding the last week where only 1 match is scheduled). The exact schedule is finalized 1 day before the season start date (Monday, March 4th).
 
-Any matches that were scheduled to be played before the player promotion from waiting list takes place are to be played out of order until the end of the group stage (same rules as player-delayed matches).
+1.2.4 Each match has to be played and reported no later than Monday 23:59 UTC+0 of the week following its schedule. Match can be played before its scheduled week.
 
-# Emails: Contact & Match Scheduling
+1.2.5 Players are able to delay their scheduled matches, in which case match has to be played and reported no later than Monday 23:59 UTC+0 following the last week of the group stage.
 
-All participating players are themselves responsible for their weekly matches. Players have provided active email addresses as a means of guaranteed contact availability and email correspondence is the official recognized means of which players schedule their match-ups, report delays, disputes and failed contact. However, at the discretion of the players, any venue of contact can be used as long as you recognize that league officials will be of limited help should things go awry. League officials cannot guarantee or take responsibility for information processed outside email correspondences. Email lists are provided to all players within their respective divisions by Monday, October 1th. Email lists are not publicized beyond the division.
+1.2.6 Matches that were not reported or delayed in time result in strikes received by both players. Unreported matches that resulted in strikes for both players are still eligible to be played (same timeframe as delayed matches).
 
-As a general tip, be first out early on with a simple 'Hello' and provide information to when it suits you best to play. Initiate contact at the start of the week/round (Monday), or perhaps even the day before.
+## 1.3 Placements, promotions, relegations
 
-Note: as all players are currently present in Discord, any technical message mentioned in the rulebook (results report, delays notice, failed contact notice, misc) is also possible through private messaging or the private technical channels made per each division on official Discord server . Be sure to mention the officials in the message so that it doesn't get unnoticed and lost! Mentioning your opponent is also preferable, especially regarding delays and failed contacts.
+1.3.1 Players are ranked within their group based on game wins counted as points.
 
-# Emails: Delay Notices
+1.3.2 In the event of tied points at the end of the season, the players will be ranked against each other based on:
+* Result of the players’ current season matchup
+* Total number of strikes accumulated by players (less strikes is better)
+* Best-of-3 rematch
 
-The unforeseen will happen and so you might as well learn this procedure well (as with 'Emails: Failed Contact' below). In the event you need to delay a match-up for any reason you will have to send a delay notice per email (titled DELAY) to both your opponent and the league officials. The player doesn't need to give up a reason for the delay. The reasons for the delay are not publicized should the player wish to give one. The delay notice will be available on RAGL Scoreboard until the delayed match-ups have been played.
-New in season 6: Delay notice automatically delays the match up to the last group stage week. Notice that there are no delay weeks this season!
+1.3.3 In the event of tied points for the first place in Minions at the end of the season, the players will be ranked against each other based on a Best-of-3 rematch, skipping all other tiebreakers.
 
-The delay notice must include at minimum:
-* The week/round and match-up that is delayed.
+1.3.4 Strikes can be given for a number of different reasons, including failure to report a match, cheating, etc. Each strike is marked in Scoreboards.
 
-Further:
-* Delay notices must be sent no later than the next week's Monday at 23:59 UTC+0.
-* Players can have up to 3 delay notices running simultaneously.
+1.3.5 3 strikes accumulated during the season result in a straight Disqualification from the group stage. Disqualified players are cleared of any results in that season and are placed last in their respective group.
 
-Worth noting, the league has no rules regarding matches being played before their designated rounds. If you foresee some scheduled conflict there's nothing to stop you from attempting getting some match-ups done earlier.
+1.3.6 Players finishing in the top 4 spots of Masters are promoted into Masters Playoffs which decide final standings in Masters.
 
-# Emails: Failed Contact
+1.3.7 In case Minions division is split into several groups, players finishing in the 1st place in their respective groups are promoted into Minions Playoffs which decide the Minions division Champion.
 
-An opponent may fail to respond or contact properly during a week/round. The moment you suspect your match-up may be in jeopardy you should send a 'Failed Contact' notice per email (titled FAILED CONTACT) as soon as possible. This notice is overridden immediately if you follow up later that same week with a Result Report or a Delay Notice. The 'Failed Contact' notice also protects you from unfair penalties granted by league officials due to unreported matches. If, for whatever reason, a failed contact notice is sent by both players before the end of the week/round, the event is converted into a delay notice.
-Note: ‘Failed Contact’ notice should be send both to official email and to the opponent so that he is informed about it. Provide evidence of your contact attempts in the email body. Failed Contact may only be accepted no later than Sunday 23:59 UTC+0 of the respective match week; this is imposed to allow the other party time to respond on the notice. Any ‘Failed Contact’ notices received after this deadline will be processed explicitly and most of the times converted into a ‘Delay’ notice.
+1.3.8 Due to the nature of the League, actual promotions/relegations can’t be defined up until the start of the next season. Relegation zone size (Masters and Minions) is set as 30% of the maximum player count for the respective group. Promotion zone size (Minions) is set according to Masters relegation zone and the number of Minions groups. Preliminary promotion/relegation spots are set once the season is started.
 
-Any unreported matches without a Delay or Failed Contact notice are rewarded with a strike. 3 strikes results in a Season Forfeit.
+## 1.4 Playoffs
 
-New in season 6: unreported matches that resulted in strikes for both players are still eligible to be played on the later date before the end of the group stage. Strikes received this way will still stay active.
+1.4.1 Players finishing in the top 4 spots of Masters are promoted into Masters Playoffs. Playoffs consist of two Semifinal matches, Bronze Match and Final. All matches are Best-of-5.
 
-For further information on strikes please see: League tables: Placements and tie-breakers
+1.4.2 Players finishing 1st and 4th play in the first Semifinal. Players finishing 2nd and 3rd play in the second Semifinal. Semifinal losers play in Bronze Match for the 3rd and 4th place overall. Semifinal winners play in Final for the Masters Champion title and 2nd place overall.
 
-# Promotions/demotions
+1.4.3 In case Minions division is split into 2 groups, players finishing 1st in their groups play in Minions Final for the Minions Champion title. The match is a Best-of-3.
 
-Due to the nature of the league, promotions often can't be defined until the exact set up is figured out. The top players in Minions will be promoted to the next division. The bottom players in Masters will be relegated to one below. The bottom players in Minions will be relegated from division and be forced to play through the next season’s qualification tournament. The exact promotion/relegation bracket is finalized when the season is started.
+1.4.4 In case Minions division is split into 4 groups, players finishing 1st in their groups play in Minions Semifinals, drawn at random. Minions Semifinals winners play in Minions Final for the Minions Champion title. All matches are Best-of-3.
 
-# Season Forfeit
+## 1.5 Prizes
 
-There's no reason having to be disgracefully booted out of the league just because you find yourself unable to fulfill your obligations.
+1.5.1 By estimate, the prizepool is split as follows (final shares might differ due to the prizepool size, transfer fees and values rounding):
+* 38% Masters Champion
+* 21% Masters 2nd
+* 16% Masters 3rd
+* 10% Minions Champion
+* 15% Season finisher prizes
 
-Season Forfeit is sent per email (titled SEASON FORFEIT) in order to forfeit the current season, immediately placing you last in your division. Naturally you'll be relegated down one division and will be able to participate next season from that particular division.
+1.5.2 Share of the prize pool (Season finisher prize) is given out to 3 players drawn randomly among those who successfully finished the season (Masters or Minions), did not accumulate strikes and are outside the normal prize spots.
 
-# Waiting List
+1.5.3 Prizepools are completely voluntary and are not expected to be significant each season. If the prize pool for a particular season is thin the exact spread and rewards will be carefully considered.
 
-The RAGL waiting list is a measure to ensure Minions division is filled as much as possible. Should a season start and a player strike out (not show up for their first three matches) or a player forfeit the season, that player will be dropped and the first in line on the waiting list will replace that player. Waiting list is made up by players who participated in qualification tournament but failed to get into Minions initially.
+# 2. Registrations
 
-# Disconnects during a game
+## 2.1 New signups
 
-Players decide between themselves the outcome of a disconnected game. If the players cannot come to an agreement, they will have to submit the replay to the official (titled DISCONNECT) for evaluation. The evaluation will likely demand a re-play unless the game is undoubtedly decided towards one player. The final word will be up the the official evaluating regardless. Players who disconnect more than 3 times during a season will forfeit the match points of their remaining disconnected games regardless of the state of the ongoing game.
+2.1.1 New players have until February 27th 23:59 UTC+0 to send the registration info.
 
-# Disputes
+2.1.2 Registration takes place through Discord (https://discord.me/openra, the primary channel of communication; use #ragl or send a private message to @netnazgul), email (OpenRA.RAGL@Gmail.com) or in a relevant forum thread.
 
-Disputes are sent per email (titled DISPUTE or CORRECTION) to a league official in the event it is believed the officials has handled a situation incorrectly or has recorded erroneous information. The league officials reserves the right to make the final call in disputed situations with the health of the league in mind.
+2.1.3 Registration info must include the following:
+Nickname that will be used throughout the season;
+* 3-lettered initials for tagging replays (i.e. SoScared = SOS);
+* Country of origin and timezone expressed in UTC (see http://www.timeanddate.com);
+* OpenRA discord name (Discord is the primary channel for communication);
+* Forums name (planned to be used for game servers whitelisting).
 
-# Game setup
+2.1.4 Registered players are put onto Signup list. If the player sent his registration info but wasn’t put onto Signup list then he should contact the officials.
 
-Players ranked higher during the season are to 'host' the map first. The second player will then pick their faction. Players are allowed their own discretion in following this rule. In the event of two players being equal in the standings players are again encouraged to use their discretion in who picks a map/faction first. For the second game in the series, the role will be reversed.
-The standard game settings in the game lobby should be familiar to all players. These will be used consistently across all divisions:
+## 2.2 Returning players
+
+2.2.1 Players transfering over from the previous season have until February 25th 23:59 UTC+0 to confirm their participation.
+
+2.2.2 Returning players don’t have to provide any other information than the expressed confirmation, officials are to request any of the above if mandatory information is missing.
+
+2.2.3 Returning players are put onto Confirmations list in order of their performance in the previous season.
+
+## 2.3 Qualifications
+
+2.3.1 Players relegated from Minions as well as new signups are put onto Signup list in the following order:
+* Players relegated from Minions
+* New signups in order of registration
+
+2.3.2 Qualification event is not held in case there is more spots in Minions than actual players. All the players from Signup list are put into Minions.
+
+2.3.3 Qualification event takes place to rank players in Signup list. Qualification event format is a double-elimination bracket drawn at random. All matches are Best-of-3. Qualification event takes as many rounds as needed to rank players in Signup list.
+
+## 2.4 Waiting list
+
+2.4.1 In the event of players leaving the lowest division during first two weeks for any reasons, vacant slots may be re-occupied by the players from Waiting list.
+
+2.4.2 Waiting list is composed of players failing to qualify through pre-season qualification tournament and late signups that have missed the qualification tournament (or when the tournament didn't take place), in order of performance in qualification tournament and then by enlisting datetime.
+
+2.4.3 Any matches that were scheduled to be played before the player promotion from Waiting list takes place are to be played out of order until the end of the group stage (same rules as player-delayed matches).
+
+# 3. Communications
+Official communications between the players and with league officials are primarily done through Discord (https://discord.me/openra), involving reporting results and various league business. Email address (OpenRA.RAGL@Gmail.com) is available as the auxiliary means of communication.
+
+## 3.1 Match scheduling
+
+3.1.1 All participating players are themselves responsible for their weekly matches. Special private per-division Discord channels are recognized as the official means of players communication. However, at the discretion of the players, any venue of contact can be used as long as you recognize that league officials will be of limited help should things go awry. League officials cannot guarantee or take responsibility for information processed outside official channels.
+
+3.1.2 Players are advised to contact their opponents early (i.e. via private messaging) and establish communication as well as schedule matches, as time zones and personal activities play a major part in match scheduling.
+
+## 3.2 Match reporting
+
+3.2.1 Match results are to be reported in a dedicated Discord channel. The report must include mentions to officials and match opponents (so that the report doesn’t go unnoticed) and the actual score.
+
+3.2.2 Match should be reported no later than the next week’s Monday 23:59 UTC+0.
+
+3.2.3 Match winner is ultimately responsible for reporting the results, or the player placed higher in the current group standings in case the match ended in a draw. Players are free to make exceptions from this rule at the discretion of both parties.
+
+3.2.4 Replay files are the sole documentation of the matches played and thus should be treated with great care. The match winner is ultimately responsible for the file uploads, or the player placed higher in the current group standings in case the match ended in a draw. Players are free to make exceptions from this rule at the discretion of both parties.
+
+3.2.5 Replay files are to be renamed in a specific way before uploading. The replay file name should be as follows (all letters in caps):
+RAGL-S07-[division]-[stage]-[initials]-[initials]-[number]
+Where
+* Division: MASTER, MINIONA, MINIONB, RECRUIT
+* Stage: GROUP (group stage), POSF (Playoffs semifinals), POF (Playoffs finals/bronze match), TIE (Tiebreaker match)
+* Initials: 3-letter initials assigned to each player pre-season
+* Number: game number in the match (G1-G2 for group stage, G1-G3 for tiebreakers, G1-G5 for playoffs)
+
+Example: In Season 1, SoScared played 2 games against PersianImmortal. They both play in the Minions' Division Bravo. The matches was played in a group stage. The players' given initials are SOS for SoScared and PSI for PersianImmortal. The replay files for these matches would be:
+* RAGL-S01-MINIONB-GROUP-SOS-PSI-G1.orarep
+* RAGL-S01-MINIONB-GROUP-SOS-PSI-G2.orarep
+
+3.2.6 Replay files not properly renamed will not be accepted. We understand that naming and uploading replays are a pain and are still looking into a nice and function automated system. In the mean time we will be cracking down on improperly named replays.
+
+3.2.7 All replays are uploaded to JaZz_KCS's file server:
+[http://openra.mine.nu/mIRROR/ora_replay ... ason_Seven](http://openra.mine.nu/mIRROR/ora_replays/RAGL_Season_Seven)
+In the correct Division and Stage sub-folder, click the 'Upload files' link on the right side of the page. You'll have to rename the replay file before uploading. If the replay is uploaded erroneously, re-upload the correct file and notify the tournament official so that the wrong file can be removed.
+
+3.2.8 A failure to report a match until its weekly deadline results in strikes received by both players. Unreported matches that resulted in strikes for both players are still eligible to be played (same timeframe as delayed matches).
+
+## 3.3 Match delays
+
+3.3.1 Matches are possible to be delayed past their schedule up until the end of the group stage.
+
+3.3.2 The player has to notify both officials and the opponent, preferably in the dedicated Discord channel. Each delay is marked in Scoreboards until it is played.
+
+3.3.3 Delay notices must be sent no later than the next week's Monday 23:59 UTC+0.
+
+3.3.4 Players can have up to 3 delay requests active at the same time.
+
+3.3.5 There are no regulations regarding matches being played before their designated schedule, thus it is advised to play matches early instead of delaying.
+
+## 3.4 Failed contact notices
+
+3.4.1 In case match opponent is not responding or otherwise ignores the proper match scheduling, the player should inform officials of a Failed contact. Reporting a Failed contact notice protects a player that has filed such notice from receiving a strike for an unreported match.
+
+3.4.2 The player has to notify both officials and the opponent, preferably in the dedicated Discord channel. Any info regarding the contact failure should be present in the notice for officials to resolve the matter. Each failed contact notice is marked in Scoreboards until it is resolved.
+
+3.4.3 Failed contact notices must be sent no later than the next week's Sunday 23:59 UTC+0. Any notices received after this deadline will be processed explicitly and most of the times converted into a Delay notice for both players.
+
+3.4.4 Failure to respond until the weekly deadline after receiving a Failed contact notice results in a strike and 0-2 technical loss in the respective match.
+
+## 3.5 Season Forfeit
+
+3.5.1 Player is to explicitly state a season forfeit notice due to any reason that prevents finishing the season in a normal manner. Player has to notify officials, preferably in the dedicated Discord channel.
+
+3.5.2 Players that forfeited the season are cleared of any results for that season and are placed last in their respective group, above the disqualified players.
+
+## 3.6 Disputes
+
+3.6.1 Players are to contact officials explicitly in the event of a supposedly erroneous information in Scoreboards, incorrect handling of the situation or any other issues that concern the league, preferably in the dedicated Discord channel.
+
+3.6.2 The league officials reserve the right to make the final call in disputed situations with the health of the league in mind.
+
+# 4. Match regulations
+
+## 4.1 Game setup
+
+4.1.1 Games are by default to be played on the latest game release at the moment of season start. In case a new release is shipped during an ongoing season, an explicit official notice is sent to all players regarding the versioning.
+
+4.1.1.1 Current season is to be played on [playtest-20190302](https://github.com/OpenRA/OpenRA/releases/tag/playtest-20190302). Switch over to the actual new release will be explicitly announced later.
+
+4.1.1.2 Current season is to be played on [release-20190314](https://github.com/OpenRA/OpenRA/releases/tag/release-20190314).
+
+4.1.2 The player placed higher in the current group standings is to pick the map for the first game. The opponent is allowed to ban up to one map from the map pick. The roles are reversed for the second game. Players are free to make exceptions from this rule at the discretion of both parties.
+
+4.1.2.1 If a player wants to ban a map from his opponent's pick he should do that before the pick.
+
+4.1.2.2 A player should be allowed to ban a map if he wishes to do so; so if a map is picked without asking to invoke the map ban, then a player is still allowed to ban a map afterwards.
+
+4.1.3 First map pick is pre-set by officials for Tiebreaker and Playoffs matches, followed by loser’s pick.
+
+4.1.4 The standard game settings in the game lobby should be set as follows:
 * Explored Map: On
 * Crates: Off
 * Short Game : On
 * Fog of War : On
 * Build off Allies: (irrelevant)
 * Limit Build Area: On
-* Separate Team Spawns: (irrelevant)
+* Separate Team Spawns: Off (irrelevant for maps with 2 spawns)
+* Reusable engineers: On (optional off if both players agree)
 * Redeployable MCVs: On
-* Kill Bounties: On
+* Kill Bounties: On (optional off if both players agree)
 * Debug Menu : Off
 * Starting Cash : $5000
 * Tech Level : Unrestricted
@@ -118,116 +268,55 @@ The standard game settings in the game lobby should be familiar to all players. 
 * Game Speed : Normal
 * Player spots must be random.
 
-The league will by default always run on the latest release. In the event a new release is shipped during an ongoing season, both releases are acceptable for that given week/round of the new release date. Exploiting bugs during a match on a playtest disqualifies the match played.
+4.1.5 The game is played until one of the players is named defeated (either by all buildings and MCVs being destroyed or by pressing “Surrender”). Leaving the game before this occurs is highly discouraged as it prevents proper recording of a game result in a replay.
 
-## Playoffs/Tie-breaker Game Setup
+4.1.6 The use of external software macros (programmed keypress sequences of commands that are not possible to be executed by game engine means, i.e. ordering units automation) is an unsportsmanlike conduct and is forbidden. More obvious automation scripts resulting in APM spikes are detectable by replay parsing tools, other suspicious behaviours might be up for scrutiny by officials. Positive confirmation of using external tools to gain game advantage will impose a strict ruling, up to the straight ban from the league.
 
-Playoffs and tie-breakers will use the same game settings as above, with the exception that the first map is randomly chosen and provided by officials prior to the game.
+## 4.2 Map pool
 
-## Use of software macros
+4.2.1 Map pool consists of 10-12 maps specifically uploaded to the Resource Center and marked as “Category: RAGL” and explicit naming and thumbnail watermarks. Usage of any other versions of these maps for the league games is discouraged and may be rejected from being reported as a valid match result.
 
-As per pre-season discussions, it is decided that the use of external software macros (programmed keypress sequences of commands, i.e. ordering units automation) is an unsportsmanlike conduct and will be forbidden from Season 6 onwards. More obvious automation scripts resulting in APM spikes are detectable by replay parsing tools, other suspicious behaviours might be up for scrutiny by officials. Positive confirmation of using external tools to gain game advantage will impose a strict ruling, up to the straight ban from the league.
+4.2.2 Map pool is to be finalized on February 25th 23:59 UTC+0.
 
-# Map pool
+## 4.3 Game disconnects
 
-All maps used in RAGL, Season 6 are custom maps.
-* [Badger Hills](https://resource.openra.net/maps/29046/)
-* [Beyond Destruction](https://resource.openra.net/maps/29047/)
-* [Fallout](https://resource.openra.net/maps/29048/)
-* [Forgotten Plains](https://resource.openra.net/maps/29049/)
-* [Map X](https://resource.openra.net/maps/29050/)
-* [Oil Sands](https://resource.openra.net/maps/29051/) (previously Map J)
-* [Shadowfiend II](https://resource.openra.net/maps/29052/)
-* [Shared Responsibility](https://resource.openra.net/maps/29053/)
-* [Snakes and Ladders](https://resource.openra.net/maps/29054/)
-* [Stanitsa](https://resource.openra.net/maps/29055/)
-* [Uzala](https://resource.openra.net/maps/29056/)
+4.3.1 Players are to decide between themselves the outcome of a disconnected game. If it is decided to re-play the game, the game that resulted in disconnect prior to this is deemed forfeit and cannot be used in a match result report.
 
-See the attachment archive in [Map Pool](https://forum.openra.net/viewtopic.php?f=85&t=20642) thread.
+4.3.2 If the players cannot come to an agreement in regards to a game that resulted in disconnect, a notice to the officials should be stated including the replay of the game in question, preferably in the dedicated Discord channel. The evaluation of such game will likely result in a re-play unless the game is undoubtedly decided towards one player. The final word will be up to the official evaluation regardless.
 
-# League tables: Placements and tie-breakers
+4.3.3 Players who get disconnected more than 3 times during a season will forfeit the game points of their following disconnected games regardless of the state of the ongoing game.
 
-Players are ranked within each division based on match points. In the event of tied points at the end of the season, the players will be ranked against each other based on:
-* Result from the players' current seasons' match-up.
-* 1 game rematch
+# 5. Miscellaneous
 
-Meaning the match-up between players will primarily decide the ranking. In the event this match-up went 1-1 (or the match failed to report) then a 1 game rematch will be required. In the event of multiple ties a best of 1 round robin may be required.
+## 5.1 Streaming/casting
 
-Strikes can be given out for a a number of different reasons, failure to report a match, cheating, etc. 3 strikes results in a Season Forfeit.
-New in season 6: unreported matches that resulted in strikes for both players are still eligible to be played on the later date before the end of the group stage. Strikes received this way will still stay active.
+5.1.1 Streamers must add a minimum of 90 seconds delay to their streams when covering a league match, unless both players explicitly state their wish to disregard this rule.
 
-# Playoff Format
+5.1.2 Streamers who do not participate in the league but wish to cover a league match on a dedicated RAGL game server, should provide their forum accounts, so that they are whitelisted on these servers.
 
-The top 4 Masters players will face each other in the playoffs, deciding the prize spots. 1st placed in group playing 4th, 2nd playing 3rd, and then winners will play for the Masters Championship, while the losers play for 3rd place.
-In case Minions division is split into 2 groups, Minions Playoff match is played between players finishing 1st in their respective groups to decide the Minions championship and the prize spot.
+## 5.2 Prize pool contributions
 
-# Replay files: Renaming and Uploading
+5.2.1 Personal email account, OpenRA.RAGL@gmail.com, is connected via PayPal to host the prize pool contributions. Any person willing to contribute is to send a payment through PayPal to this email address. Name or a request to remain anonymous is to be stated in ‘Write a note’ section, as well as a request to a specific league contribution or a prize.
 
-Replay files are the sole documentation of the matches played and thus should be treated with great care. The host player bears the responsibility to have the file uploaded. Upon agreement the guest player or spectator can upload the replay file.
+5.2.2 PayPal contributions are converted into Dollars ($), if you send money in your local currency the prizepool host will cover the conversion fees.
 
-The replay files will have to be renamed specifically before uploading. In your folder or your replay viewer, delete the ENTIRE filename and replace it with:
-
-RAGL-S06-[MASTER/MINION]-[RXX/POXX]-[player initials]-[other player initials]-[G1,G2,G3,G4,G5], all letters in CAPS.
-
-S06 stands for Season 6,
-RXX stands for appropriate match Round (01, 02, 03 etc.),
-POX stands for Playoff match (POSF for semifinals, POF for finals or 3rd place matches)
-
-Example: In Season 1, SoScared played 2 matches against PersianImmortal, and the players agreed for SoScared to upload them both. They both play in the Minions' A Division. The matches was played on 25th of April 2016 which, according to the schedule table, coincides with 'Round 04'. The players' given initials are SOS for SoScared and PSI for PersianImmortal. The replay files for these matches would be:
-
-RAGL-S01-MINION-R04-SOS-PSI-G1.orarep
-RAGL-S01-MINION-R04-SOS-PSI-G2.orarep
-
-Replay files not properly renamed will not be accepted. We understand that naming and uploading replays are a pain and are still looking into a nice and function automated system. In the mean time we will be cracking down on improperly named replays.
-
-All replays are uploaded to Jazz_KCS's file server: [http://64hdb.mine.nu:5534/mIRROR/ora_re ... eason_six/](http://64hdb.mine.nu:5534/mIRROR/ora_replays/RAGL_Season_six/) In the correct Round and Division sub-folder, click the 'Upload files' link on the right side of the page. You'll have to rename the replay file before uploading. If the replay is uploaded erroneously, re-upload the correct file and notify the tournament official so that the wrong file can be removed.
-
-# Emails: Reporting Results
-
-After the replay files are uploaded the results are reported per email (titled RESULTS). The report needs to include who won the matches. As with replay files the host player is ultimately responsible for reporting the results but practically it is sufficient for one of the players in a match-up to report the results. The results can be shared with a league official through any means but as stated earlier, league officials cannot guarantee a fair count of your match points without the Result Report by email.
-
-Note: incorrectly naming the replay files or failing to properly report the match may result in strikes to both players, so please pay attention to this procedure.
-
-# Streaming and casting
-
-The Red Alert Global League has a stream channel dedicated to RAGL streams and can be utilized by verified streamers. However, streamers of the event will need to add a minimum of 3 minute delay to their streams when covering an official Live league match. For this season in particular, the league will attempt to highlight a match up each week to be streamed.
-
-# Prize pool contributions
-
-For those interested, a personal email account, OpenRA.RAGL@Gmail.com is connected via PayPal to host the prize pool contributions. Just send a payment through PayPal to that email address via PayPal and in the 'Write a note' section either write your playername/name or state if you wish to remain anonymous given that all individual contributions will be listed in this post under 'Current Prize Pool'. Further you can add a request as to how you would want your contribution to be paid to the league positions specifically (including all divisions).
-By default the prizepool is split as follows (estimate, final shares might differ due to resulting prize pool and rounding the values):
-* 36% Masters Champion
-* 18% Masters 2nd
-* 13% Masters 3rd
-* 11% Masters 4th
-* 10% Minions Champion
-* 12% season finisher prizes (see below)
-
-New in season 6: share of the prize pool will be given out to 3 players randomly chosen among those who successfully finished the season (Masters or Minions), did not accumulate strikes and got outside the prize spots.
-
-PayPal contributions are converted into Dollars ($), if you send money in your local currency the prizepool host will cover the conversion fees. Future seasons may convert the prizepool in Euros (€).
-
-*Prizepools are completely voluntary and are not expected to be significant each season. IF the prize pool for a particular season is thin the exact spread and rewards will be carefully considered. (No one wants to win 5 cents as a random prize!)
-
-## Current Season 6 prize pool
-
-$260
-
-* $100 - Accumulated funds from the previous season
-* $50 - .1
-* $25 - NoobMapMaker (Map Design Contest winner)
-* $20 - Kyrylo (Map Design Contest winner)
-* $20 - Blackened (SoScared's Red Alert Unplugged Bot Challenge II)
-* $15 - netnazgul
-* $15 - eskimo
+5.2.3 Current Season 7 prize pool: pending update $242
+* $100 - Anonymous
+* $65 - previously unclaimed prizes
+* $28 - NoobMapMaker
+* $25 - Unano
 * $15 - jjkramok
+* $9 - Orb
 
-# RAGL officials
+## 5.3 Officials
 
-* Jazz_KCS
-* Blackened
-* .1
+5.3.1 The list of officials to contact is as follows:
 * netnazgul
-* [Honorary Official] SoScared
+* .1
+* Blackened
+* jaZz_KCS
+* SoScared [Honorary official]
 
-League officials reserve the rights to alter or override the rulebook during an ongoing season. All players will be immediately notified if any substantial changes are made during the season. For all inquiries you can contact us at OpenRA.RAGL@Gmail.com or reply on this thread.
+5.3.2 Public (#ragl), closed channels in Discord, email or forums are to be used first when inquiring for information. Please, refrain from using discord personal messages unless the matter is urgent and cannot be discussed by other means.
+
+5.3.3 League officials reserve the rights to alter or override the rulebook during an ongoing season. All players will be immediately notified if any substantial changes are made during the season. For all inquiries you can contact us through Discord, at OpenRA.RAGL@Gmail.com or reply on this thread.
