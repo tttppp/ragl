@@ -3550,5 +3550,3497 @@
             "name": "Clockwork",
             "url": "/player/6680?period=all"
         }
+    },
+    {
+        "date": "2019-09-28 15:40:26",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        },
+        "p1": {
+            "name": "Nilhall",
+            "url": "/player/7714?period=all"
+        }
+    },
+    {
+        "date": "2019-09-28 15:51:08",
+        "map": "Mountain Ridge Redux (RAGL:S8)",
+        "p0": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        },
+        "p1": {
+            "name": "Nilhall",
+            "url": "/player/7714?period=all"
+        }
+    },
+    {
+        "date": "2019-09-30 15:05:12",
+        "map": "Blitz (RAGL:S8)",
+        "p0": {
+            "name": "fris",
+            "url": "/player/3817?period=all"
+        },
+        "p1": {
+            "name": "PieChild",
+            "url": "/player/8894?period=all"
+        }
+    },
+    {
+        "date": "2019-09-30 15:23:35",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "fris",
+            "url": "/player/3817?period=all"
+        },
+        "p1": {
+            "name": "PieChild",
+            "url": "/player/8894?period=all"
+        }
+    },
+    {
+        "date": "2019-09-30 15:51:15",
+        "map": "Trapped (RAGL:S8)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "fris",
+            "url": "/player/3817?period=all"
+        }
+    },
+    {
+        "date": "2019-09-30 16:05:39",
+        "map": "Windige Gasse (RAGL:S8)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "fris",
+            "url": "/player/3817?period=all"
+        }
+    },
+    {
+        "date": "2019-09-30 17:08:40",
+        "map": "Blitz (RAGL:S8)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        }
+    },
+    {
+        "date": "2019-09-30 17:16:44",
+        "map": "Enhanced Snakes and Ladders (RAGL:S8)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        }
+    },
+    {
+        "date": "2019-09-30 18:00:26",
+        "map": "Trapped (RAGL:S8)",
+        "p0": {
+            "name": "JackoDerp",
+            "url": "/player/9342?period=all"
+        },
+        "p1": {
+            "name": "Nilhall",
+            "url": "/player/7714?period=all"
+        }
+    },
+    {
+        "date": "2019-09-30 18:10:42",
+        "map": "Mountain Ridge Redux (RAGL:S8)",
+        "p0": {
+            "name": "JackoDerp",
+            "url": "/player/9342?period=all"
+        },
+        "p1": {
+            "name": "Nilhall",
+            "url": "/player/7714?period=all"
+        }
+    },
+    {
+        "date": "2019-09-30 18:18:41",
+        "map": "River Crossing 2 (RAGL:S8)",
+        "p0": {
+            "name": "JackoDerp",
+            "url": "/player/9342?period=all"
+        },
+        "p1": {
+            "name": "PieChild",
+            "url": "/player/8894?period=all"
+        }
+    },
+    {
+        "date": "2019-09-30 18:35:56",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "PieChild",
+            "url": "/player/8894?period=all"
+        },
+        "p1": {
+            "name": "JackoDerp",
+            "url": "/player/9342?period=all"
+        }
+    },
+    {
+        "date": "2019-09-30 18:49:54",
+        "map": "Onyx (RAGL:S8)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "Nilhall",
+            "url": "/player/7714?period=all"
+        }
+    },
+    {
+        "date": "2019-09-30 19:04:41",
+        "map": "Windige Gasse (RAGL:S8)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "Nilhall",
+            "url": "/player/7714?period=all"
+        }
+    },
+    {
+        "date": "2019-09-30 19:17:57",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        }
+    },
+    {
+        "date": "2019-09-30 19:20:37",
+        "map": "Mountain Ridge Redux (RAGL:S8)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "SinJul",
+            "url": "/player/9877?period=all"
+        }
+    },
+    {
+        "date": "2019-09-30 19:28:07",
+        "map": "Mountain Ridge Redux (RAGL:S8)",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        }
+    },
+    {
+        "date": "2019-09-30 19:35:30",
+        "map": "Enhanced Snakes and Ladders (RAGL:S8)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "SinJul",
+            "url": "/player/9877?period=all"
+        }
+    },
+    {
+        "date": "2019-09-30 19:48:33",
+        "map": "Trapped (RAGL:S8)",
+        "p0": {
+            "name": "JackoDerp",
+            "url": "/player/9342?period=all"
+        },
+        "p1": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        }
+    },
+    {
+        "date": "2019-09-30 20:00:55",
+        "map": "Enhanced Snakes and Ladders (RAGL:S8)",
+        "p0": {
+            "name": "JackoDerp",
+            "url": "/player/9342?period=all"
+        },
+        "p1": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        }
+    },
+    {
+        "date": "2019-10-01 15:27:39",
+        "map": "Windige Gasse (RAGL:S8)",
+        "p0": {
+            "name": "fris",
+            "url": "/player/3817?period=all"
+        },
+        "p1": {
+            "name": "Nilhall",
+            "url": "/player/7714?period=all"
+        }
+    },
+    {
+        "date": "2019-10-01 15:39:18",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "fris",
+            "url": "/player/3817?period=all"
+        },
+        "p1": {
+            "name": "Nilhall",
+            "url": "/player/7714?period=all"
+        }
+    },
+    {
+        "date": "2019-10-01 17:58:58",
+        "map": "Forgotten Plains (RAGL:S8)",
+        "p0": {
+            "name": "fris",
+            "url": "/player/3817?period=all"
+        },
+        "p1": {
+            "name": "Kernel Panic",
+            "url": "/player/7299?period=all"
+        }
+    },
+    {
+        "date": "2019-10-01 18:18:37",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "Kernel Panic",
+            "url": "/player/7299?period=all"
+        },
+        "p1": {
+            "name": "fris",
+            "url": "/player/3817?period=all"
+        }
+    },
+    {
+        "date": "2019-10-01 18:51:55",
+        "map": "Forgotten Plains (RAGL:S8)",
+        "p0": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        },
+        "p1": {
+            "name": "Kernel Panic",
+            "url": "/player/7299?period=all"
+        }
+    },
+    {
+        "date": "2019-10-01 18:52:11",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "fris",
+            "url": "/player/3817?period=all"
+        },
+        "p1": {
+            "name": "SinJul",
+            "url": "/player/9877?period=all"
+        }
+    },
+    {
+        "date": "2019-10-01 19:07:39",
+        "map": "Enhanced Snakes and Ladders (RAGL:S8)",
+        "p0": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        },
+        "p1": {
+            "name": "Kernel Panic",
+            "url": "/player/7299?period=all"
+        }
+    },
+    {
+        "date": "2019-10-01 19:11:12",
+        "map": "Forgotten Plains (RAGL:S8)",
+        "p0": {
+            "name": "fris",
+            "url": "/player/3817?period=all"
+        },
+        "p1": {
+            "name": "SinJul",
+            "url": "/player/9877?period=all"
+        }
+    },
+    {
+        "date": "2019-10-02 14:49:23",
+        "map": "Mountain Ridge Redux (RAGL:S8)",
+        "p0": {
+            "name": "Nilhall",
+            "url": "/player/7714?period=all"
+        },
+        "p1": {
+            "name": "DoDoCat",
+            "url": "/player/7687?period=all"
+        }
+    },
+    {
+        "date": "2019-10-02 15:00:55",
+        "map": "Enhanced Snakes and Ladders (RAGL:S8)",
+        "p0": {
+            "name": "Nilhall",
+            "url": "/player/7714?period=all"
+        },
+        "p1": {
+            "name": "DoDoCat",
+            "url": "/player/7687?period=all"
+        }
+    },
+    {
+        "date": "2019-10-02 17:45:01",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "fris",
+            "url": "/player/3817?period=all"
+        },
+        "p1": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        }
+    },
+    {
+        "date": "2019-10-02 18:08:46",
+        "map": "Enhanced Snakes and Ladders (RAGL:S8)",
+        "p0": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        },
+        "p1": {
+            "name": "fris",
+            "url": "/player/3817?period=all"
+        }
+    },
+    {
+        "date": "2019-10-02 18:33:13",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "JackoDerp",
+            "url": "/player/9342?period=all"
+        },
+        "p1": {
+            "name": "fris",
+            "url": "/player/3817?period=all"
+        }
+    },
+    {
+        "date": "2019-10-02 18:52:28",
+        "map": "Trapped (RAGL:S8)",
+        "p0": {
+            "name": "JackoDerp",
+            "url": "/player/9342?period=all"
+        },
+        "p1": {
+            "name": "fris",
+            "url": "/player/3817?period=all"
+        }
+    },
+    {
+        "date": "2019-10-03 16:15:27",
+        "map": "Enhanced Snakes and Ladders (RAGL:S8)",
+        "p0": {
+            "name": "Punsho",
+            "url": "/player/7223?period=all"
+        },
+        "p1": {
+            "name": "Zaqzorn",
+            "url": "/player/6265?period=all"
+        }
+    },
+    {
+        "date": "2019-10-03 16:26:53",
+        "map": "Mountain Ridge Redux (RAGL:S8)",
+        "p0": {
+            "name": "Punsho",
+            "url": "/player/7223?period=all"
+        },
+        "p1": {
+            "name": "Zaqzorn",
+            "url": "/player/6265?period=all"
+        }
+    },
+    {
+        "date": "2019-10-03 19:17:51",
+        "map": "Forgotten Plains (RAGL:S8)",
+        "p0": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        },
+        "p1": {
+            "name": "Misery",
+            "url": "/player/9506?period=all"
+        }
+    },
+    {
+        "date": "2019-10-03 19:48:48",
+        "map": "Forgotten Plains (RAGL:S8)",
+        "p0": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        },
+        "p1": {
+            "name": "SinJul",
+            "url": "/player/9877?period=all"
+        }
+    },
+    {
+        "date": "2019-10-03 19:57:52",
+        "map": "Trapped (RAGL:S8)",
+        "p0": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        },
+        "p1": {
+            "name": "SinJul",
+            "url": "/player/9877?period=all"
+        }
+    },
+    {
+        "date": "2019-10-05 09:32:38",
+        "map": "Trapped (RAGL:S8)",
+        "p0": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        },
+        "p1": {
+            "name": "Mo",
+            "url": "/player/5292?period=all"
+        }
+    },
+    {
+        "date": "2019-10-05 09:53:37",
+        "map": "Blitz (RAGL:S8)",
+        "p0": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        },
+        "p1": {
+            "name": "Mo",
+            "url": "/player/5292?period=all"
+        }
+    },
+    {
+        "date": "2019-10-05 16:53:49",
+        "map": "Enhanced Snakes and Ladders (RAGL:S8)",
+        "p0": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        },
+        "p1": {
+            "name": "b\u00b5g",
+            "url": "/player/7234?period=all"
+        }
+    },
+    {
+        "date": "2019-10-05 17:04:32",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        },
+        "p1": {
+            "name": "b\u00b5g",
+            "url": "/player/7234?period=all"
+        }
+    },
+    {
+        "date": "2019-10-05 17:47:42",
+        "map": "Trapped (RAGL:S8)",
+        "p0": {
+            "name": "Dualwarhead",
+            "url": "/player/-41?period=all"
+        },
+        "p1": {
+            "name": "Chaosgrunt22",
+            "url": "/player/-47?period=all"
+        }
+    },
+    {
+        "date": "2019-10-05 18:02:15",
+        "map": "Mountain Ridge Redux (RAGL:S8)",
+        "p0": {
+            "name": "Dualwarhead",
+            "url": "/player/-41?period=all"
+        },
+        "p1": {
+            "name": "Chaosgrunt22",
+            "url": "/player/-47?period=all"
+        }
+    },
+    {
+        "date": "2019-10-05 19:42:48",
+        "map": "Enhanced Snakes and Ladders (RAGL:S8)",
+        "p0": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2019-10-05 20:00:58",
+        "map": "Forgotten Plains (RAGL:S8)",
+        "p0": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        },
+        "p1": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        }
+    },
+    {
+        "date": "2019-10-05 20:28:44",
+        "map": "Enhanced Snakes and Ladders (RAGL:S8)",
+        "p0": {
+            "name": "Chaosgrunt22",
+            "url": "/player/-47?period=all"
+        },
+        "p1": {
+            "name": "hamb",
+            "url": "/player/2321?period=all"
+        }
+    },
+    {
+        "date": "2019-10-05 20:36:39",
+        "map": "Onyx (RAGL:S8)",
+        "p0": {
+            "name": "Chaosgrunt22",
+            "url": "/player/-47?period=all"
+        },
+        "p1": {
+            "name": "hamb",
+            "url": "/player/2321?period=all"
+        }
+    },
+    {
+        "date": "2019-10-05 22:09:20",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "hamb",
+            "url": "/player/2321?period=all"
+        }
+    },
+    {
+        "date": "2019-10-05 22:20:08",
+        "map": "Trapped (RAGL:S8)",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "hamb",
+            "url": "/player/2321?period=all"
+        }
+    },
+    {
+        "date": "2019-10-06 13:28:49",
+        "map": "Mountain Ridge Redux (RAGL:S8)",
+        "p0": {
+            "name": "Kernel Panic",
+            "url": "/player/7299?period=all"
+        },
+        "p1": {
+            "name": "DoDoCat",
+            "url": "/player/7687?period=all"
+        }
+    },
+    {
+        "date": "2019-10-06 13:40:49",
+        "map": "Forgotten Plains (RAGL:S8)",
+        "p0": {
+            "name": "Kernel Panic",
+            "url": "/player/7299?period=all"
+        },
+        "p1": {
+            "name": "DoDoCat",
+            "url": "/player/7687?period=all"
+        }
+    },
+    {
+        "date": "2019-10-06 14:04:39",
+        "map": "Forgotten Plains (RAGL:S8)",
+        "p0": {
+            "name": "b\u00b5g",
+            "url": "/player/7234?period=all"
+        },
+        "p1": {
+            "name": "Dying Fetus",
+            "url": "/player/8769?period=all"
+        }
+    },
+    {
+        "date": "2019-10-06 14:27:46",
+        "map": "Blitz (RAGL:S8)",
+        "p0": {
+            "name": "b\u00b5g",
+            "url": "/player/7234?period=all"
+        },
+        "p1": {
+            "name": "Dying Fetus",
+            "url": "/player/8769?period=all"
+        }
+    },
+    {
+        "date": "2019-10-06 15:25:57",
+        "map": "Forgotten Plains (RAGL:S8)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "Kernel Panic",
+            "url": "/player/7299?period=all"
+        }
+    },
+    {
+        "date": "2019-10-06 15:38:26",
+        "map": "Mountain Ridge Redux (RAGL:S8)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "Kernel Panic",
+            "url": "/player/7299?period=all"
+        }
+    },
+    {
+        "date": "2019-10-06 16:17:55",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        },
+        "p1": {
+            "name": "Mo",
+            "url": "/player/5292?period=all"
+        }
+    },
+    {
+        "date": "2019-10-06 16:39:16",
+        "map": "Blitz (RAGL:S8)",
+        "p0": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        },
+        "p1": {
+            "name": "Mo",
+            "url": "/player/5292?period=all"
+        }
+    },
+    {
+        "date": "2019-10-06 17:08:26",
+        "map": "Trapped (RAGL:S8)",
+        "p0": {
+            "name": "Dualwarhead",
+            "url": "/player/-41?period=all"
+        },
+        "p1": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        }
+    },
+    {
+        "date": "2019-10-06 17:26:05",
+        "map": "Mountain Ridge Redux (RAGL:S8)",
+        "p0": {
+            "name": "Dualwarhead",
+            "url": "/player/-41?period=all"
+        },
+        "p1": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        }
+    },
+    {
+        "date": "2019-10-06 17:55:28",
+        "map": "Trapped (RAGL:S8)",
+        "p0": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        },
+        "p1": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        }
+    },
+    {
+        "date": "2019-10-06 18:08:12",
+        "map": "Onyx (RAGL:S8)",
+        "p0": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        },
+        "p1": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        }
+    },
+    {
+        "date": "2019-10-06 18:36:51",
+        "map": "Enhanced Snakes and Ladders (RAGL:S8)",
+        "p0": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        },
+        "p1": {
+            "name": "Dualwarhead",
+            "url": "/player/-41?period=all"
+        }
+    },
+    {
+        "date": "2019-10-06 18:55:26",
+        "map": "Mountain Ridge Redux (RAGL:S8)",
+        "p0": {
+            "name": "Dualwarhead",
+            "url": "/player/-41?period=all"
+        },
+        "p1": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        }
+    },
+    {
+        "date": "2019-10-06 19:07:16",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        },
+        "p1": {
+            "name": "Zaqzorn",
+            "url": "/player/6265?period=all"
+        }
+    },
+    {
+        "date": "2019-10-06 19:08:56",
+        "map": "Trapped (RAGL:S8)",
+        "p0": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        },
+        "p1": {
+            "name": "Chaosgrunt22",
+            "url": "/player/-47?period=all"
+        }
+    },
+    {
+        "date": "2019-10-06 19:18:20",
+        "map": "Climate Crisis (RAGL:S8)",
+        "p0": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        },
+        "p1": {
+            "name": "Zaqzorn",
+            "url": "/player/6265?period=all"
+        }
+    },
+    {
+        "date": "2019-10-06 19:24:37",
+        "map": "Enhanced Snakes and Ladders (RAGL:S8)",
+        "p0": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        },
+        "p1": {
+            "name": "Chaosgrunt22",
+            "url": "/player/-47?period=all"
+        }
+    },
+    {
+        "date": "2019-10-07 17:02:52",
+        "map": "Onyx (RAGL:S8)",
+        "p0": {
+            "name": "Dualwarhead",
+            "url": "/player/-41?period=all"
+        },
+        "p1": {
+            "name": "Hermann G'",
+            "url": "/player/7212?period=all"
+        }
+    },
+    {
+        "date": "2019-10-07 18:58:57",
+        "map": "Trapped (RAGL:S8)",
+        "p0": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        },
+        "p1": {
+            "name": "Chaosgrunt22",
+            "url": "/player/-47?period=all"
+        }
+    },
+    {
+        "date": "2019-10-07 19:16:23",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        },
+        "p1": {
+            "name": "Chaosgrunt22",
+            "url": "/player/-47?period=all"
+        }
+    },
+    {
+        "date": "2019-10-07 19:47:39",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        }
+    },
+    {
+        "date": "2019-10-07 19:55:52",
+        "map": "Trapped (RAGL:S8)",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        }
+    },
+    {
+        "date": "2019-10-08 22:03:29",
+        "map": "Trapped (RAGL:S8)",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "Fahrrad",
+            "url": "/player/6016?period=all"
+        }
+    },
+    {
+        "date": "2019-10-08 22:15:02",
+        "map": "River Crossing 2 (RAGL:S8)",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "Fahrrad",
+            "url": "/player/6016?period=all"
+        }
+    },
+    {
+        "date": "2019-10-09 17:46:30",
+        "map": "Trapped (RAGL:S8)",
+        "p0": {
+            "name": "Misery",
+            "url": "/player/9506?period=all"
+        },
+        "p1": {
+            "name": "SinJul",
+            "url": "/player/9877?period=all"
+        }
+    },
+    {
+        "date": "2019-10-09 17:59:20",
+        "map": "Enhanced Snakes and Ladders (RAGL:S8)",
+        "p0": {
+            "name": "Misery",
+            "url": "/player/9506?period=all"
+        },
+        "p1": {
+            "name": "SinJul",
+            "url": "/player/9877?period=all"
+        }
+    },
+    {
+        "date": "2019-10-09 19:42:55",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        },
+        "p1": {
+            "name": "b\u00b5g",
+            "url": "/player/7234?period=all"
+        }
+    },
+    {
+        "date": "2019-10-09 20:06:02",
+        "map": "Onyx (RAGL:S8)",
+        "p0": {
+            "name": "b\u00b5g",
+            "url": "/player/7234?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2019-10-11 19:52:59",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        },
+        "p1": {
+            "name": "Mo",
+            "url": "/player/5292?period=all"
+        }
+    },
+    {
+        "date": "2019-10-11 20:18:20",
+        "map": "Enhanced Snakes and Ladders (RAGL:S8)",
+        "p0": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        },
+        "p1": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        }
+    },
+    {
+        "date": "2019-10-11 20:23:25",
+        "map": "Blitz (RAGL:S8)",
+        "p0": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        },
+        "p1": {
+            "name": "Mo",
+            "url": "/player/5292?period=all"
+        }
+    },
+    {
+        "date": "2019-10-11 20:31:56",
+        "map": "Mountain Ridge Redux (RAGL:S8)",
+        "p0": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        },
+        "p1": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        }
+    },
+    {
+        "date": "2019-10-11 21:16:43",
+        "map": "Climate Crisis (RAGL:S8)",
+        "p0": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        },
+        "p1": {
+            "name": "Mo",
+            "url": "/player/5292?period=all"
+        }
+    },
+    {
+        "date": "2019-10-11 22:05:07",
+        "map": "Trapped (RAGL:S8)",
+        "p0": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        },
+        "p1": {
+            "name": "Mo",
+            "url": "/player/5292?period=all"
+        }
+    },
+    {
+        "date": "2019-10-12 00:09:56",
+        "map": "Forgotten Plains (RAGL:S8)",
+        "p0": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        },
+        "p1": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        }
+    },
+    {
+        "date": "2019-10-12 00:23:45",
+        "map": "Windige Gasse (RAGL:S8)",
+        "p0": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        },
+        "p1": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        }
+    },
+    {
+        "date": "2019-10-12 15:38:51",
+        "map": "Forgotten Plains (RAGL:S8)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "DoDoCat",
+            "url": "/player/7687?period=all"
+        }
+    },
+    {
+        "date": "2019-10-12 15:48:26",
+        "map": "Climate Crisis (RAGL:S8)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "DoDoCat",
+            "url": "/player/7687?period=all"
+        }
+    },
+    {
+        "date": "2019-10-13 12:29:35",
+        "map": "Forgotten Plains (RAGL:S8)",
+        "p0": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        },
+        "p1": {
+            "name": "Zaqzorn",
+            "url": "/player/6265?period=all"
+        }
+    },
+    {
+        "date": "2019-10-13 12:56:13",
+        "map": "Climate Crisis (RAGL:S8)",
+        "p0": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        },
+        "p1": {
+            "name": "Zaqzorn",
+            "url": "/player/6265?period=all"
+        }
+    },
+    {
+        "date": "2019-10-13 13:29:00",
+        "map": "Blitz (RAGL:S8)",
+        "p0": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        },
+        "p1": {
+            "name": "Mo",
+            "url": "/player/5292?period=all"
+        }
+    },
+    {
+        "date": "2019-10-13 13:39:13",
+        "map": "Forgotten Plains (RAGL:S8)",
+        "p0": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        },
+        "p1": {
+            "name": "Zaqzorn",
+            "url": "/player/6265?period=all"
+        }
+    },
+    {
+        "date": "2019-10-13 13:48:53",
+        "map": "River Crossing 2 (RAGL:S8)",
+        "p0": {
+            "name": "Kernel Panic",
+            "url": "/player/7299?period=all"
+        },
+        "p1": {
+            "name": "SinJul",
+            "url": "/player/9877?period=all"
+        }
+    },
+    {
+        "date": "2019-10-13 13:49:55",
+        "map": "River Crossing 2 (RAGL:S8)",
+        "p0": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        },
+        "p1": {
+            "name": "Zaqzorn",
+            "url": "/player/6265?period=all"
+        }
+    },
+    {
+        "date": "2019-10-13 14:02:56",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "Mo",
+            "url": "/player/5292?period=all"
+        },
+        "p1": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        }
+    },
+    {
+        "date": "2019-10-13 14:11:37",
+        "map": "Climate Crisis (RAGL:S8)",
+        "p0": {
+            "name": "SinJul",
+            "url": "/player/9877?period=all"
+        },
+        "p1": {
+            "name": "Kernel Panic",
+            "url": "/player/7299?period=all"
+        }
+    },
+    {
+        "date": "2019-10-13 16:47:29",
+        "map": "Mountain Ridge Redux (RAGL:S8)",
+        "p0": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        },
+        "p1": {
+            "name": "SinJul",
+            "url": "/player/9877?period=all"
+        }
+    },
+    {
+        "date": "2019-10-13 17:01:51",
+        "map": "Climate Crisis (RAGL:S8)",
+        "p0": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        },
+        "p1": {
+            "name": "SinJul",
+            "url": "/player/9877?period=all"
+        }
+    },
+    {
+        "date": "2019-10-13 17:49:55",
+        "map": "Enhanced Snakes and Ladders (RAGL:S8)",
+        "p0": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        },
+        "p1": {
+            "name": "Hermann G'",
+            "url": "/player/7212?period=all"
+        }
+    },
+    {
+        "date": "2019-10-13 17:57:48",
+        "map": "Trapped (RAGL:S8)",
+        "p0": {
+            "name": "Dualwarhead",
+            "url": "/player/-41?period=all"
+        },
+        "p1": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        }
+    },
+    {
+        "date": "2019-10-13 18:03:35",
+        "map": "Enhanced Snakes and Ladders (RAGL:S8)",
+        "p0": {
+            "name": "Hermann G'",
+            "url": "/player/7212?period=all"
+        },
+        "p1": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        }
+    },
+    {
+        "date": "2019-10-13 18:08:04",
+        "map": "Mountain Ridge Redux (RAGL:S8)",
+        "p0": {
+            "name": "Dualwarhead",
+            "url": "/player/-41?period=all"
+        },
+        "p1": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        }
+    },
+    {
+        "date": "2019-10-13 18:24:00",
+        "map": "Enhanced Snakes and Ladders (RAGL:S8)",
+        "p0": {
+            "name": "eskimo",
+            "url": "/player/6695?period=all"
+        },
+        "p1": {
+            "name": "Fahrrad",
+            "url": "/player/6016?period=all"
+        }
+    },
+    {
+        "date": "2019-10-13 18:24:13",
+        "map": "Forgotten Plains (RAGL:S8)",
+        "p0": {
+            "name": "Dualwarhead",
+            "url": "/player/-41?period=all"
+        },
+        "p1": {
+            "name": "hamb",
+            "url": "/player/2321?period=all"
+        }
+    },
+    {
+        "date": "2019-10-13 18:33:41",
+        "map": "Mountain Ridge Redux (RAGL:S8)",
+        "p0": {
+            "name": "Dualwarhead",
+            "url": "/player/-41?period=all"
+        },
+        "p1": {
+            "name": "hamb",
+            "url": "/player/2321?period=all"
+        }
+    },
+    {
+        "date": "2019-10-13 18:33:59",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "eskimo",
+            "url": "/player/6695?period=all"
+        },
+        "p1": {
+            "name": "Fahrrad",
+            "url": "/player/6016?period=all"
+        }
+    },
+    {
+        "date": "2019-10-13 18:46:59",
+        "map": "Enhanced Snakes and Ladders (RAGL:S8)",
+        "p0": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        },
+        "p1": {
+            "name": "hamb",
+            "url": "/player/2321?period=all"
+        }
+    },
+    {
+        "date": "2019-10-13 18:56:35",
+        "map": "Trapped (RAGL:S8)",
+        "p0": {
+            "name": "eskimo",
+            "url": "/player/6695?period=all"
+        },
+        "p1": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        }
+    },
+    {
+        "date": "2019-10-13 19:05:51",
+        "map": "Onyx (RAGL:S8)",
+        "p0": {
+            "name": "eskimo",
+            "url": "/player/6695?period=all"
+        },
+        "p1": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        }
+    },
+    {
+        "date": "2019-10-13 19:06:09",
+        "map": "Trapped (RAGL:S8)",
+        "p0": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        },
+        "p1": {
+            "name": "hamb",
+            "url": "/player/2321?period=all"
+        }
+    },
+    {
+        "date": "2019-10-13 19:25:38",
+        "map": "Mountain Ridge Redux (RAGL:S8)",
+        "p0": {
+            "name": "eskimo",
+            "url": "/player/6695?period=all"
+        },
+        "p1": {
+            "name": "hamb",
+            "url": "/player/2321?period=all"
+        }
+    },
+    {
+        "date": "2019-10-13 19:48:02",
+        "map": "Forgotten Plains (RAGL:S8)",
+        "p0": {
+            "name": "eskimo",
+            "url": "/player/6695?period=all"
+        },
+        "p1": {
+            "name": "hamb",
+            "url": "/player/2321?period=all"
+        }
+    },
+    {
+        "date": "2019-10-13 20:26:17",
+        "map": "River Crossing 2 (RAGL:S8)",
+        "p0": {
+            "name": "b\u00b5g",
+            "url": "/player/7234?period=all"
+        },
+        "p1": {
+            "name": "Mo",
+            "url": "/player/5292?period=all"
+        }
+    },
+    {
+        "date": "2019-10-13 20:39:55",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "Mo",
+            "url": "/player/5292?period=all"
+        },
+        "p1": {
+            "name": "b\u00b5g",
+            "url": "/player/7234?period=all"
+        }
+    },
+    {
+        "date": "2019-10-14 17:52:40",
+        "map": "Enhanced Snakes and Ladders (RAGL:S8)",
+        "p0": {
+            "name": "Misery",
+            "url": "/player/9506?period=all"
+        },
+        "p1": {
+            "name": "JackoDerp",
+            "url": "/player/9342?period=all"
+        }
+    },
+    {
+        "date": "2019-10-14 18:03:15",
+        "map": "Trapped (RAGL:S8)",
+        "p0": {
+            "name": "Misery",
+            "url": "/player/9506?period=all"
+        },
+        "p1": {
+            "name": "JackoDerp",
+            "url": "/player/9342?period=all"
+        }
+    },
+    {
+        "date": "2019-10-14 18:16:16",
+        "map": "River Crossing 2 (RAGL:S8)",
+        "p0": {
+            "name": "Misery",
+            "url": "/player/9506?period=all"
+        },
+        "p1": {
+            "name": "Kernel Panic",
+            "url": "/player/7299?period=all"
+        }
+    },
+    {
+        "date": "2019-10-14 18:34:32",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "Misery",
+            "url": "/player/9506?period=all"
+        },
+        "p1": {
+            "name": "Kernel Panic",
+            "url": "/player/7299?period=all"
+        }
+    },
+    {
+        "date": "2019-10-14 18:55:35",
+        "map": "Forgotten Plains (RAGL:S8)",
+        "p0": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        },
+        "p1": {
+            "name": "Punsho",
+            "url": "/player/7223?period=all"
+        }
+    },
+    {
+        "date": "2019-10-14 19:17:23",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        },
+        "p1": {
+            "name": "Punsho",
+            "url": "/player/7223?period=all"
+        }
+    },
+    {
+        "date": "2019-10-14 19:45:16",
+        "map": "River Crossing 2 (RAGL:S8)",
+        "p0": {
+            "name": "JackoDerp",
+            "url": "/player/9342?period=all"
+        },
+        "p1": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        }
+    },
+    {
+        "date": "2019-10-14 20:10:50",
+        "map": "Blitz (RAGL:S8)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "JackoDerp",
+            "url": "/player/9342?period=all"
+        }
+    },
+    {
+        "date": "2019-10-14 20:27:09",
+        "map": "Trapped (RAGL:S8)",
+        "p0": {
+            "name": "Misery",
+            "url": "/player/9506?period=all"
+        },
+        "p1": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        }
+    },
+    {
+        "date": "2019-10-14 20:48:16",
+        "map": "Mountain Ridge Redux (RAGL:S8)",
+        "p0": {
+            "name": "Misery",
+            "url": "/player/9506?period=all"
+        },
+        "p1": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        }
+    },
+    {
+        "date": "2019-10-15 19:37:07",
+        "map": "Mountain Ridge Redux (RAGL:S8)",
+        "p0": {
+            "name": "PieChild",
+            "url": "/player/8894?period=all"
+        },
+        "p1": {
+            "name": "SinJul",
+            "url": "/player/9877?period=all"
+        }
+    },
+    {
+        "date": "2019-10-15 19:45:17",
+        "map": "Trapped (RAGL:S8)",
+        "p0": {
+            "name": "SinJul",
+            "url": "/player/9877?period=all"
+        },
+        "p1": {
+            "name": "PieChild",
+            "url": "/player/8894?period=all"
+        }
+    },
+    {
+        "date": "2019-10-16 18:08:15",
+        "map": "Climate Crisis (RAGL:S8)",
+        "p0": {
+            "name": "JackoDerp",
+            "url": "/player/9342?period=all"
+        },
+        "p1": {
+            "name": "SinJul",
+            "url": "/player/9877?period=all"
+        }
+    },
+    {
+        "date": "2019-10-16 18:20:30",
+        "map": "Windige Gasse (RAGL:S8)",
+        "p0": {
+            "name": "JackoDerp",
+            "url": "/player/9342?period=all"
+        },
+        "p1": {
+            "name": "SinJul",
+            "url": "/player/9877?period=all"
+        }
+    },
+    {
+        "date": "2019-10-17 19:48:10",
+        "map": "River Crossing 2 (RAGL:S8)",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2019-10-17 19:58:31",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2019-10-18 13:11:59",
+        "map": "Climate Crisis (RAGL:S8)",
+        "p0": {
+            "name": "PieChild",
+            "url": "/player/8894?period=all"
+        },
+        "p1": {
+            "name": "DoDoCat",
+            "url": "/player/7687?period=all"
+        }
+    },
+    {
+        "date": "2019-10-18 13:24:03",
+        "map": "Trapped (RAGL:S8)",
+        "p0": {
+            "name": "PieChild",
+            "url": "/player/8894?period=all"
+        },
+        "p1": {
+            "name": "DoDoCat",
+            "url": "/player/7687?period=all"
+        }
+    },
+    {
+        "date": "2019-10-18 20:38:01",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "Misery",
+            "url": "/player/9506?period=all"
+        },
+        "p1": {
+            "name": "fris",
+            "url": "/player/3817?period=all"
+        }
+    },
+    {
+        "date": "2019-10-18 20:46:48",
+        "map": "Mountain Ridge Redux (RAGL:S8)",
+        "p0": {
+            "name": "Misery",
+            "url": "/player/9506?period=all"
+        },
+        "p1": {
+            "name": "fris",
+            "url": "/player/3817?period=all"
+        }
+    },
+    {
+        "date": "2019-10-19 16:21:24",
+        "map": "Forgotten Plains (RAGL:S8)",
+        "p0": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        },
+        "p1": {
+            "name": "Kernel Panic",
+            "url": "/player/7299?period=all"
+        }
+    },
+    {
+        "date": "2019-10-19 16:36:09",
+        "map": "Onyx (RAGL:S8)",
+        "p0": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        },
+        "p1": {
+            "name": "Kernel Panic",
+            "url": "/player/7299?period=all"
+        }
+    },
+    {
+        "date": "2019-10-19 17:15:39",
+        "map": "Climate Crisis (RAGL:S8)",
+        "p0": {
+            "name": "Misery",
+            "url": "/player/9506?period=all"
+        },
+        "p1": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        }
+    },
+    {
+        "date": "2019-10-19 18:35:15",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        },
+        "p1": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        }
+    },
+    {
+        "date": "2019-10-19 19:00:09",
+        "map": "Onyx (RAGL:S8)",
+        "p0": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2019-10-19 19:05:21",
+        "map": "Trapped (RAGL:S8)",
+        "p0": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        },
+        "p1": {
+            "name": "hamb",
+            "url": "/player/2321?period=all"
+        }
+    },
+    {
+        "date": "2019-10-19 19:30:10",
+        "map": "Mountain Ridge Redux (RAGL:S8)",
+        "p0": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        },
+        "p1": {
+            "name": "hamb",
+            "url": "/player/2321?period=all"
+        }
+    },
+    {
+        "date": "2019-10-20 00:06:20",
+        "map": "Climate Crisis (RAGL:S8)",
+        "p0": {
+            "name": "JackoDerp",
+            "url": "/player/9342?period=all"
+        },
+        "p1": {
+            "name": "DoDoCat",
+            "url": "/player/7687?period=all"
+        }
+    },
+    {
+        "date": "2019-10-20 00:37:20",
+        "map": "Mountain Ridge Redux (RAGL:S8)",
+        "p0": {
+            "name": "JackoDerp",
+            "url": "/player/9342?period=all"
+        },
+        "p1": {
+            "name": "DoDoCat",
+            "url": "/player/7687?period=all"
+        }
+    },
+    {
+        "date": "2019-10-20 02:55:41",
+        "map": "Blitz (RAGL:S8)",
+        "p0": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        },
+        "p1": {
+            "name": "DoDoCat",
+            "url": "/player/7687?period=all"
+        }
+    },
+    {
+        "date": "2019-10-20 03:05:57",
+        "map": "Blitz (RAGL:S8)",
+        "p0": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        },
+        "p1": {
+            "name": "DoDoCat",
+            "url": "/player/7687?period=all"
+        }
+    },
+    {
+        "date": "2019-10-20 10:07:02",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "fris",
+            "url": "/player/3817?period=all"
+        },
+        "p1": {
+            "name": "DoDoCat",
+            "url": "/player/7687?period=all"
+        }
+    },
+    {
+        "date": "2019-10-20 10:15:16",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "fris",
+            "url": "/player/3817?period=all"
+        },
+        "p1": {
+            "name": "DoDoCat",
+            "url": "/player/7687?period=all"
+        }
+    },
+    {
+        "date": "2019-10-20 12:12:25",
+        "map": "Forgotten Plains (RAGL:S8)",
+        "p0": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        },
+        "p1": {
+            "name": "PieChild",
+            "url": "/player/8894?period=all"
+        }
+    },
+    {
+        "date": "2019-10-20 12:25:50",
+        "map": "Windige Gasse (RAGL:S8)",
+        "p0": {
+            "name": "Dualwarhead",
+            "url": "/player/-41?period=all"
+        },
+        "p1": {
+            "name": "Fahrrad",
+            "url": "/player/6016?period=all"
+        }
+    },
+    {
+        "date": "2019-10-20 12:26:55",
+        "map": "Enhanced Snakes and Ladders (RAGL:S8)",
+        "p0": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        },
+        "p1": {
+            "name": "PieChild",
+            "url": "/player/8894?period=all"
+        }
+    },
+    {
+        "date": "2019-10-20 12:33:36",
+        "map": "Mountain Ridge Redux (RAGL:S8)",
+        "p0": {
+            "name": "Dualwarhead",
+            "url": "/player/-41?period=all"
+        },
+        "p1": {
+            "name": "Fahrrad",
+            "url": "/player/6016?period=all"
+        }
+    },
+    {
+        "date": "2019-10-20 17:01:20",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        },
+        "p1": {
+            "name": "Zaqzorn",
+            "url": "/player/6265?period=all"
+        }
+    },
+    {
+        "date": "2019-10-20 17:07:00",
+        "map": "River Crossing 2 (RAGL:S8)",
+        "p0": {
+            "name": "Fahrrad",
+            "url": "/player/6016?period=all"
+        },
+        "p1": {
+            "name": "Chaosgrunt22",
+            "url": "/player/-47?period=all"
+        }
+    },
+    {
+        "date": "2019-10-20 17:10:28",
+        "map": "Climate Crisis (RAGL:S8)",
+        "p0": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        },
+        "p1": {
+            "name": "Zaqzorn",
+            "url": "/player/6265?period=all"
+        }
+    },
+    {
+        "date": "2019-10-20 17:19:27",
+        "map": "Trapped (RAGL:S8)",
+        "p0": {
+            "name": "Fahrrad",
+            "url": "/player/6016?period=all"
+        },
+        "p1": {
+            "name": "Chaosgrunt22",
+            "url": "/player/-47?period=all"
+        }
+    },
+    {
+        "date": "2019-10-20 18:18:44",
+        "map": "Forgotten Plains (RAGL:S8)",
+        "p0": {
+            "name": "JackoDerp",
+            "url": "/player/9342?period=all"
+        },
+        "p1": {
+            "name": "Kernel Panic",
+            "url": "/player/7299?period=all"
+        }
+    },
+    {
+        "date": "2019-10-20 18:31:53",
+        "map": "River Crossing 2 (RAGL:S8)",
+        "p0": {
+            "name": "JackoDerp",
+            "url": "/player/9342?period=all"
+        },
+        "p1": {
+            "name": "Kernel Panic",
+            "url": "/player/7299?period=all"
+        }
+    },
+    {
+        "date": "2019-10-20 18:33:34",
+        "map": "Forgotten Plains (RAGL:S8)",
+        "p0": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        },
+        "p1": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        }
+    },
+    {
+        "date": "2019-10-20 19:16:01",
+        "map": "Trapped (RAGL:S8)",
+        "p0": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        },
+        "p1": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        }
+    },
+    {
+        "date": "2019-10-20 19:46:20",
+        "map": "Forgotten Plains (RAGL:S8)",
+        "p0": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        },
+        "p1": {
+            "name": "Fahrrad",
+            "url": "/player/6016?period=all"
+        }
+    },
+    {
+        "date": "2019-10-20 20:07:31",
+        "map": "Enhanced Snakes and Ladders (RAGL:S8)",
+        "p0": {
+            "name": "Fahrrad",
+            "url": "/player/6016?period=all"
+        },
+        "p1": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        }
+    },
+    {
+        "date": "2019-10-20 20:48:00",
+        "map": "River Crossing 2 (RAGL:S8)",
+        "p0": {
+            "name": "Dualwarhead",
+            "url": "/player/-41?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2019-10-20 21:18:30",
+        "map": "Mountain Ridge Redux (RAGL:S8)",
+        "p0": {
+            "name": "Dualwarhead",
+            "url": "/player/-41?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2019-10-20 22:40:28",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        }
+    },
+    {
+        "date": "2019-10-20 22:52:20",
+        "map": "Trapped (RAGL:S8)",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        }
+    },
+    {
+        "date": "2019-10-22 19:23:44",
+        "map": "Enhanced Snakes and Ladders (RAGL:S8)",
+        "p0": {
+            "name": "PieChild",
+            "url": "/player/8894?period=all"
+        },
+        "p1": {
+            "name": "Kernel Panic",
+            "url": "/player/7299?period=all"
+        }
+    },
+    {
+        "date": "2019-10-22 19:37:28",
+        "map": "Forgotten Plains (RAGL:S8)",
+        "p0": {
+            "name": "Kernel Panic",
+            "url": "/player/7299?period=all"
+        },
+        "p1": {
+            "name": "PieChild",
+            "url": "/player/8894?period=all"
+        }
+    },
+    {
+        "date": "2019-10-23 10:49:23",
+        "map": "River Crossing 2 (RAGL:S8)",
+        "p0": {
+            "name": "Punsho",
+            "url": "/player/7223?period=all"
+        },
+        "p1": {
+            "name": "b\u00b5g",
+            "url": "/player/7234?period=all"
+        }
+    },
+    {
+        "date": "2019-10-23 11:03:27",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "Punsho",
+            "url": "/player/7223?period=all"
+        },
+        "p1": {
+            "name": "b\u00b5g",
+            "url": "/player/7234?period=all"
+        }
+    },
+    {
+        "date": "2019-10-23 15:03:55",
+        "map": "Forgotten Plains (RAGL:S8)",
+        "p0": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        },
+        "p1": {
+            "name": "Nilhall",
+            "url": "/player/7714?period=all"
+        }
+    },
+    {
+        "date": "2019-10-23 15:24:50",
+        "map": "Mountain Ridge Redux (RAGL:S8)",
+        "p0": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        },
+        "p1": {
+            "name": "Nilhall",
+            "url": "/player/7714?period=all"
+        }
+    },
+    {
+        "date": "2019-10-24 15:03:10",
+        "map": "Mountain Ridge Redux (RAGL:S8)",
+        "p0": {
+            "name": "PieChild",
+            "url": "/player/8894?period=all"
+        },
+        "p1": {
+            "name": "Nilhall",
+            "url": "/player/7714?period=all"
+        }
+    },
+    {
+        "date": "2019-10-24 15:19:40",
+        "map": "Enhanced Snakes and Ladders (RAGL:S8)",
+        "p0": {
+            "name": "Nilhall",
+            "url": "/player/7714?period=all"
+        },
+        "p1": {
+            "name": "PieChild",
+            "url": "/player/8894?period=all"
+        }
+    },
+    {
+        "date": "2019-10-24 20:57:24",
+        "map": "Mountain Ridge Redux (RAGL:S8)",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "Chaosgrunt22",
+            "url": "/player/-47?period=all"
+        }
+    },
+    {
+        "date": "2019-10-24 21:06:11",
+        "map": "Enhanced Snakes and Ladders (RAGL:S8)",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "Chaosgrunt22",
+            "url": "/player/-47?period=all"
+        }
+    },
+    {
+        "date": "2019-10-26 18:05:29",
+        "map": "Mountain Ridge Redux (RAGL:S8)",
+        "p0": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        },
+        "p1": {
+            "name": "hamb",
+            "url": "/player/2321?period=all"
+        }
+    },
+    {
+        "date": "2019-10-26 18:19:34",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        },
+        "p1": {
+            "name": "hamb",
+            "url": "/player/2321?period=all"
+        }
+    },
+    {
+        "date": "2019-10-26 18:59:03",
+        "map": "Forgotten Plains (RAGL:S8)",
+        "p0": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        },
+        "p1": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        }
+    },
+    {
+        "date": "2019-10-26 19:13:19",
+        "map": "Trapped (RAGL:S8)",
+        "p0": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        },
+        "p1": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        }
+    },
+    {
+        "date": "2019-10-27 16:30:36",
+        "map": "Enhanced Snakes and Ladders (RAGL:S8)",
+        "p0": {
+            "name": "Hermann G'",
+            "url": "/player/7212?period=all"
+        },
+        "p1": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        }
+    },
+    {
+        "date": "2019-10-27 16:56:07",
+        "map": "Trapped (RAGL:S8)",
+        "p0": {
+            "name": "Hermann G'",
+            "url": "/player/7212?period=all"
+        },
+        "p1": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        }
+    },
+    {
+        "date": "2019-10-27 19:28:13",
+        "map": "Forgotten Plains (RAGL:S8)",
+        "p0": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2019-10-27 19:49:31",
+        "map": "River Crossing 2 (RAGL:S8)",
+        "p0": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2019-10-27 20:13:09",
+        "map": "Windige Gasse (RAGL:S8)",
+        "p0": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        },
+        "p1": {
+            "name": "Fahrrad",
+            "url": "/player/6016?period=all"
+        }
+    },
+    {
+        "date": "2019-10-27 20:21:56",
+        "map": "Trapped (RAGL:S8)",
+        "p0": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        },
+        "p1": {
+            "name": "Hermann G'",
+            "url": "/player/7212?period=all"
+        }
+    },
+    {
+        "date": "2019-10-27 20:30:51",
+        "map": "Forgotten Plains (RAGL:S8)",
+        "p0": {
+            "name": "Fahrrad",
+            "url": "/player/6016?period=all"
+        },
+        "p1": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        }
+    },
+    {
+        "date": "2019-10-27 20:36:20",
+        "map": "Enhanced Snakes and Ladders (RAGL:S8)",
+        "p0": {
+            "name": "Hermann G'",
+            "url": "/player/7212?period=all"
+        },
+        "p1": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        }
+    },
+    {
+        "date": "2019-10-28 14:04:37",
+        "map": "Onyx (RAGL:S8)",
+        "p0": {
+            "name": "SinJul",
+            "url": "/player/9877?period=all"
+        },
+        "p1": {
+            "name": "Nilhall",
+            "url": "/player/7714?period=all"
+        }
+    },
+    {
+        "date": "2019-10-28 14:11:24",
+        "map": "Windige Gasse (RAGL:S8)",
+        "p0": {
+            "name": "SinJul",
+            "url": "/player/9877?period=all"
+        },
+        "p1": {
+            "name": "Nilhall",
+            "url": "/player/7714?period=all"
+        }
+    },
+    {
+        "date": "2019-10-29 21:06:15",
+        "map": "River Crossing 2 (RAGL:S8)",
+        "p0": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        },
+        "p1": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        }
+    },
+    {
+        "date": "2019-10-29 21:17:37",
+        "map": "Trapped (RAGL:S8)",
+        "p0": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2019-10-30 16:18:04",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "PieChild",
+            "url": "/player/8894?period=all"
+        }
+    },
+    {
+        "date": "2019-10-30 16:37:26",
+        "map": "Onyx (RAGL:S8)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "PieChild",
+            "url": "/player/8894?period=all"
+        }
+    },
+    {
+        "date": "2019-10-30 21:04:07",
+        "map": "River Crossing 2 (RAGL:S8)",
+        "p0": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        },
+        "p1": {
+            "name": "Hermann G'",
+            "url": "/player/7212?period=all"
+        }
+    },
+    {
+        "date": "2019-10-30 21:30:33",
+        "map": "Enhanced Snakes and Ladders (RAGL:S8)",
+        "p0": {
+            "name": "Hermann G'",
+            "url": "/player/7212?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2019-11-02 10:50:25",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "Mo",
+            "url": "/player/5292?period=all"
+        },
+        "p1": {
+            "name": "Zaqzorn",
+            "url": "/player/6265?period=all"
+        }
+    },
+    {
+        "date": "2019-11-02 11:01:18",
+        "map": "River Crossing 2 (RAGL:S8)",
+        "p0": {
+            "name": "Mo",
+            "url": "/player/5292?period=all"
+        },
+        "p1": {
+            "name": "Zaqzorn",
+            "url": "/player/6265?period=all"
+        }
+    },
+    {
+        "date": "2019-11-02 13:12:09",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2019-11-02 13:30:34",
+        "map": "River Crossing 2 (RAGL:S8)",
+        "p0": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2019-11-02 15:15:58",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2019-11-02 15:27:24",
+        "map": "River Crossing 2 (RAGL:S8)",
+        "p0": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2019-11-02 17:08:31",
+        "map": "Enhanced Snakes and Ladders (RAGL:S8)",
+        "p0": {
+            "name": "Kernel Panic",
+            "url": "/player/7299?period=all"
+        },
+        "p1": {
+            "name": "Nilhall",
+            "url": "/player/7714?period=all"
+        }
+    },
+    {
+        "date": "2019-11-02 17:21:22",
+        "map": "Forgotten Plains (RAGL:S8)",
+        "p0": {
+            "name": "Kernel Panic",
+            "url": "/player/7299?period=all"
+        },
+        "p1": {
+            "name": "Nilhall",
+            "url": "/player/7714?period=all"
+        }
+    },
+    {
+        "date": "2019-11-02 19:17:23",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "eskimo",
+            "url": "/player/6695?period=all"
+        },
+        "p1": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        }
+    },
+    {
+        "date": "2019-11-02 19:35:40",
+        "map": "Forgotten Plains (RAGL:S8)",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "eskimo",
+            "url": "/player/6695?period=all"
+        }
+    },
+    {
+        "date": "2019-11-02 20:10:06",
+        "map": "River Crossing 2 (RAGL:S8)",
+        "p0": {
+            "name": "eskimo",
+            "url": "/player/6695?period=all"
+        },
+        "p1": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        }
+    },
+    {
+        "date": "2019-11-02 20:14:14",
+        "map": "Enhanced Snakes and Ladders (RAGL:S8)",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "Hermann G'",
+            "url": "/player/7212?period=all"
+        }
+    },
+    {
+        "date": "2019-11-02 20:24:13",
+        "map": "Trapped (RAGL:S8)",
+        "p0": {
+            "name": "eskimo",
+            "url": "/player/6695?period=all"
+        },
+        "p1": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        }
+    },
+    {
+        "date": "2019-11-02 20:29:17",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "Hermann G'",
+            "url": "/player/7212?period=all"
+        }
+    },
+    {
+        "date": "2019-11-03 17:34:06",
+        "map": "Enhanced Snakes and Ladders (RAGL:S8)",
+        "p0": {
+            "name": "Hermann G'",
+            "url": "/player/7212?period=all"
+        },
+        "p1": {
+            "name": "Fahrrad",
+            "url": "/player/6016?period=all"
+        }
+    },
+    {
+        "date": "2019-11-03 17:49:25",
+        "map": "Windige Gasse (RAGL:S8)",
+        "p0": {
+            "name": "Hermann G'",
+            "url": "/player/7212?period=all"
+        },
+        "p1": {
+            "name": "Fahrrad",
+            "url": "/player/6016?period=all"
+        }
+    },
+    {
+        "date": "2019-11-03 18:10:02",
+        "map": "River Crossing 2 (RAGL:S8)",
+        "p0": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2019-11-03 18:36:06",
+        "map": "Trapped (RAGL:S8)",
+        "p0": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2019-11-03 18:51:30",
+        "map": "River Crossing 2 (RAGL:S8)",
+        "p0": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        },
+        "p1": {
+            "name": "Fahrrad",
+            "url": "/player/6016?period=all"
+        }
+    },
+    {
+        "date": "2019-11-03 18:52:32",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2019-11-03 19:04:56",
+        "map": "Forgotten Plains (RAGL:S8)",
+        "p0": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        },
+        "p1": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        }
+    },
+    {
+        "date": "2019-11-03 19:20:57",
+        "map": "Enhanced Snakes and Ladders (RAGL:S8)",
+        "p0": {
+            "name": "Fahrrad",
+            "url": "/player/6016?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2019-11-05 19:03:45",
+        "map": "Forgotten Plains (RAGL:S8)",
+        "p0": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        },
+        "p1": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        }
+    },
+    {
+        "date": "2019-11-05 19:47:39",
+        "map": "Windige Gasse (RAGL:S8)",
+        "p0": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2019-11-06 11:17:24",
+        "map": "River Crossing 2 (RAGL:S8)",
+        "p0": {
+            "name": "Punsho",
+            "url": "/player/7223?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2019-11-06 11:33:07",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "Punsho",
+            "url": "/player/7223?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2019-11-06 14:44:50",
+        "map": "Windige Gasse (RAGL:S8)",
+        "p0": {
+            "name": "Punsho",
+            "url": "/player/7223?period=all"
+        },
+        "p1": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        }
+    },
+    {
+        "date": "2019-11-06 15:01:04",
+        "map": "River Crossing 2 (RAGL:S8)",
+        "p0": {
+            "name": "Punsho",
+            "url": "/player/7223?period=all"
+        },
+        "p1": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        }
+    },
+    {
+        "date": "2019-11-06 19:31:05",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "Punsho",
+            "url": "/player/7223?period=all"
+        },
+        "p1": {
+            "name": "Mo",
+            "url": "/player/5292?period=all"
+        }
+    },
+    {
+        "date": "2019-11-06 19:47:55",
+        "map": "Blitz (RAGL:S8)",
+        "p0": {
+            "name": "Punsho",
+            "url": "/player/7223?period=all"
+        },
+        "p1": {
+            "name": "Mo",
+            "url": "/player/5292?period=all"
+        }
+    },
+    {
+        "date": "2019-11-07 10:10:19",
+        "map": "River Crossing 2 (RAGL:S8)",
+        "p0": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        },
+        "p1": {
+            "name": "Zaqzorn",
+            "url": "/player/6265?period=all"
+        }
+    },
+    {
+        "date": "2019-11-07 10:25:21",
+        "map": "River Crossing 2 (RAGL:S8)",
+        "p0": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        },
+        "p1": {
+            "name": "Zaqzorn",
+            "url": "/player/6265?period=all"
+        }
+    },
+    {
+        "date": "2019-11-07 19:31:33",
+        "map": "Climate Crisis (RAGL:S8)",
+        "p0": {
+            "name": "Mo",
+            "url": "/player/5292?period=all"
+        },
+        "p1": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        }
+    },
+    {
+        "date": "2019-11-07 19:44:59",
+        "map": "Windige Gasse (RAGL:S8)",
+        "p0": {
+            "name": "Mo",
+            "url": "/player/5292?period=all"
+        },
+        "p1": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        }
+    },
+    {
+        "date": "2019-11-08 16:34:28",
+        "map": "Trapped (RAGL:S8)",
+        "p0": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        },
+        "p1": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        }
+    },
+    {
+        "date": "2019-11-08 16:53:30",
+        "map": "River Crossing 2 (RAGL:S8)",
+        "p0": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        },
+        "p1": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        }
+    },
+    {
+        "date": "2019-11-08 18:24:59",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        },
+        "p1": {
+            "name": "Punsho",
+            "url": "/player/7223?period=all"
+        }
+    },
+    {
+        "date": "2019-11-08 18:39:57",
+        "map": "Windige Gasse (RAGL:S8)",
+        "p0": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        },
+        "p1": {
+            "name": "Punsho",
+            "url": "/player/7223?period=all"
+        }
+    },
+    {
+        "date": "2019-11-08 20:59:30",
+        "map": "Enhanced Snakes and Ladders (RAGL:S8)",
+        "p0": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        },
+        "p1": {
+            "name": "PieChild",
+            "url": "/player/8894?period=all"
+        }
+    },
+    {
+        "date": "2019-11-08 21:10:08",
+        "map": "Onyx (RAGL:S8)",
+        "p0": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        },
+        "p1": {
+            "name": "PieChild",
+            "url": "/player/8894?period=all"
+        }
+    },
+    {
+        "date": "2019-11-08 21:27:54",
+        "map": "Mountain Ridge Redux (RAGL:S8)",
+        "p0": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        },
+        "p1": {
+            "name": "JackoDerp",
+            "url": "/player/9342?period=all"
+        }
+    },
+    {
+        "date": "2019-11-08 21:47:34",
+        "map": "Climate Crisis (RAGL:S8)",
+        "p0": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        },
+        "p1": {
+            "name": "JackoDerp",
+            "url": "/player/9342?period=all"
+        }
+    },
+    {
+        "date": "2019-11-08 22:22:20",
+        "map": "Onyx (RAGL:S8)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        }
+    },
+    {
+        "date": "2019-11-08 22:43:49",
+        "map": "Blitz (RAGL:S8)",
+        "p0": {
+            "name": "barf_openra",
+            "url": "/player/6790?period=all"
+        },
+        "p1": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        }
+    },
+    {
+        "date": "2019-11-09 13:58:19",
+        "map": "River Crossing 2 (RAGL:S8)",
+        "p0": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        },
+        "p1": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        }
+    },
+    {
+        "date": "2019-11-09 14:14:16",
+        "map": "River Crossing 2 (RAGL:S8)",
+        "p0": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        },
+        "p1": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        }
+    },
+    {
+        "date": "2019-11-09 15:50:59",
+        "map": "Windige Gasse (RAGL:S8)",
+        "p0": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        },
+        "p1": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        }
+    },
+    {
+        "date": "2019-11-09 16:09:16",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2019-11-09 16:40:08",
+        "map": "Windige Gasse (RAGL:S8)",
+        "p0": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        },
+        "p1": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        }
+    },
+    {
+        "date": "2019-11-09 16:58:44",
+        "map": "Forgotten Plains (RAGL:S8)",
+        "p0": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        },
+        "p1": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        }
+    },
+    {
+        "date": "2019-11-09 17:02:10",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        },
+        "p1": {
+            "name": "fris",
+            "url": "/player/3817?period=all"
+        }
+    },
+    {
+        "date": "2019-11-09 17:16:57",
+        "map": "Trapped (RAGL:S8)",
+        "p0": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        },
+        "p1": {
+            "name": "fris",
+            "url": "/player/3817?period=all"
+        }
+    },
+    {
+        "date": "2019-11-09 17:40:54",
+        "map": "Trapped (RAGL:S8)",
+        "p0": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        },
+        "p1": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        }
+    },
+    {
+        "date": "2019-11-09 17:50:22",
+        "map": "Blitz (RAGL:S8)",
+        "p0": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        },
+        "p1": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        }
+    },
+    {
+        "date": "2019-11-09 18:13:42",
+        "map": "Mountain Ridge Redux (RAGL:S8)",
+        "p0": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        },
+        "p1": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        }
+    },
+    {
+        "date": "2019-11-09 18:31:53",
+        "map": "Trapped (RAGL:S8)",
+        "p0": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        },
+        "p1": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        }
+    },
+    {
+        "date": "2019-11-09 19:31:56",
+        "map": "Trapped (RAGL:S8)",
+        "p0": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        },
+        "p1": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        }
+    },
+    {
+        "date": "2019-11-09 19:53:36",
+        "map": "River Crossing 2 (RAGL:S8)",
+        "p0": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        },
+        "p1": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        }
+    },
+    {
+        "date": "2019-11-09 21:02:02",
+        "map": "Blitz (RAGL:S8)",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "Dualwarhead",
+            "url": "/player/-41?period=all"
+        }
+    },
+    {
+        "date": "2019-11-09 21:12:47",
+        "map": "Mountain Ridge Redux (RAGL:S8)",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "Dualwarhead",
+            "url": "/player/-41?period=all"
+        }
+    },
+    {
+        "date": "2019-11-10 17:14:49",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "Punsho",
+            "url": "/player/7223?period=all"
+        },
+        "p1": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        }
+    },
+    {
+        "date": "2019-11-10 19:08:18",
+        "map": "Forgotten Plains (RAGL:S8)",
+        "p0": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        },
+        "p1": {
+            "name": "Fahrrad",
+            "url": "/player/6016?period=all"
+        }
+    },
+    {
+        "date": "2019-11-10 19:24:35",
+        "map": "Trapped (RAGL:S8)",
+        "p0": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        },
+        "p1": {
+            "name": "Fahrrad",
+            "url": "/player/6016?period=all"
+        }
+    },
+    {
+        "date": "2019-11-10 19:37:44",
+        "map": "River Crossing 2 (RAGL:S8)",
+        "p0": {
+            "name": "eskimo",
+            "url": "/player/6695?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2019-11-10 19:49:37",
+        "map": "Windige Gasse (RAGL:S8)",
+        "p0": {
+            "name": "eskimo",
+            "url": "/player/6695?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2019-11-10 20:01:55",
+        "map": "Onyx (RAGL:S8)",
+        "p0": {
+            "name": "eskimo",
+            "url": "/player/6695?period=all"
+        },
+        "p1": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        }
+    },
+    {
+        "date": "2019-11-10 20:12:00",
+        "map": "Mountain Ridge Redux (RAGL:S8)",
+        "p0": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        },
+        "p1": {
+            "name": "hamb",
+            "url": "/player/2321?period=all"
+        }
+    },
+    {
+        "date": "2019-11-10 20:17:23",
+        "map": "Enhanced Snakes and Ladders (RAGL:S8)",
+        "p0": {
+            "name": "eskimo",
+            "url": "/player/6695?period=all"
+        },
+        "p1": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        }
+    },
+    {
+        "date": "2019-11-10 20:32:22",
+        "map": "River Crossing 2 (RAGL:S8)",
+        "p0": {
+            "name": "hamb",
+            "url": "/player/2321?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2019-11-11 16:55:49",
+        "map": "Mountain Ridge Redux (RAGL:S8)",
+        "p0": {
+            "name": "Punsho",
+            "url": "/player/7223?period=all"
+        },
+        "p1": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        }
+    },
+    {
+        "date": "2019-11-11 17:15:08",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "Punsho",
+            "url": "/player/7223?period=all"
+        },
+        "p1": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        }
+    },
+    {
+        "date": "2019-11-11 20:11:07",
+        "map": "Trapped (RAGL:S8)",
+        "p0": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        },
+        "p1": {
+            "name": "Punsho",
+            "url": "/player/7223?period=all"
+        }
+    },
+    {
+        "date": "2019-11-11 21:36:52",
+        "map": "Forgotten Plains (RAGL:S8)",
+        "p0": {
+            "name": "Hermann G'",
+            "url": "/player/7212?period=all"
+        },
+        "p1": {
+            "name": "hamb",
+            "url": "/player/2321?period=all"
+        }
+    },
+    {
+        "date": "2019-11-11 21:58:34",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "Hermann G'",
+            "url": "/player/7212?period=all"
+        },
+        "p1": {
+            "name": "hamb",
+            "url": "/player/2321?period=all"
+        }
+    },
+    {
+        "date": "2019-11-19 18:32:07",
+        "map": "Onyx (RAGL:S8)",
+        "p0": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        },
+        "p1": {
+            "name": "Punsho",
+            "url": "/player/7223?period=all"
+        }
+    },
+    {
+        "date": "2019-11-19 18:54:53",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "Punsho",
+            "url": "/player/7223?period=all"
+        },
+        "p1": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        }
+    },
+    {
+        "date": "2019-11-19 19:31:49",
+        "map": "Windige Gasse (RAGL:S8)",
+        "p0": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        },
+        "p1": {
+            "name": "Punsho",
+            "url": "/player/7223?period=all"
+        }
+    },
+    {
+        "date": "2019-11-19 19:48:17",
+        "map": "River Crossing 2 (RAGL:S8)",
+        "p0": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        },
+        "p1": {
+            "name": "Punsho",
+            "url": "/player/7223?period=all"
+        }
+    },
+    {
+        "date": "2019-11-24 21:07:08",
+        "map": "Forgotten Plains (RAGL:S8)",
+        "p0": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2019-11-24 21:24:59",
+        "map": "Enhanced Snakes and Ladders (RAGL:S8)",
+        "p0": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        },
+        "p1": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        }
+    },
+    {
+        "date": "2019-11-24 21:47:43",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2019-11-24 21:59:18",
+        "map": "River Crossing 2 (RAGL:S8)",
+        "p0": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        },
+        "p1": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        }
+    },
+    {
+        "date": "2019-11-24 22:13:07",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2019-12-07 19:14:00",
+        "map": "River Crossing 2 (RAGL:S8)",
+        "p0": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        },
+        "p1": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        }
+    },
+    {
+        "date": "2019-12-07 19:26:41",
+        "map": "Blitz (RAGL:S8)",
+        "p0": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        },
+        "p1": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        }
+    },
+    {
+        "date": "2019-12-07 19:44:18",
+        "map": "Climate Crisis (RAGL:S8)",
+        "p0": {
+            "name": "ZxGanon",
+            "url": "/player/6766?period=all"
+        },
+        "p1": {
+            "name": "Orb",
+            "url": "/player/6748?period=all"
+        }
+    },
+    {
+        "date": "2019-12-08 20:37:24",
+        "map": "Windige Gasse (RAGL:S8)",
+        "p0": {
+            "name": "Punsho",
+            "url": "/player/7223?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2019-12-08 20:58:00",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "Punsho",
+            "url": "/player/7223?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2019-12-08 21:10:11",
+        "map": "Forgotten Plains (RAGL:S8)",
+        "p0": {
+            "name": "Punsho",
+            "url": "/player/7223?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2019-12-08 21:46:34",
+        "map": "Climate Crisis (RAGL:S8)",
+        "p0": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        },
+        "p1": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        }
+    },
+    {
+        "date": "2019-12-08 22:07:29",
+        "map": "Marigold Town (RAGL:S8)",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        }
+    },
+    {
+        "date": "2019-12-08 22:26:37",
+        "map": "Mountain Ridge Redux (RAGL:S8)",
+        "p0": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        },
+        "p1": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        }
+    },
+    {
+        "date": "2019-12-08 22:47:48",
+        "map": "Enhanced Snakes and Ladders (RAGL:S8)",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        }
+    },
+    {
+        "date": "2019-12-08 23:04:53",
+        "map": "Trapped (RAGL:S8)",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        }
     }
 ]
