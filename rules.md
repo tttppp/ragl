@@ -1,9 +1,9 @@
 # The Rulebook
 
-Red Alert Global League (RAGL), Season 8 is played out over up to 11 weeks from September 30th till December 15th, 2019. This timespan includes up to 8 weeks for the group stage and 3 weeks reserved for unforeseen delays, tiebreakers and Playoffs.
+Red Alert Global League (RAGL), Season 9 is played out over up to 11 weeks from April 27th to July 13th. This timespan includes up to 8 weeks for the group stage and 3 weeks reserved for unforeseen delays, tiebreakers and Playoffs.
 Timespan of the season is a subject to change depending on actual player rosters and will be finalized after player registrations are closed.
 
-Current prize pool total: $260
+Current prize pool total: TBA
 For details on prize pool contributions, check out the Prize Pool section at the end of this post.
 
 ```
@@ -67,7 +67,7 @@ For details on prize pool contributions, check out the Prize Pool section at the
 
 1.2.2 A single match consists of 2 games. Game wins are added to score table as points.
 
-1.2.3 Matches are scheduled before the season and are tacked on to specific weeks, in which players are to play their assigned matchups against specific opponents. 2 matches per week are scheduled to be played for each player (excluding the last week where only 1 match is scheduled). The exact schedule is finalized 1 day before the season start date (Sunday, September 29th).
+1.2.3 Matches are scheduled before the season and are tacked on to specific weeks, in which players are to play their assigned matchups against specific opponents. 2 matches per week are scheduled to be played for each player (excluding the last week where only 1 match is scheduled). The exact schedule is finalized 1 day before the season start date (TBA).
 
 1.2.4 Each match has to be played and reported no later than Monday 23:59 UTC+0 of the week following its schedule. Any match can be played before its scheduled week.
 
@@ -129,12 +129,12 @@ For details on prize pool contributions, check out the Prize Pool section at the
 
 ## 2.1 New signups
 
-2.1.1 New players have until September 25th 23:59 UTC+0 to send the registration info.
+2.1.1 New players have until April 21st to send the registration info.
 
-2.1.2 Registration takes place through Discord (https://discord.me/openra, the primary channel of communication; use #ragl or send a private message to @netnazgul), email (OpenRA.RAGL@Gmail.com) or in a relevant forum thread.
+2.1.2 Registration takes place through Discord (https://discord.gg/JyHZFbw, the primary channel of communication for RAGL or send a private message to @anjew), email (OpenRA.RAGL@Gmail.com) or in a relevant forum thread.
 
 2.1.3 Registration info must include the following:
-Nickname that will be used throughout the season;
+* Nickname that will be used throughout the season;
 * 3-lettered initials for tagging replays (i.e. SoScared = SOS);
 * Country of origin and timezone expressed in UTC (see http://www.timeanddate.com);
 * OpenRA discord name (Discord is the primary channel for communication, discord account ID is used by league maintenance automation);
@@ -144,7 +144,7 @@ Nickname that will be used throughout the season;
 
 ## 2.2 Returning players
 
-2.2.1 Players transfering over from the previous season have until September 25th 23:59 UTC+0 to confirm their participation.
+2.2.1 Players transfering over from the previous season have until April 21st to confirm their participation also.
 
 2.2.2 Returning players don’t have to provide any other information than the expressed confirmation, officials are to request any of the above if mandatory information is missing.
 
@@ -167,7 +167,7 @@ Nickname that will be used throughout the season;
 2.4.3 Any matches that were scheduled to be played before the player promotion from Waiting list takes place are to be played out of order until the end of the group stage (same rules as player-delayed matches).
 
 # 3. Communications
-Official communications between the players and with league officials are primarily done through Discord (https://discord.me/openra), involving reporting results and various league business. Email address (OpenRA.RAGL@Gmail.com) is available as the auxiliary means of communication.
+Official communications between the players and with league officials are primarily done through Discord (https://discord.gg/JyHZFbw), involving reporting results and various league business. Email address (OpenRA.RAGL@Gmail.com) is available as the auxiliary means of communication.
 
 ## 3.1 Match scheduling
 
@@ -197,7 +197,7 @@ Bot updates the scores, composes the replay names and provides the direct link f
 3.2.4 Replay files are the sole documentation of the matches played and thus should be treated with great care. The match winner is ultimately responsible for the file uploads, or the player placed higher in the current group standings in case the match ended in a draw. Players are free to make exceptions from this rule at the discretion of both parties.
 
 3.2.5 Replay files are to be renamed in a specific way before uploading. The replay file name should be as follows (all letters in caps):
-RAGL-S08-[division]-[stage]-[initials]-[initials]-[number]
+RAGL-S09-[division]-[stage]-[initials]-[initials]-[number]
 Where
 * Division: MASTER, MINIONA, MINIONB, RECRUIT
 * Stage: GROUP (group stage), POSF (Playoffs semifinals), POF (Playoffs finals/bronze match), TIE (Tiebreaker match)
@@ -210,9 +210,7 @@ Example: In Season 1, SoScared played 2 games against PersianImmortal. They both
 
 3.2.6 Replay files not properly renamed will not be accepted. We understand that naming and uploading replays are a pain and are still looking into a nice and functional automated system. In the mean time we will be cracking down on improperly named replays.
 
-3.2.7 All replays are uploaded to JaZz_KCS's file server:
-http://openra.mine.nu/mIRROR/ora_replay ... ason_Eight
-In the correct Division and Stage sub-folder, click the 'Upload files' link on the right side of the page. You'll have to rename the replay file before uploading. If the replay is uploaded erroneously, re-upload the correct file and notify the tournament official so that the wrong file can be removed.
+3.2.7 All replays are uploaded to appropriate round replay channel on the discord
 
 3.2.8 A failure to report a match until its weekly deadline results in strikes received by both players. Unreported matches that resulted in strikes for both players are still eligible to be played (same timeframe as delayed matches).
 
@@ -293,7 +291,11 @@ Example:
 
 4.1.5 The game is played until one of the players is named defeated (either by all buildings and MCVs being destroyed or by pressing “Surrender”). Leaving the game before this occurs is highly discouraged as it prevents proper recording of a game result in a replay.
 
-4.1.6 The use of external software macros (programmed keypress sequences of commands that are not possible to be executed by game engine means, i.e. ordering units automation) is an unsportsmanlike conduct and is forbidden. More obvious automation scripts resulting in APM spikes are detectable by replay parsing tools, other suspicious behaviours might be up for scrutiny by officials. Positive confirmation of using external tools to gain game advantage will impose a strict ruling, up to the straight ban from the league.
+4.1.6 The use of external software macros (programmed keypress sequences of commands that are not possible to be executed by game engine means, i.e. ordering units automation) is an unsportsmanlike conduct and is forbidden. More obvious automation scripts resulting in APM spikes are detectable by replay parsing tools, other suspicious behaviours might be up for scrutiny by officials. Positive confirmation of using external tools to gain game advantage will impose a strict ruling, up to a possible ban from particpation in RAGL for as long as admins see fit.
+
+4.1.7 The use of modified clients that alter core gameplay in anyway are strictly forbidden. Positive confirmtation of the use of a modified client to gain an unfair advantage will impose a strict ruling, up to a possible ban from particpation in RAGL for as long as admins see fit.
+
+4.1.8 Players found colluding in order to influence the result of their match and remove the uncertainty in the outcome of a match will be subject to strict ruling, up to a possible ban from particpation in RAGL for as long as admins see fit.
 
 ## 4.2 Map pool
 
@@ -301,7 +303,7 @@ Example:
 
 4.2.2 All maps include a custom-made design of a Refinery (ERCC) made by Widow and FRenzy to improve the ore mining balance between various refinery positions. The refinery has reduced footprint (3x3 with no additional occupied cell at the top), all of its cells except bottom-left and top-right are passable.
 
-4.2.3 Map pool is to be finalized on September 23th 23:59 UTC+0.
+4.2.3 Map pool is to be finalized on May 13th.
 
 ## 4.3 Game disconnects
 
@@ -325,28 +327,20 @@ Example:
 
 5.2.2 PayPal contributions are converted into Dollars ($), if you send money in your local currency the prizepool host will cover the conversion fees.
 
-5.2.3 Current Season 8 prize pool: pending update $260
-* $47 - Anonymous
-* $43 - Blackened
-* $30 - PieChild
-* $30 - Bain (Dark Tournament Recursion prize)
-* $24 - Unano (actually £20, but who cares)
-* $12 - DyingFetus (unclaimed S07 prize)
-* $12 - Jur (unclaimed S07 prize)
-* $10 - Sigil
-* $10 - Strauss/Krokoschoko
+5.2.3 Current Season 9 prize pool: TBA
 
 ## 5.3 Officials
 
 5.3.1 The list of officials to contact is as follows:
-* netnazgul
 * .1
 * Blackened
 * jaZz_KCS
+* Anjew
 * SoScared [Honorary official]
+* Netnazgul[Honorary official]
 
 5.3.2 Public (#ragl), closed channels in Discord, email or forums are to be used first when inquiring for information. Please, refrain from using discord personal messages unless the matter is urgent and cannot be discussed by other means.
 
-5.3.3 League officials reserve the rights to alter or override the rulebook during an ongoing season. All players will be immediately notified if any substantial changes are made during the season. Any change to the rulebook after player registrations are over is duplicated via a post in this thread.
+5.3.3 League officials reserve the rights to alter or override the rulebook at any time, including during an ongoing season. All players will be immediately notified if any substantial changes are made during the season. Any change to the rulebook after player registrations are over is duplicated via a post in this thread.
 
 For all inquiries you can contact us through Discord, at OpenRA.RAGL@Gmail.com or reply on this thread.
