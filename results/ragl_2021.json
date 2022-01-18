@@ -2722,5 +2722,3329 @@
             "name": "anjew",
             "url": "/player/3952?period=all"
         }
+    },
+    {
+        "date": "2021-10-11 18:55:19",
+        "map": "Yukon Territory [RAGL-11]",
+        "p0": {
+            "name": "TTTPPP",
+            "url": "/player/7387?period=all"
+        },
+        "p1": {
+            "name": "MR C",
+            "url": "/player/13096?period=all"
+        }
+    },
+    {
+        "date": "2021-10-11 19:13:37",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "TTTPPP",
+            "url": "/player/7387?period=all"
+        },
+        "p1": {
+            "name": "MR C",
+            "url": "/player/13096?period=all"
+        }
+    },
+    {
+        "date": "2021-10-12 20:16:52",
+        "map": "Kosovo 1v1 [RAGL-11]",
+        "p0": {
+            "name": "Gajcus",
+            "url": "/player/15421?period=all"
+        },
+        "p1": {
+            "name": "manta151",
+            "url": "/player/7591?period=all"
+        }
+    },
+    {
+        "date": "2021-10-12 20:34:28",
+        "map": "Pity Light [RAGL-11]",
+        "p0": {
+            "name": "Gajcus",
+            "url": "/player/15421?period=all"
+        },
+        "p1": {
+            "name": "manta151",
+            "url": "/player/7591?period=all"
+        }
+    },
+    {
+        "date": "2021-10-13 12:02:32",
+        "map": "Twin Observatories [RAGL-11]",
+        "p0": {
+            "name": "Nilhall",
+            "url": "/player/7714?period=all"
+        },
+        "p1": {
+            "name": "TTTPPP",
+            "url": "/player/7387?period=all"
+        }
+    },
+    {
+        "date": "2021-10-13 12:17:47",
+        "map": "Timorous Expansions 2 [RAGL-11]",
+        "p0": {
+            "name": "Nilhall",
+            "url": "/player/7714?period=all"
+        },
+        "p1": {
+            "name": "TTTPPP",
+            "url": "/player/7387?period=all"
+        }
+    },
+    {
+        "date": "2021-10-13 14:06:56",
+        "map": "Dirge [RAGL-11]",
+        "p0": {
+            "name": "Kav",
+            "url": "/player/13705?period=all"
+        },
+        "p1": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        }
+    },
+    {
+        "date": "2021-10-13 14:17:40",
+        "map": "Yukon Territory [RAGL-11]",
+        "p0": {
+            "name": "Kav",
+            "url": "/player/13705?period=all"
+        },
+        "p1": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        }
+    },
+    {
+        "date": "2021-10-13 15:16:09",
+        "map": "Spearhead [RAGL-11]",
+        "p0": {
+            "name": "Kav",
+            "url": "/player/13705?period=all"
+        },
+        "p1": {
+            "name": "Pinkthoth",
+            "url": "/player/11705?period=all"
+        }
+    },
+    {
+        "date": "2021-10-13 15:27:16",
+        "map": "Discovery [RAGL-11]",
+        "p0": {
+            "name": "Kav",
+            "url": "/player/13705?period=all"
+        },
+        "p1": {
+            "name": "Pinkthoth",
+            "url": "/player/11705?period=all"
+        }
+    },
+    {
+        "date": "2021-10-13 17:32:05",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "Eugenator",
+            "url": "/player/11442?period=all"
+        },
+        "p1": {
+            "name": "Nilhall",
+            "url": "/player/7714?period=all"
+        }
+    },
+    {
+        "date": "2021-10-13 17:42:09",
+        "map": "Timorous Expansions 2 [RAGL-11]",
+        "p0": {
+            "name": "Eugenator",
+            "url": "/player/11442?period=all"
+        },
+        "p1": {
+            "name": "Nilhall",
+            "url": "/player/7714?period=all"
+        }
+    },
+    {
+        "date": "2021-10-13 19:04:48",
+        "map": "Discovery [RAGL-11]",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "Pinkthoth",
+            "url": "/player/11705?period=all"
+        }
+    },
+    {
+        "date": "2021-10-13 19:31:01",
+        "map": "Kosovo 1v1 [RAGL-11]",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "Pinkthoth",
+            "url": "/player/11705?period=all"
+        }
+    },
+    {
+        "date": "2021-10-14 17:06:24",
+        "map": "Twin Observatories [RAGL-11]",
+        "p0": {
+            "name": "Kav",
+            "url": "/player/13705?period=all"
+        },
+        "p1": {
+            "name": "SinJul",
+            "url": "/player/9877?period=all"
+        }
+    },
+    {
+        "date": "2021-10-14 17:18:54",
+        "map": "Yukon Territory [RAGL-11]",
+        "p0": {
+            "name": "Kav",
+            "url": "/player/13705?period=all"
+        },
+        "p1": {
+            "name": "SinJul",
+            "url": "/player/9877?period=all"
+        }
+    },
+    {
+        "date": "2021-10-14 19:20:32",
+        "map": "Timorous Expansions 2 [RAGL-11]",
+        "p0": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        },
+        "p1": {
+            "name": "SinJul",
+            "url": "/player/9877?period=all"
+        }
+    },
+    {
+        "date": "2021-10-14 19:32:50",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        },
+        "p1": {
+            "name": "SinJul",
+            "url": "/player/9877?period=all"
+        }
+    },
+    {
+        "date": "2021-10-15 20:47:41",
+        "map": "Kosovo 1v1 [RAGL-11]",
+        "p0": {
+            "name": "SinJul",
+            "url": "/player/9877?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2021-10-15 20:58:17",
+        "map": "Twin Observatories [RAGL-11]",
+        "p0": {
+            "name": "SinJul",
+            "url": "/player/9877?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2021-10-16 21:08:23",
+        "map": "Kosovo 1v1 [RAGL-11]",
+        "p0": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2021-10-16 21:22:01",
+        "map": "Discovery [RAGL-11]",
+        "p0": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2021-10-17 15:19:42",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "Kaution",
+            "url": "/player/11855?period=all"
+        },
+        "p1": {
+            "name": "ROCKhardFISTnips",
+            "url": "/player/8860?period=all"
+        }
+    },
+    {
+        "date": "2021-10-17 17:04:00",
+        "map": "Myriad [RAGL-11]",
+        "p0": {
+            "name": "Gajcus",
+            "url": "/player/15421?period=all"
+        },
+        "p1": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        }
+    },
+    {
+        "date": "2021-10-17 17:19:30",
+        "map": "Discovery [RAGL-11]",
+        "p0": {
+            "name": "Pinkthoth",
+            "url": "/player/11705?period=all"
+        },
+        "p1": {
+            "name": "Goremented",
+            "url": "/player/11435?period=all"
+        }
+    },
+    {
+        "date": "2021-10-17 17:20:06",
+        "map": "Pity Light [RAGL-11]",
+        "p0": {
+            "name": "Gajcus",
+            "url": "/player/15421?period=all"
+        },
+        "p1": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        }
+    },
+    {
+        "date": "2021-10-17 17:35:10",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "Pinkthoth",
+            "url": "/player/11705?period=all"
+        },
+        "p1": {
+            "name": "Goremented",
+            "url": "/player/11435?period=all"
+        }
+    },
+    {
+        "date": "2021-10-17 19:18:21",
+        "map": "Pity Light [RAGL-11]",
+        "p0": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        },
+        "p1": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        }
+    },
+    {
+        "date": "2021-10-17 19:54:20",
+        "map": "Kosovo 1v1 [RAGL-11]",
+        "p0": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        },
+        "p1": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        }
+    },
+    {
+        "date": "2021-10-17 20:19:32",
+        "map": "Kosovo 1v1 [RAGL-11]",
+        "p0": {
+            "name": "worldpeace",
+            "url": "/player/7617?period=all"
+        },
+        "p1": {
+            "name": "Dodder",
+            "url": "/player/11099?period=all"
+        }
+    },
+    {
+        "date": "2021-10-17 20:29:56",
+        "map": "Pity Light [RAGL-11]",
+        "p0": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        },
+        "p1": {
+            "name": "Therapist",
+            "url": "/player/12654?period=all"
+        }
+    },
+    {
+        "date": "2021-10-17 20:32:37",
+        "map": "Scorched Earth [RAGL-11]",
+        "p0": {
+            "name": "worldpeace",
+            "url": "/player/7617?period=all"
+        },
+        "p1": {
+            "name": "Dodder",
+            "url": "/player/11099?period=all"
+        }
+    },
+    {
+        "date": "2021-10-17 20:39:59",
+        "map": "Pity Light [RAGL-11]",
+        "p0": {
+            "name": "Ekanim",
+            "url": "/player/13710?period=all"
+        },
+        "p1": {
+            "name": "potato",
+            "url": "/player/6861?period=all"
+        }
+    },
+    {
+        "date": "2021-10-17 20:45:32",
+        "map": "Dirge v2 [RAGL-11]",
+        "p0": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        },
+        "p1": {
+            "name": "Therapist",
+            "url": "/player/12654?period=all"
+        }
+    },
+    {
+        "date": "2021-10-17 20:49:34",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "Ekanim",
+            "url": "/player/13710?period=all"
+        },
+        "p1": {
+            "name": "potato",
+            "url": "/player/6861?period=all"
+        }
+    },
+    {
+        "date": "2021-10-18 19:00:33",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "TTTPPP",
+            "url": "/player/7387?period=all"
+        },
+        "p1": {
+            "name": "Dodder",
+            "url": "/player/11099?period=all"
+        }
+    },
+    {
+        "date": "2021-10-18 19:16:50",
+        "map": "Scorched Earth [RAGL-11]",
+        "p0": {
+            "name": "Dodder",
+            "url": "/player/11099?period=all"
+        },
+        "p1": {
+            "name": "TTTPPP",
+            "url": "/player/7387?period=all"
+        }
+    },
+    {
+        "date": "2021-10-19 01:35:23",
+        "map": "Discovery [RAGL-11]",
+        "p0": {
+            "name": "Duke Bones",
+            "url": "/player/11913?period=all"
+        },
+        "p1": {
+            "name": "DVoid",
+            "url": "/player/12261?period=all"
+        }
+    },
+    {
+        "date": "2021-10-19 01:55:41",
+        "map": "Myriad [RAGL-11]",
+        "p0": {
+            "name": "Duke Bones",
+            "url": "/player/11913?period=all"
+        },
+        "p1": {
+            "name": "DVoid",
+            "url": "/player/12261?period=all"
+        }
+    },
+    {
+        "date": "2021-10-20 17:44:26",
+        "map": "Scorched Earth [RAGL-11]",
+        "p0": {
+            "name": "Gajcus",
+            "url": "/player/15421?period=all"
+        },
+        "p1": {
+            "name": "DVoid",
+            "url": "/player/12261?period=all"
+        }
+    },
+    {
+        "date": "2021-10-20 17:59:54",
+        "map": "Myriad [RAGL-11]",
+        "p0": {
+            "name": "DVoid",
+            "url": "/player/12261?period=all"
+        },
+        "p1": {
+            "name": "Gajcus",
+            "url": "/player/15421?period=all"
+        }
+    },
+    {
+        "date": "2021-10-21 15:26:57",
+        "map": "Yukon Territory [RAGL-11]",
+        "p0": {
+            "name": "Kav",
+            "url": "/player/13705?period=all"
+        },
+        "p1": {
+            "name": "Goremented",
+            "url": "/player/11435?period=all"
+        }
+    },
+    {
+        "date": "2021-10-21 15:35:06",
+        "map": "Discovery [RAGL-11]",
+        "p0": {
+            "name": "Kav",
+            "url": "/player/13705?period=all"
+        },
+        "p1": {
+            "name": "Goremented",
+            "url": "/player/11435?period=all"
+        }
+    },
+    {
+        "date": "2021-10-21 18:18:28",
+        "map": "Kosovo 1v1 [RAGL-11]",
+        "p0": {
+            "name": "SinJul",
+            "url": "/player/9877?period=all"
+        },
+        "p1": {
+            "name": "Goremented",
+            "url": "/player/11435?period=all"
+        }
+    },
+    {
+        "date": "2021-10-21 18:33:22",
+        "map": "Discovery [RAGL-11]",
+        "p0": {
+            "name": "SinJul",
+            "url": "/player/9877?period=all"
+        },
+        "p1": {
+            "name": "Goremented",
+            "url": "/player/11435?period=all"
+        }
+    },
+    {
+        "date": "2021-10-21 19:22:50",
+        "map": "Kosovo 1v1 [RAGL-11]",
+        "p0": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        },
+        "p1": {
+            "name": "SinJul",
+            "url": "/player/9877?period=all"
+        }
+    },
+    {
+        "date": "2021-10-21 19:52:00",
+        "map": "Yukon Territory [RAGL-11]",
+        "p0": {
+            "name": "SinJul",
+            "url": "/player/9877?period=all"
+        },
+        "p1": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        }
+    },
+    {
+        "date": "2021-10-21 20:18:03",
+        "map": "Twin Observatories [RAGL-11]",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "SinJul",
+            "url": "/player/9877?period=all"
+        }
+    },
+    {
+        "date": "2021-10-21 20:27:17",
+        "map": "Kosovo 1v1 [RAGL-11]",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "SinJul",
+            "url": "/player/9877?period=all"
+        }
+    },
+    {
+        "date": "2021-10-22 16:42:54",
+        "map": "Dirge v2 [RAGL-11]",
+        "p0": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        },
+        "p1": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        }
+    },
+    {
+        "date": "2021-10-22 16:58:04",
+        "map": "Kosovo 1v1 [RAGL-11]",
+        "p0": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        },
+        "p1": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        }
+    },
+    {
+        "date": "2021-10-23 09:18:59",
+        "map": "Kosovo 1v1 [RAGL-11]",
+        "p0": {
+            "name": "Gajcus",
+            "url": "/player/15421?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2021-10-23 09:30:05",
+        "map": "Myriad [RAGL-11]",
+        "p0": {
+            "name": "Gajcus",
+            "url": "/player/15421?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2021-10-23 14:31:23",
+        "map": "Discovery [RAGL-11]",
+        "p0": {
+            "name": "Duke Bones",
+            "url": "/player/11913?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2021-10-23 14:44:48",
+        "map": "Myriad [RAGL-11]",
+        "p0": {
+            "name": "Duke Bones",
+            "url": "/player/11913?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2021-10-23 16:11:26",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "manta151",
+            "url": "/player/7591?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2021-10-23 16:30:47",
+        "map": "Myriad [RAGL-11]",
+        "p0": {
+            "name": "manta151",
+            "url": "/player/7591?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2021-10-24 05:07:21",
+        "map": "Kosovo 1v1 [RAGL-11]",
+        "p0": {
+            "name": "worldpeace",
+            "url": "/player/7617?period=all"
+        },
+        "p1": {
+            "name": "Nilhall",
+            "url": "/player/7714?period=all"
+        }
+    },
+    {
+        "date": "2021-10-24 05:19:22",
+        "map": "Spearhead [RAGL-11]",
+        "p0": {
+            "name": "Nilhall",
+            "url": "/player/7714?period=all"
+        },
+        "p1": {
+            "name": "worldpeace",
+            "url": "/player/7617?period=all"
+        }
+    },
+    {
+        "date": "2021-10-24 13:17:49",
+        "map": "Yukon Territory [RAGL-11]",
+        "p0": {
+            "name": "Kav",
+            "url": "/player/13705?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2021-10-24 13:28:52",
+        "map": "Scorched Earth [RAGL-11]",
+        "p0": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        },
+        "p1": {
+            "name": "Kav",
+            "url": "/player/13705?period=all"
+        }
+    },
+    {
+        "date": "2021-10-24 14:09:28",
+        "map": "Myriad [RAGL-11]",
+        "p0": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        },
+        "p1": {
+            "name": "Duke Bones",
+            "url": "/player/11913?period=all"
+        }
+    },
+    {
+        "date": "2021-10-24 14:36:50",
+        "map": "The Great Divide [RAGL-11]",
+        "p0": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        },
+        "p1": {
+            "name": "Duke Bones",
+            "url": "/player/11913?period=all"
+        }
+    },
+    {
+        "date": "2021-10-24 14:57:33",
+        "map": "Pity Light [RAGL-11]",
+        "p0": {
+            "name": "Duke Bones",
+            "url": "/player/11913?period=all"
+        },
+        "p1": {
+            "name": "Gajcus",
+            "url": "/player/15421?period=all"
+        }
+    },
+    {
+        "date": "2021-10-24 15:11:57",
+        "map": "The Great Divide [RAGL-11]",
+        "p0": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        },
+        "p1": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        }
+    },
+    {
+        "date": "2021-10-24 15:22:34",
+        "map": "Twin Observatories [RAGL-11]",
+        "p0": {
+            "name": "Gajcus",
+            "url": "/player/15421?period=all"
+        },
+        "p1": {
+            "name": "Duke Bones",
+            "url": "/player/11913?period=all"
+        }
+    },
+    {
+        "date": "2021-10-24 15:25:35",
+        "map": "Discovery [RAGL-11]",
+        "p0": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        },
+        "p1": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        }
+    },
+    {
+        "date": "2021-10-24 17:07:10",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "Eugenator",
+            "url": "/player/11442?period=all"
+        },
+        "p1": {
+            "name": "Mo",
+            "url": "/player/5292?period=all"
+        }
+    },
+    {
+        "date": "2021-10-24 17:52:39",
+        "map": "Pity Light [RAGL-11]",
+        "p0": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2021-10-24 18:07:33",
+        "map": "Myriad [RAGL-11]",
+        "p0": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2021-10-24 18:17:07",
+        "map": "Scorched Earth [RAGL-11]",
+        "p0": {
+            "name": "Kaution",
+            "url": "/player/11855?period=all"
+        },
+        "p1": {
+            "name": "Dodder",
+            "url": "/player/11099?period=all"
+        }
+    },
+    {
+        "date": "2021-10-24 18:28:07",
+        "map": "Scorched Earth [RAGL-11]",
+        "p0": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2021-10-24 18:34:59",
+        "map": "Discovery [RAGL-11]",
+        "p0": {
+            "name": "Kaution",
+            "url": "/player/11855?period=all"
+        },
+        "p1": {
+            "name": "Dodder",
+            "url": "/player/11099?period=all"
+        }
+    },
+    {
+        "date": "2021-10-24 18:38:17",
+        "map": "Myriad [RAGL-11]",
+        "p0": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2021-10-24 20:40:18",
+        "map": "Dirge v3 [RAGL-11]",
+        "p0": {
+            "name": "Ekanim",
+            "url": "/player/13710?period=all"
+        },
+        "p1": {
+            "name": "Therapist",
+            "url": "/player/12654?period=all"
+        }
+    },
+    {
+        "date": "2021-10-24 20:53:23",
+        "map": "Myriad [RAGL-11]",
+        "p0": {
+            "name": "Ekanim",
+            "url": "/player/13710?period=all"
+        },
+        "p1": {
+            "name": "Therapist",
+            "url": "/player/12654?period=all"
+        }
+    },
+    {
+        "date": "2021-10-26 13:25:27",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "Eugenator",
+            "url": "/player/11442?period=all"
+        },
+        "p1": {
+            "name": "Mo",
+            "url": "/player/5292?period=all"
+        }
+    },
+    {
+        "date": "2021-10-26 13:38:55",
+        "map": "Timorous Expansions 2 [RAGL-11]",
+        "p0": {
+            "name": "Eugenator",
+            "url": "/player/11442?period=all"
+        },
+        "p1": {
+            "name": "Mo",
+            "url": "/player/5292?period=all"
+        }
+    },
+    {
+        "date": "2021-10-27 19:02:15",
+        "map": "The Great Divide [RAGL-11]",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2021-10-27 19:14:05",
+        "map": "The Great Divide [RAGL-11]",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2021-10-27 19:46:16",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "manta151",
+            "url": "/player/7591?period=all"
+        },
+        "p1": {
+            "name": "potato",
+            "url": "/player/6861?period=all"
+        }
+    },
+    {
+        "date": "2021-10-27 19:48:53",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "Eugenator",
+            "url": "/player/11442?period=all"
+        },
+        "p1": {
+            "name": "Dodder",
+            "url": "/player/11099?period=all"
+        }
+    },
+    {
+        "date": "2021-10-27 19:56:03",
+        "map": "Kosovo 1v1 [RAGL-11]",
+        "p0": {
+            "name": "manta151",
+            "url": "/player/7591?period=all"
+        },
+        "p1": {
+            "name": "potato",
+            "url": "/player/6861?period=all"
+        }
+    },
+    {
+        "date": "2021-10-27 20:00:31",
+        "map": "Kosovo 1v1 [RAGL-11]",
+        "p0": {
+            "name": "Eugenator",
+            "url": "/player/11442?period=all"
+        },
+        "p1": {
+            "name": "Dodder",
+            "url": "/player/11099?period=all"
+        }
+    },
+    {
+        "date": "2021-10-27 20:09:05",
+        "map": "Kosovo 1v1 [RAGL-11]",
+        "p0": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        },
+        "p1": {
+            "name": "Therapist",
+            "url": "/player/12654?period=all"
+        }
+    },
+    {
+        "date": "2021-10-27 20:19:57",
+        "map": "Myriad [RAGL-11]",
+        "p0": {
+            "name": "Therapist",
+            "url": "/player/12654?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2021-10-28 04:43:26",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "Pinkthoth",
+            "url": "/player/11705?period=all"
+        },
+        "p1": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        }
+    },
+    {
+        "date": "2021-10-28 04:54:24",
+        "map": "Myriad [RAGL-11]",
+        "p0": {
+            "name": "Pinkthoth",
+            "url": "/player/11705?period=all"
+        },
+        "p1": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        }
+    },
+    {
+        "date": "2021-10-29 16:29:37",
+        "map": "Dirge v3 [RAGL-11]",
+        "p0": {
+            "name": "Therapist",
+            "url": "/player/12654?period=all"
+        },
+        "p1": {
+            "name": "manta151",
+            "url": "/player/7591?period=all"
+        }
+    },
+    {
+        "date": "2021-10-29 16:49:52",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "manta151",
+            "url": "/player/7591?period=all"
+        },
+        "p1": {
+            "name": "Therapist",
+            "url": "/player/12654?period=all"
+        }
+    },
+    {
+        "date": "2021-10-29 20:41:04",
+        "map": "Yukon Territory [RAGL-11]",
+        "p0": {
+            "name": "DVoid",
+            "url": "/player/12261?period=all"
+        },
+        "p1": {
+            "name": "Therapist",
+            "url": "/player/12654?period=all"
+        }
+    },
+    {
+        "date": "2021-10-29 20:50:36",
+        "map": "Myriad [RAGL-11]",
+        "p0": {
+            "name": "DVoid",
+            "url": "/player/12261?period=all"
+        },
+        "p1": {
+            "name": "Therapist",
+            "url": "/player/12654?period=all"
+        }
+    },
+    {
+        "date": "2021-10-30 15:33:07",
+        "map": "Timorous Expansions 2 [RAGL-11]",
+        "p0": {
+            "name": "Mo",
+            "url": "/player/5292?period=all"
+        },
+        "p1": {
+            "name": "MR C",
+            "url": "/player/13096?period=all"
+        }
+    },
+    {
+        "date": "2021-10-30 18:11:33",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "manta151",
+            "url": "/player/7591?period=all"
+        },
+        "p1": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        }
+    },
+    {
+        "date": "2021-10-30 18:34:02",
+        "map": "Pity Light [RAGL-11]",
+        "p0": {
+            "name": "manta151",
+            "url": "/player/7591?period=all"
+        },
+        "p1": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        }
+    },
+    {
+        "date": "2021-10-30 19:57:47",
+        "map": "Discovery [RAGL-11]",
+        "p0": {
+            "name": "Duke Bones",
+            "url": "/player/11913?period=all"
+        },
+        "p1": {
+            "name": "potato",
+            "url": "/player/6861?period=all"
+        }
+    },
+    {
+        "date": "2021-10-30 20:08:19",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "Duke Bones",
+            "url": "/player/11913?period=all"
+        },
+        "p1": {
+            "name": "potato",
+            "url": "/player/6861?period=all"
+        }
+    },
+    {
+        "date": "2021-10-31 11:18:29",
+        "map": "Timorous Expansions 2 [RAGL-11]",
+        "p0": {
+            "name": "Kaution",
+            "url": "/player/11855?period=all"
+        },
+        "p1": {
+            "name": "Nilhall",
+            "url": "/player/7714?period=all"
+        }
+    },
+    {
+        "date": "2021-10-31 11:55:06",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "Kaution",
+            "url": "/player/11855?period=all"
+        },
+        "p1": {
+            "name": "Nilhall",
+            "url": "/player/7714?period=all"
+        }
+    },
+    {
+        "date": "2021-10-31 11:55:08",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "Kaution",
+            "url": "/player/11855?period=all"
+        },
+        "p1": {
+            "name": "Nilhall",
+            "url": "/player/7714?period=all"
+        }
+    },
+    {
+        "date": "2021-10-31 14:04:27",
+        "map": "Pity Light [RAGL-11]",
+        "p0": {
+            "name": "Mo",
+            "url": "/player/5292?period=all"
+        },
+        "p1": {
+            "name": "MR C",
+            "url": "/player/13096?period=all"
+        }
+    },
+    {
+        "date": "2021-10-31 19:53:43",
+        "map": "Kosovo 1v1 [RAGL-11]",
+        "p0": {
+            "name": "Mo",
+            "url": "/player/5292?period=all"
+        },
+        "p1": {
+            "name": "worldpeace",
+            "url": "/player/7617?period=all"
+        }
+    },
+    {
+        "date": "2021-10-31 20:11:06",
+        "map": "Timorous Expansions 2 [RAGL-11]",
+        "p0": {
+            "name": "worldpeace",
+            "url": "/player/7617?period=all"
+        },
+        "p1": {
+            "name": "Mo",
+            "url": "/player/5292?period=all"
+        }
+    },
+    {
+        "date": "2021-10-31 20:32:55",
+        "map": "Dirge v3 [RAGL-11]",
+        "p0": {
+            "name": "Ekanim",
+            "url": "/player/13710?period=all"
+        },
+        "p1": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        }
+    },
+    {
+        "date": "2021-10-31 20:37:44",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2021-10-31 20:43:45",
+        "map": "Pity Light [RAGL-11]",
+        "p0": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        },
+        "p1": {
+            "name": "Ekanim",
+            "url": "/player/13710?period=all"
+        }
+    },
+    {
+        "date": "2021-10-31 20:55:35",
+        "map": "Kosovo 1v1 [RAGL-11]",
+        "p0": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2021-10-31 21:02:49",
+        "map": "Myriad [RAGL-11]",
+        "p0": {
+            "name": "DVoid",
+            "url": "/player/12261?period=all"
+        },
+        "p1": {
+            "name": "potato",
+            "url": "/player/6861?period=all"
+        }
+    },
+    {
+        "date": "2021-10-31 21:15:06",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "DVoid",
+            "url": "/player/12261?period=all"
+        },
+        "p1": {
+            "name": "potato",
+            "url": "/player/6861?period=all"
+        }
+    },
+    {
+        "date": "2021-10-31 21:54:35",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "Eugenator",
+            "url": "/player/11442?period=all"
+        },
+        "p1": {
+            "name": "worldpeace",
+            "url": "/player/7617?period=all"
+        }
+    },
+    {
+        "date": "2021-10-31 22:16:00",
+        "map": "Kosovo 1v1 [RAGL-11]",
+        "p0": {
+            "name": "worldpeace",
+            "url": "/player/7617?period=all"
+        },
+        "p1": {
+            "name": "Eugenator",
+            "url": "/player/11442?period=all"
+        }
+    },
+    {
+        "date": "2021-11-01 10:12:46",
+        "map": "Discovery [RAGL-11]",
+        "p0": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        },
+        "p1": {
+            "name": "Duke Bones",
+            "url": "/player/11913?period=all"
+        }
+    },
+    {
+        "date": "2021-11-01 10:18:08",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        },
+        "p1": {
+            "name": "Duke Bones",
+            "url": "/player/11913?period=all"
+        }
+    },
+    {
+        "date": "2021-11-01 16:58:18",
+        "map": "Scorched Earth [RAGL-11]",
+        "p0": {
+            "name": "Gajcus",
+            "url": "/player/15421?period=all"
+        },
+        "p1": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        }
+    },
+    {
+        "date": "2021-11-01 17:13:19",
+        "map": "Pity Light [RAGL-11]",
+        "p0": {
+            "name": "Gajcus",
+            "url": "/player/15421?period=all"
+        },
+        "p1": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        }
+    },
+    {
+        "date": "2021-11-01 19:39:11",
+        "map": "Yukon Territory [RAGL-11]",
+        "p0": {
+            "name": "Kav",
+            "url": "/player/13705?period=all"
+        },
+        "p1": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        }
+    },
+    {
+        "date": "2021-11-01 19:59:24",
+        "map": "The Great Divide [RAGL-11]",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "Kav",
+            "url": "/player/13705?period=all"
+        }
+    },
+    {
+        "date": "2021-11-02 13:28:11",
+        "map": "The Great Divide [RAGL-11]",
+        "p0": {
+            "name": "SinJul",
+            "url": "/player/9877?period=all"
+        },
+        "p1": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        }
+    },
+    {
+        "date": "2021-11-02 13:42:26",
+        "map": "Kosovo 1v1 [RAGL-11]",
+        "p0": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        },
+        "p1": {
+            "name": "SinJul",
+            "url": "/player/9877?period=all"
+        }
+    },
+    {
+        "date": "2021-11-02 21:11:16",
+        "map": "Myriad [RAGL-11]",
+        "p0": {
+            "name": "Therapist",
+            "url": "/player/12654?period=all"
+        },
+        "p1": {
+            "name": "Duke Bones",
+            "url": "/player/11913?period=all"
+        }
+    },
+    {
+        "date": "2021-11-02 21:27:57",
+        "map": "Yukon Territory [RAGL-11]",
+        "p0": {
+            "name": "Duke Bones",
+            "url": "/player/11913?period=all"
+        },
+        "p1": {
+            "name": "Therapist",
+            "url": "/player/12654?period=all"
+        }
+    },
+    {
+        "date": "2021-11-03 13:01:49",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "Eugenator",
+            "url": "/player/11442?period=all"
+        },
+        "p1": {
+            "name": "TTTPPP",
+            "url": "/player/7387?period=all"
+        }
+    },
+    {
+        "date": "2021-11-03 13:15:17",
+        "map": "Spearhead [RAGL-11]",
+        "p0": {
+            "name": "Eugenator",
+            "url": "/player/11442?period=all"
+        },
+        "p1": {
+            "name": "TTTPPP",
+            "url": "/player/7387?period=all"
+        }
+    },
+    {
+        "date": "2021-11-03 16:38:19",
+        "map": "Pity Light [RAGL-11]",
+        "p0": {
+            "name": "Pinkthoth",
+            "url": "/player/11705?period=all"
+        },
+        "p1": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        }
+    },
+    {
+        "date": "2021-11-04 20:27:29",
+        "map": "Scorched Earth [RAGL-11]",
+        "p0": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        },
+        "p1": {
+            "name": "Goremented",
+            "url": "/player/11435?period=all"
+        }
+    },
+    {
+        "date": "2021-11-04 20:47:18",
+        "map": "Discovery [RAGL-11]",
+        "p0": {
+            "name": "Goremented",
+            "url": "/player/11435?period=all"
+        },
+        "p1": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        }
+    },
+    {
+        "date": "2021-11-05 18:40:41",
+        "map": "Scorched Earth [RAGL-11]",
+        "p0": {
+            "name": "Gajcus",
+            "url": "/player/15421?period=all"
+        },
+        "p1": {
+            "name": "Therapist",
+            "url": "/player/12654?period=all"
+        }
+    },
+    {
+        "date": "2021-11-05 18:53:16",
+        "map": "Discovery [RAGL-11]",
+        "p0": {
+            "name": "Gajcus",
+            "url": "/player/15421?period=all"
+        },
+        "p1": {
+            "name": "Therapist",
+            "url": "/player/12654?period=all"
+        }
+    },
+    {
+        "date": "2021-11-06 08:28:47",
+        "map": "Kosovo 1v1 [RAGL-11]",
+        "p0": {
+            "name": "Goremented",
+            "url": "/player/11435?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2021-11-06 08:42:45",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        },
+        "p1": {
+            "name": "Goremented",
+            "url": "/player/11435?period=all"
+        }
+    },
+    {
+        "date": "2021-11-06 09:24:53",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "Kav",
+            "url": "/player/13705?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2021-11-06 09:37:53",
+        "map": "Kosovo 1v1 [RAGL-11]",
+        "p0": {
+            "name": "Kav",
+            "url": "/player/13705?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2021-11-06 09:59:48",
+        "map": "Scorched Earth [RAGL-11]",
+        "p0": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2021-11-06 10:14:20",
+        "map": "Kosovo 1v1 [RAGL-11]",
+        "p0": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2021-11-06 11:26:54",
+        "map": "Dirge v3 [RAGL-11]",
+        "p0": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2021-11-06 11:44:34",
+        "map": "Scorched Earth [RAGL-11]",
+        "p0": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2021-11-06 12:13:56",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        },
+        "p1": {
+            "name": "Goremented",
+            "url": "/player/11435?period=all"
+        }
+    },
+    {
+        "date": "2021-11-06 12:26:59",
+        "map": "Discovery [RAGL-11]",
+        "p0": {
+            "name": "Goremented",
+            "url": "/player/11435?period=all"
+        },
+        "p1": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        }
+    },
+    {
+        "date": "2021-11-06 21:05:08",
+        "map": "Scorched Earth [RAGL-11]",
+        "p0": {
+            "name": "Gajcus",
+            "url": "/player/15421?period=all"
+        },
+        "p1": {
+            "name": "potato",
+            "url": "/player/6861?period=all"
+        }
+    },
+    {
+        "date": "2021-11-06 21:15:47",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "Gajcus",
+            "url": "/player/15421?period=all"
+        },
+        "p1": {
+            "name": "potato",
+            "url": "/player/6861?period=all"
+        }
+    },
+    {
+        "date": "2021-11-07 12:10:56",
+        "map": "Pity Light [RAGL-11]",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        }
+    },
+    {
+        "date": "2021-11-07 12:16:26",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        }
+    },
+    {
+        "date": "2021-11-07 19:03:28",
+        "map": "Pity Light [RAGL-11]",
+        "p0": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        },
+        "p1": {
+            "name": "DVoid",
+            "url": "/player/12261?period=all"
+        }
+    },
+    {
+        "date": "2021-11-07 19:22:22",
+        "map": "Dirge v3 [RAGL-11]",
+        "p0": {
+            "name": "MR C",
+            "url": "/player/13096?period=all"
+        },
+        "p1": {
+            "name": "Dodder",
+            "url": "/player/11099?period=all"
+        }
+    },
+    {
+        "date": "2021-11-07 19:28:19",
+        "map": "Myriad [RAGL-11]",
+        "p0": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        },
+        "p1": {
+            "name": "DVoid",
+            "url": "/player/12261?period=all"
+        }
+    },
+    {
+        "date": "2021-11-07 19:41:46",
+        "map": "Timorous Expansions 2 [RAGL-11]",
+        "p0": {
+            "name": "Dodder",
+            "url": "/player/11099?period=all"
+        },
+        "p1": {
+            "name": "MR C",
+            "url": "/player/13096?period=all"
+        }
+    },
+    {
+        "date": "2021-11-07 20:06:49",
+        "map": "Scorched Earth [RAGL-11]",
+        "p0": {
+            "name": "Kaution",
+            "url": "/player/11855?period=all"
+        },
+        "p1": {
+            "name": "worldpeace",
+            "url": "/player/7617?period=all"
+        }
+    },
+    {
+        "date": "2021-11-07 20:17:06",
+        "map": "Kosovo 1v1 [RAGL-11]",
+        "p0": {
+            "name": "Kaution",
+            "url": "/player/11855?period=all"
+        },
+        "p1": {
+            "name": "worldpeace",
+            "url": "/player/7617?period=all"
+        }
+    },
+    {
+        "date": "2021-11-08 06:42:46",
+        "map": "Yukon Territory [RAGL-11]",
+        "p0": {
+            "name": "Kav",
+            "url": "/player/13705?period=all"
+        },
+        "p1": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        }
+    },
+    {
+        "date": "2021-11-08 06:52:22",
+        "map": "Dirge v3 [RAGL-11]",
+        "p0": {
+            "name": "Kav",
+            "url": "/player/13705?period=all"
+        },
+        "p1": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        }
+    },
+    {
+        "date": "2021-11-09 17:54:11",
+        "map": "Scorched Earth [RAGL-11]",
+        "p0": {
+            "name": "SinJul",
+            "url": "/player/9877?period=all"
+        },
+        "p1": {
+            "name": "Pinkthoth",
+            "url": "/player/11705?period=all"
+        }
+    },
+    {
+        "date": "2021-11-09 18:06:38",
+        "map": "Discovery [RAGL-11]",
+        "p0": {
+            "name": "Pinkthoth",
+            "url": "/player/11705?period=all"
+        },
+        "p1": {
+            "name": "SinJul",
+            "url": "/player/9877?period=all"
+        }
+    },
+    {
+        "date": "2021-11-10 20:18:29",
+        "map": "The Great Divide [RAGL-11]",
+        "p0": {
+            "name": "Pinkthoth",
+            "url": "/player/11705?period=all"
+        },
+        "p1": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        }
+    },
+    {
+        "date": "2021-11-11 17:42:43",
+        "map": "Discovery [RAGL-11]",
+        "p0": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        },
+        "p1": {
+            "name": "Pinkthoth",
+            "url": "/player/11705?period=all"
+        }
+    },
+    {
+        "date": "2021-11-11 18:00:42",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        },
+        "p1": {
+            "name": "Pinkthoth",
+            "url": "/player/11705?period=all"
+        }
+    },
+    {
+        "date": "2021-11-12 17:39:45",
+        "map": "Discovery [RAGL-11]",
+        "p0": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        },
+        "p1": {
+            "name": "Pinkthoth",
+            "url": "/player/11705?period=all"
+        }
+    },
+    {
+        "date": "2021-11-12 17:54:14",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "Pinkthoth",
+            "url": "/player/11705?period=all"
+        },
+        "p1": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        }
+    },
+    {
+        "date": "2021-11-12 18:24:52",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        },
+        "p1": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        }
+    },
+    {
+        "date": "2021-11-12 18:35:34",
+        "map": "Discovery [RAGL-11]",
+        "p0": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        },
+        "p1": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        }
+    },
+    {
+        "date": "2021-11-12 20:48:08",
+        "map": "Kosovo 1v1 [RAGL-11]",
+        "p0": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        },
+        "p1": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        }
+    },
+    {
+        "date": "2021-11-12 21:01:32",
+        "map": "Dirge v3 [RAGL-11]",
+        "p0": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        },
+        "p1": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        }
+    },
+    {
+        "date": "2021-11-12 21:54:42",
+        "map": "Scorched Earth [RAGL-11]",
+        "p0": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2021-11-12 22:17:29",
+        "map": "Discovery [RAGL-11]",
+        "p0": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2021-11-13 14:37:27",
+        "map": "Kosovo 1v1 [RAGL-11]",
+        "p0": {
+            "name": "Kaution",
+            "url": "/player/11855?period=all"
+        },
+        "p1": {
+            "name": "Mo",
+            "url": "/player/5292?period=all"
+        }
+    },
+    {
+        "date": "2021-11-13 15:03:25",
+        "map": "The Great Divide [RAGL-11]",
+        "p0": {
+            "name": "Kaution",
+            "url": "/player/11855?period=all"
+        },
+        "p1": {
+            "name": "Mo",
+            "url": "/player/5292?period=all"
+        }
+    },
+    {
+        "date": "2021-11-13 21:12:17",
+        "map": "Dirge v3 [RAGL-11]",
+        "p0": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        },
+        "p1": {
+            "name": "potato",
+            "url": "/player/6861?period=all"
+        }
+    },
+    {
+        "date": "2021-11-13 21:21:31",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        },
+        "p1": {
+            "name": "potato",
+            "url": "/player/6861?period=all"
+        }
+    },
+    {
+        "date": "2021-11-14 18:25:39",
+        "map": "Dirge v3 [RAGL-11]",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        }
+    },
+    {
+        "date": "2021-11-14 18:36:44",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        }
+    },
+    {
+        "date": "2021-11-14 18:56:50",
+        "map": "Pity Light [RAGL-11]",
+        "p0": {
+            "name": "Therapist",
+            "url": "/player/12654?period=all"
+        },
+        "p1": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        }
+    },
+    {
+        "date": "2021-11-14 19:11:22",
+        "map": "Dirge v3 [RAGL-11]",
+        "p0": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        },
+        "p1": {
+            "name": "Therapist",
+            "url": "/player/12654?period=all"
+        }
+    },
+    {
+        "date": "2021-11-14 20:31:06",
+        "map": "Pity Light [RAGL-11]",
+        "p0": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        },
+        "p1": {
+            "name": "Ekanim",
+            "url": "/player/13710?period=all"
+        }
+    },
+    {
+        "date": "2021-11-14 20:44:28",
+        "map": "Dirge v3 [RAGL-11]",
+        "p0": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        },
+        "p1": {
+            "name": "Ekanim",
+            "url": "/player/13710?period=all"
+        }
+    },
+    {
+        "date": "2021-11-14 20:53:42",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "manta151",
+            "url": "/player/7591?period=all"
+        },
+        "p1": {
+            "name": "Ekanim",
+            "url": "/player/13710?period=all"
+        }
+    },
+    {
+        "date": "2021-11-14 21:03:01",
+        "map": "Timorous Expansions 2 [RAGL-11]",
+        "p0": {
+            "name": "manta151",
+            "url": "/player/7591?period=all"
+        },
+        "p1": {
+            "name": "Ekanim",
+            "url": "/player/13710?period=all"
+        }
+    },
+    {
+        "date": "2021-11-14 21:17:11",
+        "map": "Pity Light [RAGL-11]",
+        "p0": {
+            "name": "TTTPPP",
+            "url": "/player/7387?period=all"
+        },
+        "p1": {
+            "name": "worldpeace",
+            "url": "/player/7617?period=all"
+        }
+    },
+    {
+        "date": "2021-11-14 21:30:48",
+        "map": "Discovery [RAGL-11]",
+        "p0": {
+            "name": "worldpeace",
+            "url": "/player/7617?period=all"
+        },
+        "p1": {
+            "name": "TTTPPP",
+            "url": "/player/7387?period=all"
+        }
+    },
+    {
+        "date": "2021-11-17 20:51:30",
+        "map": "Myriad [RAGL-11]",
+        "p0": {
+            "name": "DVoid",
+            "url": "/player/12261?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2021-11-17 21:06:24",
+        "map": "Pity Light [RAGL-11]",
+        "p0": {
+            "name": "DVoid",
+            "url": "/player/12261?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2021-11-18 15:51:53",
+        "map": "Yukon Territory [RAGL-11]",
+        "p0": {
+            "name": "Kav",
+            "url": "/player/13705?period=all"
+        },
+        "p1": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        }
+    },
+    {
+        "date": "2021-11-18 16:00:56",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "Kav",
+            "url": "/player/13705?period=all"
+        },
+        "p1": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        }
+    },
+    {
+        "date": "2021-11-18 19:53:50",
+        "map": "Scorched Earth [RAGL-11]",
+        "p0": {
+            "name": "Kaution",
+            "url": "/player/11855?period=all"
+        },
+        "p1": {
+            "name": "TTTPPP",
+            "url": "/player/7387?period=all"
+        }
+    },
+    {
+        "date": "2021-11-18 20:06:26",
+        "map": "The Great Divide [RAGL-11]",
+        "p0": {
+            "name": "Kaution",
+            "url": "/player/11855?period=all"
+        },
+        "p1": {
+            "name": "TTTPPP",
+            "url": "/player/7387?period=all"
+        }
+    },
+    {
+        "date": "2021-11-18 20:33:57",
+        "map": "Dirge v3 [RAGL-11]",
+        "p0": {
+            "name": "Mo",
+            "url": "/player/5292?period=all"
+        },
+        "p1": {
+            "name": "TTTPPP",
+            "url": "/player/7387?period=all"
+        }
+    },
+    {
+        "date": "2021-11-18 20:51:53",
+        "map": "The Great Divide [RAGL-11]",
+        "p0": {
+            "name": "Mo",
+            "url": "/player/5292?period=all"
+        },
+        "p1": {
+            "name": "TTTPPP",
+            "url": "/player/7387?period=all"
+        }
+    },
+    {
+        "date": "2021-11-18 22:17:26",
+        "map": "Timorous Expansions 2 [RAGL-11]",
+        "p0": {
+            "name": "Mo",
+            "url": "/player/5292?period=all"
+        },
+        "p1": {
+            "name": "Dodder",
+            "url": "/player/11099?period=all"
+        }
+    },
+    {
+        "date": "2021-11-18 22:39:25",
+        "map": "Kosovo 1v1 [RAGL-11]",
+        "p0": {
+            "name": "Dodder",
+            "url": "/player/11099?period=all"
+        },
+        "p1": {
+            "name": "Mo",
+            "url": "/player/5292?period=all"
+        }
+    },
+    {
+        "date": "2021-11-19 17:23:45",
+        "map": "Kosovo 1v1 [RAGL-11]",
+        "p0": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        },
+        "p1": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        }
+    },
+    {
+        "date": "2021-11-19 17:51:02",
+        "map": "Scorched Earth [RAGL-11]",
+        "p0": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        },
+        "p1": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        }
+    },
+    {
+        "date": "2021-11-20 18:10:55",
+        "map": "Dirge v3 [RAGL-11]",
+        "p0": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        },
+        "p1": {
+            "name": "manta151",
+            "url": "/player/7591?period=all"
+        }
+    },
+    {
+        "date": "2021-11-20 18:32:45",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "manta151",
+            "url": "/player/7591?period=all"
+        },
+        "p1": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        }
+    },
+    {
+        "date": "2021-11-20 20:11:37",
+        "map": "Discovery [RAGL-11]",
+        "p0": {
+            "name": "Ekanim",
+            "url": "/player/13710?period=all"
+        },
+        "p1": {
+            "name": "Duke Bones",
+            "url": "/player/11913?period=all"
+        }
+    },
+    {
+        "date": "2021-11-20 20:23:56",
+        "map": "Kosovo 1v1 [RAGL-11]",
+        "p0": {
+            "name": "Ekanim",
+            "url": "/player/13710?period=all"
+        },
+        "p1": {
+            "name": "Duke Bones",
+            "url": "/player/11913?period=all"
+        }
+    },
+    {
+        "date": "2021-11-20 20:59:17",
+        "map": "Pity Light [RAGL-11]",
+        "p0": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        },
+        "p1": {
+            "name": "potato",
+            "url": "/player/6861?period=all"
+        }
+    },
+    {
+        "date": "2021-11-20 21:10:45",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        },
+        "p1": {
+            "name": "potato",
+            "url": "/player/6861?period=all"
+        }
+    },
+    {
+        "date": "2021-11-21 21:24:03",
+        "map": "Kosovo 1v1 [RAGL-11]",
+        "p0": {
+            "name": "MR C",
+            "url": "/player/13096?period=all"
+        },
+        "p1": {
+            "name": "worldpeace",
+            "url": "/player/7617?period=all"
+        }
+    },
+    {
+        "date": "2021-11-21 21:40:38",
+        "map": "Dirge v3 [RAGL-11]",
+        "p0": {
+            "name": "Therapist",
+            "url": "/player/12654?period=all"
+        },
+        "p1": {
+            "name": "potato",
+            "url": "/player/6861?period=all"
+        }
+    },
+    {
+        "date": "2021-11-21 21:44:58",
+        "map": "Myriad [RAGL-11]",
+        "p0": {
+            "name": "worldpeace",
+            "url": "/player/7617?period=all"
+        },
+        "p1": {
+            "name": "MR C",
+            "url": "/player/13096?period=all"
+        }
+    },
+    {
+        "date": "2021-11-21 21:52:17",
+        "map": "Discovery [RAGL-11]",
+        "p0": {
+            "name": "Therapist",
+            "url": "/player/12654?period=all"
+        },
+        "p1": {
+            "name": "potato",
+            "url": "/player/6861?period=all"
+        }
+    },
+    {
+        "date": "2021-11-22 20:42:43",
+        "map": "Dirge v3 [RAGL-11]",
+        "p0": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        },
+        "p1": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        }
+    },
+    {
+        "date": "2021-11-22 21:01:19",
+        "map": "Myriad [RAGL-11]",
+        "p0": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        },
+        "p1": {
+            "name": "potato",
+            "url": "/player/6861?period=all"
+        }
+    },
+    {
+        "date": "2021-11-22 21:06:06",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        },
+        "p1": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        }
+    },
+    {
+        "date": "2021-11-22 21:11:11",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        },
+        "p1": {
+            "name": "potato",
+            "url": "/player/6861?period=all"
+        }
+    },
+    {
+        "date": "2021-11-23 00:02:55",
+        "map": "Myriad [RAGL-11]",
+        "p0": {
+            "name": "Ekanim",
+            "url": "/player/13710?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2021-11-23 00:12:14",
+        "map": "Kosovo 1v1 [RAGL-11]",
+        "p0": {
+            "name": "Ekanim",
+            "url": "/player/13710?period=all"
+        },
+        "p1": {
+            "name": "Tailix Killa Mentor",
+            "url": "/player/6751?period=all"
+        }
+    },
+    {
+        "date": "2021-11-23 13:59:16",
+        "map": "Scorched Earth [RAGL-11]",
+        "p0": {
+            "name": "Goremented",
+            "url": "/player/11435?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2021-11-23 14:14:55",
+        "map": "Pity Light [RAGL-11]",
+        "p0": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        },
+        "p1": {
+            "name": "Goremented",
+            "url": "/player/11435?period=all"
+        }
+    },
+    {
+        "date": "2021-11-23 14:38:08",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2021-11-23 14:41:38",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2021-11-23 15:40:58",
+        "map": "Timorous Expansions 2 [RAGL-11]",
+        "p0": {
+            "name": "Nilhall",
+            "url": "/player/7714?period=all"
+        },
+        "p1": {
+            "name": "MR C",
+            "url": "/player/13096?period=all"
+        }
+    },
+    {
+        "date": "2021-11-23 16:21:12",
+        "map": "Scorched Earth [RAGL-11]",
+        "p0": {
+            "name": "Nilhall",
+            "url": "/player/7714?period=all"
+        },
+        "p1": {
+            "name": "MR C",
+            "url": "/player/13096?period=all"
+        }
+    },
+    {
+        "date": "2021-11-24 13:32:40",
+        "map": "Scorched Earth [RAGL-11]",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "Goremented",
+            "url": "/player/11435?period=all"
+        }
+    },
+    {
+        "date": "2021-11-24 13:41:40",
+        "map": "Dirge v3 [RAGL-11]",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "Goremented",
+            "url": "/player/11435?period=all"
+        }
+    },
+    {
+        "date": "2021-11-24 13:55:01",
+        "map": "Pity Light [RAGL-11]",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        }
+    },
+    {
+        "date": "2021-11-24 14:15:35",
+        "map": "Kosovo 1v1 [RAGL-11]",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        }
+    },
+    {
+        "date": "2021-11-24 16:56:51",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        },
+        "p1": {
+            "name": "Goremented",
+            "url": "/player/11435?period=all"
+        }
+    },
+    {
+        "date": "2021-11-24 17:09:36",
+        "map": "Kosovo 1v1 [RAGL-11]",
+        "p0": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        },
+        "p1": {
+            "name": "Goremented",
+            "url": "/player/11435?period=all"
+        }
+    },
+    {
+        "date": "2021-11-24 19:27:49",
+        "map": "Pity Light [RAGL-11]",
+        "p0": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        },
+        "p1": {
+            "name": "DVoid",
+            "url": "/player/12261?period=all"
+        }
+    },
+    {
+        "date": "2021-11-24 19:40:11",
+        "map": "Myriad [RAGL-11]",
+        "p0": {
+            "name": "maceman",
+            "url": "/player/6793?period=all"
+        },
+        "p1": {
+            "name": "DVoid",
+            "url": "/player/12261?period=all"
+        }
+    },
+    {
+        "date": "2021-11-24 19:53:26",
+        "map": "Myriad [RAGL-11]",
+        "p0": {
+            "name": "manta151",
+            "url": "/player/7591?period=all"
+        },
+        "p1": {
+            "name": "DVoid",
+            "url": "/player/12261?period=all"
+        }
+    },
+    {
+        "date": "2021-11-24 20:11:24",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "manta151",
+            "url": "/player/7591?period=all"
+        },
+        "p1": {
+            "name": "DVoid",
+            "url": "/player/12261?period=all"
+        }
+    },
+    {
+        "date": "2021-11-24 20:31:25",
+        "map": "Yukon Territory [RAGL-11]",
+        "p0": {
+            "name": "manta151",
+            "url": "/player/7591?period=all"
+        },
+        "p1": {
+            "name": "Duke Bones",
+            "url": "/player/11913?period=all"
+        }
+    },
+    {
+        "date": "2021-11-24 20:44:43",
+        "map": "Myriad [RAGL-11]",
+        "p0": {
+            "name": "Duke Bones",
+            "url": "/player/11913?period=all"
+        },
+        "p1": {
+            "name": "manta151",
+            "url": "/player/7591?period=all"
+        }
+    },
+    {
+        "date": "2021-11-25 11:52:58",
+        "map": "Spearhead [RAGL-11]",
+        "p0": {
+            "name": "Dodder",
+            "url": "/player/11099?period=all"
+        },
+        "p1": {
+            "name": "Nilhall",
+            "url": "/player/7714?period=all"
+        }
+    },
+    {
+        "date": "2021-11-25 12:04:31",
+        "map": "Dirge v3 [RAGL-11]",
+        "p0": {
+            "name": "Dodder",
+            "url": "/player/11099?period=all"
+        },
+        "p1": {
+            "name": "Nilhall",
+            "url": "/player/7714?period=all"
+        }
+    },
+    {
+        "date": "2021-11-25 16:51:27",
+        "map": "Yukon Territory [RAGL-11]",
+        "p0": {
+            "name": "Kav",
+            "url": "/player/13705?period=all"
+        },
+        "p1": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        }
+    },
+    {
+        "date": "2021-11-25 16:59:11",
+        "map": "Discovery [RAGL-11]",
+        "p0": {
+            "name": "Kav",
+            "url": "/player/13705?period=all"
+        },
+        "p1": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        }
+    },
+    {
+        "date": "2021-11-27 14:12:00",
+        "map": "Pity Light [RAGL-11]",
+        "p0": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        },
+        "p1": {
+            "name": "SinJul",
+            "url": "/player/9877?period=all"
+        }
+    },
+    {
+        "date": "2021-11-27 14:21:28",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "SinJul",
+            "url": "/player/9877?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2021-11-27 14:42:52",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        },
+        "p1": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        }
+    },
+    {
+        "date": "2021-11-27 14:58:46",
+        "map": "Scorched Earth [RAGL-11]",
+        "p0": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2021-11-27 15:21:31",
+        "map": "Kosovo 1v1 [RAGL-11]",
+        "p0": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        },
+        "p1": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        }
+    },
+    {
+        "date": "2021-11-27 15:36:36",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2021-11-27 15:50:13",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "Pinkthoth",
+            "url": "/player/11705?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2021-11-27 16:10:21",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "Pinkthoth",
+            "url": "/player/11705?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2021-11-27 17:18:25",
+        "map": "Yukon Territory [RAGL-11]",
+        "p0": {
+            "name": "Eugenator",
+            "url": "/player/11442?period=all"
+        },
+        "p1": {
+            "name": "MR C",
+            "url": "/player/13096?period=all"
+        }
+    },
+    {
+        "date": "2021-11-27 17:31:14",
+        "map": "Twin Observatories [RAGL-11]",
+        "p0": {
+            "name": "Eugenator",
+            "url": "/player/11442?period=all"
+        },
+        "p1": {
+            "name": "MR C",
+            "url": "/player/13096?period=all"
+        }
+    },
+    {
+        "date": "2021-11-27 18:28:07",
+        "map": "Scorched Earth [RAGL-11]",
+        "p0": {
+            "name": "SinJul",
+            "url": "/player/9877?period=all"
+        },
+        "p1": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        }
+    },
+    {
+        "date": "2021-11-27 18:42:37",
+        "map": "Dirge v3 [RAGL-11]",
+        "p0": {
+            "name": "SinJul",
+            "url": "/player/9877?period=all"
+        },
+        "p1": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        }
+    },
+    {
+        "date": "2021-11-27 19:23:55",
+        "map": "Discovery [RAGL-11]",
+        "p0": {
+            "name": "Goremented",
+            "url": "/player/11435?period=all"
+        },
+        "p1": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        }
+    },
+    {
+        "date": "2021-11-27 19:37:20",
+        "map": "Spearhead [RAGL-11]",
+        "p0": {
+            "name": "Goremented",
+            "url": "/player/11435?period=all"
+        },
+        "p1": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        }
+    },
+    {
+        "date": "2021-11-28 08:38:57",
+        "map": "Scorched Earth [RAGL-11]",
+        "p0": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        },
+        "p1": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        }
+    },
+    {
+        "date": "2021-11-28 08:57:07",
+        "map": "Discovery [RAGL-11]",
+        "p0": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2021-11-28 12:35:45",
+        "map": "Scorched Earth [RAGL-11]",
+        "p0": {
+            "name": "Kaution",
+            "url": "/player/11855?period=all"
+        },
+        "p1": {
+            "name": "MR C",
+            "url": "/player/13096?period=all"
+        }
+    },
+    {
+        "date": "2021-11-28 12:48:45",
+        "map": "Spearhead [RAGL-11]",
+        "p0": {
+            "name": "Kaution",
+            "url": "/player/11855?period=all"
+        },
+        "p1": {
+            "name": "MR C",
+            "url": "/player/13096?period=all"
+        }
+    },
+    {
+        "date": "2021-11-28 19:59:41",
+        "map": "Myriad [RAGL-11]",
+        "p0": {
+            "name": "DVoid",
+            "url": "/player/12261?period=all"
+        },
+        "p1": {
+            "name": "Ekanim",
+            "url": "/player/13710?period=all"
+        }
+    },
+    {
+        "date": "2021-11-28 20:22:03",
+        "map": "The Great Divide [RAGL-11]",
+        "p0": {
+            "name": "Ekanim",
+            "url": "/player/13710?period=all"
+        },
+        "p1": {
+            "name": "DVoid",
+            "url": "/player/12261?period=all"
+        }
+    },
+    {
+        "date": "2021-11-28 20:34:59",
+        "map": "Kosovo 1v1 [RAGL-11]",
+        "p0": {
+            "name": "Gajcus",
+            "url": "/player/15421?period=all"
+        },
+        "p1": {
+            "name": "Ekanim",
+            "url": "/player/13710?period=all"
+        }
+    },
+    {
+        "date": "2021-11-28 20:55:40",
+        "map": "Dirge v3 [RAGL-11]",
+        "p0": {
+            "name": "Gajcus",
+            "url": "/player/15421?period=all"
+        },
+        "p1": {
+            "name": "Ekanim",
+            "url": "/player/13710?period=all"
+        }
+    },
+    {
+        "date": "2021-11-28 23:45:33",
+        "map": "Dirge v3 [RAGL-11]",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        }
+    },
+    {
+        "date": "2021-11-28 23:54:45",
+        "map": "Spearhead [RAGL-11]",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        }
+    },
+    {
+        "date": "2021-11-29 19:28:28",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "Pinkthoth",
+            "url": "/player/11705?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2021-11-29 19:36:48",
+        "map": "Kosovo 1v1 [RAGL-11]",
+        "p0": {
+            "name": "Pinkthoth",
+            "url": "/player/11705?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2021-11-29 20:54:19",
+        "map": "Pity Light [RAGL-11]",
+        "p0": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2021-11-29 21:00:03",
+        "map": "Pity Light [RAGL-11]",
+        "p0": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2021-11-29 23:31:52",
+        "map": "Timorous Expansions 2 [RAGL-11]",
+        "p0": {
+            "name": "Mo",
+            "url": "/player/5292?period=all"
+        },
+        "p1": {
+            "name": "Nilhall",
+            "url": "/player/7714?period=all"
+        }
+    },
+    {
+        "date": "2021-11-29 23:42:27",
+        "map": "Spearhead [RAGL-11]",
+        "p0": {
+            "name": "Mo",
+            "url": "/player/5292?period=all"
+        },
+        "p1": {
+            "name": "Nilhall",
+            "url": "/player/7714?period=all"
+        }
+    },
+    {
+        "date": "2021-12-03 17:29:21",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "Kav",
+            "url": "/player/13705?period=all"
+        },
+        "p1": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        }
+    },
+    {
+        "date": "2021-12-03 17:45:07",
+        "map": "Pity Light [RAGL-11]",
+        "p0": {
+            "name": "Kav",
+            "url": "/player/13705?period=all"
+        },
+        "p1": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        }
+    },
+    {
+        "date": "2021-12-03 17:57:37",
+        "map": "Scorched Earth [RAGL-11]",
+        "p0": {
+            "name": "Kav",
+            "url": "/player/13705?period=all"
+        },
+        "p1": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        }
+    },
+    {
+        "date": "2021-12-05 15:19:41",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "Pinkthoth",
+            "url": "/player/11705?period=all"
+        }
+    },
+    {
+        "date": "2021-12-05 15:33:56",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "Pinkthoth",
+            "url": "/player/11705?period=all"
+        }
+    },
+    {
+        "date": "2021-12-05 15:48:01",
+        "map": "Pity Light [RAGL-11]",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "Pinkthoth",
+            "url": "/player/11705?period=all"
+        }
+    },
+    {
+        "date": "2021-12-07 19:29:26",
+        "map": "Spearhead [RAGL-11]",
+        "p0": {
+            "name": "Kaution",
+            "url": "/player/11855?period=all"
+        },
+        "p1": {
+            "name": "Eugenator",
+            "url": "/player/11442?period=all"
+        }
+    },
+    {
+        "date": "2021-12-07 19:36:55",
+        "map": "Dirge v3 [RAGL-11]",
+        "p0": {
+            "name": "Eugenator",
+            "url": "/player/11442?period=all"
+        },
+        "p1": {
+            "name": "Kaution",
+            "url": "/player/11855?period=all"
+        }
+    },
+    {
+        "date": "2021-12-08 20:09:14",
+        "map": "Kosovo 1v1 [RAGL-11]",
+        "p0": {
+            "name": "Pinkthoth",
+            "url": "/player/11705?period=all"
+        },
+        "p1": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        }
+    },
+    {
+        "date": "2021-12-08 20:36:56",
+        "map": "Pity Light [RAGL-11]",
+        "p0": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        },
+        "p1": {
+            "name": "Pinkthoth",
+            "url": "/player/11705?period=all"
+        }
+    },
+    {
+        "date": "2021-12-08 20:48:09",
+        "map": "Dirge v3 [RAGL-11]",
+        "p0": {
+            "name": "Pinkthoth",
+            "url": "/player/11705?period=all"
+        },
+        "p1": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        }
+    },
+    {
+        "date": "2021-12-08 21:05:26",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "Pinkthoth",
+            "url": "/player/11705?period=all"
+        },
+        "p1": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        }
+    },
+    {
+        "date": "2021-12-11 15:34:27",
+        "map": "Kosovo 1v1 [RAGL-11]",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "Kav",
+            "url": "/player/13705?period=all"
+        }
+    },
+    {
+        "date": "2021-12-11 15:47:30",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "Kav",
+            "url": "/player/13705?period=all"
+        },
+        "p1": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        }
+    },
+    {
+        "date": "2021-12-11 16:08:15",
+        "map": "Dirge v3 [RAGL-11]",
+        "p0": {
+            "name": "Kav",
+            "url": "/player/13705?period=all"
+        },
+        "p1": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        }
+    },
+    {
+        "date": "2021-12-11 16:20:12",
+        "map": "The Great Divide [RAGL-11]",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "Kav",
+            "url": "/player/13705?period=all"
+        }
+    },
+    {
+        "date": "2021-12-11 16:42:45",
+        "map": "Yukon Territory [RAGL-11]",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "Kav",
+            "url": "/player/13705?period=all"
+        }
+    },
+    {
+        "date": "2021-12-18 19:12:20",
+        "map": "Moonopoly [RAGL-11]",
+        "p0": {
+            "name": "Kaution",
+            "url": "/player/11855?period=all"
+        },
+        "p1": {
+            "name": "Gajcus",
+            "url": "/player/15421?period=all"
+        }
+    },
+    {
+        "date": "2021-12-18 19:25:42",
+        "map": "Kosovo 1v1 [RAGL-11]",
+        "p0": {
+            "name": "Kaution",
+            "url": "/player/11855?period=all"
+        },
+        "p1": {
+            "name": "Gajcus",
+            "url": "/player/15421?period=all"
+        }
+    },
+    {
+        "date": "2021-12-18 19:40:38",
+        "map": "Scorched Earth [RAGL-11]",
+        "p0": {
+            "name": "Kaution",
+            "url": "/player/11855?period=all"
+        },
+        "p1": {
+            "name": "Gajcus",
+            "url": "/player/15421?period=all"
+        }
     }
 ]
