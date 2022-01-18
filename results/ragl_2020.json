@@ -5038,5 +5038,185 @@
             "name": "ZxGanon",
             "url": "/player/6766?period=all"
         }
+    },
+    {
+        "date": "2020-12-28 15:49:31",
+        "map": "Devils Marsh[RAGL-X]",
+        "p0": {
+            "name": "Goremented",
+            "url": "/player/11435?period=all"
+        },
+        "p1": {
+            "name": "Duke Bones",
+            "url": "/player/11913?period=all"
+        }
+    },
+    {
+        "date": "2020-12-28 16:02:34",
+        "map": "Timian[RAGL-X]",
+        "p0": {
+            "name": "Goremented",
+            "url": "/player/11435?period=all"
+        },
+        "p1": {
+            "name": "Duke Bones",
+            "url": "/player/11913?period=all"
+        }
+    },
+    {
+        "date": "2020-12-29 07:23:04",
+        "map": "Timian[RAGL-X]",
+        "p0": {
+            "name": "Pinkthoth",
+            "url": "/player/11705?period=all"
+        },
+        "p1": {
+            "name": "poop",
+            "url": "/player/12892?period=all"
+        }
+    },
+    {
+        "date": "2020-12-29 07:39:05",
+        "map": "Amsterdamned[RAGL-X]",
+        "p0": {
+            "name": "Pinkthoth",
+            "url": "/player/11705?period=all"
+        },
+        "p1": {
+            "name": "poop",
+            "url": "/player/12892?period=all"
+        }
+    },
+    {
+        "date": "2020-12-29 15:59:48",
+        "map": "Winding Woods[RAGL-X]",
+        "p0": {
+            "name": "Duke Bones",
+            "url": "/player/11913?period=all"
+        },
+        "p1": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        }
+    },
+    {
+        "date": "2020-12-29 16:24:26",
+        "map": "Timian[RAGL-X]",
+        "p0": {
+            "name": "Duke Bones",
+            "url": "/player/11913?period=all"
+        },
+        "p1": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        }
+    },
+    {
+        "date": "2020-12-29 20:53:16",
+        "map": "Devils Marsh[RAGL-X]",
+        "p0": {
+            "name": "Goremented",
+            "url": "/player/11435?period=all"
+        },
+        "p1": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        }
+    },
+    {
+        "date": "2020-12-29 21:22:34",
+        "map": "Winding Woods[RAGL-X]",
+        "p0": {
+            "name": "Goremented",
+            "url": "/player/11435?period=all"
+        },
+        "p1": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        }
+    },
+    {
+        "date": "2020-12-29 22:18:05",
+        "map": "Darkside Aftermath[RAGL-X]",
+        "p0": {
+            "name": "poop",
+            "url": "/player/12892?period=all"
+        },
+        "p1": {
+            "name": "worldpeace",
+            "url": "/player/7617?period=all"
+        }
+    },
+    {
+        "date": "2020-12-30 19:04:23",
+        "map": "Winding Woods[RAGL-X]",
+        "p0": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        },
+        "p1": {
+            "name": "copla201",
+            "url": "/player/13258?period=all"
+        }
+    },
+    {
+        "date": "2020-12-30 19:24:40",
+        "map": "Amsterdamned[RAGL-X]",
+        "p0": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        },
+        "p1": {
+            "name": "copla201",
+            "url": "/player/13258?period=all"
+        }
+    },
+    {
+        "date": "2020-12-30 23:34:35",
+        "map": "Timian[RAGL-X]",
+        "p0": {
+            "name": "Goremented",
+            "url": "/player/11435?period=all"
+        },
+        "p1": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        }
+    },
+    {
+        "date": "2020-12-30 23:45:25",
+        "map": "Amsterdamned[RAGL-X]",
+        "p0": {
+            "name": "Goremented",
+            "url": "/player/11435?period=all"
+        },
+        "p1": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        }
+    },
+    {
+        "date": "2020-12-31 07:48:26",
+        "map": "Polemos[RAGL-X]",
+        "p0": {
+            "name": "Pinkthoth",
+            "url": "/player/11705?period=all"
+        },
+        "p1": {
+            "name": "KOYK_GR",
+            "url": "/player/2580?period=all"
+        }
+    },
+    {
+        "date": "2020-12-31 08:01:23",
+        "map": "Pitfight[RAGL-X]",
+        "p0": {
+            "name": "Pinkthoth",
+            "url": "/player/11705?period=all"
+        },
+        "p1": {
+            "name": "KOYK_GR",
+            "url": "/player/2580?period=all"
+        }
     }
 ]

@@ -1,0 +1,2726 @@
+[
+    {
+        "date": "2021-01-01 16:49:20",
+        "map": "Amsterdamned[RAGL-X]",
+        "p0": {
+            "name": "Pinkthoth",
+            "url": "/player/11705?period=all"
+        },
+        "p1": {
+            "name": "Kernel Panic",
+            "url": "/player/7299?period=all"
+        }
+    },
+    {
+        "date": "2021-01-01 17:03:04",
+        "map": "Timian[RAGL-X]",
+        "p0": {
+            "name": "Pinkthoth",
+            "url": "/player/11705?period=all"
+        },
+        "p1": {
+            "name": "Kernel Panic",
+            "url": "/player/7299?period=all"
+        }
+    },
+    {
+        "date": "2021-01-01 17:25:58",
+        "map": "Annihilate[RAGL-X]",
+        "p0": {
+            "name": "Pinkthoth",
+            "url": "/player/11705?period=all"
+        },
+        "p1": {
+            "name": "Nilhall",
+            "url": "/player/7714?period=all"
+        }
+    },
+    {
+        "date": "2021-01-01 17:35:37",
+        "map": "Timian[RAGL-X]",
+        "p0": {
+            "name": "Pinkthoth",
+            "url": "/player/11705?period=all"
+        },
+        "p1": {
+            "name": "Nilhall",
+            "url": "/player/7714?period=all"
+        }
+    },
+    {
+        "date": "2021-01-02 18:38:55",
+        "map": "Amsterdamned[RAGL-X]",
+        "p0": {
+            "name": "Pinkthoth",
+            "url": "/player/11705?period=all"
+        },
+        "p1": {
+            "name": "Oafa",
+            "url": "/player/12964?period=all"
+        }
+    },
+    {
+        "date": "2021-01-02 18:48:44",
+        "map": "Behind The Curtain[RAGL-X]",
+        "p0": {
+            "name": "Pinkthoth",
+            "url": "/player/11705?period=all"
+        },
+        "p1": {
+            "name": "Oafa",
+            "url": "/player/12964?period=all"
+        }
+    },
+    {
+        "date": "2021-01-02 22:35:31",
+        "map": "Devils Marsh[RAGL-X]",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "Clockwork",
+            "url": "/player/6680?period=all"
+        }
+    },
+    {
+        "date": "2021-01-02 22:52:17",
+        "map": "Annihilate[RAGL-X]",
+        "p0": {
+            "name": "Clockwork",
+            "url": "/player/6680?period=all"
+        },
+        "p1": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        }
+    },
+    {
+        "date": "2021-01-03 18:13:14",
+        "map": "Annihilate[RAGL-X]",
+        "p0": {
+            "name": "Pinkthoth",
+            "url": "/player/11705?period=all"
+        },
+        "p1": {
+            "name": "Kaution",
+            "url": "/player/11855?period=all"
+        }
+    },
+    {
+        "date": "2021-01-03 18:27:44",
+        "map": "Timian[RAGL-X]",
+        "p0": {
+            "name": "Pinkthoth",
+            "url": "/player/11705?period=all"
+        },
+        "p1": {
+            "name": "Kaution",
+            "url": "/player/11855?period=all"
+        }
+    },
+    {
+        "date": "2021-01-03 19:34:09",
+        "map": "Timian[RAGL-X]",
+        "p0": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        },
+        "p1": {
+            "name": "MR C",
+            "url": "/player/13096?period=all"
+        }
+    },
+    {
+        "date": "2021-01-03 19:47:20",
+        "map": "Polemos[RAGL-X]",
+        "p0": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        },
+        "p1": {
+            "name": "MR C",
+            "url": "/player/13096?period=all"
+        }
+    },
+    {
+        "date": "2021-01-04 20:12:06",
+        "map": "Timian[RAGL-X]",
+        "p0": {
+            "name": "Goremented",
+            "url": "/player/11435?period=all"
+        },
+        "p1": {
+            "name": "TTTPPP",
+            "url": "/player/7387?period=all"
+        }
+    },
+    {
+        "date": "2021-01-04 20:24:18",
+        "map": "Amsterdamned[RAGL-X]",
+        "p0": {
+            "name": "Goremented",
+            "url": "/player/11435?period=all"
+        },
+        "p1": {
+            "name": "TTTPPP",
+            "url": "/player/7387?period=all"
+        }
+    },
+    {
+        "date": "2021-01-04 21:55:21",
+        "map": "Annihilate[RAGL-X]",
+        "p0": {
+            "name": "Goremented",
+            "url": "/player/11435?period=all"
+        },
+        "p1": {
+            "name": "copla201",
+            "url": "/player/13258?period=all"
+        }
+    },
+    {
+        "date": "2021-01-04 22:03:18",
+        "map": "Timian[RAGL-X]",
+        "p0": {
+            "name": "Goremented",
+            "url": "/player/11435?period=all"
+        },
+        "p1": {
+            "name": "copla201",
+            "url": "/player/13258?period=all"
+        }
+    },
+    {
+        "date": "2021-01-05 19:15:35",
+        "map": "Winding Woods[RAGL-X]",
+        "p0": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        },
+        "p1": {
+            "name": "TTTPPP",
+            "url": "/player/7387?period=all"
+        }
+    },
+    {
+        "date": "2021-01-05 19:30:33",
+        "map": "Annihilate[RAGL-X]",
+        "p0": {
+            "name": "TTTPPP",
+            "url": "/player/7387?period=all"
+        },
+        "p1": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        }
+    },
+    {
+        "date": "2021-01-06 20:18:23",
+        "map": "Winding Woods[RAGL-X]",
+        "p0": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        },
+        "p1": {
+            "name": "MR C",
+            "url": "/player/13096?period=all"
+        }
+    },
+    {
+        "date": "2021-01-06 20:41:55",
+        "map": "Pitfight[RAGL-X]",
+        "p0": {
+            "name": "Pinkthoth",
+            "url": "/player/11705?period=all"
+        },
+        "p1": {
+            "name": "shavkat",
+            "url": "/player/13674?period=all"
+        }
+    },
+    {
+        "date": "2021-01-06 20:42:08",
+        "map": "Devils Marsh[RAGL-X]",
+        "p0": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        },
+        "p1": {
+            "name": "MR C",
+            "url": "/player/13096?period=all"
+        }
+    },
+    {
+        "date": "2021-01-08 21:08:09",
+        "map": "Pitfight[RAGL-X]",
+        "p0": {
+            "name": "Pinkthoth",
+            "url": "/player/11705?period=all"
+        },
+        "p1": {
+            "name": "shavkat",
+            "url": "/player/13674?period=all"
+        }
+    },
+    {
+        "date": "2021-01-09 00:22:27",
+        "map": "Devils Marsh[RAGL-X]",
+        "p0": {
+            "name": "Kernel Panic",
+            "url": "/player/7299?period=all"
+        },
+        "p1": {
+            "name": "poop",
+            "url": "/player/12892?period=all"
+        }
+    },
+    {
+        "date": "2021-01-09 00:39:01",
+        "map": "Off My Lawn, Punks ![RAGL-X]",
+        "p0": {
+            "name": "Kernel Panic",
+            "url": "/player/7299?period=all"
+        },
+        "p1": {
+            "name": "poop",
+            "url": "/player/12892?period=all"
+        }
+    },
+    {
+        "date": "2021-01-09 16:39:27",
+        "map": "Timian[RAGL-X]",
+        "p0": {
+            "name": "Duke Bones",
+            "url": "/player/11913?period=all"
+        },
+        "p1": {
+            "name": "MR C",
+            "url": "/player/13096?period=all"
+        }
+    },
+    {
+        "date": "2021-01-09 16:55:32",
+        "map": "Mounds[RAGL-X]",
+        "p0": {
+            "name": "Duke Bones",
+            "url": "/player/11913?period=all"
+        },
+        "p1": {
+            "name": "MR C",
+            "url": "/player/13096?period=all"
+        }
+    },
+    {
+        "date": "2021-01-09 20:13:08",
+        "map": "Winding Woods[RAGL-X]",
+        "p0": {
+            "name": "Eugenator",
+            "url": "/player/11442?period=all"
+        },
+        "p1": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        }
+    },
+    {
+        "date": "2021-01-09 20:26:28",
+        "map": "Timian[RAGL-X]",
+        "p0": {
+            "name": "Eugenator",
+            "url": "/player/11442?period=all"
+        },
+        "p1": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        }
+    },
+    {
+        "date": "2021-01-10 18:43:56",
+        "map": "Annihilate[RAGL-X]",
+        "p0": {
+            "name": "Oafa",
+            "url": "/player/12964?period=all"
+        },
+        "p1": {
+            "name": "Kaution",
+            "url": "/player/11855?period=all"
+        }
+    },
+    {
+        "date": "2021-01-10 18:54:32",
+        "map": "Timian[RAGL-X]",
+        "p0": {
+            "name": "Kaution",
+            "url": "/player/11855?period=all"
+        },
+        "p1": {
+            "name": "Oafa",
+            "url": "/player/12964?period=all"
+        }
+    },
+    {
+        "date": "2021-01-10 20:18:59",
+        "map": "Timian[RAGL-X]",
+        "p0": {
+            "name": "Duke Bones",
+            "url": "/player/11913?period=all"
+        },
+        "p1": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        }
+    },
+    {
+        "date": "2021-01-10 20:32:28",
+        "map": "Amsterdamned[RAGL-X]",
+        "p0": {
+            "name": "Duke Bones",
+            "url": "/player/11913?period=all"
+        },
+        "p1": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        }
+    },
+    {
+        "date": "2021-01-11 19:10:22",
+        "map": "Off My Lawn, Punks ![RAGL-X]",
+        "p0": {
+            "name": "SlickSloth",
+            "url": "/player/8269?period=all"
+        },
+        "p1": {
+            "name": "TTTPPP",
+            "url": "/player/7387?period=all"
+        }
+    },
+    {
+        "date": "2021-01-11 19:21:35",
+        "map": "Timian[RAGL-X]",
+        "p0": {
+            "name": "TTTPPP",
+            "url": "/player/7387?period=all"
+        },
+        "p1": {
+            "name": "SlickSloth",
+            "url": "/player/8269?period=all"
+        }
+    },
+    {
+        "date": "2021-01-11 20:12:36",
+        "map": "Devils Marsh[RAGL-X]",
+        "p0": {
+            "name": "Goremented",
+            "url": "/player/11435?period=all"
+        },
+        "p1": {
+            "name": "Eugenator",
+            "url": "/player/11442?period=all"
+        }
+    },
+    {
+        "date": "2021-01-11 20:21:38",
+        "map": "Timian[RAGL-X]",
+        "p0": {
+            "name": "Goremented",
+            "url": "/player/11435?period=all"
+        },
+        "p1": {
+            "name": "Eugenator",
+            "url": "/player/11442?period=all"
+        }
+    },
+    {
+        "date": "2021-01-11 20:43:53",
+        "map": "Devils Marsh[RAGL-X]",
+        "p0": {
+            "name": "Goremented",
+            "url": "/player/11435?period=all"
+        },
+        "p1": {
+            "name": "SlickSloth",
+            "url": "/player/8269?period=all"
+        }
+    },
+    {
+        "date": "2021-01-11 20:55:22",
+        "map": "Mounds[RAGL-X]",
+        "p0": {
+            "name": "SlickSloth",
+            "url": "/player/8269?period=all"
+        },
+        "p1": {
+            "name": "Goremented",
+            "url": "/player/11435?period=all"
+        }
+    },
+    {
+        "date": "2021-01-13 17:07:02",
+        "map": "Timian[RAGL-X]",
+        "p0": {
+            "name": "Eugenator",
+            "url": "/player/11442?period=all"
+        },
+        "p1": {
+            "name": "copla201",
+            "url": "/player/13258?period=all"
+        }
+    },
+    {
+        "date": "2021-01-13 17:22:17",
+        "map": "Winding Woods[RAGL-X]",
+        "p0": {
+            "name": "Eugenator",
+            "url": "/player/11442?period=all"
+        },
+        "p1": {
+            "name": "copla201",
+            "url": "/player/13258?period=all"
+        }
+    },
+    {
+        "date": "2021-01-13 18:52:10",
+        "map": "Off My Lawn, Punks ![RAGL-X]",
+        "p0": {
+            "name": "Kernel Panic",
+            "url": "/player/7299?period=all"
+        },
+        "p1": {
+            "name": "shavkat",
+            "url": "/player/13674?period=all"
+        }
+    },
+    {
+        "date": "2021-01-13 19:03:27",
+        "map": "Pitfight[RAGL-X]",
+        "p0": {
+            "name": "Kernel Panic",
+            "url": "/player/7299?period=all"
+        },
+        "p1": {
+            "name": "shavkat",
+            "url": "/player/13674?period=all"
+        }
+    },
+    {
+        "date": "2021-01-14 19:45:54",
+        "map": "Mounds[RAGL-X]",
+        "p0": {
+            "name": "Eugenator",
+            "url": "/player/11442?period=all"
+        },
+        "p1": {
+            "name": "TTTPPP",
+            "url": "/player/7387?period=all"
+        }
+    },
+    {
+        "date": "2021-01-14 19:58:43",
+        "map": "Timian[RAGL-X]",
+        "p0": {
+            "name": "Eugenator",
+            "url": "/player/11442?period=all"
+        },
+        "p1": {
+            "name": "TTTPPP",
+            "url": "/player/7387?period=all"
+        }
+    },
+    {
+        "date": "2021-01-16 15:10:27",
+        "map": "Off My Lawn, Punks ![RAGL-X]",
+        "p0": {
+            "name": "Kernel Panic",
+            "url": "/player/7299?period=all"
+        },
+        "p1": {
+            "name": "Kaution",
+            "url": "/player/11855?period=all"
+        }
+    },
+    {
+        "date": "2021-01-16 15:24:54",
+        "map": "Annihilate[RAGL-X]",
+        "p0": {
+            "name": "Kaution",
+            "url": "/player/11855?period=all"
+        },
+        "p1": {
+            "name": "Kernel Panic",
+            "url": "/player/7299?period=all"
+        }
+    },
+    {
+        "date": "2021-01-17 12:12:37",
+        "map": "Devils Marsh[RAGL-X]",
+        "p0": {
+            "name": "Pinkthoth",
+            "url": "/player/11705?period=all"
+        },
+        "p1": {
+            "name": "worldpeace",
+            "url": "/player/7617?period=all"
+        }
+    },
+    {
+        "date": "2021-01-17 12:22:09",
+        "map": "Behind The Curtain[RAGL-X]",
+        "p0": {
+            "name": "Pinkthoth",
+            "url": "/player/11705?period=all"
+        },
+        "p1": {
+            "name": "worldpeace",
+            "url": "/player/7617?period=all"
+        }
+    },
+    {
+        "date": "2021-01-17 17:24:04",
+        "map": "Timian[RAGL-X]",
+        "p0": {
+            "name": "SlickSloth",
+            "url": "/player/8269?period=all"
+        },
+        "p1": {
+            "name": "Duke Bones",
+            "url": "/player/11913?period=all"
+        }
+    },
+    {
+        "date": "2021-01-17 17:35:47",
+        "map": "Amsterdamned[RAGL-X]",
+        "p0": {
+            "name": "SlickSloth",
+            "url": "/player/8269?period=all"
+        },
+        "p1": {
+            "name": "Duke Bones",
+            "url": "/player/11913?period=all"
+        }
+    },
+    {
+        "date": "2021-01-17 18:06:51",
+        "map": "Devils Marsh[RAGL-X]",
+        "p0": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        },
+        "p1": {
+            "name": "SlickSloth",
+            "url": "/player/8269?period=all"
+        }
+    },
+    {
+        "date": "2021-01-17 18:20:06",
+        "map": "Amsterdamned[RAGL-X]",
+        "p0": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        },
+        "p1": {
+            "name": "SlickSloth",
+            "url": "/player/8269?period=all"
+        }
+    },
+    {
+        "date": "2021-01-18 20:12:23",
+        "map": "Timian[RAGL-X]",
+        "p0": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        },
+        "p1": {
+            "name": "Eugenator",
+            "url": "/player/11442?period=all"
+        }
+    },
+    {
+        "date": "2021-01-18 20:33:27",
+        "map": "Annihilate[RAGL-X]",
+        "p0": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        },
+        "p1": {
+            "name": "Eugenator",
+            "url": "/player/11442?period=all"
+        }
+    },
+    {
+        "date": "2021-01-19 04:59:59",
+        "map": "Timian[RAGL-X]",
+        "p0": {
+            "name": "Duke Bones",
+            "url": "/player/11913?period=all"
+        },
+        "p1": {
+            "name": "TTTPPP",
+            "url": "/player/7387?period=all"
+        }
+    },
+    {
+        "date": "2021-01-19 05:15:40",
+        "map": "Pitfight[RAGL-X]",
+        "p0": {
+            "name": "TTTPPP",
+            "url": "/player/7387?period=all"
+        },
+        "p1": {
+            "name": "Duke Bones",
+            "url": "/player/11913?period=all"
+        }
+    },
+    {
+        "date": "2021-01-19 12:35:11",
+        "map": "Nomad[RAGL-X]",
+        "p0": {
+            "name": "TTTPPP",
+            "url": "/player/7387?period=all"
+        },
+        "p1": {
+            "name": "MR C",
+            "url": "/player/13096?period=all"
+        }
+    },
+    {
+        "date": "2021-01-19 12:57:54",
+        "map": "Annihilate[RAGL-X]",
+        "p0": {
+            "name": "TTTPPP",
+            "url": "/player/7387?period=all"
+        },
+        "p1": {
+            "name": "MR C",
+            "url": "/player/13096?period=all"
+        }
+    },
+    {
+        "date": "2021-01-19 16:35:44",
+        "map": "Timian[RAGL-X]",
+        "p0": {
+            "name": "Mo",
+            "url": "/player/5292?period=all"
+        },
+        "p1": {
+            "name": "SlickSloth",
+            "url": "/player/8269?period=all"
+        }
+    },
+    {
+        "date": "2021-01-19 16:47:02",
+        "map": "Pitfight[RAGL-X]",
+        "p0": {
+            "name": "SlickSloth",
+            "url": "/player/8269?period=all"
+        },
+        "p1": {
+            "name": "Mo",
+            "url": "/player/5292?period=all"
+        }
+    },
+    {
+        "date": "2021-01-19 20:27:39",
+        "map": "Timian[RAGL-X]",
+        "p0": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        },
+        "p1": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        }
+    },
+    {
+        "date": "2021-01-19 20:46:49",
+        "map": "Annihilate[RAGL-X]",
+        "p0": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        },
+        "p1": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        }
+    },
+    {
+        "date": "2021-01-19 23:08:00",
+        "map": "Off My Lawn, Punks ![RAGL-X]",
+        "p0": {
+            "name": "Duke Bones",
+            "url": "/player/11913?period=all"
+        },
+        "p1": {
+            "name": "Mo",
+            "url": "/player/5292?period=all"
+        }
+    },
+    {
+        "date": "2021-01-19 23:24:47",
+        "map": "Pitfight[RAGL-X]",
+        "p0": {
+            "name": "Mo",
+            "url": "/player/5292?period=all"
+        },
+        "p1": {
+            "name": "Duke Bones",
+            "url": "/player/11913?period=all"
+        }
+    },
+    {
+        "date": "2021-01-21 19:56:25",
+        "map": "Timian[RAGL-X]",
+        "p0": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        },
+        "p1": {
+            "name": "TTTPPP",
+            "url": "/player/7387?period=all"
+        }
+    },
+    {
+        "date": "2021-01-21 20:15:18",
+        "map": "Darkside Aftermath[RAGL-X]",
+        "p0": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        },
+        "p1": {
+            "name": "TTTPPP",
+            "url": "/player/7387?period=all"
+        }
+    },
+    {
+        "date": "2021-01-23 15:25:19",
+        "map": "Off My Lawn, Punks ![RAGL-X]",
+        "p0": {
+            "name": "Kernel Panic",
+            "url": "/player/7299?period=all"
+        },
+        "p1": {
+            "name": "Nilhall",
+            "url": "/player/7714?period=all"
+        }
+    },
+    {
+        "date": "2021-01-23 15:35:37",
+        "map": "Winding Woods[RAGL-X]",
+        "p0": {
+            "name": "Kernel Panic",
+            "url": "/player/7299?period=all"
+        },
+        "p1": {
+            "name": "Nilhall",
+            "url": "/player/7714?period=all"
+        }
+    },
+    {
+        "date": "2021-01-23 17:17:46",
+        "map": "Annihilate[RAGL-X]",
+        "p0": {
+            "name": "Kaution",
+            "url": "/player/11855?period=all"
+        },
+        "p1": {
+            "name": "Nilhall",
+            "url": "/player/7714?period=all"
+        }
+    },
+    {
+        "date": "2021-01-23 17:26:40",
+        "map": "Amsterdamned[RAGL-X]",
+        "p0": {
+            "name": "Kaution",
+            "url": "/player/11855?period=all"
+        },
+        "p1": {
+            "name": "Nilhall",
+            "url": "/player/7714?period=all"
+        }
+    },
+    {
+        "date": "2021-01-23 18:03:17",
+        "map": "Annihilate[RAGL-X]",
+        "p0": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        },
+        "p1": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        }
+    },
+    {
+        "date": "2021-01-23 18:14:33",
+        "map": "Amsterdamned[RAGL-X]",
+        "p0": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        },
+        "p1": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        }
+    },
+    {
+        "date": "2021-01-23 18:51:09",
+        "map": "Devils Marsh[RAGL-X]",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        }
+    },
+    {
+        "date": "2021-01-23 19:06:50",
+        "map": "Nomad[RAGL-X]",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        }
+    },
+    {
+        "date": "2021-01-23 19:14:01",
+        "map": "Devils Marsh[RAGL-X]",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        }
+    },
+    {
+        "date": "2021-01-23 19:23:03",
+        "map": "Darkside Aftermath[RAGL-X]",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        }
+    },
+    {
+        "date": "2021-01-23 21:00:05",
+        "map": "Off My Lawn, Punks ![RAGL-X]",
+        "p0": {
+            "name": "Kernel Panic",
+            "url": "/player/7299?period=all"
+        },
+        "p1": {
+            "name": "vvoj",
+            "url": "/player/10569?period=all"
+        }
+    },
+    {
+        "date": "2021-01-23 21:02:38",
+        "map": "Timian[RAGL-X]",
+        "p0": {
+            "name": "PallyRoy",
+            "url": "/player/13060?period=all"
+        },
+        "p1": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        }
+    },
+    {
+        "date": "2021-01-23 21:15:50",
+        "map": "Devils Marsh[RAGL-X]",
+        "p0": {
+            "name": "Kernel Panic",
+            "url": "/player/7299?period=all"
+        },
+        "p1": {
+            "name": "vvoj",
+            "url": "/player/10569?period=all"
+        }
+    },
+    {
+        "date": "2021-01-23 21:19:37",
+        "map": "Devils Marsh[RAGL-X]",
+        "p0": {
+            "name": "PallyRoy",
+            "url": "/player/13060?period=all"
+        },
+        "p1": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        }
+    },
+    {
+        "date": "2021-01-24 13:20:10",
+        "map": "Annihilate[RAGL-X]",
+        "p0": {
+            "name": "Eugenator",
+            "url": "/player/11442?period=all"
+        },
+        "p1": {
+            "name": "Duke Bones",
+            "url": "/player/11913?period=all"
+        }
+    },
+    {
+        "date": "2021-01-24 13:33:47",
+        "map": "Winding Woods[RAGL-X]",
+        "p0": {
+            "name": "Eugenator",
+            "url": "/player/11442?period=all"
+        },
+        "p1": {
+            "name": "Duke Bones",
+            "url": "/player/11913?period=all"
+        }
+    },
+    {
+        "date": "2021-01-24 19:41:43",
+        "map": "Off My Lawn, Punks ![RAGL-X]",
+        "p0": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        },
+        "p1": {
+            "name": "SlickSloth",
+            "url": "/player/8269?period=all"
+        }
+    },
+    {
+        "date": "2021-01-24 20:00:41",
+        "map": "Amsterdamned[RAGL-X]",
+        "p0": {
+            "name": "SlickSloth",
+            "url": "/player/8269?period=all"
+        },
+        "p1": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        }
+    },
+    {
+        "date": "2021-01-25 20:37:59",
+        "map": "Timian[RAGL-X]",
+        "p0": {
+            "name": "Eugenator",
+            "url": "/player/11442?period=all"
+        },
+        "p1": {
+            "name": "SlickSloth",
+            "url": "/player/8269?period=all"
+        }
+    },
+    {
+        "date": "2021-01-25 20:55:40",
+        "map": "Timian[RAGL-X]",
+        "p0": {
+            "name": "Eugenator",
+            "url": "/player/11442?period=all"
+        },
+        "p1": {
+            "name": "SlickSloth",
+            "url": "/player/8269?period=all"
+        }
+    },
+    {
+        "date": "2021-01-26 00:06:02",
+        "map": "Timian[RAGL-X]",
+        "p0": {
+            "name": "PallyRoy",
+            "url": "/player/13060?period=all"
+        },
+        "p1": {
+            "name": "Duke Bones",
+            "url": "/player/11913?period=all"
+        }
+    },
+    {
+        "date": "2021-01-26 00:18:55",
+        "map": "Mounds[RAGL-X]",
+        "p0": {
+            "name": "Duke Bones",
+            "url": "/player/11913?period=all"
+        },
+        "p1": {
+            "name": "PallyRoy",
+            "url": "/player/13060?period=all"
+        }
+    },
+    {
+        "date": "2021-01-26 15:54:23",
+        "map": "Polemos[RAGL-X]",
+        "p0": {
+            "name": "vvoj",
+            "url": "/player/10569?period=all"
+        },
+        "p1": {
+            "name": "KOYK_GR",
+            "url": "/player/2580?period=all"
+        }
+    },
+    {
+        "date": "2021-01-26 16:13:58",
+        "map": "Behind The Curtain[RAGL-X]",
+        "p0": {
+            "name": "vvoj",
+            "url": "/player/10569?period=all"
+        },
+        "p1": {
+            "name": "KOYK_GR",
+            "url": "/player/2580?period=all"
+        }
+    },
+    {
+        "date": "2021-01-26 19:09:00",
+        "map": "Off My Lawn, Punks ![RAGL-X]",
+        "p0": {
+            "name": "Kernel Panic",
+            "url": "/player/7299?period=all"
+        },
+        "p1": {
+            "name": "KOYK_GR",
+            "url": "/player/2580?period=all"
+        }
+    },
+    {
+        "date": "2021-01-26 19:26:31",
+        "map": "Pitfight[RAGL-X]",
+        "p0": {
+            "name": "KOYK_GR",
+            "url": "/player/2580?period=all"
+        },
+        "p1": {
+            "name": "Kernel Panic",
+            "url": "/player/7299?period=all"
+        }
+    },
+    {
+        "date": "2021-01-26 20:37:26",
+        "map": "Timian[RAGL-X]",
+        "p0": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        },
+        "p1": {
+            "name": "Mo",
+            "url": "/player/5292?period=all"
+        }
+    },
+    {
+        "date": "2021-01-26 20:55:30",
+        "map": "Mounds[RAGL-X]",
+        "p0": {
+            "name": "Mo",
+            "url": "/player/5292?period=all"
+        },
+        "p1": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        }
+    },
+    {
+        "date": "2021-01-26 21:24:01",
+        "map": "Timian[RAGL-X]",
+        "p0": {
+            "name": "Eugenator",
+            "url": "/player/11442?period=all"
+        },
+        "p1": {
+            "name": "MR C",
+            "url": "/player/13096?period=all"
+        }
+    },
+    {
+        "date": "2021-01-26 21:39:52",
+        "map": "Devils Marsh[RAGL-X]",
+        "p0": {
+            "name": "Eugenator",
+            "url": "/player/11442?period=all"
+        },
+        "p1": {
+            "name": "MR C",
+            "url": "/player/13096?period=all"
+        }
+    },
+    {
+        "date": "2021-01-27 18:05:46",
+        "map": "Devils Marsh[RAGL-X]",
+        "p0": {
+            "name": "Goremented",
+            "url": "/player/11435?period=all"
+        },
+        "p1": {
+            "name": "PallyRoy",
+            "url": "/player/13060?period=all"
+        }
+    },
+    {
+        "date": "2021-01-27 18:14:20",
+        "map": "Amsterdamned[RAGL-X]",
+        "p0": {
+            "name": "Goremented",
+            "url": "/player/11435?period=all"
+        },
+        "p1": {
+            "name": "PallyRoy",
+            "url": "/player/13060?period=all"
+        }
+    },
+    {
+        "date": "2021-01-27 18:34:32",
+        "map": "Devils Marsh[RAGL-X]",
+        "p0": {
+            "name": "copla201",
+            "url": "/player/13258?period=all"
+        },
+        "p1": {
+            "name": "MR C",
+            "url": "/player/13096?period=all"
+        }
+    },
+    {
+        "date": "2021-01-27 18:50:46",
+        "map": "Annihilate[RAGL-X]",
+        "p0": {
+            "name": "copla201",
+            "url": "/player/13258?period=all"
+        },
+        "p1": {
+            "name": "MR C",
+            "url": "/player/13096?period=all"
+        }
+    },
+    {
+        "date": "2021-01-28 20:04:14",
+        "map": "Polemos[RAGL-X]",
+        "p0": {
+            "name": "Mo",
+            "url": "/player/5292?period=all"
+        },
+        "p1": {
+            "name": "TTTPPP",
+            "url": "/player/7387?period=all"
+        }
+    },
+    {
+        "date": "2021-01-28 20:19:14",
+        "map": "Pitfight[RAGL-X]",
+        "p0": {
+            "name": "Mo",
+            "url": "/player/5292?period=all"
+        },
+        "p1": {
+            "name": "TTTPPP",
+            "url": "/player/7387?period=all"
+        }
+    },
+    {
+        "date": "2021-01-28 20:35:12",
+        "map": "Annihilate[RAGL-X]",
+        "p0": {
+            "name": "Mo",
+            "url": "/player/5292?period=all"
+        },
+        "p1": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        }
+    },
+    {
+        "date": "2021-01-28 20:50:26",
+        "map": "Mounds[RAGL-X]",
+        "p0": {
+            "name": "Mo",
+            "url": "/player/5292?period=all"
+        },
+        "p1": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        }
+    },
+    {
+        "date": "2021-01-28 21:24:46",
+        "map": "Off My Lawn, Punks ![RAGL-X]",
+        "p0": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        },
+        "p1": {
+            "name": "DaolDnaKcol",
+            "url": "/player/6891?period=all"
+        }
+    },
+    {
+        "date": "2021-01-28 21:34:32",
+        "map": "Amsterdamned[RAGL-X]",
+        "p0": {
+            "name": "spetsnaz84",
+            "url": "/player/6881?period=all"
+        },
+        "p1": {
+            "name": "DaolDnaKcol",
+            "url": "/player/6891?period=all"
+        }
+    },
+    {
+        "date": "2021-01-30 19:05:47",
+        "map": "Nomad[RAGL-X]",
+        "p0": {
+            "name": "Eugenator",
+            "url": "/player/11442?period=all"
+        },
+        "p1": {
+            "name": "Mo",
+            "url": "/player/5292?period=all"
+        }
+    },
+    {
+        "date": "2021-01-30 19:32:35",
+        "map": "Pitfight[RAGL-X]",
+        "p0": {
+            "name": "Mo",
+            "url": "/player/5292?period=all"
+        },
+        "p1": {
+            "name": "Eugenator",
+            "url": "/player/11442?period=all"
+        }
+    },
+    {
+        "date": "2021-01-31 20:43:13",
+        "map": "Devils Marsh[RAGL-X]",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        }
+    },
+    {
+        "date": "2021-01-31 20:52:58",
+        "map": "Timian[RAGL-X]",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        }
+    },
+    {
+        "date": "2021-01-31 21:23:36",
+        "map": "Devils Marsh[RAGL-X]",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        }
+    },
+    {
+        "date": "2021-01-31 21:38:50",
+        "map": "Mounds[RAGL-X]",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        }
+    },
+    {
+        "date": "2021-01-31 23:17:36",
+        "map": "Timian[RAGL-X]",
+        "p0": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        },
+        "p1": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        }
+    },
+    {
+        "date": "2021-01-31 23:35:16",
+        "map": "Amsterdamned[RAGL-X]",
+        "p0": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        },
+        "p1": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        }
+    },
+    {
+        "date": "2021-02-01 11:35:14",
+        "map": "Annihilate[RAGL-X]",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2021-02-01 11:48:14",
+        "map": "Winding Woods[RAGL-X]",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2021-02-01 19:45:28",
+        "map": "Devils Marsh[RAGL-X]",
+        "p0": {
+            "name": "TTTPPP",
+            "url": "/player/7387?period=all"
+        },
+        "p1": {
+            "name": "copla201",
+            "url": "/player/13258?period=all"
+        }
+    },
+    {
+        "date": "2021-02-01 20:07:41",
+        "map": "Annihilate[RAGL-X]",
+        "p0": {
+            "name": "TTTPPP",
+            "url": "/player/7387?period=all"
+        },
+        "p1": {
+            "name": "copla201",
+            "url": "/player/13258?period=all"
+        }
+    },
+    {
+        "date": "2021-02-01 21:36:52",
+        "map": "Amsterdamned[RAGL-X]",
+        "p0": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        },
+        "p1": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        }
+    },
+    {
+        "date": "2021-02-01 21:53:11",
+        "map": "Devils Marsh[RAGL-X]",
+        "p0": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2021-02-02 13:10:33",
+        "map": "Amsterdamned[RAGL-X]",
+        "p0": {
+            "name": "SlickSloth",
+            "url": "/player/8269?period=all"
+        },
+        "p1": {
+            "name": "MR C",
+            "url": "/player/13096?period=all"
+        }
+    },
+    {
+        "date": "2021-02-02 13:30:59",
+        "map": "Mounds[RAGL-X]",
+        "p0": {
+            "name": "SlickSloth",
+            "url": "/player/8269?period=all"
+        },
+        "p1": {
+            "name": "MR C",
+            "url": "/player/13096?period=all"
+        }
+    },
+    {
+        "date": "2021-02-02 22:18:23",
+        "map": "Devils Marsh[RAGL-X]",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2021-02-02 22:26:15",
+        "map": "Darkside Aftermath[RAGL-X]",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2021-02-03 18:02:31",
+        "map": "Timian[RAGL-X]",
+        "p0": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        },
+        "p1": {
+            "name": "copla201",
+            "url": "/player/13258?period=all"
+        }
+    },
+    {
+        "date": "2021-02-03 18:16:11",
+        "map": "Annihilate[RAGL-X]",
+        "p0": {
+            "name": "TiTo",
+            "url": "/player/7813?period=all"
+        },
+        "p1": {
+            "name": "copla201",
+            "url": "/player/13258?period=all"
+        }
+    },
+    {
+        "date": "2021-02-04 00:02:51",
+        "map": "Annihilate[RAGL-X]",
+        "p0": {
+            "name": "Duke Bones",
+            "url": "/player/11913?period=all"
+        },
+        "p1": {
+            "name": "copla201",
+            "url": "/player/13258?period=all"
+        }
+    },
+    {
+        "date": "2021-02-04 00:13:57",
+        "map": "Timian[RAGL-X]",
+        "p0": {
+            "name": "Duke Bones",
+            "url": "/player/11913?period=all"
+        },
+        "p1": {
+            "name": "copla201",
+            "url": "/player/13258?period=all"
+        }
+    },
+    {
+        "date": "2021-02-06 18:17:18",
+        "map": "Timian[RAGL-X]",
+        "p0": {
+            "name": "Pinkthoth",
+            "url": "/player/11705?period=all"
+        },
+        "p1": {
+            "name": "vvoj",
+            "url": "/player/10569?period=all"
+        }
+    },
+    {
+        "date": "2021-02-06 18:32:01",
+        "map": "Amsterdamned[RAGL-X]",
+        "p0": {
+            "name": "Pinkthoth",
+            "url": "/player/11705?period=all"
+        },
+        "p1": {
+            "name": "vvoj",
+            "url": "/player/10569?period=all"
+        }
+    },
+    {
+        "date": "2021-02-07 21:10:43",
+        "map": "Winding Woods[RAGL-X]",
+        "p0": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        },
+        "p1": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        }
+    },
+    {
+        "date": "2021-02-07 21:26:08",
+        "map": "Devils Marsh[RAGL-X]",
+        "p0": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2021-02-09 13:51:47",
+        "map": "Devils Marsh[RAGL-X]",
+        "p0": {
+            "name": "Goremented",
+            "url": "/player/11435?period=all"
+        },
+        "p1": {
+            "name": "MR C",
+            "url": "/player/13096?period=all"
+        }
+    },
+    {
+        "date": "2021-02-09 14:12:57",
+        "map": "Amsterdamned[RAGL-X]",
+        "p0": {
+            "name": "Goremented",
+            "url": "/player/11435?period=all"
+        },
+        "p1": {
+            "name": "MR C",
+            "url": "/player/13096?period=all"
+        }
+    },
+    {
+        "date": "2021-02-09 22:13:03",
+        "map": "Winding Woods[RAGL-X]",
+        "p0": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2021-02-09 22:29:50",
+        "map": "Nomad[RAGL-X]",
+        "p0": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2021-02-11 17:19:27",
+        "map": "Annihilate[RAGL-X]",
+        "p0": {
+            "name": "Kaution",
+            "url": "/player/11855?period=all"
+        },
+        "p1": {
+            "name": "shavkat",
+            "url": "/player/13674?period=all"
+        }
+    },
+    {
+        "date": "2021-02-11 17:28:40",
+        "map": "Pitfight[RAGL-X]",
+        "p0": {
+            "name": "Kaution",
+            "url": "/player/11855?period=all"
+        },
+        "p1": {
+            "name": "shavkat",
+            "url": "/player/13674?period=all"
+        }
+    },
+    {
+        "date": "2021-02-14 15:03:22",
+        "map": "Polemos[RAGL-X]",
+        "p0": {
+            "name": "Mo",
+            "url": "/player/5292?period=all"
+        },
+        "p1": {
+            "name": "MR C",
+            "url": "/player/13096?period=all"
+        }
+    },
+    {
+        "date": "2021-02-14 15:22:35",
+        "map": "Darkside Aftermath[RAGL-X]",
+        "p0": {
+            "name": "Mo",
+            "url": "/player/5292?period=all"
+        },
+        "p1": {
+            "name": "MR C",
+            "url": "/player/13096?period=all"
+        }
+    },
+    {
+        "date": "2021-02-14 20:06:01",
+        "map": "Amsterdamned[RAGL-X]",
+        "p0": {
+            "name": "Goremented",
+            "url": "/player/11435?period=all"
+        },
+        "p1": {
+            "name": "Mo",
+            "url": "/player/5292?period=all"
+        }
+    },
+    {
+        "date": "2021-02-14 20:22:48",
+        "map": "Pitfight[RAGL-X]",
+        "p0": {
+            "name": "Mo",
+            "url": "/player/5292?period=all"
+        },
+        "p1": {
+            "name": "Goremented",
+            "url": "/player/11435?period=all"
+        }
+    },
+    {
+        "date": "2021-02-18 19:53:38",
+        "map": "Amsterdamned[RAGL-X]",
+        "p0": {
+            "name": "Goremented",
+            "url": "/player/11435?period=all"
+        },
+        "p1": {
+            "name": "porcukor",
+            "url": "/player/7787?period=all"
+        }
+    },
+    {
+        "date": "2021-02-18 21:40:07",
+        "map": "Annihilate[RAGL-X]",
+        "p0": {
+            "name": "Kaution",
+            "url": "/player/11855?period=all"
+        },
+        "p1": {
+            "name": "vvoj",
+            "url": "/player/10569?period=all"
+        }
+    },
+    {
+        "date": "2021-02-18 22:08:01",
+        "map": "Timian[RAGL-X]",
+        "p0": {
+            "name": "vvoj",
+            "url": "/player/10569?period=all"
+        },
+        "p1": {
+            "name": "Kaution",
+            "url": "/player/11855?period=all"
+        }
+    },
+    {
+        "date": "2021-02-19 20:11:34",
+        "map": "Nomad[RAGL-X]",
+        "p0": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        },
+        "p1": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        }
+    },
+    {
+        "date": "2021-02-19 21:22:12",
+        "map": "Amsterdamned[RAGL-X]",
+        "p0": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        },
+        "p1": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        }
+    },
+    {
+        "date": "2021-02-19 21:38:08",
+        "map": "Amsterdamned[RAGL-X]",
+        "p0": {
+            "name": "i like men",
+            "url": "/player/10757?period=all"
+        },
+        "p1": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        }
+    },
+    {
+        "date": "2021-02-19 21:48:14",
+        "map": "Devils Marsh[RAGL-X]",
+        "p0": {
+            "name": "i like men",
+            "url": "/player/10757?period=all"
+        },
+        "p1": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        }
+    },
+    {
+        "date": "2021-02-20 00:13:44",
+        "map": "Annihilate[RAGL-X]",
+        "p0": {
+            "name": "i like men",
+            "url": "/player/10757?period=all"
+        },
+        "p1": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        }
+    },
+    {
+        "date": "2021-02-20 00:26:19",
+        "map": "Pitfight[RAGL-X]",
+        "p0": {
+            "name": "i like men",
+            "url": "/player/10757?period=all"
+        },
+        "p1": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        }
+    },
+    {
+        "date": "2021-02-20 22:08:10",
+        "map": "Devils Marsh[RAGL-X]",
+        "p0": {
+            "name": "vvoj",
+            "url": "/player/10569?period=all"
+        },
+        "p1": {
+            "name": "worldpeace",
+            "url": "/player/7617?period=all"
+        }
+    },
+    {
+        "date": "2021-02-20 22:24:29",
+        "map": "Darkside Aftermath[RAGL-X]",
+        "p0": {
+            "name": "vvoj",
+            "url": "/player/10569?period=all"
+        },
+        "p1": {
+            "name": "worldpeace",
+            "url": "/player/7617?period=all"
+        }
+    },
+    {
+        "date": "2021-02-20 22:36:57",
+        "map": "Off My Lawn, Punks ![RAGL-X]",
+        "p0": {
+            "name": "Kernel Panic",
+            "url": "/player/7299?period=all"
+        },
+        "p1": {
+            "name": "worldpeace",
+            "url": "/player/7617?period=all"
+        }
+    },
+    {
+        "date": "2021-02-20 22:48:35",
+        "map": "Winding Woods[RAGL-X]",
+        "p0": {
+            "name": "Kernel Panic",
+            "url": "/player/7299?period=all"
+        },
+        "p1": {
+            "name": "worldpeace",
+            "url": "/player/7617?period=all"
+        }
+    },
+    {
+        "date": "2021-02-21 18:39:50",
+        "map": "Behind The Curtain[RAGL-X]",
+        "p0": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        },
+        "p1": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        }
+    },
+    {
+        "date": "2021-02-21 19:27:09",
+        "map": "Nomad[RAGL-X]",
+        "p0": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        },
+        "p1": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        }
+    },
+    {
+        "date": "2021-02-21 20:11:11",
+        "map": "Pitfight[RAGL-X]",
+        "p0": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        },
+        "p1": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        }
+    },
+    {
+        "date": "2021-02-21 20:20:18",
+        "map": "Mounds[RAGL-X]",
+        "p0": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        },
+        "p1": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        }
+    },
+    {
+        "date": "2021-02-22 21:00:28",
+        "map": "Amsterdamned[RAGL-X]",
+        "p0": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        },
+        "p1": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        }
+    },
+    {
+        "date": "2021-02-22 21:34:30",
+        "map": "Devils Marsh[RAGL-X]",
+        "p0": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        },
+        "p1": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        }
+    },
+    {
+        "date": "2021-02-22 22:03:12",
+        "map": "Amsterdamned[RAGL-X]",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        }
+    },
+    {
+        "date": "2021-02-22 22:15:20",
+        "map": "Annihilate[RAGL-X]",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        }
+    },
+    {
+        "date": "2021-02-23 22:05:15",
+        "map": "Annihilate[RAGL-X]",
+        "p0": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        },
+        "p1": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        }
+    },
+    {
+        "date": "2021-02-23 23:14:49",
+        "map": "Devils Marsh[RAGL-X]",
+        "p0": {
+            "name": "i like men",
+            "url": "/player/10757?period=all"
+        },
+        "p1": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        }
+    },
+    {
+        "date": "2021-02-23 23:24:40",
+        "map": "Amsterdamned[RAGL-X]",
+        "p0": {
+            "name": "i like men",
+            "url": "/player/10757?period=all"
+        },
+        "p1": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        }
+    },
+    {
+        "date": "2021-02-27 19:23:26",
+        "map": "Timian[RAGL-X]",
+        "p0": {
+            "name": "Pinkthoth",
+            "url": "/player/11705?period=all"
+        },
+        "p1": {
+            "name": "Ekanim",
+            "url": "/player/13710?period=all"
+        }
+    },
+    {
+        "date": "2021-02-27 19:33:42",
+        "map": "Amsterdamned[RAGL-X]",
+        "p0": {
+            "name": "Pinkthoth",
+            "url": "/player/11705?period=all"
+        },
+        "p1": {
+            "name": "Ekanim",
+            "url": "/player/13710?period=all"
+        }
+    },
+    {
+        "date": "2021-02-27 20:03:58",
+        "map": "Amsterdamned[RAGL-X]",
+        "p0": {
+            "name": "vvoj",
+            "url": "/player/10569?period=all"
+        },
+        "p1": {
+            "name": "Ekanim",
+            "url": "/player/13710?period=all"
+        }
+    },
+    {
+        "date": "2021-02-27 20:19:33",
+        "map": "Polemos[RAGL-X]",
+        "p0": {
+            "name": "vvoj",
+            "url": "/player/10569?period=all"
+        },
+        "p1": {
+            "name": "Ekanim",
+            "url": "/player/13710?period=all"
+        }
+    },
+    {
+        "date": "2021-02-28 21:29:18",
+        "map": "Off My Lawn, Punks ![RAGL-X]",
+        "p0": {
+            "name": "Kernel Panic",
+            "url": "/player/7299?period=all"
+        },
+        "p1": {
+            "name": "Ekanim",
+            "url": "/player/13710?period=all"
+        }
+    },
+    {
+        "date": "2021-02-28 21:42:27",
+        "map": "Amsterdamned[RAGL-X]",
+        "p0": {
+            "name": "Ekanim",
+            "url": "/player/13710?period=all"
+        },
+        "p1": {
+            "name": "Kernel Panic",
+            "url": "/player/7299?period=all"
+        }
+    },
+    {
+        "date": "2021-03-04 21:44:44",
+        "map": "Annihilate[RAGL-X]",
+        "p0": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2021-03-04 21:53:37",
+        "map": "Darkside Aftermath[RAGL-X]",
+        "p0": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2021-03-05 23:04:44",
+        "map": "Amsterdamned[RAGL-X]",
+        "p0": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2021-03-05 23:14:31",
+        "map": "Annihilate[RAGL-X]",
+        "p0": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2021-03-06 11:50:09",
+        "map": "Amsterdamned[RAGL-X]",
+        "p0": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2021-03-06 12:00:19",
+        "map": "Winding Woods[RAGL-X]",
+        "p0": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        },
+        "p1": {
+            "name": "FiveAces",
+            "url": "/player/4527?period=all"
+        }
+    },
+    {
+        "date": "2021-03-06 17:06:18",
+        "map": "Annihilate[RAGL-X]",
+        "p0": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2021-03-06 17:19:31",
+        "map": "Winding Woods[RAGL-X]",
+        "p0": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        },
+        "p1": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        }
+    },
+    {
+        "date": "2021-03-06 17:52:37",
+        "map": "Behind The Curtain[RAGL-X]",
+        "p0": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2021-03-06 18:10:15",
+        "map": "Timian[RAGL-X]",
+        "p0": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        },
+        "p1": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        }
+    },
+    {
+        "date": "2021-03-06 18:33:03",
+        "map": "Amsterdamned[RAGL-X]",
+        "p0": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        },
+        "p1": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        }
+    },
+    {
+        "date": "2021-03-06 18:46:16",
+        "map": "Annihilate[RAGL-X]",
+        "p0": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        },
+        "p1": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        }
+    },
+    {
+        "date": "2021-03-06 18:54:33",
+        "map": "Off My Lawn, Punks ![RAGL-X]",
+        "p0": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        },
+        "p1": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        }
+    },
+    {
+        "date": "2021-03-06 19:07:29",
+        "map": "Amsterdamned[RAGL-X]",
+        "p0": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        },
+        "p1": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        }
+    },
+    {
+        "date": "2021-03-10 16:09:18",
+        "map": "Darkside Aftermath[RAGL-X]",
+        "p0": {
+            "name": "Nilhall",
+            "url": "/player/7714?period=all"
+        },
+        "p1": {
+            "name": "Oafa",
+            "url": "/player/12964?period=all"
+        }
+    },
+    {
+        "date": "2021-03-10 16:27:20",
+        "map": "Amsterdamned[RAGL-X]",
+        "p0": {
+            "name": "Oafa",
+            "url": "/player/12964?period=all"
+        },
+        "p1": {
+            "name": "Nilhall",
+            "url": "/player/7714?period=all"
+        }
+    },
+    {
+        "date": "2021-03-10 16:40:07",
+        "map": "Amsterdamned[RAGL-X]",
+        "p0": {
+            "name": "vvoj",
+            "url": "/player/10569?period=all"
+        },
+        "p1": {
+            "name": "Nilhall",
+            "url": "/player/7714?period=all"
+        }
+    },
+    {
+        "date": "2021-03-10 16:49:46",
+        "map": "Pitfight[RAGL-X]",
+        "p0": {
+            "name": "vvoj",
+            "url": "/player/10569?period=all"
+        },
+        "p1": {
+            "name": "Nilhall",
+            "url": "/player/7714?period=all"
+        }
+    },
+    {
+        "date": "2021-03-10 17:04:21",
+        "map": "Amsterdamned[RAGL-X]",
+        "p0": {
+            "name": "vvoj",
+            "url": "/player/10569?period=all"
+        },
+        "p1": {
+            "name": "Oafa",
+            "url": "/player/12964?period=all"
+        }
+    },
+    {
+        "date": "2021-03-10 17:14:25",
+        "map": "Darkside Aftermath[RAGL-X]",
+        "p0": {
+            "name": "Oafa",
+            "url": "/player/12964?period=all"
+        },
+        "p1": {
+            "name": "vvoj",
+            "url": "/player/10569?period=all"
+        }
+    },
+    {
+        "date": "2021-03-10 18:13:12",
+        "map": "Amsterdamned[RAGL-X]",
+        "p0": {
+            "name": "Ekanim",
+            "url": "/player/13710?period=all"
+        },
+        "p1": {
+            "name": "Nilhall",
+            "url": "/player/7714?period=all"
+        }
+    },
+    {
+        "date": "2021-03-10 18:29:46",
+        "map": "Off My Lawn, Punks ![RAGL-X]",
+        "p0": {
+            "name": "Ekanim",
+            "url": "/player/13710?period=all"
+        },
+        "p1": {
+            "name": "Nilhall",
+            "url": "/player/7714?period=all"
+        }
+    },
+    {
+        "date": "2021-03-11 21:46:46",
+        "map": "Behind The Curtain[RAGL-X]",
+        "p0": {
+            "name": "Ekanim",
+            "url": "/player/13710?period=all"
+        },
+        "p1": {
+            "name": "Oafa",
+            "url": "/player/12964?period=all"
+        }
+    },
+    {
+        "date": "2021-03-11 21:59:40",
+        "map": "Amsterdamned[RAGL-X]",
+        "p0": {
+            "name": "Ekanim",
+            "url": "/player/13710?period=all"
+        },
+        "p1": {
+            "name": "Oafa",
+            "url": "/player/12964?period=all"
+        }
+    },
+    {
+        "date": "2021-03-12 15:27:15",
+        "map": "Annihilate[RAGL-X]",
+        "p0": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        },
+        "p1": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        }
+    },
+    {
+        "date": "2021-03-12 15:52:39",
+        "map": "Winding Woods[RAGL-X]",
+        "p0": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2021-03-12 22:27:43",
+        "map": "Annihilate[RAGL-X]",
+        "p0": {
+            "name": "Ekanim",
+            "url": "/player/13710?period=all"
+        },
+        "p1": {
+            "name": "Kaution",
+            "url": "/player/11855?period=all"
+        }
+    },
+    {
+        "date": "2021-03-12 22:51:59",
+        "map": "Amsterdamned[RAGL-X]",
+        "p0": {
+            "name": "Ekanim",
+            "url": "/player/13710?period=all"
+        },
+        "p1": {
+            "name": "Kaution",
+            "url": "/player/11855?period=all"
+        }
+    },
+    {
+        "date": "2021-03-14 13:20:00",
+        "map": "Winding Woods[RAGL-X]",
+        "p0": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        },
+        "p1": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        }
+    },
+    {
+        "date": "2021-03-14 13:41:52",
+        "map": "Nomad[RAGL-X]",
+        "p0": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        },
+        "p1": {
+            "name": "Sigil",
+            "url": "/player/8869?period=all"
+        }
+    },
+    {
+        "date": "2021-03-14 20:01:21",
+        "map": "Devils Marsh[RAGL-X]",
+        "p0": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        },
+        "p1": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        }
+    },
+    {
+        "date": "2021-03-14 20:29:02",
+        "map": "Nomad[RAGL-X]",
+        "p0": {
+            "name": "Blackened",
+            "url": "/player/6430?period=all"
+        },
+        "p1": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        }
+    },
+    {
+        "date": "2021-03-15 11:29:20",
+        "map": "Winding Woods[RAGL-X]",
+        "p0": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        },
+        "p1": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        }
+    },
+    {
+        "date": "2021-03-15 11:49:43",
+        "map": "Amsterdamned[RAGL-X]",
+        "p0": {
+            "name": "KSK_Nico",
+            "url": "/player/7644?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2021-03-19 19:32:26",
+        "map": "Timian[RAGL-X]",
+        "p0": {
+            "name": "Pinkthoth",
+            "url": "/player/11705?period=all"
+        },
+        "p1": {
+            "name": "Goremented",
+            "url": "/player/11435?period=all"
+        }
+    },
+    {
+        "date": "2021-03-19 19:40:27",
+        "map": "Amsterdamned[RAGL-X]",
+        "p0": {
+            "name": "Goremented",
+            "url": "/player/11435?period=all"
+        },
+        "p1": {
+            "name": "Pinkthoth",
+            "url": "/player/11705?period=all"
+        }
+    },
+    {
+        "date": "2021-03-19 20:04:09",
+        "map": "Devils Marsh[RAGL-X]",
+        "p0": {
+            "name": "Goremented",
+            "url": "/player/11435?period=all"
+        },
+        "p1": {
+            "name": "Pinkthoth",
+            "url": "/player/11705?period=all"
+        }
+    },
+    {
+        "date": "2021-03-20 15:22:24",
+        "map": "Darkside Aftermath[RAGL-X]",
+        "p0": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        },
+        "p1": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        }
+    },
+    {
+        "date": "2021-03-20 15:40:57",
+        "map": "Winding Woods[RAGL-X]",
+        "p0": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2021-03-20 15:57:44",
+        "map": "Devils Marsh[RAGL-X]",
+        "p0": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2021-03-27 12:07:58",
+        "map": "Amsterdamned[RAGL-X]",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2021-03-27 12:20:50",
+        "map": "Pitfight[RAGL-X]",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2021-03-27 12:36:19",
+        "map": "Winding Woods[RAGL-X]",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2021-03-28 19:31:08",
+        "map": "Amsterdamned[RAGL-X]",
+        "p0": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        },
+        "p1": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        }
+    },
+    {
+        "date": "2021-03-28 20:04:55",
+        "map": "Annihilate[RAGL-X]",
+        "p0": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        },
+        "p1": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        }
+    },
+    {
+        "date": "2021-03-28 20:21:39",
+        "map": "Nomad[RAGL-X]",
+        "p0": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        },
+        "p1": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        }
+    },
+    {
+        "date": "2021-03-28 20:42:55",
+        "map": "Winding Woods[RAGL-X]",
+        "p0": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        },
+        "p1": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        }
+    },
+    {
+        "date": "2021-03-28 21:09:33",
+        "map": "Timian[RAGL-X]",
+        "p0": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        },
+        "p1": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        }
+    },
+    {
+        "date": "2021-03-30 19:50:57",
+        "map": "Timian[RAGL-X]",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        }
+    },
+    {
+        "date": "2021-03-30 20:04:42",
+        "map": "Annihilate[RAGL-X]",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        }
+    },
+    {
+        "date": "2021-03-30 20:20:27",
+        "map": "Darkside Aftermath[RAGL-X]",
+        "p0": {
+            "name": "goat",
+            "url": "/player/9599?period=all"
+        },
+        "p1": {
+            "name": "Mr Cloudy",
+            "url": "/player/6771?period=all"
+        }
+    },
+    {
+        "date": "2021-04-10 13:32:48",
+        "map": "Timian[RAGL-X]",
+        "p0": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2021-04-10 13:52:59",
+        "map": "Darkside Aftermath[RAGL-X]",
+        "p0": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        },
+        "p1": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        }
+    },
+    {
+        "date": "2021-04-10 14:17:36",
+        "map": "Nomad[RAGL-X]",
+        "p0": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    },
+    {
+        "date": "2021-04-10 14:36:25",
+        "map": "Winding Woods[RAGL-X]",
+        "p0": {
+            "name": "Upps",
+            "url": "/player/7304?period=all"
+        },
+        "p1": {
+            "name": "anjew",
+            "url": "/player/3952?period=all"
+        }
+    }
+]
