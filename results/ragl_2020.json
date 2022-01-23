@@ -4,11 +4,11 @@
         "map": "Agita RAGL S9",
         "p0": {
             "name": "Icesinithol",
-            "url": "/player/7344?period=all"
+            "id": 7344
         },
         "p1": {
             "name": "spetsnaz84",
-            "url": "/player/6881?period=all"
+            "id": 6881
         }
     },
     {
@@ -16,11 +16,11 @@
         "map": "Dual Cold Front RAGL S9",
         "p0": {
             "name": "Icesinithol",
-            "url": "/player/7344?period=all"
+            "id": 7344
         },
         "p1": {
             "name": "spetsnaz84",
-            "url": "/player/6881?period=all"
+            "id": 6881
         }
     },
     {
@@ -28,11 +28,11 @@
         "map": "Agita RAGL S9",
         "p0": {
             "name": "SinJul",
-            "url": "/player/9877?period=all"
+            "id": 9877
         },
         "p1": {
             "name": "Nilhall",
-            "url": "/player/7714?period=all"
+            "id": 7714
         }
     },
     {
@@ -40,11 +40,11 @@
         "map": "Three and a half woods RAGL S9",
         "p0": {
             "name": "SinJul",
-            "url": "/player/9877?period=all"
+            "id": 9877
         },
         "p1": {
             "name": "Nilhall",
-            "url": "/player/7714?period=all"
+            "id": 7714
         }
     },
     {
@@ -52,11 +52,11 @@
         "map": "Trail of Thought RAGL S9",
         "p0": {
             "name": "SinJul",
-            "url": "/player/9877?period=all"
+            "id": 9877
         },
         "p1": {
             "name": "TTTPPP",
-            "url": "/player/7387?period=all"
+            "id": 7387
         }
     },
     {
@@ -64,11 +64,11 @@
         "map": "Three and a half woods RAGL S9",
         "p0": {
             "name": "SinJul",
-            "url": "/player/9877?period=all"
+            "id": 9877
         },
         "p1": {
             "name": "TTTPPP",
-            "url": "/player/7387?period=all"
+            "id": 7387
         }
     },
     {
@@ -76,11 +76,11 @@
         "map": "The Swamp RAGL S9",
         "p0": {
             "name": "Mr Cloudy",
-            "url": "/player/6771?period=all"
+            "id": 6771
         },
         "p1": {
             "name": "JackoDerp",
-            "url": "/player/9342?period=all"
+            "id": 9342
         }
     },
     {
@@ -88,11 +88,11 @@
         "map": "Sonora RAGL S9",
         "p0": {
             "name": "Mr Cloudy",
-            "url": "/player/6771?period=all"
+            "id": 6771
         },
         "p1": {
             "name": "JackoDerp",
-            "url": "/player/9342?period=all"
+            "id": 9342
         }
     },
     {
@@ -100,11 +100,11 @@
         "map": "Shadowfiend II RAGL S9",
         "p0": {
             "name": "Duke Bones",
-            "url": "/player/11913?period=all"
+            "id": 11913
         },
         "p1": {
             "name": "TTTPPP",
-            "url": "/player/7387?period=all"
+            "id": 7387
         }
     },
     {
@@ -112,11 +112,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "TTTPPP",
-            "url": "/player/7387?period=all"
+            "id": 7387
         },
         "p1": {
             "name": "Duke Bones",
-            "url": "/player/11913?period=all"
+            "id": 11913
         }
     },
     {
@@ -124,11 +124,11 @@
         "map": "Agita RAGL S9",
         "p0": {
             "name": "toiletbreakbrb",
-            "url": "/player/9156?period=all"
+            "id": 9156
         },
         "p1": {
             "name": "spetsnaz84",
-            "url": "/player/6881?period=all"
+            "id": 6881
         }
     },
     {
@@ -136,11 +136,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "toiletbreakbrb",
-            "url": "/player/9156?period=all"
+            "id": 9156
         },
         "p1": {
             "name": "spetsnaz84",
-            "url": "/player/6881?period=all"
+            "id": 6881
         }
     },
     {
@@ -148,11 +148,11 @@
         "map": "The Swamp RAGL S9",
         "p0": {
             "name": "PieChild",
-            "url": "/player/8894?period=all"
+            "id": 8894
         },
         "p1": {
             "name": "Goremented",
-            "url": "/player/11435?period=all"
+            "id": 11435
         }
     },
     {
@@ -160,11 +160,11 @@
         "map": "Agita RAGL S9",
         "p0": {
             "name": "PieChild",
-            "url": "/player/8894?period=all"
+            "id": 8894
         },
         "p1": {
             "name": "Goremented",
-            "url": "/player/11435?period=all"
+            "id": 11435
         }
     },
     {
@@ -172,11 +172,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "SinJul",
-            "url": "/player/9877?period=all"
+            "id": 9877
         },
         "p1": {
             "name": "ioverthoughtthis",
-            "url": "/player/9965?period=all"
+            "id": 9965
         }
     },
     {
@@ -184,11 +184,11 @@
         "map": "Dual Cold Front RAGL S9",
         "p0": {
             "name": "SinJul",
-            "url": "/player/9877?period=all"
+            "id": 9877
         },
         "p1": {
             "name": "ioverthoughtthis",
-            "url": "/player/9965?period=all"
+            "id": 9965
         }
     },
     {
@@ -196,11 +196,11 @@
         "map": "Agita RAGL S9",
         "p0": {
             "name": "morkel",
-            "url": "/player/10747?period=all"
+            "id": 10747
         },
         "p1": {
             "name": "Mo",
-            "url": "/player/5292?period=all"
+            "id": 5292
         }
     },
     {
@@ -208,11 +208,11 @@
         "map": "Teared Strait RAGL S9",
         "p0": {
             "name": "morkel",
-            "url": "/player/10747?period=all"
+            "id": 10747
         },
         "p1": {
             "name": "Mo",
-            "url": "/player/5292?period=all"
+            "id": 5292
         }
     },
     {
@@ -220,11 +220,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "SinJul",
-            "url": "/player/9877?period=all"
+            "id": 9877
         },
         "p1": {
             "name": "Duke Bones",
-            "url": "/player/11913?period=all"
+            "id": 11913
         }
     },
     {
@@ -232,11 +232,11 @@
         "map": "Wetlands RAGL S9",
         "p0": {
             "name": "SinJul",
-            "url": "/player/9877?period=all"
+            "id": 9877
         },
         "p1": {
             "name": "Duke Bones",
-            "url": "/player/11913?period=all"
+            "id": 11913
         }
     },
     {
@@ -244,11 +244,11 @@
         "map": "Three and a half woods RAGL S9",
         "p0": {
             "name": "Sigil",
-            "url": "/player/8869?period=all"
+            "id": 8869
         },
         "p1": {
             "name": "DodoBirb",
-            "url": "/player/9249?period=all"
+            "id": 9249
         }
     },
     {
@@ -256,11 +256,11 @@
         "map": "Shadowfiend II RAGL S9",
         "p0": {
             "name": "Sigil",
-            "url": "/player/8869?period=all"
+            "id": 8869
         },
         "p1": {
             "name": "DodoBirb",
-            "url": "/player/9249?period=all"
+            "id": 9249
         }
     },
     {
@@ -268,11 +268,11 @@
         "map": "Shadowfiend II RAGL S9",
         "p0": {
             "name": "SarahSicaria",
-            "url": "/player/8031?period=all"
+            "id": 8031
         },
         "p1": {
             "name": "Nilhall",
-            "url": "/player/7714?period=all"
+            "id": 7714
         }
     },
     {
@@ -280,11 +280,11 @@
         "map": "Teared Strait RAGL S9",
         "p0": {
             "name": "SarahSicaria",
-            "url": "/player/8031?period=all"
+            "id": 8031
         },
         "p1": {
             "name": "Nilhall",
-            "url": "/player/7714?period=all"
+            "id": 7714
         }
     },
     {
@@ -292,11 +292,11 @@
         "map": "Dual Cold Front RAGL S9",
         "p0": {
             "name": "TiTo",
-            "url": "/player/7813?period=all"
+            "id": 7813
         },
         "p1": {
             "name": "Mo",
-            "url": "/player/5292?period=all"
+            "id": 5292
         }
     },
     {
@@ -304,11 +304,11 @@
         "map": "Shadowfiend II RAGL S9",
         "p0": {
             "name": "TiTo",
-            "url": "/player/7813?period=all"
+            "id": 7813
         },
         "p1": {
             "name": "Mo",
-            "url": "/player/5292?period=all"
+            "id": 5292
         }
     },
     {
@@ -316,11 +316,11 @@
         "map": "Agita RAGL S9",
         "p0": {
             "name": "Yara",
-            "url": "/player/8790?period=all"
+            "id": 8790
         },
         "p1": {
             "name": "Kernel Panic",
-            "url": "/player/7299?period=all"
+            "id": 7299
         }
     },
     {
@@ -328,11 +328,11 @@
         "map": "Teared Strait RAGL S9",
         "p0": {
             "name": "Yara",
-            "url": "/player/8790?period=all"
+            "id": 8790
         },
         "p1": {
             "name": "Kernel Panic",
-            "url": "/player/7299?period=all"
+            "id": 7299
         }
     },
     {
@@ -340,11 +340,11 @@
         "map": "Dual Cold Front RAGL S9",
         "p0": {
             "name": "Yara",
-            "url": "/player/8790?period=all"
+            "id": 8790
         },
         "p1": {
             "name": "Zaqzorn",
-            "url": "/player/6265?period=all"
+            "id": 6265
         }
     },
     {
@@ -352,11 +352,11 @@
         "map": "Agita RAGL S9",
         "p0": {
             "name": "Yara",
-            "url": "/player/8790?period=all"
+            "id": 8790
         },
         "p1": {
             "name": "Zaqzorn",
-            "url": "/player/6265?period=all"
+            "id": 6265
         }
     },
     {
@@ -364,11 +364,11 @@
         "map": "Mountain Ridge Redux RAGL S9",
         "p0": {
             "name": "KSK_Nico",
-            "url": "/player/7644?period=all"
+            "id": 7644
         },
         "p1": {
             "name": "Zaqzorn",
-            "url": "/player/6265?period=all"
+            "id": 6265
         }
     },
     {
@@ -376,11 +376,11 @@
         "map": "The Swamp RAGL S9",
         "p0": {
             "name": "KSK_Nico",
-            "url": "/player/7644?period=all"
+            "id": 7644
         },
         "p1": {
             "name": "Zaqzorn",
-            "url": "/player/6265?period=all"
+            "id": 6265
         }
     },
     {
@@ -388,11 +388,11 @@
         "map": "Sonora RAGL S9",
         "p0": {
             "name": "DodoBirb",
-            "url": "/player/9249?period=all"
+            "id": 9249
         },
         "p1": {
             "name": "TTTPPP",
-            "url": "/player/7387?period=all"
+            "id": 7387
         }
     },
     {
@@ -400,11 +400,11 @@
         "map": "Shadowfiend II RAGL S9",
         "p0": {
             "name": "TTTPPP",
-            "url": "/player/7387?period=all"
+            "id": 7387
         },
         "p1": {
             "name": "DodoBirb",
-            "url": "/player/9249?period=all"
+            "id": 9249
         }
     },
     {
@@ -412,11 +412,11 @@
         "map": "Wetlands RAGL S9",
         "p0": {
             "name": "ROCKhardFISTnips",
-            "url": "/player/8860?period=all"
+            "id": 8860
         },
         "p1": {
             "name": "KSK_Nico",
-            "url": "/player/7644?period=all"
+            "id": 7644
         }
     },
     {
@@ -424,11 +424,11 @@
         "map": "Shadowfiend II RAGL S9",
         "p0": {
             "name": "ROCKhardFISTnips",
-            "url": "/player/8860?period=all"
+            "id": 8860
         },
         "p1": {
             "name": "KSK_Nico",
-            "url": "/player/7644?period=all"
+            "id": 7644
         }
     },
     {
@@ -436,11 +436,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "spetsnaz84",
-            "url": "/player/6881?period=all"
+            "id": 6881
         },
         "p1": {
             "name": "TTTPPP",
-            "url": "/player/7387?period=all"
+            "id": 7387
         }
     },
     {
@@ -448,11 +448,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "spetsnaz84",
-            "url": "/player/6881?period=all"
+            "id": 6881
         },
         "p1": {
             "name": "TTTPPP",
-            "url": "/player/7387?period=all"
+            "id": 7387
         }
     },
     {
@@ -460,11 +460,11 @@
         "map": "Wetlands RAGL S9",
         "p0": {
             "name": "toiletbreakbrb",
-            "url": "/player/9156?period=all"
+            "id": 9156
         },
         "p1": {
             "name": "Duke Bones",
-            "url": "/player/11913?period=all"
+            "id": 11913
         }
     },
     {
@@ -472,11 +472,11 @@
         "map": "Dual Cold Front RAGL S9",
         "p0": {
             "name": "toiletbreakbrb",
-            "url": "/player/9156?period=all"
+            "id": 9156
         },
         "p1": {
             "name": "Duke Bones",
-            "url": "/player/11913?period=all"
+            "id": 11913
         }
     },
     {
@@ -484,11 +484,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "Kernel Panic",
-            "url": "/player/7299?period=all"
+            "id": 7299
         },
         "p1": {
             "name": "ioverthoughtthis",
-            "url": "/player/9965?period=all"
+            "id": 9965
         }
     },
     {
@@ -496,11 +496,11 @@
         "map": "Dual Cold Front RAGL S9",
         "p0": {
             "name": "Kernel Panic",
-            "url": "/player/7299?period=all"
+            "id": 7299
         },
         "p1": {
             "name": "ioverthoughtthis",
-            "url": "/player/9965?period=all"
+            "id": 9965
         }
     },
     {
@@ -508,11 +508,11 @@
         "map": "Dual Cold Front RAGL S9",
         "p0": {
             "name": "spetsnaz84",
-            "url": "/player/6881?period=all"
+            "id": 6881
         },
         "p1": {
             "name": "ioverthoughtthis",
-            "url": "/player/9965?period=all"
+            "id": 9965
         }
     },
     {
@@ -520,11 +520,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "spetsnaz84",
-            "url": "/player/6881?period=all"
+            "id": 6881
         },
         "p1": {
             "name": "ioverthoughtthis",
-            "url": "/player/9965?period=all"
+            "id": 9965
         }
     },
     {
@@ -532,11 +532,11 @@
         "map": "Wetlands RAGL S9",
         "p0": {
             "name": "Yara",
-            "url": "/player/8790?period=all"
+            "id": 8790
         },
         "p1": {
             "name": "SinJul",
-            "url": "/player/9877?period=all"
+            "id": 9877
         }
     },
     {
@@ -544,11 +544,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "Yara",
-            "url": "/player/8790?period=all"
+            "id": 8790
         },
         "p1": {
             "name": "SinJul",
-            "url": "/player/9877?period=all"
+            "id": 9877
         }
     },
     {
@@ -556,11 +556,11 @@
         "map": "Trail of Thought RAGL S9",
         "p0": {
             "name": "Sigil",
-            "url": "/player/8869?period=all"
+            "id": 8869
         },
         "p1": {
             "name": "CottonTheButton",
-            "url": "/player/12927?period=all"
+            "id": 12927
         }
     },
     {
@@ -568,11 +568,11 @@
         "map": "The Swamp RAGL S9",
         "p0": {
             "name": "Sigil",
-            "url": "/player/8869?period=all"
+            "id": 8869
         },
         "p1": {
             "name": "CottonTheButton",
-            "url": "/player/12927?period=all"
+            "id": 12927
         }
     },
     {
@@ -580,11 +580,11 @@
         "map": "Wetlands RAGL S9",
         "p0": {
             "name": "Yara",
-            "url": "/player/8790?period=all"
+            "id": 8790
         },
         "p1": {
             "name": "Duke Bones",
-            "url": "/player/11913?period=all"
+            "id": 11913
         }
     },
     {
@@ -592,11 +592,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "Yara",
-            "url": "/player/8790?period=all"
+            "id": 8790
         },
         "p1": {
             "name": "Duke Bones",
-            "url": "/player/11913?period=all"
+            "id": 11913
         }
     },
     {
@@ -604,11 +604,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "SinJul",
-            "url": "/player/9877?period=all"
+            "id": 9877
         },
         "p1": {
             "name": "Kernel Panic",
-            "url": "/player/7299?period=all"
+            "id": 7299
         }
     },
     {
@@ -616,11 +616,11 @@
         "map": "Agita RAGL S9",
         "p0": {
             "name": "SinJul",
-            "url": "/player/9877?period=all"
+            "id": 9877
         },
         "p1": {
             "name": "Kernel Panic",
-            "url": "/player/7299?period=all"
+            "id": 7299
         }
     },
     {
@@ -628,11 +628,11 @@
         "map": "Three and a half woods RAGL S9",
         "p0": {
             "name": "i like men",
-            "url": "/player/10757?period=all"
+            "id": 10757
         },
         "p1": {
             "name": "morkel",
-            "url": "/player/10747?period=all"
+            "id": 10747
         }
     },
     {
@@ -640,11 +640,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "i like men",
-            "url": "/player/10757?period=all"
+            "id": 10757
         },
         "p1": {
             "name": "morkel",
-            "url": "/player/10747?period=all"
+            "id": 10747
         }
     },
     {
@@ -652,11 +652,11 @@
         "map": "Wetlands RAGL S9",
         "p0": {
             "name": "Yara",
-            "url": "/player/8790?period=all"
+            "id": 8790
         },
         "p1": {
             "name": "Nilhall",
-            "url": "/player/7714?period=all"
+            "id": 7714
         }
     },
     {
@@ -664,11 +664,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "Nilhall",
-            "url": "/player/7714?period=all"
+            "id": 7714
         },
         "p1": {
             "name": "Yara",
-            "url": "/player/8790?period=all"
+            "id": 8790
         }
     },
     {
@@ -676,11 +676,11 @@
         "map": "Agita RAGL S9",
         "p0": {
             "name": "Yara",
-            "url": "/player/8790?period=all"
+            "id": 8790
         },
         "p1": {
             "name": "TTTPPP",
-            "url": "/player/7387?period=all"
+            "id": 7387
         }
     },
     {
@@ -688,11 +688,11 @@
         "map": "Wetlands RAGL S9",
         "p0": {
             "name": "Yara",
-            "url": "/player/8790?period=all"
+            "id": 8790
         },
         "p1": {
             "name": "TTTPPP",
-            "url": "/player/7387?period=all"
+            "id": 7387
         }
     },
     {
@@ -700,11 +700,11 @@
         "map": "Three and a half woods RAGL S9",
         "p0": {
             "name": "Sigil",
-            "url": "/player/8869?period=all"
+            "id": 8869
         },
         "p1": {
             "name": "ROCKhardFISTnips",
-            "url": "/player/8860?period=all"
+            "id": 8860
         }
     },
     {
@@ -712,11 +712,11 @@
         "map": "Teared Strait RAGL S9",
         "p0": {
             "name": "FiveAces",
-            "url": "/player/4527?period=all"
+            "id": 4527
         },
         "p1": {
             "name": "Mo",
-            "url": "/player/5292?period=all"
+            "id": 5292
         }
     },
     {
@@ -724,11 +724,11 @@
         "map": "Agita RAGL S9",
         "p0": {
             "name": "FiveAces",
-            "url": "/player/4527?period=all"
+            "id": 4527
         },
         "p1": {
             "name": "Mo",
-            "url": "/player/5292?period=all"
+            "id": 5292
         }
     },
     {
@@ -736,11 +736,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "Goremented",
-            "url": "/player/11435?period=all"
+            "id": 11435
         },
         "p1": {
             "name": "Nilhall",
-            "url": "/player/7714?period=all"
+            "id": 7714
         }
     },
     {
@@ -748,11 +748,11 @@
         "map": "The Swamp RAGL S9",
         "p0": {
             "name": "Goremented",
-            "url": "/player/11435?period=all"
+            "id": 11435
         },
         "p1": {
             "name": "Nilhall",
-            "url": "/player/7714?period=all"
+            "id": 7714
         }
     },
     {
@@ -760,11 +760,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "PieChild",
-            "url": "/player/8894?period=all"
+            "id": 8894
         },
         "p1": {
             "name": "Zaqzorn",
-            "url": "/player/6265?period=all"
+            "id": 6265
         }
     },
     {
@@ -772,11 +772,11 @@
         "map": "The Swamp RAGL S9",
         "p0": {
             "name": "PieChild",
-            "url": "/player/8894?period=all"
+            "id": 8894
         },
         "p1": {
             "name": "Zaqzorn",
-            "url": "/player/6265?period=all"
+            "id": 6265
         }
     },
     {
@@ -784,11 +784,11 @@
         "map": "Wetlands RAGL S9",
         "p0": {
             "name": "i like men",
-            "url": "/player/10757?period=all"
+            "id": 10757
         },
         "p1": {
             "name": "TiTo",
-            "url": "/player/7813?period=all"
+            "id": 7813
         }
     },
     {
@@ -796,11 +796,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "i like men",
-            "url": "/player/10757?period=all"
+            "id": 10757
         },
         "p1": {
             "name": "TiTo",
-            "url": "/player/7813?period=all"
+            "id": 7813
         }
     },
     {
@@ -808,11 +808,11 @@
         "map": "Three and a half woods RAGL S9",
         "p0": {
             "name": "Sigil",
-            "url": "/player/8869?period=all"
+            "id": 8869
         },
         "p1": {
             "name": "Goremented",
-            "url": "/player/11435?period=all"
+            "id": 11435
         }
     },
     {
@@ -820,11 +820,11 @@
         "map": "The Swamp RAGL S9",
         "p0": {
             "name": "Sigil",
-            "url": "/player/8869?period=all"
+            "id": 8869
         },
         "p1": {
             "name": "Goremented",
-            "url": "/player/11435?period=all"
+            "id": 11435
         }
     },
     {
@@ -832,11 +832,11 @@
         "map": "The Swamp RAGL S9",
         "p0": {
             "name": "Icesinithol",
-            "url": "/player/7344?period=all"
+            "id": 7344
         },
         "p1": {
             "name": "CottonTheButton",
-            "url": "/player/12927?period=all"
+            "id": 12927
         }
     },
     {
@@ -844,11 +844,11 @@
         "map": "Dual Cold Front RAGL S9",
         "p0": {
             "name": "Icesinithol",
-            "url": "/player/7344?period=all"
+            "id": 7344
         },
         "p1": {
             "name": "CottonTheButton",
-            "url": "/player/12927?period=all"
+            "id": 12927
         }
     },
     {
@@ -856,11 +856,11 @@
         "map": "The Swamp RAGL S9",
         "p0": {
             "name": "goat",
-            "url": "/player/9599?period=all"
+            "id": 9599
         },
         "p1": {
             "name": "ZxGanon",
-            "url": "/player/6766?period=all"
+            "id": 6766
         }
     },
     {
@@ -868,11 +868,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "goat",
-            "url": "/player/9599?period=all"
+            "id": 9599
         },
         "p1": {
             "name": "ZxGanon",
-            "url": "/player/6766?period=all"
+            "id": 6766
         }
     },
     {
@@ -880,11 +880,11 @@
         "map": "Agita RAGL S9",
         "p0": {
             "name": "FiveAces",
-            "url": "/player/4527?period=all"
+            "id": 4527
         },
         "p1": {
             "name": "anjew",
-            "url": "/player/3952?period=all"
+            "id": 3952
         }
     },
     {
@@ -892,11 +892,11 @@
         "map": "Shadowfiend II RAGL S9",
         "p0": {
             "name": "anjew",
-            "url": "/player/3952?period=all"
+            "id": 3952
         },
         "p1": {
             "name": "FiveAces",
-            "url": "/player/4527?period=all"
+            "id": 4527
         }
     },
     {
@@ -904,11 +904,11 @@
         "map": "Agita RAGL S9",
         "p0": {
             "name": "ZxGanon",
-            "url": "/player/6766?period=all"
+            "id": 6766
         },
         "p1": {
             "name": "FiveAces",
-            "url": "/player/4527?period=all"
+            "id": 4527
         }
     },
     {
@@ -916,11 +916,11 @@
         "map": "Sonora RAGL S9",
         "p0": {
             "name": "Kernel Panic",
-            "url": "/player/7299?period=all"
+            "id": 7299
         },
         "p1": {
             "name": "Zaqzorn",
-            "url": "/player/6265?period=all"
+            "id": 6265
         }
     },
     {
@@ -928,11 +928,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "ZxGanon",
-            "url": "/player/6766?period=all"
+            "id": 6766
         },
         "p1": {
             "name": "FiveAces",
-            "url": "/player/4527?period=all"
+            "id": 4527
         }
     },
     {
@@ -940,11 +940,11 @@
         "map": "Dual Cold Front RAGL S9",
         "p0": {
             "name": "Zaqzorn",
-            "url": "/player/6265?period=all"
+            "id": 6265
         },
         "p1": {
             "name": "Kernel Panic",
-            "url": "/player/7299?period=all"
+            "id": 7299
         }
     },
     {
@@ -952,11 +952,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "ZxGanon",
-            "url": "/player/6766?period=all"
+            "id": 6766
         },
         "p1": {
             "name": "Punsho",
-            "url": "/player/7223?period=all"
+            "id": 7223
         }
     },
     {
@@ -964,11 +964,11 @@
         "map": "Dual Cold Front RAGL S9",
         "p0": {
             "name": "ZxGanon",
-            "url": "/player/6766?period=all"
+            "id": 6766
         },
         "p1": {
             "name": "Punsho",
-            "url": "/player/7223?period=all"
+            "id": 7223
         }
     },
     {
@@ -976,11 +976,11 @@
         "map": "Sonora RAGL S9",
         "p0": {
             "name": "Punsho",
-            "url": "/player/7223?period=all"
+            "id": 7223
         },
         "p1": {
             "name": "FiveAces",
-            "url": "/player/4527?period=all"
+            "id": 4527
         }
     },
     {
@@ -988,11 +988,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "ROCKhardFISTnips",
-            "url": "/player/8860?period=all"
+            "id": 8860
         },
         "p1": {
             "name": "Nilhall",
-            "url": "/player/7714?period=all"
+            "id": 7714
         }
     },
     {
@@ -1000,11 +1000,11 @@
         "map": "Teared Strait RAGL S9",
         "p0": {
             "name": "ROCKhardFISTnips",
-            "url": "/player/8860?period=all"
+            "id": 8860
         },
         "p1": {
             "name": "Nilhall",
-            "url": "/player/7714?period=all"
+            "id": 7714
         }
     },
     {
@@ -1012,11 +1012,11 @@
         "map": "Agita RAGL S9",
         "p0": {
             "name": "Punsho",
-            "url": "/player/7223?period=all"
+            "id": 7223
         },
         "p1": {
             "name": "FiveAces",
-            "url": "/player/4527?period=all"
+            "id": 4527
         }
     },
     {
@@ -1024,11 +1024,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "i like men",
-            "url": "/player/10757?period=all"
+            "id": 10757
         },
         "p1": {
             "name": "Upps",
-            "url": "/player/7304?period=all"
+            "id": 7304
         }
     },
     {
@@ -1036,11 +1036,11 @@
         "map": "Sonora RAGL S9",
         "p0": {
             "name": "Kernel Panic",
-            "url": "/player/7299?period=all"
+            "id": 7299
         },
         "p1": {
             "name": "spetsnaz84",
-            "url": "/player/6881?period=all"
+            "id": 6881
         }
     },
     {
@@ -1048,11 +1048,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "Kernel Panic",
-            "url": "/player/7299?period=all"
+            "id": 7299
         },
         "p1": {
             "name": "spetsnaz84",
-            "url": "/player/6881?period=all"
+            "id": 6881
         }
     },
     {
@@ -1060,11 +1060,11 @@
         "map": "Three and a half woods RAGL S9",
         "p0": {
             "name": "i like men",
-            "url": "/player/10757?period=all"
+            "id": 10757
         },
         "p1": {
             "name": "Upps",
-            "url": "/player/7304?period=all"
+            "id": 7304
         }
     },
     {
@@ -1072,11 +1072,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "ROCKhardFISTnips",
-            "url": "/player/8860?period=all"
+            "id": 8860
         },
         "p1": {
             "name": "Zaqzorn",
-            "url": "/player/6265?period=all"
+            "id": 6265
         }
     },
     {
@@ -1084,11 +1084,11 @@
         "map": "Dual Cold Front RAGL S9",
         "p0": {
             "name": "ROCKhardFISTnips",
-            "url": "/player/8860?period=all"
+            "id": 8860
         },
         "p1": {
             "name": "Zaqzorn",
-            "url": "/player/6265?period=all"
+            "id": 6265
         }
     },
     {
@@ -1096,11 +1096,11 @@
         "map": "Shadowfiend II RAGL S9",
         "p0": {
             "name": "ROCKhardFISTnips",
-            "url": "/player/8860?period=all"
+            "id": 8860
         },
         "p1": {
             "name": "Sigil",
-            "url": "/player/8869?period=all"
+            "id": 8869
         }
     },
     {
@@ -1108,11 +1108,11 @@
         "map": "Agita RAGL S9",
         "p0": {
             "name": "Goremented",
-            "url": "/player/11435?period=all"
+            "id": 11435
         },
         "p1": {
             "name": "Icesinithol",
-            "url": "/player/7344?period=all"
+            "id": 7344
         }
     },
     {
@@ -1120,11 +1120,11 @@
         "map": "Three and a half woods RAGL S9",
         "p0": {
             "name": "Yara",
-            "url": "/player/8790?period=all"
+            "id": 8790
         },
         "p1": {
             "name": "spetsnaz84",
-            "url": "/player/6881?period=all"
+            "id": 6881
         }
     },
     {
@@ -1132,11 +1132,11 @@
         "map": "Dual Cold Front RAGL S9",
         "p0": {
             "name": "Yara",
-            "url": "/player/8790?period=all"
+            "id": 8790
         },
         "p1": {
             "name": "spetsnaz84",
-            "url": "/player/6881?period=all"
+            "id": 6881
         }
     },
     {
@@ -1144,11 +1144,11 @@
         "map": "Three and a half woods RAGL S9",
         "p0": {
             "name": "Yara",
-            "url": "/player/8790?period=all"
+            "id": 8790
         },
         "p1": {
             "name": "Icesinithol",
-            "url": "/player/7344?period=all"
+            "id": 7344
         }
     },
     {
@@ -1156,11 +1156,11 @@
         "map": "Agita RAGL S9",
         "p0": {
             "name": "Yara",
-            "url": "/player/8790?period=all"
+            "id": 8790
         },
         "p1": {
             "name": "Icesinithol",
-            "url": "/player/7344?period=all"
+            "id": 7344
         }
     },
     {
@@ -1168,11 +1168,11 @@
         "map": "Three and a half woods RAGL S9",
         "p0": {
             "name": "Yara",
-            "url": "/player/8790?period=all"
+            "id": 8790
         },
         "p1": {
             "name": "ioverthoughtthis",
-            "url": "/player/9965?period=all"
+            "id": 9965
         }
     },
     {
@@ -1180,11 +1180,11 @@
         "map": "Dual Cold Front RAGL S9",
         "p0": {
             "name": "Yara",
-            "url": "/player/8790?period=all"
+            "id": 8790
         },
         "p1": {
             "name": "ioverthoughtthis",
-            "url": "/player/9965?period=all"
+            "id": 9965
         }
     },
     {
@@ -1192,11 +1192,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "ROCKhardFISTnips",
-            "url": "/player/8860?period=all"
+            "id": 8860
         },
         "p1": {
             "name": "Icesinithol",
-            "url": "/player/7344?period=all"
+            "id": 7344
         }
     },
     {
@@ -1204,11 +1204,11 @@
         "map": "Agita RAGL S9",
         "p0": {
             "name": "ROCKhardFISTnips",
-            "url": "/player/8860?period=all"
+            "id": 8860
         },
         "p1": {
             "name": "Icesinithol",
-            "url": "/player/7344?period=all"
+            "id": 7344
         }
     },
     {
@@ -1216,11 +1216,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "WhoCares",
-            "url": "/player/6723?period=all"
+            "id": 6723
         },
         "p1": {
             "name": "Upps",
-            "url": "/player/7304?period=all"
+            "id": 7304
         }
     },
     {
@@ -1228,11 +1228,11 @@
         "map": "Three and a half woods RAGL S9",
         "p0": {
             "name": "WhoCares",
-            "url": "/player/6723?period=all"
+            "id": 6723
         },
         "p1": {
             "name": "Upps",
-            "url": "/player/7304?period=all"
+            "id": 7304
         }
     },
     {
@@ -1240,11 +1240,11 @@
         "map": "Agita RAGL S9",
         "p0": {
             "name": "KSK_Nico",
-            "url": "/player/7644?period=all"
+            "id": 7644
         },
         "p1": {
             "name": "Nilhall",
-            "url": "/player/7714?period=all"
+            "id": 7714
         }
     },
     {
@@ -1252,11 +1252,11 @@
         "map": "Teared Strait RAGL S9",
         "p0": {
             "name": "KSK_Nico",
-            "url": "/player/7644?period=all"
+            "id": 7644
         },
         "p1": {
             "name": "Nilhall",
-            "url": "/player/7714?period=all"
+            "id": 7714
         }
     },
     {
@@ -1264,11 +1264,11 @@
         "map": "The Swamp RAGL S9",
         "p0": {
             "name": "goat",
-            "url": "/player/9599?period=all"
+            "id": 9599
         },
         "p1": {
             "name": "TiTo",
-            "url": "/player/7813?period=all"
+            "id": 7813
         }
     },
     {
@@ -1276,11 +1276,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "goat",
-            "url": "/player/9599?period=all"
+            "id": 9599
         },
         "p1": {
             "name": "TiTo",
-            "url": "/player/7813?period=all"
+            "id": 7813
         }
     },
     {
@@ -1288,11 +1288,11 @@
         "map": "Sonora RAGL S9",
         "p0": {
             "name": "Punsho",
-            "url": "/player/7223?period=all"
+            "id": 7223
         },
         "p1": {
             "name": "TiTo",
-            "url": "/player/7813?period=all"
+            "id": 7813
         }
     },
     {
@@ -1300,11 +1300,11 @@
         "map": "The Swamp RAGL S9",
         "p0": {
             "name": "Punsho",
-            "url": "/player/7223?period=all"
+            "id": 7223
         },
         "p1": {
             "name": "TiTo",
-            "url": "/player/7813?period=all"
+            "id": 7813
         }
     },
     {
@@ -1312,11 +1312,11 @@
         "map": "The Swamp RAGL S9",
         "p0": {
             "name": "Goremented",
-            "url": "/player/11435?period=all"
+            "id": 11435
         },
         "p1": {
             "name": "TTTPPP",
-            "url": "/player/7387?period=all"
+            "id": 7387
         }
     },
     {
@@ -1324,11 +1324,11 @@
         "map": "Teared Strait RAGL S9",
         "p0": {
             "name": "Goremented",
-            "url": "/player/11435?period=all"
+            "id": 11435
         },
         "p1": {
             "name": "TTTPPP",
-            "url": "/player/7387?period=all"
+            "id": 7387
         }
     },
     {
@@ -1336,11 +1336,11 @@
         "map": "Mountain Ridge Redux RAGL S9",
         "p0": {
             "name": "morkel",
-            "url": "/player/10747?period=all"
+            "id": 10747
         },
         "p1": {
             "name": "JackoDerp",
-            "url": "/player/9342?period=all"
+            "id": 9342
         }
     },
     {
@@ -1348,11 +1348,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "morkel",
-            "url": "/player/10747?period=all"
+            "id": 10747
         },
         "p1": {
             "name": "JackoDerp",
-            "url": "/player/9342?period=all"
+            "id": 9342
         }
     },
     {
@@ -1360,11 +1360,11 @@
         "map": "The Swamp RAGL S9",
         "p0": {
             "name": "JackoDerp",
-            "url": "/player/9342?period=all"
+            "id": 9342
         },
         "p1": {
             "name": "FiveAces",
-            "url": "/player/4527?period=all"
+            "id": 4527
         }
     },
     {
@@ -1372,11 +1372,11 @@
         "map": "Shadowfiend II RAGL S9",
         "p0": {
             "name": "FiveAces",
-            "url": "/player/4527?period=all"
+            "id": 4527
         },
         "p1": {
             "name": "JackoDerp",
-            "url": "/player/9342?period=all"
+            "id": 9342
         }
     },
     {
@@ -1384,11 +1384,11 @@
         "map": "Three and a half woods RAGL S9",
         "p0": {
             "name": "TTTPPP",
-            "url": "/player/7387?period=all"
+            "id": 7387
         },
         "p1": {
             "name": "lundiz",
-            "url": "/player/6974?period=all"
+            "id": 6974
         }
     },
     {
@@ -1396,11 +1396,11 @@
         "map": "Sonora RAGL S9",
         "p0": {
             "name": "lundiz",
-            "url": "/player/6974?period=all"
+            "id": 6974
         },
         "p1": {
             "name": "TTTPPP",
-            "url": "/player/7387?period=all"
+            "id": 7387
         }
     },
     {
@@ -1408,11 +1408,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "SinJul",
-            "url": "/player/9877?period=all"
+            "id": 9877
         },
         "p1": {
             "name": "DodoBirb",
-            "url": "/player/9249?period=all"
+            "id": 9249
         }
     },
     {
@@ -1420,11 +1420,11 @@
         "map": "Shadowfiend II RAGL S9",
         "p0": {
             "name": "SinJul",
-            "url": "/player/9877?period=all"
+            "id": 9877
         },
         "p1": {
             "name": "DodoBirb",
-            "url": "/player/9249?period=all"
+            "id": 9249
         }
     },
     {
@@ -1432,11 +1432,11 @@
         "map": "The Swamp RAGL S9",
         "p0": {
             "name": "PieChild",
-            "url": "/player/8894?period=all"
+            "id": 8894
         },
         "p1": {
             "name": "Nilhall",
-            "url": "/player/7714?period=all"
+            "id": 7714
         }
     },
     {
@@ -1444,11 +1444,11 @@
         "map": "Sonora RAGL S9",
         "p0": {
             "name": "SinJul",
-            "url": "/player/9877?period=all"
+            "id": 9877
         },
         "p1": {
             "name": "Zaqzorn",
-            "url": "/player/6265?period=all"
+            "id": 6265
         }
     },
     {
@@ -1456,11 +1456,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "Nilhall",
-            "url": "/player/7714?period=all"
+            "id": 7714
         },
         "p1": {
             "name": "PieChild",
-            "url": "/player/8894?period=all"
+            "id": 8894
         }
     },
     {
@@ -1468,11 +1468,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "SinJul",
-            "url": "/player/9877?period=all"
+            "id": 9877
         },
         "p1": {
             "name": "Zaqzorn",
-            "url": "/player/6265?period=all"
+            "id": 6265
         }
     },
     {
@@ -1480,11 +1480,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "lundiz",
-            "url": "/player/6974?period=all"
+            "id": 6974
         },
         "p1": {
             "name": "Nilhall",
-            "url": "/player/7714?period=all"
+            "id": 7714
         }
     },
     {
@@ -1492,11 +1492,11 @@
         "map": "Shadowfiend II RAGL S9",
         "p0": {
             "name": "lundiz",
-            "url": "/player/6974?period=all"
+            "id": 6974
         },
         "p1": {
             "name": "Nilhall",
-            "url": "/player/7714?period=all"
+            "id": 7714
         }
     },
     {
@@ -1504,11 +1504,11 @@
         "map": "Shadowfiend II RAGL S9",
         "p0": {
             "name": "Zaqzorn",
-            "url": "/player/6265?period=all"
+            "id": 6265
         },
         "p1": {
             "name": "Nilhall",
-            "url": "/player/7714?period=all"
+            "id": 7714
         }
     },
     {
@@ -1516,11 +1516,11 @@
         "map": "The Swamp RAGL S9",
         "p0": {
             "name": "Zaqzorn",
-            "url": "/player/6265?period=all"
+            "id": 6265
         },
         "p1": {
             "name": "Nilhall",
-            "url": "/player/7714?period=all"
+            "id": 7714
         }
     },
     {
@@ -1528,11 +1528,11 @@
         "map": "Wetlands RAGL S9",
         "p0": {
             "name": "WhoCares",
-            "url": "/player/6723?period=all"
+            "id": 6723
         },
         "p1": {
             "name": "Mr Cloudy",
-            "url": "/player/6771?period=all"
+            "id": 6771
         }
     },
     {
@@ -1540,11 +1540,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "Mr Cloudy",
-            "url": "/player/6771?period=all"
+            "id": 6771
         },
         "p1": {
             "name": "WhoCares",
-            "url": "/player/6723?period=all"
+            "id": 6723
         }
     },
     {
@@ -1552,11 +1552,11 @@
         "map": "Mountain Ridge Redux RAGL S9",
         "p0": {
             "name": "morkel",
-            "url": "/player/10747?period=all"
+            "id": 10747
         },
         "p1": {
             "name": "WhoCares",
-            "url": "/player/6723?period=all"
+            "id": 6723
         }
     },
     {
@@ -1564,11 +1564,11 @@
         "map": "Sonora RAGL S9",
         "p0": {
             "name": "Kernel Panic",
-            "url": "/player/7299?period=all"
+            "id": 7299
         },
         "p1": {
             "name": "Duke Bones",
-            "url": "/player/11913?period=all"
+            "id": 11913
         }
     },
     {
@@ -1576,11 +1576,11 @@
         "map": "Three and a half woods RAGL S9",
         "p0": {
             "name": "morkel",
-            "url": "/player/10747?period=all"
+            "id": 10747
         },
         "p1": {
             "name": "WhoCares",
-            "url": "/player/6723?period=all"
+            "id": 6723
         }
     },
     {
@@ -1588,11 +1588,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "Kernel Panic",
-            "url": "/player/7299?period=all"
+            "id": 7299
         },
         "p1": {
             "name": "Duke Bones",
-            "url": "/player/11913?period=all"
+            "id": 11913
         }
     },
     {
@@ -1600,11 +1600,11 @@
         "map": "Shadowfiend II RAGL S9",
         "p0": {
             "name": "ROCKhardFISTnips",
-            "url": "/player/8860?period=all"
+            "id": 8860
         },
         "p1": {
             "name": "PieChild",
-            "url": "/player/8894?period=all"
+            "id": 8894
         }
     },
     {
@@ -1612,11 +1612,11 @@
         "map": "The Swamp RAGL S9",
         "p0": {
             "name": "PieChild",
-            "url": "/player/8894?period=all"
+            "id": 8894
         },
         "p1": {
             "name": "ROCKhardFISTnips",
-            "url": "/player/8860?period=all"
+            "id": 8860
         }
     },
     {
@@ -1624,11 +1624,11 @@
         "map": "The Swamp RAGL S9",
         "p0": {
             "name": "Mr Cloudy",
-            "url": "/player/6771?period=all"
+            "id": 6771
         },
         "p1": {
             "name": "TiTo",
-            "url": "/player/7813?period=all"
+            "id": 7813
         }
     },
     {
@@ -1636,11 +1636,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "SinJul",
-            "url": "/player/9877?period=all"
+            "id": 9877
         },
         "p1": {
             "name": "spetsnaz84",
-            "url": "/player/6881?period=all"
+            "id": 6881
         }
     },
     {
@@ -1648,11 +1648,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "Mr Cloudy",
-            "url": "/player/6771?period=all"
+            "id": 6771
         },
         "p1": {
             "name": "TiTo",
-            "url": "/player/7813?period=all"
+            "id": 7813
         }
     },
     {
@@ -1660,11 +1660,11 @@
         "map": "Dual Cold Front RAGL S9",
         "p0": {
             "name": "SinJul",
-            "url": "/player/9877?period=all"
+            "id": 9877
         },
         "p1": {
             "name": "spetsnaz84",
-            "url": "/player/6881?period=all"
+            "id": 6881
         }
     },
     {
@@ -1672,11 +1672,11 @@
         "map": "Mountain Ridge Redux RAGL S9",
         "p0": {
             "name": "morkel",
-            "url": "/player/10747?period=all"
+            "id": 10747
         },
         "p1": {
             "name": "TiTo",
-            "url": "/player/7813?period=all"
+            "id": 7813
         }
     },
     {
@@ -1684,11 +1684,11 @@
         "map": "The Swamp RAGL S9",
         "p0": {
             "name": "morkel",
-            "url": "/player/10747?period=all"
+            "id": 10747
         },
         "p1": {
             "name": "TiTo",
-            "url": "/player/7813?period=all"
+            "id": 7813
         }
     },
     {
@@ -1696,11 +1696,11 @@
         "map": "Sonora RAGL S9",
         "p0": {
             "name": "Mr Cloudy",
-            "url": "/player/6771?period=all"
+            "id": 6771
         },
         "p1": {
             "name": "FiveAces",
-            "url": "/player/4527?period=all"
+            "id": 4527
         }
     },
     {
@@ -1708,11 +1708,11 @@
         "map": "Wetlands RAGL S9",
         "p0": {
             "name": "Mr Cloudy",
-            "url": "/player/6771?period=all"
+            "id": 6771
         },
         "p1": {
             "name": "FiveAces",
-            "url": "/player/4527?period=all"
+            "id": 4527
         }
     },
     {
@@ -1720,11 +1720,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "WhoCares",
-            "url": "/player/6723?period=all"
+            "id": 6723
         },
         "p1": {
             "name": "JackoDerp",
-            "url": "/player/9342?period=all"
+            "id": 9342
         }
     },
     {
@@ -1732,11 +1732,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "WhoCares",
-            "url": "/player/6723?period=all"
+            "id": 6723
         },
         "p1": {
             "name": "JackoDerp",
-            "url": "/player/9342?period=all"
+            "id": 9342
         }
     },
     {
@@ -1744,11 +1744,11 @@
         "map": "The Swamp RAGL S9",
         "p0": {
             "name": "KSK_Nico",
-            "url": "/player/7644?period=all"
+            "id": 7644
         },
         "p1": {
             "name": "Sigil",
-            "url": "/player/8869?period=all"
+            "id": 8869
         }
     },
     {
@@ -1756,11 +1756,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "KSK_Nico",
-            "url": "/player/7644?period=all"
+            "id": 7644
         },
         "p1": {
             "name": "Sigil",
-            "url": "/player/8869?period=all"
+            "id": 8869
         }
     },
     {
@@ -1768,11 +1768,11 @@
         "map": "Three and a half woods RAGL S9",
         "p0": {
             "name": "Yara",
-            "url": "/player/8790?period=all"
+            "id": 8790
         },
         "p1": {
             "name": "DodoBirb",
-            "url": "/player/9249?period=all"
+            "id": 9249
         }
     },
     {
@@ -1780,11 +1780,11 @@
         "map": "Agita RAGL S9",
         "p0": {
             "name": "Yara",
-            "url": "/player/8790?period=all"
+            "id": 8790
         },
         "p1": {
             "name": "DodoBirb",
-            "url": "/player/9249?period=all"
+            "id": 9249
         }
     },
     {
@@ -1792,11 +1792,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "ZxGanon",
-            "url": "/player/6766?period=all"
+            "id": 6766
         },
         "p1": {
             "name": "WhoCares",
-            "url": "/player/6723?period=all"
+            "id": 6723
         }
     },
     {
@@ -1804,11 +1804,11 @@
         "map": "Wetlands RAGL S9",
         "p0": {
             "name": "ZxGanon",
-            "url": "/player/6766?period=all"
+            "id": 6766
         },
         "p1": {
             "name": "WhoCares",
-            "url": "/player/6723?period=all"
+            "id": 6723
         }
     },
     {
@@ -1816,11 +1816,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "ZxGanon",
-            "url": "/player/6766?period=all"
+            "id": 6766
         },
         "p1": {
             "name": "Mo",
-            "url": "/player/5292?period=all"
+            "id": 5292
         }
     },
     {
@@ -1828,11 +1828,11 @@
         "map": "Mountain Ridge Redux RAGL S9",
         "p0": {
             "name": "ZxGanon",
-            "url": "/player/6766?period=all"
+            "id": 6766
         },
         "p1": {
             "name": "Mo",
-            "url": "/player/5292?period=all"
+            "id": 5292
         }
     },
     {
@@ -1840,11 +1840,11 @@
         "map": "Teared Strait RAGL S9",
         "p0": {
             "name": "Duke Bones",
-            "url": "/player/11913?period=all"
+            "id": 11913
         },
         "p1": {
             "name": "ioverthoughtthis",
-            "url": "/player/9965?period=all"
+            "id": 9965
         }
     },
     {
@@ -1852,11 +1852,11 @@
         "map": "Mountain Ridge Redux RAGL S9",
         "p0": {
             "name": "Duke Bones",
-            "url": "/player/11913?period=all"
+            "id": 11913
         },
         "p1": {
             "name": "ioverthoughtthis",
-            "url": "/player/9965?period=all"
+            "id": 9965
         }
     },
     {
@@ -1864,11 +1864,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "WhoCares",
-            "url": "/player/6723?period=all"
+            "id": 6723
         },
         "p1": {
             "name": "TiTo",
-            "url": "/player/7813?period=all"
+            "id": 7813
         }
     },
     {
@@ -1876,11 +1876,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "WhoCares",
-            "url": "/player/6723?period=all"
+            "id": 6723
         },
         "p1": {
             "name": "TiTo",
-            "url": "/player/7813?period=all"
+            "id": 7813
         }
     },
     {
@@ -1888,11 +1888,11 @@
         "map": "The Swamp RAGL S9",
         "p0": {
             "name": "JackoDerp",
-            "url": "/player/9342?period=all"
+            "id": 9342
         },
         "p1": {
             "name": "TiTo",
-            "url": "/player/7813?period=all"
+            "id": 7813
         }
     },
     {
@@ -1900,11 +1900,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "WhoCares",
-            "url": "/player/6723?period=all"
+            "id": 6723
         },
         "p1": {
             "name": "anjew",
-            "url": "/player/3952?period=all"
+            "id": 3952
         }
     },
     {
@@ -1912,11 +1912,11 @@
         "map": "Sonora RAGL S9",
         "p0": {
             "name": "JackoDerp",
-            "url": "/player/9342?period=all"
+            "id": 9342
         },
         "p1": {
             "name": "TiTo",
-            "url": "/player/7813?period=all"
+            "id": 7813
         }
     },
     {
@@ -1924,11 +1924,11 @@
         "map": "Shadowfiend II RAGL S9",
         "p0": {
             "name": "WhoCares",
-            "url": "/player/6723?period=all"
+            "id": 6723
         },
         "p1": {
             "name": "anjew",
-            "url": "/player/3952?period=all"
+            "id": 3952
         }
     },
     {
@@ -1936,11 +1936,11 @@
         "map": "Three and a half woods RAGL S9",
         "p0": {
             "name": "WhoCares",
-            "url": "/player/6723?period=all"
+            "id": 6723
         },
         "p1": {
             "name": "Mo",
-            "url": "/player/5292?period=all"
+            "id": 5292
         }
     },
     {
@@ -1948,11 +1948,11 @@
         "map": "Mountain Ridge Redux RAGL S9",
         "p0": {
             "name": "WhoCares",
-            "url": "/player/6723?period=all"
+            "id": 6723
         },
         "p1": {
             "name": "Mo",
-            "url": "/player/5292?period=all"
+            "id": 5292
         }
     },
     {
@@ -1960,11 +1960,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "i like men",
-            "url": "/player/10757?period=all"
+            "id": 10757
         },
         "p1": {
             "name": "FiveAces",
-            "url": "/player/4527?period=all"
+            "id": 4527
         }
     },
     {
@@ -1972,11 +1972,11 @@
         "map": "Agita RAGL S9",
         "p0": {
             "name": "i like men",
-            "url": "/player/10757?period=all"
+            "id": 10757
         },
         "p1": {
             "name": "FiveAces",
-            "url": "/player/4527?period=all"
+            "id": 4527
         }
     },
     {
@@ -1984,11 +1984,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "FiveAces",
-            "url": "/player/4527?period=all"
+            "id": 4527
         },
         "p1": {
             "name": "TiTo",
-            "url": "/player/7813?period=all"
+            "id": 7813
         }
     },
     {
@@ -1996,11 +1996,11 @@
         "map": "Agita RAGL S9",
         "p0": {
             "name": "FiveAces",
-            "url": "/player/4527?period=all"
+            "id": 4527
         },
         "p1": {
             "name": "TiTo",
-            "url": "/player/7813?period=all"
+            "id": 7813
         }
     },
     {
@@ -2008,11 +2008,11 @@
         "map": "Teared Strait RAGL S9",
         "p0": {
             "name": "Duke Bones",
-            "url": "/player/11913?period=all"
+            "id": 11913
         },
         "p1": {
             "name": "Zaqzorn",
-            "url": "/player/6265?period=all"
+            "id": 6265
         }
     },
     {
@@ -2020,11 +2020,11 @@
         "map": "Shadowfiend II RAGL S9",
         "p0": {
             "name": "Zaqzorn",
-            "url": "/player/6265?period=all"
+            "id": 6265
         },
         "p1": {
             "name": "Duke Bones",
-            "url": "/player/11913?period=all"
+            "id": 11913
         }
     },
     {
@@ -2032,11 +2032,11 @@
         "map": "Teared Strait RAGL S9",
         "p0": {
             "name": "Duke Bones",
-            "url": "/player/11913?period=all"
+            "id": 11913
         },
         "p1": {
             "name": "spetsnaz84",
-            "url": "/player/6881?period=all"
+            "id": 6881
         }
     },
     {
@@ -2044,11 +2044,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "spetsnaz84",
-            "url": "/player/6881?period=all"
+            "id": 6881
         },
         "p1": {
             "name": "Duke Bones",
-            "url": "/player/11913?period=all"
+            "id": 11913
         }
     },
     {
@@ -2056,11 +2056,11 @@
         "map": "Teared Strait RAGL S9",
         "p0": {
             "name": "Yara",
-            "url": "/player/8790?period=all"
+            "id": 8790
         },
         "p1": {
             "name": "Goremented",
-            "url": "/player/11435?period=all"
+            "id": 11435
         }
     },
     {
@@ -2068,11 +2068,11 @@
         "map": "Three and a half woods RAGL S9",
         "p0": {
             "name": "Yara",
-            "url": "/player/8790?period=all"
+            "id": 8790
         },
         "p1": {
             "name": "Goremented",
-            "url": "/player/11435?period=all"
+            "id": 11435
         }
     },
     {
@@ -2080,11 +2080,11 @@
         "map": "The Swamp RAGL S9",
         "p0": {
             "name": "KSK_Nico",
-            "url": "/player/7644?period=all"
+            "id": 7644
         },
         "p1": {
             "name": "TTTPPP",
-            "url": "/player/7387?period=all"
+            "id": 7387
         }
     },
     {
@@ -2092,11 +2092,11 @@
         "map": "Trail of Thought RAGL S9",
         "p0": {
             "name": "KSK_Nico",
-            "url": "/player/7644?period=all"
+            "id": 7644
         },
         "p1": {
             "name": "TTTPPP",
-            "url": "/player/7387?period=all"
+            "id": 7387
         }
     },
     {
@@ -2104,11 +2104,11 @@
         "map": "Three and a half woods RAGL S9",
         "p0": {
             "name": "lundiz",
-            "url": "/player/6974?period=all"
+            "id": 6974
         },
         "p1": {
             "name": "ioverthoughtthis",
-            "url": "/player/9965?period=all"
+            "id": 9965
         }
     },
     {
@@ -2116,11 +2116,11 @@
         "map": "Sonora RAGL S9",
         "p0": {
             "name": "Kernel Panic",
-            "url": "/player/7299?period=all"
+            "id": 7299
         },
         "p1": {
             "name": "DodoBirb",
-            "url": "/player/9249?period=all"
+            "id": 9249
         }
     },
     {
@@ -2128,11 +2128,11 @@
         "map": "Agita RAGL S9",
         "p0": {
             "name": "lundiz",
-            "url": "/player/6974?period=all"
+            "id": 6974
         },
         "p1": {
             "name": "ioverthoughtthis",
-            "url": "/player/9965?period=all"
+            "id": 9965
         }
     },
     {
@@ -2140,11 +2140,11 @@
         "map": "Shadowfiend II RAGL S9",
         "p0": {
             "name": "Kernel Panic",
-            "url": "/player/7299?period=all"
+            "id": 7299
         },
         "p1": {
             "name": "DodoBirb",
-            "url": "/player/9249?period=all"
+            "id": 9249
         }
     },
     {
@@ -2152,11 +2152,11 @@
         "map": "Three and a half woods RAGL S9",
         "p0": {
             "name": "Sigil",
-            "url": "/player/8869?period=all"
+            "id": 8869
         },
         "p1": {
             "name": "Nilhall",
-            "url": "/player/7714?period=all"
+            "id": 7714
         }
     },
     {
@@ -2164,11 +2164,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "Sigil",
-            "url": "/player/8869?period=all"
+            "id": 8869
         },
         "p1": {
             "name": "Nilhall",
-            "url": "/player/7714?period=all"
+            "id": 7714
         }
     },
     {
@@ -2176,11 +2176,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "PieChild",
-            "url": "/player/8894?period=all"
+            "id": 8894
         },
         "p1": {
             "name": "Icesinithol",
-            "url": "/player/7344?period=all"
+            "id": 7344
         }
     },
     {
@@ -2188,11 +2188,11 @@
         "map": "The Swamp RAGL S9",
         "p0": {
             "name": "PieChild",
-            "url": "/player/8894?period=all"
+            "id": 8894
         },
         "p1": {
             "name": "Icesinithol",
-            "url": "/player/7344?period=all"
+            "id": 7344
         }
     },
     {
@@ -2200,11 +2200,11 @@
         "map": "Wetlands RAGL S9",
         "p0": {
             "name": "Clockwork",
-            "url": "/player/6680?period=all"
+            "id": 6680
         },
         "p1": {
             "name": "Upps",
-            "url": "/player/7304?period=all"
+            "id": 7304
         }
     },
     {
@@ -2212,11 +2212,11 @@
         "map": "Agita RAGL S9",
         "p0": {
             "name": "Clockwork",
-            "url": "/player/6680?period=all"
+            "id": 6680
         },
         "p1": {
             "name": "Upps",
-            "url": "/player/7304?period=all"
+            "id": 7304
         }
     },
     {
@@ -2224,11 +2224,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "ioverthoughtthis",
-            "url": "/player/9965?period=all"
+            "id": 9965
         },
         "p1": {
             "name": "Goremented",
-            "url": "/player/11435?period=all"
+            "id": 11435
         }
     },
     {
@@ -2236,11 +2236,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "Goremented",
-            "url": "/player/11435?period=all"
+            "id": 11435
         },
         "p1": {
             "name": "ioverthoughtthis",
-            "url": "/player/9965?period=all"
+            "id": 9965
         }
     },
     {
@@ -2248,11 +2248,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "SinJul",
-            "url": "/player/9877?period=all"
+            "id": 9877
         },
         "p1": {
             "name": "Goremented",
-            "url": "/player/11435?period=all"
+            "id": 11435
         }
     },
     {
@@ -2260,11 +2260,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "SinJul",
-            "url": "/player/9877?period=all"
+            "id": 9877
         },
         "p1": {
             "name": "Goremented",
-            "url": "/player/11435?period=all"
+            "id": 11435
         }
     },
     {
@@ -2272,11 +2272,11 @@
         "map": "Sonora RAGL S9",
         "p0": {
             "name": "anjew",
-            "url": "/player/3952?period=all"
+            "id": 3952
         },
         "p1": {
             "name": "JackoDerp",
-            "url": "/player/9342?period=all"
+            "id": 9342
         }
     },
     {
@@ -2284,11 +2284,11 @@
         "map": "Shadowfiend II RAGL S9",
         "p0": {
             "name": "anjew",
-            "url": "/player/3952?period=all"
+            "id": 3952
         },
         "p1": {
             "name": "JackoDerp",
-            "url": "/player/9342?period=all"
+            "id": 9342
         }
     },
     {
@@ -2296,11 +2296,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "ROCKhardFISTnips",
-            "url": "/player/8860?period=all"
+            "id": 8860
         },
         "p1": {
             "name": "lundiz",
-            "url": "/player/6974?period=all"
+            "id": 6974
         }
     },
     {
@@ -2308,11 +2308,11 @@
         "map": "Agita RAGL S9",
         "p0": {
             "name": "ROCKhardFISTnips",
-            "url": "/player/8860?period=all"
+            "id": 8860
         },
         "p1": {
             "name": "lundiz",
-            "url": "/player/6974?period=all"
+            "id": 6974
         }
     },
     {
@@ -2320,11 +2320,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "i like men",
-            "url": "/player/10757?period=all"
+            "id": 10757
         },
         "p1": {
             "name": "Mo",
-            "url": "/player/5292?period=all"
+            "id": 5292
         }
     },
     {
@@ -2332,11 +2332,11 @@
         "map": "Mountain Ridge Redux RAGL S9",
         "p0": {
             "name": "i like men",
-            "url": "/player/10757?period=all"
+            "id": 10757
         },
         "p1": {
             "name": "Mo",
-            "url": "/player/5292?period=all"
+            "id": 5292
         }
     },
     {
@@ -2344,11 +2344,11 @@
         "map": "Shadowfiend II RAGL S9",
         "p0": {
             "name": "ROCKhardFISTnips",
-            "url": "/player/8860?period=all"
+            "id": 8860
         },
         "p1": {
             "name": "Kernel Panic",
-            "url": "/player/7299?period=all"
+            "id": 7299
         }
     },
     {
@@ -2356,11 +2356,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "Clockwork",
-            "url": "/player/6680?period=all"
+            "id": 6680
         },
         "p1": {
             "name": "Mo",
-            "url": "/player/5292?period=all"
+            "id": 5292
         }
     },
     {
@@ -2368,11 +2368,11 @@
         "map": "Sonora RAGL S9",
         "p0": {
             "name": "ROCKhardFISTnips",
-            "url": "/player/8860?period=all"
+            "id": 8860
         },
         "p1": {
             "name": "Kernel Panic",
-            "url": "/player/7299?period=all"
+            "id": 7299
         }
     },
     {
@@ -2380,11 +2380,11 @@
         "map": "Sonora RAGL S9",
         "p0": {
             "name": "Clockwork",
-            "url": "/player/6680?period=all"
+            "id": 6680
         },
         "p1": {
             "name": "Mo",
-            "url": "/player/5292?period=all"
+            "id": 5292
         }
     },
     {
@@ -2392,11 +2392,11 @@
         "map": "The Swamp RAGL S9",
         "p0": {
             "name": "goat",
-            "url": "/player/9599?period=all"
+            "id": 9599
         },
         "p1": {
             "name": "Upps",
-            "url": "/player/7304?period=all"
+            "id": 7304
         }
     },
     {
@@ -2404,11 +2404,11 @@
         "map": "Wetlands RAGL S9",
         "p0": {
             "name": "goat",
-            "url": "/player/9599?period=all"
+            "id": 9599
         },
         "p1": {
             "name": "Upps",
-            "url": "/player/7304?period=all"
+            "id": 7304
         }
     },
     {
@@ -2416,11 +2416,11 @@
         "map": "The Swamp RAGL S9",
         "p0": {
             "name": "goat",
-            "url": "/player/9599?period=all"
+            "id": 9599
         },
         "p1": {
             "name": "morkel",
-            "url": "/player/10747?period=all"
+            "id": 10747
         }
     },
     {
@@ -2428,11 +2428,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "goat",
-            "url": "/player/9599?period=all"
+            "id": 9599
         },
         "p1": {
             "name": "morkel",
-            "url": "/player/10747?period=all"
+            "id": 10747
         }
     },
     {
@@ -2440,11 +2440,11 @@
         "map": "Wetlands RAGL S9",
         "p0": {
             "name": "JackoDerp",
-            "url": "/player/9342?period=all"
+            "id": 9342
         },
         "p1": {
             "name": "Mo",
-            "url": "/player/5292?period=all"
+            "id": 5292
         }
     },
     {
@@ -2452,11 +2452,11 @@
         "map": "Three and a half woods RAGL S9",
         "p0": {
             "name": "TTTPPP",
-            "url": "/player/7387?period=all"
+            "id": 7387
         },
         "p1": {
             "name": "Nilhall",
-            "url": "/player/7714?period=all"
+            "id": 7714
         }
     },
     {
@@ -2464,11 +2464,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "ROCKhardFISTnips",
-            "url": "/player/8860?period=all"
+            "id": 8860
         },
         "p1": {
             "name": "TTTPPP",
-            "url": "/player/7387?period=all"
+            "id": 7387
         }
     },
     {
@@ -2476,11 +2476,11 @@
         "map": "Sonora RAGL S9",
         "p0": {
             "name": "TTTPPP",
-            "url": "/player/7387?period=all"
+            "id": 7387
         },
         "p1": {
             "name": "ROCKhardFISTnips",
-            "url": "/player/8860?period=all"
+            "id": 8860
         }
     },
     {
@@ -2488,11 +2488,11 @@
         "map": "The Swamp RAGL S9",
         "p0": {
             "name": "Mo",
-            "url": "/player/5292?period=all"
+            "id": 5292
         },
         "p1": {
             "name": "goat",
-            "url": "/player/9599?period=all"
+            "id": 9599
         }
     },
     {
@@ -2500,11 +2500,11 @@
         "map": "Mountain Ridge Redux RAGL S9",
         "p0": {
             "name": "goat",
-            "url": "/player/9599?period=all"
+            "id": 9599
         },
         "p1": {
             "name": "Mo",
-            "url": "/player/5292?period=all"
+            "id": 5292
         }
     },
     {
@@ -2512,11 +2512,11 @@
         "map": "Three and a half woods RAGL S9",
         "p0": {
             "name": "SinJul",
-            "url": "/player/9877?period=all"
+            "id": 9877
         },
         "p1": {
             "name": "lundiz",
-            "url": "/player/6974?period=all"
+            "id": 6974
         }
     },
     {
@@ -2524,11 +2524,11 @@
         "map": "Trail of Thought RAGL S9",
         "p0": {
             "name": "SinJul",
-            "url": "/player/9877?period=all"
+            "id": 9877
         },
         "p1": {
             "name": "lundiz",
-            "url": "/player/6974?period=all"
+            "id": 6974
         }
     },
     {
@@ -2536,11 +2536,11 @@
         "map": "Sonora RAGL S9",
         "p0": {
             "name": "JackoDerp",
-            "url": "/player/9342?period=all"
+            "id": 9342
         },
         "p1": {
             "name": "Clockwork",
-            "url": "/player/6680?period=all"
+            "id": 6680
         }
     },
     {
@@ -2548,11 +2548,11 @@
         "map": "The Swamp RAGL S9",
         "p0": {
             "name": "Clockwork",
-            "url": "/player/6680?period=all"
+            "id": 6680
         },
         "p1": {
             "name": "JackoDerp",
-            "url": "/player/9342?period=all"
+            "id": 9342
         }
     },
     {
@@ -2560,11 +2560,11 @@
         "map": "Mountain Ridge Redux RAGL S9",
         "p0": {
             "name": "goat",
-            "url": "/player/9599?period=all"
+            "id": 9599
         },
         "p1": {
             "name": "i like men",
-            "url": "/player/10757?period=all"
+            "id": 10757
         }
     },
     {
@@ -2572,11 +2572,11 @@
         "map": "Sonora RAGL S9",
         "p0": {
             "name": "goat",
-            "url": "/player/9599?period=all"
+            "id": 9599
         },
         "p1": {
             "name": "i like men",
-            "url": "/player/10757?period=all"
+            "id": 10757
         }
     },
     {
@@ -2584,11 +2584,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "ZxGanon",
-            "url": "/player/6766?period=all"
+            "id": 6766
         },
         "p1": {
             "name": "JackoDerp",
-            "url": "/player/9342?period=all"
+            "id": 9342
         }
     },
     {
@@ -2596,11 +2596,11 @@
         "map": "Wetlands RAGL S9",
         "p0": {
             "name": "ZxGanon",
-            "url": "/player/6766?period=all"
+            "id": 6766
         },
         "p1": {
             "name": "JackoDerp",
-            "url": "/player/9342?period=all"
+            "id": 9342
         }
     },
     {
@@ -2608,11 +2608,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "i like men",
-            "url": "/player/10757?period=all"
+            "id": 10757
         },
         "p1": {
             "name": "JackoDerp",
-            "url": "/player/9342?period=all"
+            "id": 9342
         }
     },
     {
@@ -2620,11 +2620,11 @@
         "map": "Shadowfiend II RAGL S9",
         "p0": {
             "name": "Duke Bones",
-            "url": "/player/11913?period=all"
+            "id": 11913
         },
         "p1": {
             "name": "lundiz",
-            "url": "/player/6974?period=all"
+            "id": 6974
         }
     },
     {
@@ -2632,11 +2632,11 @@
         "map": "Sonora RAGL S9",
         "p0": {
             "name": "i like men",
-            "url": "/player/10757?period=all"
+            "id": 10757
         },
         "p1": {
             "name": "JackoDerp",
-            "url": "/player/9342?period=all"
+            "id": 9342
         }
     },
     {
@@ -2644,11 +2644,11 @@
         "map": "Agita RAGL S9",
         "p0": {
             "name": "ZxGanon",
-            "url": "/player/6766?period=all"
+            "id": 6766
         },
         "p1": {
             "name": "i like men",
-            "url": "/player/10757?period=all"
+            "id": 10757
         }
     },
     {
@@ -2656,11 +2656,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "i like men",
-            "url": "/player/10757?period=all"
+            "id": 10757
         },
         "p1": {
             "name": "ZxGanon",
-            "url": "/player/6766?period=all"
+            "id": 6766
         }
     },
     {
@@ -2668,11 +2668,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "lundiz",
-            "url": "/player/6974?period=all"
+            "id": 6974
         },
         "p1": {
             "name": "Duke Bones",
-            "url": "/player/11913?period=all"
+            "id": 11913
         }
     },
     {
@@ -2680,11 +2680,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "Icesinithol",
-            "url": "/player/7344?period=all"
+            "id": 7344
         },
         "p1": {
             "name": "Nilhall",
-            "url": "/player/7714?period=all"
+            "id": 7714
         }
     },
     {
@@ -2692,11 +2692,11 @@
         "map": "Agita RAGL S9",
         "p0": {
             "name": "Nilhall",
-            "url": "/player/7714?period=all"
+            "id": 7714
         },
         "p1": {
             "name": "Icesinithol",
-            "url": "/player/7344?period=all"
+            "id": 7344
         }
     },
     {
@@ -2704,11 +2704,11 @@
         "map": "Dual Cold Front RAGL S9",
         "p0": {
             "name": "Kernel Panic",
-            "url": "/player/7299?period=all"
+            "id": 7299
         },
         "p1": {
             "name": "Goremented",
-            "url": "/player/11435?period=all"
+            "id": 11435
         }
     },
     {
@@ -2716,11 +2716,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "Goremented",
-            "url": "/player/11435?period=all"
+            "id": 11435
         },
         "p1": {
             "name": "Kernel Panic",
-            "url": "/player/7299?period=all"
+            "id": 7299
         }
     },
     {
@@ -2728,11 +2728,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "goat",
-            "url": "/player/9599?period=all"
+            "id": 9599
         },
         "p1": {
             "name": "anjew",
-            "url": "/player/3952?period=all"
+            "id": 3952
         }
     },
     {
@@ -2740,11 +2740,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "goat",
-            "url": "/player/9599?period=all"
+            "id": 9599
         },
         "p1": {
             "name": "anjew",
-            "url": "/player/3952?period=all"
+            "id": 3952
         }
     },
     {
@@ -2752,11 +2752,11 @@
         "map": "Three and a half woods RAGL S9",
         "p0": {
             "name": "Punsho",
-            "url": "/player/7223?period=all"
+            "id": 7223
         },
         "p1": {
             "name": "WhoCares",
-            "url": "/player/6723?period=all"
+            "id": 6723
         }
     },
     {
@@ -2764,11 +2764,11 @@
         "map": "The Swamp RAGL S9",
         "p0": {
             "name": "Punsho",
-            "url": "/player/7223?period=all"
+            "id": 7223
         },
         "p1": {
             "name": "WhoCares",
-            "url": "/player/6723?period=all"
+            "id": 6723
         }
     },
     {
@@ -2776,11 +2776,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "morkel",
-            "url": "/player/10747?period=all"
+            "id": 10747
         },
         "p1": {
             "name": "Punsho",
-            "url": "/player/7223?period=all"
+            "id": 7223
         }
     },
     {
@@ -2788,11 +2788,11 @@
         "map": "Wetlands RAGL S9",
         "p0": {
             "name": "morkel",
-            "url": "/player/10747?period=all"
+            "id": 10747
         },
         "p1": {
             "name": "Punsho",
-            "url": "/player/7223?period=all"
+            "id": 7223
         }
     },
     {
@@ -2800,11 +2800,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "morkel",
-            "url": "/player/10747?period=all"
+            "id": 10747
         },
         "p1": {
             "name": "anjew",
-            "url": "/player/3952?period=all"
+            "id": 3952
         }
     },
     {
@@ -2812,11 +2812,11 @@
         "map": "Shadowfiend II RAGL S9",
         "p0": {
             "name": "morkel",
-            "url": "/player/10747?period=all"
+            "id": 10747
         },
         "p1": {
             "name": "anjew",
-            "url": "/player/3952?period=all"
+            "id": 3952
         }
     },
     {
@@ -2824,11 +2824,11 @@
         "map": "The Swamp RAGL S9",
         "p0": {
             "name": "Punsho",
-            "url": "/player/7223?period=all"
+            "id": 7223
         },
         "p1": {
             "name": "anjew",
-            "url": "/player/3952?period=all"
+            "id": 3952
         }
     },
     {
@@ -2836,11 +2836,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "Punsho",
-            "url": "/player/7223?period=all"
+            "id": 7223
         },
         "p1": {
             "name": "anjew",
-            "url": "/player/3952?period=all"
+            "id": 3952
         }
     },
     {
@@ -2848,11 +2848,11 @@
         "map": "Three and a half woods RAGL S9",
         "p0": {
             "name": "Sigil",
-            "url": "/player/8869?period=all"
+            "id": 8869
         },
         "p1": {
             "name": "TTTPPP",
-            "url": "/player/7387?period=all"
+            "id": 7387
         }
     },
     {
@@ -2860,11 +2860,11 @@
         "map": "Teared Strait RAGL S9",
         "p0": {
             "name": "Sigil",
-            "url": "/player/8869?period=all"
+            "id": 8869
         },
         "p1": {
             "name": "TTTPPP",
-            "url": "/player/7387?period=all"
+            "id": 7387
         }
     },
     {
@@ -2872,11 +2872,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "morkel",
-            "url": "/player/10747?period=all"
+            "id": 10747
         },
         "p1": {
             "name": "Mr Cloudy",
-            "url": "/player/6771?period=all"
+            "id": 6771
         }
     },
     {
@@ -2884,11 +2884,11 @@
         "map": "Wetlands RAGL S9",
         "p0": {
             "name": "morkel",
-            "url": "/player/10747?period=all"
+            "id": 10747
         },
         "p1": {
             "name": "Mr Cloudy",
-            "url": "/player/6771?period=all"
+            "id": 6771
         }
     },
     {
@@ -2896,11 +2896,11 @@
         "map": "The Swamp RAGL S9",
         "p0": {
             "name": "KSK_Nico",
-            "url": "/player/7644?period=all"
+            "id": 7644
         },
         "p1": {
             "name": "ioverthoughtthis",
-            "url": "/player/9965?period=all"
+            "id": 9965
         }
     },
     {
@@ -2908,11 +2908,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "KSK_Nico",
-            "url": "/player/7644?period=all"
+            "id": 7644
         },
         "p1": {
             "name": "ioverthoughtthis",
-            "url": "/player/9965?period=all"
+            "id": 9965
         }
     },
     {
@@ -2920,11 +2920,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "lundiz",
-            "url": "/player/6974?period=all"
+            "id": 6974
         },
         "p1": {
             "name": "spetsnaz84",
-            "url": "/player/6881?period=all"
+            "id": 6881
         }
     },
     {
@@ -2932,11 +2932,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "lundiz",
-            "url": "/player/6974?period=all"
+            "id": 6974
         },
         "p1": {
             "name": "spetsnaz84",
-            "url": "/player/6881?period=all"
+            "id": 6881
         }
     },
     {
@@ -2944,11 +2944,11 @@
         "map": "The Swamp RAGL S9",
         "p0": {
             "name": "PieChild",
-            "url": "/player/8894?period=all"
+            "id": 8894
         },
         "p1": {
             "name": "TTTPPP",
-            "url": "/player/7387?period=all"
+            "id": 7387
         }
     },
     {
@@ -2956,11 +2956,11 @@
         "map": "Agita RAGL S9",
         "p0": {
             "name": "PieChild",
-            "url": "/player/8894?period=all"
+            "id": 8894
         },
         "p1": {
             "name": "TTTPPP",
-            "url": "/player/7387?period=all"
+            "id": 7387
         }
     },
     {
@@ -2968,11 +2968,11 @@
         "map": "Agita RAGL S9",
         "p0": {
             "name": "Upps",
-            "url": "/player/7304?period=all"
+            "id": 7304
         },
         "p1": {
             "name": "TiTo",
-            "url": "/player/7813?period=all"
+            "id": 7813
         }
     },
     {
@@ -2980,11 +2980,11 @@
         "map": "Mountain Ridge Redux RAGL S9",
         "p0": {
             "name": "Upps",
-            "url": "/player/7304?period=all"
+            "id": 7304
         },
         "p1": {
             "name": "TiTo",
-            "url": "/player/7813?period=all"
+            "id": 7813
         }
     },
     {
@@ -2992,11 +2992,11 @@
         "map": "The Swamp RAGL S9",
         "p0": {
             "name": "Upps",
-            "url": "/player/7304?period=all"
+            "id": 7304
         },
         "p1": {
             "name": "FiveAces",
-            "url": "/player/4527?period=all"
+            "id": 4527
         }
     },
     {
@@ -3004,11 +3004,11 @@
         "map": "Three and a half woods RAGL S9",
         "p0": {
             "name": "Upps",
-            "url": "/player/7304?period=all"
+            "id": 7304
         },
         "p1": {
             "name": "FiveAces",
-            "url": "/player/4527?period=all"
+            "id": 4527
         }
     },
     {
@@ -3016,11 +3016,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "Goremented",
-            "url": "/player/11435?period=all"
+            "id": 11435
         },
         "p1": {
             "name": "Duke Bones",
-            "url": "/player/11913?period=all"
+            "id": 11913
         }
     },
     {
@@ -3028,11 +3028,11 @@
         "map": "Wetlands RAGL S9",
         "p0": {
             "name": "Clockwork",
-            "url": "/player/6680?period=all"
+            "id": 6680
         },
         "p1": {
             "name": "TiTo",
-            "url": "/player/7813?period=all"
+            "id": 7813
         }
     },
     {
@@ -3040,11 +3040,11 @@
         "map": "Teared Strait RAGL S9",
         "p0": {
             "name": "Goremented",
-            "url": "/player/11435?period=all"
+            "id": 11435
         },
         "p1": {
             "name": "Duke Bones",
-            "url": "/player/11913?period=all"
+            "id": 11913
         }
     },
     {
@@ -3052,11 +3052,11 @@
         "map": "Agita RAGL S9",
         "p0": {
             "name": "Clockwork",
-            "url": "/player/6680?period=all"
+            "id": 6680
         },
         "p1": {
             "name": "TiTo",
-            "url": "/player/7813?period=all"
+            "id": 7813
         }
     },
     {
@@ -3064,11 +3064,11 @@
         "map": "The Swamp RAGL S9",
         "p0": {
             "name": "KSK_Nico",
-            "url": "/player/7644?period=all"
+            "id": 7644
         },
         "p1": {
             "name": "SinJul",
-            "url": "/player/9877?period=all"
+            "id": 9877
         }
     },
     {
@@ -3076,11 +3076,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "KSK_Nico",
-            "url": "/player/7644?period=all"
+            "id": 7644
         },
         "p1": {
             "name": "SinJul",
-            "url": "/player/9877?period=all"
+            "id": 9877
         }
     },
     {
@@ -3088,11 +3088,11 @@
         "map": "The Swamp RAGL S9",
         "p0": {
             "name": "KSK_Nico",
-            "url": "/player/7644?period=all"
+            "id": 7644
         },
         "p1": {
             "name": "Kernel Panic",
-            "url": "/player/7299?period=all"
+            "id": 7299
         }
     },
     {
@@ -3100,11 +3100,11 @@
         "map": "Sonora RAGL S9",
         "p0": {
             "name": "KSK_Nico",
-            "url": "/player/7644?period=all"
+            "id": 7644
         },
         "p1": {
             "name": "Kernel Panic",
-            "url": "/player/7299?period=all"
+            "id": 7299
         }
     },
     {
@@ -3112,11 +3112,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "morkel",
-            "url": "/player/10747?period=all"
+            "id": 10747
         },
         "p1": {
             "name": "Clockwork",
-            "url": "/player/6680?period=all"
+            "id": 6680
         }
     },
     {
@@ -3124,11 +3124,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "morkel",
-            "url": "/player/10747?period=all"
+            "id": 10747
         },
         "p1": {
             "name": "Clockwork",
-            "url": "/player/6680?period=all"
+            "id": 6680
         }
     },
     {
@@ -3136,11 +3136,11 @@
         "map": "Teared Strait RAGL S9",
         "p0": {
             "name": "Duke Bones",
-            "url": "/player/11913?period=all"
+            "id": 11913
         },
         "p1": {
             "name": "DodoBirb",
-            "url": "/player/9249?period=all"
+            "id": 9249
         }
     },
     {
@@ -3148,11 +3148,11 @@
         "map": "Shadowfiend II RAGL S9",
         "p0": {
             "name": "Duke Bones",
-            "url": "/player/11913?period=all"
+            "id": 11913
         },
         "p1": {
             "name": "DodoBirb",
-            "url": "/player/9249?period=all"
+            "id": 9249
         }
     },
     {
@@ -3160,11 +3160,11 @@
         "map": "Agita RAGL S9",
         "p0": {
             "name": "Kernel Panic",
-            "url": "/player/7299?period=all"
+            "id": 7299
         },
         "p1": {
             "name": "PieChild",
-            "url": "/player/8894?period=all"
+            "id": 8894
         }
     },
     {
@@ -3172,11 +3172,11 @@
         "map": "Dual Cold Front RAGL S9",
         "p0": {
             "name": "PieChild",
-            "url": "/player/8894?period=all"
+            "id": 8894
         },
         "p1": {
             "name": "Kernel Panic",
-            "url": "/player/7299?period=all"
+            "id": 7299
         }
     },
     {
@@ -3184,11 +3184,11 @@
         "map": "Three and a half woods RAGL S9",
         "p0": {
             "name": "Yara",
-            "url": "/player/8790?period=all"
+            "id": 8790
         },
         "p1": {
             "name": "PieChild",
-            "url": "/player/8894?period=all"
+            "id": 8894
         }
     },
     {
@@ -3196,11 +3196,11 @@
         "map": "Mountain Ridge Redux RAGL S9",
         "p0": {
             "name": "Yara",
-            "url": "/player/8790?period=all"
+            "id": 8790
         },
         "p1": {
             "name": "PieChild",
-            "url": "/player/8894?period=all"
+            "id": 8894
         }
     },
     {
@@ -3208,11 +3208,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "Goremented",
-            "url": "/player/11435?period=all"
+            "id": 11435
         },
         "p1": {
             "name": "spetsnaz84",
-            "url": "/player/6881?period=all"
+            "id": 6881
         }
     },
     {
@@ -3220,11 +3220,11 @@
         "map": "Dual Cold Front RAGL S9",
         "p0": {
             "name": "Goremented",
-            "url": "/player/11435?period=all"
+            "id": 11435
         },
         "p1": {
             "name": "spetsnaz84",
-            "url": "/player/6881?period=all"
+            "id": 6881
         }
     },
     {
@@ -3232,11 +3232,11 @@
         "map": "Sonora RAGL S9",
         "p0": {
             "name": "Kernel Panic",
-            "url": "/player/7299?period=all"
+            "id": 7299
         },
         "p1": {
             "name": "lundiz",
-            "url": "/player/6974?period=all"
+            "id": 6974
         }
     },
     {
@@ -3244,11 +3244,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "Kernel Panic",
-            "url": "/player/7299?period=all"
+            "id": 7299
         },
         "p1": {
             "name": "lundiz",
-            "url": "/player/6974?period=all"
+            "id": 6974
         }
     },
     {
@@ -3256,11 +3256,11 @@
         "map": "Three and a half woods RAGL S9",
         "p0": {
             "name": "Yara",
-            "url": "/player/8790?period=all"
+            "id": 8790
         },
         "p1": {
             "name": "lundiz",
-            "url": "/player/6974?period=all"
+            "id": 6974
         }
     },
     {
@@ -3268,11 +3268,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "Yara",
-            "url": "/player/8790?period=all"
+            "id": 8790
         },
         "p1": {
             "name": "lundiz",
-            "url": "/player/6974?period=all"
+            "id": 6974
         }
     },
     {
@@ -3280,11 +3280,11 @@
         "map": "Sonora RAGL S9",
         "p0": {
             "name": "Kernel Panic",
-            "url": "/player/7299?period=all"
+            "id": 7299
         },
         "p1": {
             "name": "Nilhall",
-            "url": "/player/7714?period=all"
+            "id": 7714
         }
     },
     {
@@ -3292,11 +3292,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "Kernel Panic",
-            "url": "/player/7299?period=all"
+            "id": 7299
         },
         "p1": {
             "name": "Nilhall",
-            "url": "/player/7714?period=all"
+            "id": 7714
         }
     },
     {
@@ -3304,11 +3304,11 @@
         "map": "Sonora RAGL S9",
         "p0": {
             "name": "Punsho",
-            "url": "/player/7223?period=all"
+            "id": 7223
         },
         "p1": {
             "name": "Mo",
-            "url": "/player/5292?period=all"
+            "id": 5292
         }
     },
     {
@@ -3316,11 +3316,11 @@
         "map": "Dual Cold Front RAGL S9",
         "p0": {
             "name": "i like men",
-            "url": "/player/10757?period=all"
+            "id": 10757
         },
         "p1": {
             "name": "Clockwork",
-            "url": "/player/6680?period=all"
+            "id": 6680
         }
     },
     {
@@ -3328,11 +3328,11 @@
         "map": "Agita RAGL S9",
         "p0": {
             "name": "goat",
-            "url": "/player/9599?period=all"
+            "id": 9599
         },
         "p1": {
             "name": "JackoDerp",
-            "url": "/player/9342?period=all"
+            "id": 9342
         }
     },
     {
@@ -3340,11 +3340,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "goat",
-            "url": "/player/9599?period=all"
+            "id": 9599
         },
         "p1": {
             "name": "JackoDerp",
-            "url": "/player/9342?period=all"
+            "id": 9342
         }
     },
     {
@@ -3352,11 +3352,11 @@
         "map": "The Swamp RAGL S9",
         "p0": {
             "name": "Punsho",
-            "url": "/player/7223?period=all"
+            "id": 7223
         },
         "p1": {
             "name": "Mo",
-            "url": "/player/5292?period=all"
+            "id": 5292
         }
     },
     {
@@ -3364,11 +3364,11 @@
         "map": "Agita RAGL S9",
         "p0": {
             "name": "goat",
-            "url": "/player/9599?period=all"
+            "id": 9599
         },
         "p1": {
             "name": "Clockwork",
-            "url": "/player/6680?period=all"
+            "id": 6680
         }
     },
     {
@@ -3376,11 +3376,11 @@
         "map": "Trail of Thought RAGL S9",
         "p0": {
             "name": "goat",
-            "url": "/player/9599?period=all"
+            "id": 9599
         },
         "p1": {
             "name": "Clockwork",
-            "url": "/player/6680?period=all"
+            "id": 6680
         }
     },
     {
@@ -3388,11 +3388,11 @@
         "map": "Agita RAGL S9",
         "p0": {
             "name": "goat",
-            "url": "/player/9599?period=all"
+            "id": 9599
         },
         "p1": {
             "name": "FiveAces",
-            "url": "/player/4527?period=all"
+            "id": 4527
         }
     },
     {
@@ -3400,11 +3400,11 @@
         "map": "Shadowfiend II RAGL S9",
         "p0": {
             "name": "goat",
-            "url": "/player/9599?period=all"
+            "id": 9599
         },
         "p1": {
             "name": "FiveAces",
-            "url": "/player/4527?period=all"
+            "id": 4527
         }
     },
     {
@@ -3412,11 +3412,11 @@
         "map": "Sonora RAGL S9",
         "p0": {
             "name": "Clockwork",
-            "url": "/player/6680?period=all"
+            "id": 6680
         },
         "p1": {
             "name": "FiveAces",
-            "url": "/player/4527?period=all"
+            "id": 4527
         }
     },
     {
@@ -3424,11 +3424,11 @@
         "map": "Agita RAGL S9",
         "p0": {
             "name": "Clockwork",
-            "url": "/player/6680?period=all"
+            "id": 6680
         },
         "p1": {
             "name": "FiveAces",
-            "url": "/player/4527?period=all"
+            "id": 4527
         }
     },
     {
@@ -3436,11 +3436,11 @@
         "map": "Three and a half woods RAGL S9",
         "p0": {
             "name": "TTTPPP",
-            "url": "/player/7387?period=all"
+            "id": 7387
         },
         "p1": {
             "name": "Icesinithol",
-            "url": "/player/7344?period=all"
+            "id": 7344
         }
     },
     {
@@ -3448,11 +3448,11 @@
         "map": "Agita RAGL S9",
         "p0": {
             "name": "Icesinithol",
-            "url": "/player/7344?period=all"
+            "id": 7344
         },
         "p1": {
             "name": "TTTPPP",
-            "url": "/player/7387?period=all"
+            "id": 7387
         }
     },
     {
@@ -3460,11 +3460,11 @@
         "map": "The Swamp RAGL S9",
         "p0": {
             "name": "KSK_Nico",
-            "url": "/player/7644?period=all"
+            "id": 7644
         },
         "p1": {
             "name": "Icesinithol",
-            "url": "/player/7344?period=all"
+            "id": 7344
         }
     },
     {
@@ -3472,11 +3472,11 @@
         "map": "Agita RAGL S9",
         "p0": {
             "name": "KSK_Nico",
-            "url": "/player/7644?period=all"
+            "id": 7644
         },
         "p1": {
             "name": "Icesinithol",
-            "url": "/player/7344?period=all"
+            "id": 7344
         }
     },
     {
@@ -3484,11 +3484,11 @@
         "map": "Shadowfiend II RAGL S9",
         "p0": {
             "name": "Upps",
-            "url": "/player/7304?period=all"
+            "id": 7304
         },
         "p1": {
             "name": "JackoDerp",
-            "url": "/player/9342?period=all"
+            "id": 9342
         }
     },
     {
@@ -3496,11 +3496,11 @@
         "map": "Sonora RAGL S9",
         "p0": {
             "name": "JackoDerp",
-            "url": "/player/9342?period=all"
+            "id": 9342
         },
         "p1": {
             "name": "Upps",
-            "url": "/player/7304?period=all"
+            "id": 7304
         }
     },
     {
@@ -3508,11 +3508,11 @@
         "map": "Sonora RAGL S9",
         "p0": {
             "name": "Punsho",
-            "url": "/player/7223?period=all"
+            "id": 7223
         },
         "p1": {
             "name": "Upps",
-            "url": "/player/7304?period=all"
+            "id": 7304
         }
     },
     {
@@ -3520,11 +3520,11 @@
         "map": "Shadowfiend II RAGL S9",
         "p0": {
             "name": "Punsho",
-            "url": "/player/7223?period=all"
+            "id": 7223
         },
         "p1": {
             "name": "Upps",
-            "url": "/player/7304?period=all"
+            "id": 7304
         }
     },
     {
@@ -3532,11 +3532,11 @@
         "map": "Sonora RAGL S9",
         "p0": {
             "name": "Punsho",
-            "url": "/player/7223?period=all"
+            "id": 7223
         },
         "p1": {
             "name": "JackoDerp",
-            "url": "/player/9342?period=all"
+            "id": 9342
         }
     },
     {
@@ -3544,11 +3544,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "Punsho",
-            "url": "/player/7223?period=all"
+            "id": 7223
         },
         "p1": {
             "name": "JackoDerp",
-            "url": "/player/9342?period=all"
+            "id": 9342
         }
     },
     {
@@ -3556,11 +3556,11 @@
         "map": "The Swamp RAGL S9",
         "p0": {
             "name": "KSK_Nico",
-            "url": "/player/7644?period=all"
+            "id": 7644
         },
         "p1": {
             "name": "spetsnaz84",
-            "url": "/player/6881?period=all"
+            "id": 6881
         }
     },
     {
@@ -3568,11 +3568,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "KSK_Nico",
-            "url": "/player/7644?period=all"
+            "id": 7644
         },
         "p1": {
             "name": "spetsnaz84",
-            "url": "/player/6881?period=all"
+            "id": 6881
         }
     },
     {
@@ -3580,11 +3580,11 @@
         "map": "Three and a half woods RAGL S9",
         "p0": {
             "name": "PieChild",
-            "url": "/player/8894?period=all"
+            "id": 8894
         },
         "p1": {
             "name": "Duke Bones",
-            "url": "/player/11913?period=all"
+            "id": 11913
         }
     },
     {
@@ -3592,11 +3592,11 @@
         "map": "Shadowfiend II RAGL S9",
         "p0": {
             "name": "PieChild",
-            "url": "/player/8894?period=all"
+            "id": 8894
         },
         "p1": {
             "name": "Duke Bones",
-            "url": "/player/11913?period=all"
+            "id": 11913
         }
     },
     {
@@ -3604,11 +3604,11 @@
         "map": "Three and a half woods RAGL S9",
         "p0": {
             "name": "Sigil",
-            "url": "/player/8869?period=all"
+            "id": 8869
         },
         "p1": {
             "name": "PieChild",
-            "url": "/player/8894?period=all"
+            "id": 8894
         }
     },
     {
@@ -3616,11 +3616,11 @@
         "map": "Sonora RAGL S9",
         "p0": {
             "name": "Sigil",
-            "url": "/player/8869?period=all"
+            "id": 8869
         },
         "p1": {
             "name": "PieChild",
-            "url": "/player/8894?period=all"
+            "id": 8894
         }
     },
     {
@@ -3628,11 +3628,11 @@
         "map": "Mountain Ridge Redux RAGL S9",
         "p0": {
             "name": "morkel",
-            "url": "/player/10747?period=all"
+            "id": 10747
         },
         "p1": {
             "name": "Upps",
-            "url": "/player/7304?period=all"
+            "id": 7304
         }
     },
     {
@@ -3640,11 +3640,11 @@
         "map": "Shadowfiend II RAGL S9",
         "p0": {
             "name": "morkel",
-            "url": "/player/10747?period=all"
+            "id": 10747
         },
         "p1": {
             "name": "Upps",
-            "url": "/player/7304?period=all"
+            "id": 7304
         }
     },
     {
@@ -3652,11 +3652,11 @@
         "map": "Three and a half woods RAGL S9",
         "p0": {
             "name": "anjew",
-            "url": "/player/3952?period=all"
+            "id": 3952
         },
         "p1": {
             "name": "Upps",
-            "url": "/player/7304?period=all"
+            "id": 7304
         }
     },
     {
@@ -3664,11 +3664,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "Upps",
-            "url": "/player/7304?period=all"
+            "id": 7304
         },
         "p1": {
             "name": "anjew",
-            "url": "/player/3952?period=all"
+            "id": 3952
         }
     },
     {
@@ -3676,11 +3676,11 @@
         "map": "Sonora RAGL S9",
         "p0": {
             "name": "Punsho",
-            "url": "/player/7223?period=all"
+            "id": 7223
         },
         "p1": {
             "name": "Clockwork",
-            "url": "/player/6680?period=all"
+            "id": 6680
         }
     },
     {
@@ -3688,11 +3688,11 @@
         "map": "Agita RAGL S9",
         "p0": {
             "name": "Clockwork",
-            "url": "/player/6680?period=all"
+            "id": 6680
         },
         "p1": {
             "name": "Punsho",
-            "url": "/player/7223?period=all"
+            "id": 7223
         }
     },
     {
@@ -3700,11 +3700,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "anjew",
-            "url": "/player/3952?period=all"
+            "id": 3952
         },
         "p1": {
             "name": "TiTo",
-            "url": "/player/7813?period=all"
+            "id": 7813
         }
     },
     {
@@ -3712,11 +3712,11 @@
         "map": "Agita RAGL S9",
         "p0": {
             "name": "anjew",
-            "url": "/player/3952?period=all"
+            "id": 3952
         },
         "p1": {
             "name": "TiTo",
-            "url": "/player/7813?period=all"
+            "id": 7813
         }
     },
     {
@@ -3724,11 +3724,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "i like men",
-            "url": "/player/10757?period=all"
+            "id": 10757
         },
         "p1": {
             "name": "Punsho",
-            "url": "/player/7223?period=all"
+            "id": 7223
         }
     },
     {
@@ -3736,11 +3736,11 @@
         "map": "Sonora RAGL S9",
         "p0": {
             "name": "Punsho",
-            "url": "/player/7223?period=all"
+            "id": 7223
         },
         "p1": {
             "name": "i like men",
-            "url": "/player/10757?period=all"
+            "id": 10757
         }
     },
     {
@@ -3748,11 +3748,11 @@
         "map": "Agita RAGL S9",
         "p0": {
             "name": "goat",
-            "url": "/player/9599?period=all"
+            "id": 9599
         },
         "p1": {
             "name": "Punsho",
-            "url": "/player/7223?period=all"
+            "id": 7223
         }
     },
     {
@@ -3760,11 +3760,11 @@
         "map": "The Swamp RAGL S9",
         "p0": {
             "name": "Punsho",
-            "url": "/player/7223?period=all"
+            "id": 7223
         },
         "p1": {
             "name": "goat",
-            "url": "/player/9599?period=all"
+            "id": 9599
         }
     },
     {
@@ -3772,11 +3772,11 @@
         "map": "Shadowfiend II RAGL S9",
         "p0": {
             "name": "Mr Cloudy",
-            "url": "/player/6771?period=all"
+            "id": 6771
         },
         "p1": {
             "name": "anjew",
-            "url": "/player/3952?period=all"
+            "id": 3952
         }
     },
     {
@@ -3784,11 +3784,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "Mr Cloudy",
-            "url": "/player/6771?period=all"
+            "id": 6771
         },
         "p1": {
             "name": "anjew",
-            "url": "/player/3952?period=all"
+            "id": 3952
         }
     },
     {
@@ -3796,11 +3796,11 @@
         "map": "The Swamp RAGL S9",
         "p0": {
             "name": "Mr Cloudy",
-            "url": "/player/6771?period=all"
+            "id": 6771
         },
         "p1": {
             "name": "Mo",
-            "url": "/player/5292?period=all"
+            "id": 5292
         }
     },
     {
@@ -3808,11 +3808,11 @@
         "map": "Trail of Thought RAGL S9",
         "p0": {
             "name": "Mr Cloudy",
-            "url": "/player/6771?period=all"
+            "id": 6771
         },
         "p1": {
             "name": "Mo",
-            "url": "/player/5292?period=all"
+            "id": 5292
         }
     },
     {
@@ -3820,11 +3820,11 @@
         "map": "Sonora RAGL S9",
         "p0": {
             "name": "Sigil",
-            "url": "/player/8869?period=all"
+            "id": 8869
         },
         "p1": {
             "name": "Kernel Panic",
-            "url": "/player/7299?period=all"
+            "id": 7299
         }
     },
     {
@@ -3832,11 +3832,11 @@
         "map": "Three and a half woods RAGL S9",
         "p0": {
             "name": "Kernel Panic",
-            "url": "/player/7299?period=all"
+            "id": 7299
         },
         "p1": {
             "name": "Sigil",
-            "url": "/player/8869?period=all"
+            "id": 8869
         }
     },
     {
@@ -3844,11 +3844,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "Clockwork",
-            "url": "/player/6680?period=all"
+            "id": 6680
         },
         "p1": {
             "name": "Mr Cloudy",
-            "url": "/player/6771?period=all"
+            "id": 6771
         }
     },
     {
@@ -3856,11 +3856,11 @@
         "map": "Trail of Thought RAGL S9",
         "p0": {
             "name": "Clockwork",
-            "url": "/player/6680?period=all"
+            "id": 6680
         },
         "p1": {
             "name": "Mr Cloudy",
-            "url": "/player/6771?period=all"
+            "id": 6771
         }
     },
     {
@@ -3868,11 +3868,11 @@
         "map": "Wetlands RAGL S9",
         "p0": {
             "name": "Clockwork",
-            "url": "/player/6680?period=all"
+            "id": 6680
         },
         "p1": {
             "name": "WhoCares",
-            "url": "/player/6723?period=all"
+            "id": 6723
         }
     },
     {
@@ -3880,11 +3880,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "WhoCares",
-            "url": "/player/6723?period=all"
+            "id": 6723
         },
         "p1": {
             "name": "Clockwork",
-            "url": "/player/6680?period=all"
+            "id": 6680
         }
     },
     {
@@ -3892,11 +3892,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "Mr Cloudy",
-            "url": "/player/6771?period=all"
+            "id": 6771
         },
         "p1": {
             "name": "Upps",
-            "url": "/player/7304?period=all"
+            "id": 7304
         }
     },
     {
@@ -3904,11 +3904,11 @@
         "map": "Wetlands RAGL S9",
         "p0": {
             "name": "Upps",
-            "url": "/player/7304?period=all"
+            "id": 7304
         },
         "p1": {
             "name": "Mr Cloudy",
-            "url": "/player/6771?period=all"
+            "id": 6771
         }
     },
     {
@@ -3916,11 +3916,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "WhoCares",
-            "url": "/player/6723?period=all"
+            "id": 6723
         },
         "p1": {
             "name": "FiveAces",
-            "url": "/player/4527?period=all"
+            "id": 4527
         }
     },
     {
@@ -3928,11 +3928,11 @@
         "map": "Shadowfiend II RAGL S9",
         "p0": {
             "name": "WhoCares",
-            "url": "/player/6723?period=all"
+            "id": 6723
         },
         "p1": {
             "name": "FiveAces",
-            "url": "/player/4527?period=all"
+            "id": 4527
         }
     },
     {
@@ -3940,11 +3940,11 @@
         "map": "Sonora RAGL S9",
         "p0": {
             "name": "morkel",
-            "url": "/player/10747?period=all"
+            "id": 10747
         },
         "p1": {
             "name": "FiveAces",
-            "url": "/player/4527?period=all"
+            "id": 4527
         }
     },
     {
@@ -3952,11 +3952,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "morkel",
-            "url": "/player/10747?period=all"
+            "id": 10747
         },
         "p1": {
             "name": "FiveAces",
-            "url": "/player/4527?period=all"
+            "id": 4527
         }
     },
     {
@@ -3964,11 +3964,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "i like men",
-            "url": "/player/10757?period=all"
+            "id": 10757
         },
         "p1": {
             "name": "WhoCares",
-            "url": "/player/6723?period=all"
+            "id": 6723
         }
     },
     {
@@ -3976,11 +3976,11 @@
         "map": "Three and a half woods RAGL S9",
         "p0": {
             "name": "i like men",
-            "url": "/player/10757?period=all"
+            "id": 10757
         },
         "p1": {
             "name": "WhoCares",
-            "url": "/player/6723?period=all"
+            "id": 6723
         }
     },
     {
@@ -3988,11 +3988,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "Mr Cloudy",
-            "url": "/player/6771?period=all"
+            "id": 6771
         },
         "p1": {
             "name": "i like men",
-            "url": "/player/10757?period=all"
+            "id": 10757
         }
     },
     {
@@ -4000,11 +4000,11 @@
         "map": "The Swamp Revision (RAGLS9)",
         "p0": {
             "name": "i like men",
-            "url": "/player/10757?period=all"
+            "id": 10757
         },
         "p1": {
             "name": "Mr Cloudy",
-            "url": "/player/6771?period=all"
+            "id": 6771
         }
     },
     {
@@ -4012,11 +4012,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "WhoCares",
-            "url": "/player/6723?period=all"
+            "id": 6723
         },
         "p1": {
             "name": "goat",
-            "url": "/player/9599?period=all"
+            "id": 9599
         }
     },
     {
@@ -4024,11 +4024,11 @@
         "map": "Sonora RAGL S9",
         "p0": {
             "name": "WhoCares",
-            "url": "/player/6723?period=all"
+            "id": 6723
         },
         "p1": {
             "name": "goat",
-            "url": "/player/9599?period=all"
+            "id": 9599
         }
     },
     {
@@ -4036,11 +4036,11 @@
         "map": "Three and a half woods RAGL S9",
         "p0": {
             "name": "morkel",
-            "url": "/player/10747?period=all"
+            "id": 10747
         },
         "p1": {
             "name": "ZxGanon",
-            "url": "/player/6766?period=all"
+            "id": 6766
         }
     },
     {
@@ -4048,11 +4048,11 @@
         "map": "Mountain Ridge Redux RAGL S9",
         "p0": {
             "name": "morkel",
-            "url": "/player/10747?period=all"
+            "id": 10747
         },
         "p1": {
             "name": "ZxGanon",
-            "url": "/player/6766?period=all"
+            "id": 6766
         }
     },
     {
@@ -4060,11 +4060,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "Mr Cloudy",
-            "url": "/player/6771?period=all"
+            "id": 6771
         },
         "p1": {
             "name": "ZxGanon",
-            "url": "/player/6766?period=all"
+            "id": 6766
         }
     },
     {
@@ -4072,11 +4072,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "ZxGanon",
-            "url": "/player/6766?period=all"
+            "id": 6766
         },
         "p1": {
             "name": "Mr Cloudy",
-            "url": "/player/6771?period=all"
+            "id": 6771
         }
     },
     {
@@ -4084,11 +4084,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "ZxGanon",
-            "url": "/player/6766?period=all"
+            "id": 6766
         },
         "p1": {
             "name": "Upps",
-            "url": "/player/7304?period=all"
+            "id": 7304
         }
     },
     {
@@ -4096,11 +4096,11 @@
         "map": "Wetlands RAGL S9",
         "p0": {
             "name": "ZxGanon",
-            "url": "/player/6766?period=all"
+            "id": 6766
         },
         "p1": {
             "name": "Upps",
-            "url": "/player/7304?period=all"
+            "id": 7304
         }
     },
     {
@@ -4108,11 +4108,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "Nilhall",
-            "url": "/player/7714?period=all"
+            "id": 7714
         },
         "p1": {
             "name": "spetsnaz84",
-            "url": "/player/6881?period=all"
+            "id": 6881
         }
     },
     {
@@ -4120,11 +4120,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "Nilhall",
-            "url": "/player/7714?period=all"
+            "id": 7714
         },
         "p1": {
             "name": "spetsnaz84",
-            "url": "/player/6881?period=all"
+            "id": 6881
         }
     },
     {
@@ -4132,11 +4132,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "ZxGanon",
-            "url": "/player/6766?period=all"
+            "id": 6766
         },
         "p1": {
             "name": "anjew",
-            "url": "/player/3952?period=all"
+            "id": 3952
         }
     },
     {
@@ -4144,11 +4144,11 @@
         "map": "Dual Cold Front RAGL S9",
         "p0": {
             "name": "ZxGanon",
-            "url": "/player/6766?period=all"
+            "id": 6766
         },
         "p1": {
             "name": "anjew",
-            "url": "/player/3952?period=all"
+            "id": 3952
         }
     },
     {
@@ -4156,11 +4156,11 @@
         "map": "Trail of Thought RAGL S9",
         "p0": {
             "name": "ZxGanon",
-            "url": "/player/6766?period=all"
+            "id": 6766
         },
         "p1": {
             "name": "TiTo",
-            "url": "/player/7813?period=all"
+            "id": 7813
         }
     },
     {
@@ -4168,11 +4168,11 @@
         "map": "Agita RAGL S9",
         "p0": {
             "name": "ZxGanon",
-            "url": "/player/6766?period=all"
+            "id": 6766
         },
         "p1": {
             "name": "TiTo",
-            "url": "/player/7813?period=all"
+            "id": 7813
         }
     },
     {
@@ -4180,11 +4180,11 @@
         "map": "Wetlands RAGL S9",
         "p0": {
             "name": "Mo",
-            "url": "/player/5292?period=all"
+            "id": 5292
         },
         "p1": {
             "name": "Upps",
-            "url": "/player/7304?period=all"
+            "id": 7304
         }
     },
     {
@@ -4192,11 +4192,11 @@
         "map": "Trail of Thought RAGL S9",
         "p0": {
             "name": "Mo",
-            "url": "/player/5292?period=all"
+            "id": 5292
         },
         "p1": {
             "name": "Upps",
-            "url": "/player/7304?period=all"
+            "id": 7304
         }
     },
     {
@@ -4204,11 +4204,11 @@
         "map": "Shadowfiend II RAGL S9",
         "p0": {
             "name": "TTTPPP",
-            "url": "/player/7387?period=all"
+            "id": 7387
         },
         "p1": {
             "name": "Kernel Panic",
-            "url": "/player/7299?period=all"
+            "id": 7299
         }
     },
     {
@@ -4216,11 +4216,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "Kernel Panic",
-            "url": "/player/7299?period=all"
+            "id": 7299
         },
         "p1": {
             "name": "TTTPPP",
-            "url": "/player/7387?period=all"
+            "id": 7387
         }
     },
     {
@@ -4228,11 +4228,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "i like men",
-            "url": "/player/10757?period=all"
+            "id": 10757
         },
         "p1": {
             "name": "anjew",
-            "url": "/player/3952?period=all"
+            "id": 3952
         }
     },
     {
@@ -4240,11 +4240,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "i like men",
-            "url": "/player/10757?period=all"
+            "id": 10757
         },
         "p1": {
             "name": "anjew",
-            "url": "/player/3952?period=all"
+            "id": 3952
         }
     },
     {
@@ -4252,11 +4252,11 @@
         "map": "Sonora RAGL S9",
         "p0": {
             "name": "Punsho",
-            "url": "/player/7223?period=all"
+            "id": 7223
         },
         "p1": {
             "name": "Mr Cloudy",
-            "url": "/player/6771?period=all"
+            "id": 6771
         }
     },
     {
@@ -4264,11 +4264,11 @@
         "map": "The Swamp RAGL S9",
         "p0": {
             "name": "Mr Cloudy",
-            "url": "/player/6771?period=all"
+            "id": 6771
         },
         "p1": {
             "name": "Punsho",
-            "url": "/player/7223?period=all"
+            "id": 7223
         }
     },
     {
@@ -4276,11 +4276,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "Sigil",
-            "url": "/player/8869?period=all"
+            "id": 8869
         },
         "p1": {
             "name": "SinJul",
-            "url": "/player/9877?period=all"
+            "id": 9877
         }
     },
     {
@@ -4288,11 +4288,11 @@
         "map": "Three and a half woods RAGL S9",
         "p0": {
             "name": "SinJul",
-            "url": "/player/9877?period=all"
+            "id": 9877
         },
         "p1": {
             "name": "Sigil",
-            "url": "/player/8869?period=all"
+            "id": 8869
         }
     },
     {
@@ -4300,11 +4300,11 @@
         "map": "Three and a half woods RAGL S9",
         "p0": {
             "name": "PieChild",
-            "url": "/player/8894?period=all"
+            "id": 8894
         },
         "p1": {
             "name": "spetsnaz84",
-            "url": "/player/6881?period=all"
+            "id": 6881
         }
     },
     {
@@ -4312,11 +4312,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "PieChild",
-            "url": "/player/8894?period=all"
+            "id": 8894
         },
         "p1": {
             "name": "spetsnaz84",
-            "url": "/player/6881?period=all"
+            "id": 6881
         }
     },
     {
@@ -4324,11 +4324,11 @@
         "map": "The Swamp RAGL S9",
         "p0": {
             "name": "KSK_Nico",
-            "url": "/player/7644?period=all"
+            "id": 7644
         },
         "p1": {
             "name": "PieChild",
-            "url": "/player/8894?period=all"
+            "id": 8894
         }
     },
     {
@@ -4336,11 +4336,11 @@
         "map": "Sonora RAGL S9",
         "p0": {
             "name": "KSK_Nico",
-            "url": "/player/7644?period=all"
+            "id": 7644
         },
         "p1": {
             "name": "PieChild",
-            "url": "/player/8894?period=all"
+            "id": 8894
         }
     },
     {
@@ -4348,11 +4348,11 @@
         "map": "The Swamp RAGL S9",
         "p0": {
             "name": "KSK_Nico",
-            "url": "/player/7644?period=all"
+            "id": 7644
         },
         "p1": {
             "name": "Duke Bones",
-            "url": "/player/11913?period=all"
+            "id": 11913
         }
     },
     {
@@ -4360,11 +4360,11 @@
         "map": "Shadowfiend II RAGL S9",
         "p0": {
             "name": "KSK_Nico",
-            "url": "/player/7644?period=all"
+            "id": 7644
         },
         "p1": {
             "name": "Duke Bones",
-            "url": "/player/11913?period=all"
+            "id": 11913
         }
     },
     {
@@ -4372,11 +4372,11 @@
         "map": "Shadowfiend II RAGL S9",
         "p0": {
             "name": "Nilhall",
-            "url": "/player/7714?period=all"
+            "id": 7714
         },
         "p1": {
             "name": "Duke Bones",
-            "url": "/player/11913?period=all"
+            "id": 11913
         }
     },
     {
@@ -4384,11 +4384,11 @@
         "map": "Shadowfiend II RAGL S9",
         "p0": {
             "name": "Nilhall",
-            "url": "/player/7714?period=all"
+            "id": 7714
         },
         "p1": {
             "name": "Duke Bones",
-            "url": "/player/11913?period=all"
+            "id": 11913
         }
     },
     {
@@ -4396,11 +4396,11 @@
         "map": "Three and a half woods RAGL S9",
         "p0": {
             "name": "SinJul",
-            "url": "/player/9877?period=all"
+            "id": 9877
         },
         "p1": {
             "name": "Icesinithol",
-            "url": "/player/7344?period=all"
+            "id": 7344
         }
     },
     {
@@ -4408,11 +4408,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "SinJul",
-            "url": "/player/9877?period=all"
+            "id": 9877
         },
         "p1": {
             "name": "Icesinithol",
-            "url": "/player/7344?period=all"
+            "id": 7344
         }
     },
     {
@@ -4420,11 +4420,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "lundiz",
-            "url": "/player/6974?period=all"
+            "id": 6974
         },
         "p1": {
             "name": "Icesinithol",
-            "url": "/player/7344?period=all"
+            "id": 7344
         }
     },
     {
@@ -4432,11 +4432,11 @@
         "map": "Agita RAGL S9",
         "p0": {
             "name": "lundiz",
-            "url": "/player/6974?period=all"
+            "id": 6974
         },
         "p1": {
             "name": "Icesinithol",
-            "url": "/player/7344?period=all"
+            "id": 7344
         }
     },
     {
@@ -4444,11 +4444,11 @@
         "map": "Shadowfiend II RAGL S9",
         "p0": {
             "name": "Kernel Panic",
-            "url": "/player/7299?period=all"
+            "id": 7299
         },
         "p1": {
             "name": "Icesinithol",
-            "url": "/player/7344?period=all"
+            "id": 7344
         }
     },
     {
@@ -4456,11 +4456,11 @@
         "map": "Agita RAGL S9",
         "p0": {
             "name": "Icesinithol",
-            "url": "/player/7344?period=all"
+            "id": 7344
         },
         "p1": {
             "name": "Kernel Panic",
-            "url": "/player/7299?period=all"
+            "id": 7299
         }
     },
     {
@@ -4468,11 +4468,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "lundiz",
-            "url": "/player/6974?period=all"
+            "id": 6974
         },
         "p1": {
             "name": "Goremented",
-            "url": "/player/11435?period=all"
+            "id": 11435
         }
     },
     {
@@ -4480,11 +4480,11 @@
         "map": "Agita RAGL S9",
         "p0": {
             "name": "Goremented",
-            "url": "/player/11435?period=all"
+            "id": 11435
         },
         "p1": {
             "name": "lundiz",
-            "url": "/player/6974?period=all"
+            "id": 6974
         }
     },
     {
@@ -4492,11 +4492,11 @@
         "map": "Three and a half woods RAGL S9",
         "p0": {
             "name": "SinJul",
-            "url": "/player/9877?period=all"
+            "id": 9877
         },
         "p1": {
             "name": "PieChild",
-            "url": "/player/8894?period=all"
+            "id": 8894
         }
     },
     {
@@ -4504,11 +4504,11 @@
         "map": "The Swamp RAGL S9",
         "p0": {
             "name": "SinJul",
-            "url": "/player/9877?period=all"
+            "id": 9877
         },
         "p1": {
             "name": "PieChild",
-            "url": "/player/8894?period=all"
+            "id": 8894
         }
     },
     {
@@ -4516,11 +4516,11 @@
         "map": "Wetlands RAGL S9",
         "p0": {
             "name": "lundiz",
-            "url": "/player/6974?period=all"
+            "id": 6974
         },
         "p1": {
             "name": "PieChild",
-            "url": "/player/8894?period=all"
+            "id": 8894
         }
     },
     {
@@ -4528,11 +4528,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "lundiz",
-            "url": "/player/6974?period=all"
+            "id": 6974
         },
         "p1": {
             "name": "PieChild",
-            "url": "/player/8894?period=all"
+            "id": 8894
         }
     },
     {
@@ -4540,11 +4540,11 @@
         "map": "Three and a half woods RAGL S9",
         "p0": {
             "name": "KSK_Nico",
-            "url": "/player/7644?period=all"
+            "id": 7644
         },
         "p1": {
             "name": "lundiz",
-            "url": "/player/6974?period=all"
+            "id": 6974
         }
     },
     {
@@ -4552,11 +4552,11 @@
         "map": "Sonora RAGL S9",
         "p0": {
             "name": "KSK_Nico",
-            "url": "/player/7644?period=all"
+            "id": 7644
         },
         "p1": {
             "name": "lundiz",
-            "url": "/player/6974?period=all"
+            "id": 6974
         }
     },
     {
@@ -4564,11 +4564,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "Sigil",
-            "url": "/player/8869?period=all"
+            "id": 8869
         },
         "p1": {
             "name": "lundiz",
-            "url": "/player/6974?period=all"
+            "id": 6974
         }
     },
     {
@@ -4576,11 +4576,11 @@
         "map": "Dual Cold Front RAGL S9",
         "p0": {
             "name": "Sigil",
-            "url": "/player/8869?period=all"
+            "id": 8869
         },
         "p1": {
             "name": "lundiz",
-            "url": "/player/6974?period=all"
+            "id": 6974
         }
     },
     {
@@ -4588,11 +4588,11 @@
         "map": "Sonora RAGL S9",
         "p0": {
             "name": "Sigil",
-            "url": "/player/8869?period=all"
+            "id": 8869
         },
         "p1": {
             "name": "Duke Bones",
-            "url": "/player/11913?period=all"
+            "id": 11913
         }
     },
     {
@@ -4600,11 +4600,11 @@
         "map": "Teared Strait RAGL S9",
         "p0": {
             "name": "Sigil",
-            "url": "/player/8869?period=all"
+            "id": 8869
         },
         "p1": {
             "name": "Duke Bones",
-            "url": "/player/11913?period=all"
+            "id": 11913
         }
     },
     {
@@ -4612,11 +4612,11 @@
         "map": "The Swamp RAGL S9",
         "p0": {
             "name": "KSK_Nico",
-            "url": "/player/7644?period=all"
+            "id": 7644
         },
         "p1": {
             "name": "Goremented",
-            "url": "/player/11435?period=all"
+            "id": 11435
         }
     },
     {
@@ -4624,11 +4624,11 @@
         "map": "Shadowfiend II RAGL S9",
         "p0": {
             "name": "Goremented",
-            "url": "/player/11435?period=all"
+            "id": 11435
         },
         "p1": {
             "name": "KSK_Nico",
-            "url": "/player/7644?period=all"
+            "id": 7644
         }
     },
     {
@@ -4636,11 +4636,11 @@
         "map": "Three and a half woods RAGL S9",
         "p0": {
             "name": "Yara",
-            "url": "/player/8790?period=all"
+            "id": 8790
         },
         "p1": {
             "name": "KSK_Nico",
-            "url": "/player/7644?period=all"
+            "id": 7644
         }
     },
     {
@@ -4648,11 +4648,11 @@
         "map": "The Swamp RAGL S9",
         "p0": {
             "name": "Yara",
-            "url": "/player/8790?period=all"
+            "id": 8790
         },
         "p1": {
             "name": "KSK_Nico",
-            "url": "/player/7644?period=all"
+            "id": 7644
         }
     },
     {
@@ -4660,11 +4660,11 @@
         "map": "Three and a half woods RAGL S9",
         "p0": {
             "name": "Yara",
-            "url": "/player/8790?period=all"
+            "id": 8790
         },
         "p1": {
             "name": "Sigil",
-            "url": "/player/8869?period=all"
+            "id": 8869
         }
     },
     {
@@ -4672,11 +4672,11 @@
         "map": "Dual Cold Front RAGL S9",
         "p0": {
             "name": "Sigil",
-            "url": "/player/8869?period=all"
+            "id": 8869
         },
         "p1": {
             "name": "Yara",
-            "url": "/player/8790?period=all"
+            "id": 8790
         }
     },
     {
@@ -4684,11 +4684,11 @@
         "map": "Three and a half woods RAGL S9",
         "p0": {
             "name": "ioverthoughtthis",
-            "url": "/player/9965?period=all"
+            "id": 9965
         },
         "p1": {
             "name": "TTTPPP",
-            "url": "/player/7387?period=all"
+            "id": 7387
         }
     },
     {
@@ -4696,11 +4696,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "i like men",
-            "url": "/player/10757?period=all"
+            "id": 10757
         },
         "p1": {
             "name": "morkel",
-            "url": "/player/10747?period=all"
+            "id": 10747
         }
     },
     {
@@ -4708,11 +4708,11 @@
         "map": "Sonora RAGL S9",
         "p0": {
             "name": "morkel",
-            "url": "/player/10747?period=all"
+            "id": 10747
         },
         "p1": {
             "name": "i like men",
-            "url": "/player/10757?period=all"
+            "id": 10757
         }
     },
     {
@@ -4720,11 +4720,11 @@
         "map": "Shadowfiend II RAGL S9",
         "p0": {
             "name": "morkel",
-            "url": "/player/10747?period=all"
+            "id": 10747
         },
         "p1": {
             "name": "i like men",
-            "url": "/player/10757?period=all"
+            "id": 10757
         }
     },
     {
@@ -4732,11 +4732,11 @@
         "map": "Agita RAGL S9",
         "p0": {
             "name": "i like men",
-            "url": "/player/10757?period=all"
+            "id": 10757
         },
         "p1": {
             "name": "morkel",
-            "url": "/player/10747?period=all"
+            "id": 10747
         }
     },
     {
@@ -4744,11 +4744,11 @@
         "map": "Three and a half woods RAGL S9",
         "p0": {
             "name": "morkel",
-            "url": "/player/10747?period=all"
+            "id": 10747
         },
         "p1": {
             "name": "i like men",
-            "url": "/player/10757?period=all"
+            "id": 10757
         }
     },
     {
@@ -4756,11 +4756,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "TTTPPP",
-            "url": "/player/7387?period=all"
+            "id": 7387
         },
         "p1": {
             "name": "ioverthoughtthis",
-            "url": "/player/9965?period=all"
+            "id": 9965
         }
     },
     {
@@ -4768,11 +4768,11 @@
         "map": "Agita RAGL S9",
         "p0": {
             "name": "Duke Bones",
-            "url": "/player/11913?period=all"
+            "id": 11913
         },
         "p1": {
             "name": "Icesinithol",
-            "url": "/player/7344?period=all"
+            "id": 7344
         }
     },
     {
@@ -4780,11 +4780,11 @@
         "map": "Shadowfiend II RAGL S9",
         "p0": {
             "name": "Duke Bones",
-            "url": "/player/11913?period=all"
+            "id": 11913
         },
         "p1": {
             "name": "Icesinithol",
-            "url": "/player/7344?period=all"
+            "id": 7344
         }
     },
     {
@@ -4792,11 +4792,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "goat",
-            "url": "/player/9599?period=all"
+            "id": 9599
         },
         "p1": {
             "name": "ZxGanon",
-            "url": "/player/6766?period=all"
+            "id": 6766
         }
     },
     {
@@ -4804,11 +4804,11 @@
         "map": "Trail of Thought RAGL S9",
         "p0": {
             "name": "goat",
-            "url": "/player/9599?period=all"
+            "id": 9599
         },
         "p1": {
             "name": "ZxGanon",
-            "url": "/player/6766?period=all"
+            "id": 6766
         }
     },
     {
@@ -4816,11 +4816,11 @@
         "map": "Shadowfiend II RAGL S9",
         "p0": {
             "name": "goat",
-            "url": "/player/9599?period=all"
+            "id": 9599
         },
         "p1": {
             "name": "ZxGanon",
-            "url": "/player/6766?period=all"
+            "id": 6766
         }
     },
     {
@@ -4828,11 +4828,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "Nilhall",
-            "url": "/player/7714?period=all"
+            "id": 7714
         },
         "p1": {
             "name": "ioverthoughtthis",
-            "url": "/player/9965?period=all"
+            "id": 9965
         }
     },
     {
@@ -4840,11 +4840,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "Nilhall",
-            "url": "/player/7714?period=all"
+            "id": 7714
         },
         "p1": {
             "name": "ioverthoughtthis",
-            "url": "/player/9965?period=all"
+            "id": 9965
         }
     },
     {
@@ -4852,11 +4852,11 @@
         "map": "Agita RAGL S9",
         "p0": {
             "name": "PieChild",
-            "url": "/player/8894?period=all"
+            "id": 8894
         },
         "p1": {
             "name": "ioverthoughtthis",
-            "url": "/player/9965?period=all"
+            "id": 9965
         }
     },
     {
@@ -4864,11 +4864,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "PieChild",
-            "url": "/player/8894?period=all"
+            "id": 8894
         },
         "p1": {
             "name": "ioverthoughtthis",
-            "url": "/player/9965?period=all"
+            "id": 9965
         }
     },
     {
@@ -4876,11 +4876,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "lundiz",
-            "url": "/player/6974?period=all"
+            "id": 6974
         },
         "p1": {
             "name": "DodoBirb",
-            "url": "/player/9249?period=all"
+            "id": 9249
         }
     },
     {
@@ -4888,11 +4888,11 @@
         "map": "Shadowfiend II RAGL S9",
         "p0": {
             "name": "lundiz",
-            "url": "/player/6974?period=all"
+            "id": 6974
         },
         "p1": {
             "name": "DodoBirb",
-            "url": "/player/9249?period=all"
+            "id": 9249
         }
     },
     {
@@ -4900,11 +4900,11 @@
         "map": "Ore Egano RAGL S9",
         "p0": {
             "name": "Nilhall",
-            "url": "/player/7714?period=all"
+            "id": 7714
         },
         "p1": {
             "name": "DodoBirb",
-            "url": "/player/9249?period=all"
+            "id": 9249
         }
     },
     {
@@ -4912,11 +4912,11 @@
         "map": "Shadowfiend II RAGL S9",
         "p0": {
             "name": "Nilhall",
-            "url": "/player/7714?period=all"
+            "id": 7714
         },
         "p1": {
             "name": "DodoBirb",
-            "url": "/player/9249?period=all"
+            "id": 9249
         }
     },
     {
@@ -4924,11 +4924,11 @@
         "map": "Wetlands RAGL S9",
         "p0": {
             "name": "goat",
-            "url": "/player/9599?period=all"
+            "id": 9599
         },
         "p1": {
             "name": "morkel",
-            "url": "/player/10747?period=all"
+            "id": 10747
         }
     },
     {
@@ -4936,11 +4936,11 @@
         "map": "Sonora RAGL S9",
         "p0": {
             "name": "morkel",
-            "url": "/player/10747?period=all"
+            "id": 10747
         },
         "p1": {
             "name": "goat",
-            "url": "/player/9599?period=all"
+            "id": 9599
         }
     },
     {
@@ -4948,11 +4948,11 @@
         "map": "Shadowfiend II RAGL S9",
         "p0": {
             "name": "morkel",
-            "url": "/player/10747?period=all"
+            "id": 10747
         },
         "p1": {
             "name": "goat",
-            "url": "/player/9599?period=all"
+            "id": 9599
         }
     },
     {
@@ -4960,11 +4960,11 @@
         "map": "The Swamp Revision (RAGLS9)",
         "p0": {
             "name": "goat",
-            "url": "/player/9599?period=all"
+            "id": 9599
         },
         "p1": {
             "name": "morkel",
-            "url": "/player/10747?period=all"
+            "id": 10747
         }
     },
     {
@@ -4972,11 +4972,11 @@
         "map": "Mountain Ridge Redux RAGL S9",
         "p0": {
             "name": "goat",
-            "url": "/player/9599?period=all"
+            "id": 9599
         },
         "p1": {
             "name": "morkel",
-            "url": "/player/10747?period=all"
+            "id": 10747
         }
     },
     {
@@ -4984,11 +4984,11 @@
         "map": "Wetlands RAGL S9",
         "p0": {
             "name": "ZxGanon",
-            "url": "/player/6766?period=all"
+            "id": 6766
         },
         "p1": {
             "name": "i like men",
-            "url": "/player/10757?period=all"
+            "id": 10757
         }
     },
     {
@@ -4996,11 +4996,11 @@
         "map": "Discovery RAGL S9",
         "p0": {
             "name": "i like men",
-            "url": "/player/10757?period=all"
+            "id": 10757
         },
         "p1": {
             "name": "ZxGanon",
-            "url": "/player/6766?period=all"
+            "id": 6766
         }
     },
     {
@@ -5008,11 +5008,11 @@
         "map": "Trail of Thought RAGL S9",
         "p0": {
             "name": "i like men",
-            "url": "/player/10757?period=all"
+            "id": 10757
         },
         "p1": {
             "name": "ZxGanon",
-            "url": "/player/6766?period=all"
+            "id": 6766
         }
     },
     {
@@ -5020,11 +5020,11 @@
         "map": "Teared Strait RAGL S9",
         "p0": {
             "name": "ZxGanon",
-            "url": "/player/6766?period=all"
+            "id": 6766
         },
         "p1": {
             "name": "i like men",
-            "url": "/player/10757?period=all"
+            "id": 10757
         }
     },
     {
@@ -5032,11 +5032,11 @@
         "map": "Agita RAGL S9",
         "p0": {
             "name": "i like men",
-            "url": "/player/10757?period=all"
+            "id": 10757
         },
         "p1": {
             "name": "ZxGanon",
-            "url": "/player/6766?period=all"
+            "id": 6766
         }
     },
     {
@@ -5044,11 +5044,11 @@
         "map": "Devils Marsh[RAGL-X]",
         "p0": {
             "name": "Goremented",
-            "url": "/player/11435?period=all"
+            "id": 11435
         },
         "p1": {
             "name": "Duke Bones",
-            "url": "/player/11913?period=all"
+            "id": 11913
         }
     },
     {
@@ -5056,11 +5056,11 @@
         "map": "Timian[RAGL-X]",
         "p0": {
             "name": "Goremented",
-            "url": "/player/11435?period=all"
+            "id": 11435
         },
         "p1": {
             "name": "Duke Bones",
-            "url": "/player/11913?period=all"
+            "id": 11913
         }
     },
     {
@@ -5068,11 +5068,11 @@
         "map": "Timian[RAGL-X]",
         "p0": {
             "name": "Pinkthoth",
-            "url": "/player/11705?period=all"
+            "id": 11705
         },
         "p1": {
             "name": "poop",
-            "url": "/player/12892?period=all"
+            "id": 12892
         }
     },
     {
@@ -5080,11 +5080,11 @@
         "map": "Amsterdamned[RAGL-X]",
         "p0": {
             "name": "Pinkthoth",
-            "url": "/player/11705?period=all"
+            "id": 11705
         },
         "p1": {
             "name": "poop",
-            "url": "/player/12892?period=all"
+            "id": 12892
         }
     },
     {
@@ -5092,11 +5092,11 @@
         "map": "Winding Woods[RAGL-X]",
         "p0": {
             "name": "Duke Bones",
-            "url": "/player/11913?period=all"
+            "id": 11913
         },
         "p1": {
             "name": "spetsnaz84",
-            "url": "/player/6881?period=all"
+            "id": 6881
         }
     },
     {
@@ -5104,11 +5104,11 @@
         "map": "Timian[RAGL-X]",
         "p0": {
             "name": "Duke Bones",
-            "url": "/player/11913?period=all"
+            "id": 11913
         },
         "p1": {
             "name": "spetsnaz84",
-            "url": "/player/6881?period=all"
+            "id": 6881
         }
     },
     {
@@ -5116,11 +5116,11 @@
         "map": "Devils Marsh[RAGL-X]",
         "p0": {
             "name": "Goremented",
-            "url": "/player/11435?period=all"
+            "id": 11435
         },
         "p1": {
             "name": "spetsnaz84",
-            "url": "/player/6881?period=all"
+            "id": 6881
         }
     },
     {
@@ -5128,11 +5128,11 @@
         "map": "Winding Woods[RAGL-X]",
         "p0": {
             "name": "Goremented",
-            "url": "/player/11435?period=all"
+            "id": 11435
         },
         "p1": {
             "name": "spetsnaz84",
-            "url": "/player/6881?period=all"
+            "id": 6881
         }
     },
     {
@@ -5140,11 +5140,11 @@
         "map": "Darkside Aftermath[RAGL-X]",
         "p0": {
             "name": "poop",
-            "url": "/player/12892?period=all"
+            "id": 12892
         },
         "p1": {
             "name": "worldpeace",
-            "url": "/player/7617?period=all"
+            "id": 7617
         }
     },
     {
@@ -5152,11 +5152,11 @@
         "map": "Winding Woods[RAGL-X]",
         "p0": {
             "name": "spetsnaz84",
-            "url": "/player/6881?period=all"
+            "id": 6881
         },
         "p1": {
             "name": "copla201",
-            "url": "/player/13258?period=all"
+            "id": 13258
         }
     },
     {
@@ -5164,11 +5164,11 @@
         "map": "Amsterdamned[RAGL-X]",
         "p0": {
             "name": "spetsnaz84",
-            "url": "/player/6881?period=all"
+            "id": 6881
         },
         "p1": {
             "name": "copla201",
-            "url": "/player/13258?period=all"
+            "id": 13258
         }
     },
     {
@@ -5176,11 +5176,11 @@
         "map": "Timian[RAGL-X]",
         "p0": {
             "name": "Goremented",
-            "url": "/player/11435?period=all"
+            "id": 11435
         },
         "p1": {
             "name": "TiTo",
-            "url": "/player/7813?period=all"
+            "id": 7813
         }
     },
     {
@@ -5188,11 +5188,11 @@
         "map": "Amsterdamned[RAGL-X]",
         "p0": {
             "name": "Goremented",
-            "url": "/player/11435?period=all"
+            "id": 11435
         },
         "p1": {
             "name": "TiTo",
-            "url": "/player/7813?period=all"
+            "id": 7813
         }
     },
     {
@@ -5200,11 +5200,11 @@
         "map": "Polemos[RAGL-X]",
         "p0": {
             "name": "Pinkthoth",
-            "url": "/player/11705?period=all"
+            "id": 11705
         },
         "p1": {
             "name": "KOYK_GR",
-            "url": "/player/2580?period=all"
+            "id": 2580
         }
     },
     {
@@ -5212,11 +5212,11 @@
         "map": "Pitfight[RAGL-X]",
         "p0": {
             "name": "Pinkthoth",
-            "url": "/player/11705?period=all"
+            "id": 11705
         },
         "p1": {
             "name": "KOYK_GR",
-            "url": "/player/2580?period=all"
+            "id": 2580
         }
     }
 ]

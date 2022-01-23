@@ -4,11 +4,11 @@
         "map": "Offensive Operation",
         "p0": {
             "name": "Chrono",
-            "url": "/player/14631?period=all"
+            "id": 14631
         },
         "p1": {
             "name": "Rusty",
-            "url": "/player/14623?period=all"
+            "id": 14623
         }
     },
     {
@@ -16,11 +16,11 @@
         "map": "Clover",
         "p0": {
             "name": "Rusty",
-            "url": "/player/14623?period=all"
+            "id": 14623
         },
         "p1": {
             "name": "Chrono",
-            "url": "/player/14631?period=all"
+            "id": 14631
         }
     },
     {
@@ -28,11 +28,11 @@
         "map": "Kosovo 1v1",
         "p0": {
             "name": "Chrono",
-            "url": "/player/14631?period=all"
+            "id": 14631
         },
         "p1": {
             "name": "Rusty",
-            "url": "/player/14623?period=all"
+            "id": 14623
         }
     },
     {
@@ -40,11 +40,11 @@
         "map": "Offensive Operation",
         "p0": {
             "name": "Rusty",
-            "url": "/player/14623?period=all"
+            "id": 14623
         },
         "p1": {
             "name": "Chrono",
-            "url": "/player/14631?period=all"
+            "id": 14631
         }
     },
     {
@@ -52,11 +52,11 @@
         "map": "Crownsbury",
         "p0": {
             "name": "Eugenator",
-            "url": "/player/11442?period=all"
+            "id": 11442
         },
         "p1": {
             "name": "toiletbreakbrb",
-            "url": "/player/9156?period=all"
+            "id": 9156
         }
     },
     {
@@ -64,11 +64,11 @@
         "map": "Eternal Warriors",
         "p0": {
             "name": "toiletbreakbrb",
-            "url": "/player/9156?period=all"
+            "id": 9156
         },
         "p1": {
             "name": "Eugenator",
-            "url": "/player/11442?period=all"
+            "id": 11442
         }
     },
     {
@@ -76,11 +76,11 @@
         "map": "Eternal Warriors",
         "p0": {
             "name": "Dodder",
-            "url": "/player/11099?period=all"
+            "id": 11099
         },
         "p1": {
             "name": "PrinzPi",
-            "url": "/player/14596?period=all"
+            "id": 14596
         }
     },
     {
@@ -88,11 +88,11 @@
         "map": "Offensive Operation",
         "p0": {
             "name": "PrinzPi",
-            "url": "/player/14596?period=all"
+            "id": 14596
         },
         "p1": {
             "name": "Dodder",
-            "url": "/player/11099?period=all"
+            "id": 11099
         }
     },
     {
@@ -100,11 +100,11 @@
         "map": "Kosovo 1v1",
         "p0": {
             "name": "Dodder",
-            "url": "/player/11099?period=all"
+            "id": 11099
         },
         "p1": {
             "name": "PrinzPi",
-            "url": "/player/14596?period=all"
+            "id": 14596
         }
     },
     {
@@ -112,11 +112,11 @@
         "map": "Eden Lake",
         "p0": {
             "name": "Dodder",
-            "url": "/player/11099?period=all"
+            "id": 11099
         },
         "p1": {
             "name": "Eugenator",
-            "url": "/player/11442?period=all"
+            "id": 11442
         }
     },
     {
@@ -124,11 +124,11 @@
         "map": "Eden Lake",
         "p0": {
             "name": "luckyluke",
-            "url": "/player/12273?period=all"
+            "id": 12273
         },
         "p1": {
             "name": "Dodder",
-            "url": "/player/11099?period=all"
+            "id": 11099
         }
     },
     {
@@ -136,11 +136,11 @@
         "map": "Kosovo 1v1",
         "p0": {
             "name": "Dodder",
-            "url": "/player/11099?period=all"
+            "id": 11099
         },
         "p1": {
             "name": "luckyluke",
-            "url": "/player/12273?period=all"
+            "id": 12273
         }
     },
     {
@@ -148,11 +148,11 @@
         "map": "Kosovo 1v1",
         "p0": {
             "name": "Dodder",
-            "url": "/player/11099?period=all"
+            "id": 11099
         },
         "p1": {
             "name": "bete",
-            "url": "/player/15428?period=all"
+            "id": 15428
         }
     },
     {
@@ -160,11 +160,11 @@
         "map": "Eternal Warriors",
         "p0": {
             "name": "y2\u200e",
-            "url": "/player/12160?period=all"
+            "id": 12160
         },
         "p1": {
             "name": "bete",
-            "url": "/player/15428?period=all"
+            "id": 15428
         }
     },
     {
@@ -172,11 +172,11 @@
         "map": "Marigold Town",
         "p0": {
             "name": "Gajcus",
-            "url": "/player/15421?period=all"
+            "id": 15421
         },
         "p1": {
             "name": "bete",
-            "url": "/player/15428?period=all"
+            "id": 15428
         }
     },
     {
@@ -184,11 +184,11 @@
         "map": "Kosovo 1v1",
         "p0": {
             "name": "Eugenator",
-            "url": "/player/11442?period=all"
+            "id": 11442
         },
         "p1": {
             "name": "Dodder",
-            "url": "/player/11099?period=all"
+            "id": 11099
         }
     },
     {
@@ -196,11 +196,11 @@
         "map": "Shadowlands",
         "p0": {
             "name": "Gajcus",
-            "url": "/player/15421?period=all"
+            "id": 15421
         },
         "p1": {
             "name": "bete",
-            "url": "/player/15428?period=all"
+            "id": 15428
         }
     },
     {
@@ -208,11 +208,11 @@
         "map": "Kosovo 1v1",
         "p0": {
             "name": "biasao",
-            "url": "/player/12444?period=all"
+            "id": 12444
         },
         "p1": {
             "name": "bete",
-            "url": "/player/15428?period=all"
+            "id": 15428
         }
     },
     {
@@ -220,11 +220,11 @@
         "map": "Crownsbury",
         "p0": {
             "name": "PrinzPi",
-            "url": "/player/14596?period=all"
+            "id": 14596
         },
         "p1": {
             "name": "milkman",
-            "url": "/player/16066?period=all"
+            "id": 16066
         }
     },
     {
@@ -232,11 +232,11 @@
         "map": "Marigold Town",
         "p0": {
             "name": "PrinzPi",
-            "url": "/player/14596?period=all"
+            "id": 14596
         },
         "p1": {
             "name": "bete",
-            "url": "/player/15428?period=all"
+            "id": 15428
         }
     },
     {
@@ -244,11 +244,11 @@
         "map": "Onyx",
         "p0": {
             "name": "maceman",
-            "url": "/player/6793?period=all"
+            "id": 6793
         },
         "p1": {
             "name": "luckyluke",
-            "url": "/player/12273?period=all"
+            "id": 12273
         }
     },
     {
@@ -256,11 +256,11 @@
         "map": "Clover",
         "p0": {
             "name": "luckyluke",
-            "url": "/player/12273?period=all"
+            "id": 12273
         },
         "p1": {
             "name": "maceman",
-            "url": "/player/6793?period=all"
+            "id": 6793
         }
     },
     {
@@ -268,11 +268,11 @@
         "map": "Kosovo 1v1",
         "p0": {
             "name": "maceman",
-            "url": "/player/6793?period=all"
+            "id": 6793
         },
         "p1": {
             "name": "luckyluke",
-            "url": "/player/12273?period=all"
+            "id": 12273
         }
     },
     {
@@ -280,11 +280,11 @@
         "map": "Forgotten Plains",
         "p0": {
             "name": "luckyluke",
-            "url": "/player/12273?period=all"
+            "id": 12273
         },
         "p1": {
             "name": "maceman",
-            "url": "/player/6793?period=all"
+            "id": 6793
         }
     },
     {
@@ -292,11 +292,11 @@
         "map": "Marigold Town",
         "p0": {
             "name": "bete",
-            "url": "/player/15428?period=all"
+            "id": 15428
         },
         "p1": {
             "name": "maceman",
-            "url": "/player/6793?period=all"
+            "id": 6793
         }
     },
     {
@@ -304,11 +304,11 @@
         "map": "Mountain Ridge Redux",
         "p0": {
             "name": "maceman",
-            "url": "/player/6793?period=all"
+            "id": 6793
         },
         "p1": {
             "name": "PrinzPi",
-            "url": "/player/14596?period=all"
+            "id": 14596
         }
     },
     {
@@ -316,11 +316,11 @@
         "map": "Eternal Warriors",
         "p0": {
             "name": "maceman",
-            "url": "/player/6793?period=all"
+            "id": 6793
         },
         "p1": {
             "name": "PrinzPi",
-            "url": "/player/14596?period=all"
+            "id": 14596
         }
     },
     {
@@ -328,11 +328,11 @@
         "map": "Offensive Operation",
         "p0": {
             "name": "Sigil",
-            "url": "/player/8869?period=all"
+            "id": 8869
         },
         "p1": {
             "name": "Dingo",
-            "url": "/player/15155?period=all"
+            "id": 15155
         }
     },
     {
@@ -340,11 +340,11 @@
         "map": "Shadowlands",
         "p0": {
             "name": "Duke Bones",
-            "url": "/player/11913?period=all"
+            "id": 11913
         },
         "p1": {
             "name": "TTTPPP",
-            "url": "/player/7387?period=all"
+            "id": 7387
         }
     },
     {
@@ -352,11 +352,11 @@
         "map": "Race Tracks",
         "p0": {
             "name": "Gajcus",
-            "url": "/player/15421?period=all"
+            "id": 15421
         },
         "p1": {
             "name": "Goremented",
-            "url": "/player/11435?period=all"
+            "id": 11435
         }
     },
     {
@@ -364,11 +364,11 @@
         "map": "Bucharest 1v1",
         "p0": {
             "name": "Gajcus",
-            "url": "/player/15421?period=all"
+            "id": 15421
         },
         "p1": {
             "name": "PrinzPi",
-            "url": "/player/14596?period=all"
+            "id": 14596
         }
     },
     {
@@ -376,11 +376,11 @@
         "map": "Argon",
         "p0": {
             "name": "Gajcus",
-            "url": "/player/15421?period=all"
+            "id": 15421
         },
         "p1": {
             "name": "Goremented",
-            "url": "/player/11435?period=all"
+            "id": 11435
         }
     },
     {
@@ -388,11 +388,11 @@
         "map": "Cog of War",
         "p0": {
             "name": "Gajcus",
-            "url": "/player/15421?period=all"
+            "id": 15421
         },
         "p1": {
             "name": "worldpeace",
-            "url": "/player/7617?period=all"
+            "id": 7617
         }
     },
     {
@@ -400,11 +400,11 @@
         "map": "Agita",
         "p0": {
             "name": "Gajcus",
-            "url": "/player/15421?period=all"
+            "id": 15421
         },
         "p1": {
             "name": "worldpeace",
-            "url": "/player/7617?period=all"
+            "id": 7617
         }
     },
     {
@@ -412,11 +412,11 @@
         "map": "Dirge",
         "p0": {
             "name": "Dodder",
-            "url": "/player/11099?period=all"
+            "id": 11099
         },
         "p1": {
             "name": "worldpeace",
-            "url": "/player/7617?period=all"
+            "id": 7617
         }
     },
     {
@@ -424,11 +424,11 @@
         "map": "Krakow 1v1",
         "p0": {
             "name": "Gajcus",
-            "url": "/player/15421?period=all"
+            "id": 15421
         },
         "p1": {
             "name": "bete",
-            "url": "/player/15428?period=all"
+            "id": 15428
         }
     },
     {
@@ -436,11 +436,11 @@
         "map": "Dirge",
         "p0": {
             "name": "Gajcus",
-            "url": "/player/15421?period=all"
+            "id": 15421
         },
         "p1": {
             "name": "IronScion",
-            "url": "/player/6386?period=all"
+            "id": 6386
         }
     },
     {
@@ -448,11 +448,11 @@
         "map": "Cog of War",
         "p0": {
             "name": "Gajcus",
-            "url": "/player/15421?period=all"
+            "id": 15421
         },
         "p1": {
             "name": "toiletbreakbrb",
-            "url": "/player/9156?period=all"
+            "id": 9156
         }
     },
     {
@@ -460,11 +460,11 @@
         "map": "Cog of War",
         "p0": {
             "name": "toiletbreakbrb",
-            "url": "/player/9156?period=all"
+            "id": 9156
         },
         "p1": {
             "name": "luckyluke",
-            "url": "/player/12273?period=all"
+            "id": 12273
         }
     },
     {
@@ -472,11 +472,11 @@
         "map": "Dirge",
         "p0": {
             "name": "toiletbreakbrb",
-            "url": "/player/9156?period=all"
+            "id": 9156
         },
         "p1": {
             "name": "luckyluke",
-            "url": "/player/12273?period=all"
+            "id": 12273
         }
     },
     {
@@ -484,11 +484,11 @@
         "map": "Dirge",
         "p0": {
             "name": "Gajcus",
-            "url": "/player/15421?period=all"
+            "id": 15421
         },
         "p1": {
             "name": "Dodder",
-            "url": "/player/11099?period=all"
+            "id": 11099
         }
     },
     {
@@ -496,11 +496,11 @@
         "map": "Scorched Earth",
         "p0": {
             "name": "Dodder",
-            "url": "/player/11099?period=all"
+            "id": 11099
         },
         "p1": {
             "name": "Cosmo",
-            "url": "/player/16089?period=all"
+            "id": 16089
         }
     },
     {
@@ -508,11 +508,11 @@
         "map": "Krakow 1v1",
         "p0": {
             "name": "Dodder",
-            "url": "/player/11099?period=all"
+            "id": 11099
         },
         "p1": {
             "name": "bete",
-            "url": "/player/15428?period=all"
+            "id": 15428
         }
     },
     {
@@ -520,11 +520,11 @@
         "map": "Krakow 1v1",
         "p0": {
             "name": "Gajcus",
-            "url": "/player/15421?period=all"
+            "id": 15421
         },
         "p1": {
             "name": "Kaution",
-            "url": "/player/11855?period=all"
+            "id": 11855
         }
     },
     {
@@ -532,11 +532,11 @@
         "map": "Krakow 1v1",
         "p0": {
             "name": "Duke Bones",
-            "url": "/player/11913?period=all"
+            "id": 11913
         },
         "p1": {
             "name": "bete",
-            "url": "/player/15428?period=all"
+            "id": 15428
         }
     },
     {
@@ -544,11 +544,11 @@
         "map": "Bucharest 1v1",
         "p0": {
             "name": "tux",
-            "url": "/player/15899?period=all"
+            "id": 15899
         },
         "p1": {
             "name": "bete",
-            "url": "/player/15428?period=all"
+            "id": 15428
         }
     },
     {
@@ -556,11 +556,11 @@
         "map": "Moonopoly",
         "p0": {
             "name": "bete",
-            "url": "/player/15428?period=all"
+            "id": 15428
         },
         "p1": {
             "name": "Duke Bones",
-            "url": "/player/11913?period=all"
+            "id": 11913
         }
     },
     {
@@ -568,11 +568,11 @@
         "map": "Argon",
         "p0": {
             "name": "Duke Bones",
-            "url": "/player/11913?period=all"
+            "id": 11913
         },
         "p1": {
             "name": "tux",
-            "url": "/player/15899?period=all"
+            "id": 15899
         }
     },
     {
@@ -580,11 +580,11 @@
         "map": "Agita",
         "p0": {
             "name": "Kaution",
-            "url": "/player/11855?period=all"
+            "id": 11855
         },
         "p1": {
             "name": "bete",
-            "url": "/player/15428?period=all"
+            "id": 15428
         }
     },
     {
@@ -592,11 +592,11 @@
         "map": "Argon",
         "p0": {
             "name": "bete",
-            "url": "/player/15428?period=all"
+            "id": 15428
         },
         "p1": {
             "name": "zx5",
-            "url": "/player/14229?period=all"
+            "id": 14229
         }
     },
     {
@@ -604,11 +604,11 @@
         "map": "Scorched Earth",
         "p0": {
             "name": "Dodder",
-            "url": "/player/11099?period=all"
+            "id": 11099
         },
         "p1": {
             "name": "PrinzPi",
-            "url": "/player/14596?period=all"
+            "id": 14596
         }
     },
     {
@@ -616,11 +616,11 @@
         "map": "Dirge",
         "p0": {
             "name": "PrinzPi",
-            "url": "/player/14596?period=all"
+            "id": 14596
         },
         "p1": {
             "name": "Dodder",
-            "url": "/player/11099?period=all"
+            "id": 11099
         }
     },
     {
@@ -628,11 +628,11 @@
         "map": "Scorched Earth",
         "p0": {
             "name": "Gajcus",
-            "url": "/player/15421?period=all"
+            "id": 15421
         },
         "p1": {
             "name": "toiletbreakbrb",
-            "url": "/player/9156?period=all"
+            "id": 9156
         }
     },
     {
@@ -640,11 +640,11 @@
         "map": "Discovery",
         "p0": {
             "name": "toiletbreakbrb",
-            "url": "/player/9156?period=all"
+            "id": 9156
         },
         "p1": {
             "name": "Gajcus",
-            "url": "/player/15421?period=all"
+            "id": 15421
         }
     },
     {
@@ -652,11 +652,11 @@
         "map": "Cog of War",
         "p0": {
             "name": "toiletbreakbrb",
-            "url": "/player/9156?period=all"
+            "id": 9156
         },
         "p1": {
             "name": "Gajcus",
-            "url": "/player/15421?period=all"
+            "id": 15421
         }
     },
     {
@@ -664,11 +664,11 @@
         "map": "Race Tracks",
         "p0": {
             "name": "Gajcus",
-            "url": "/player/15421?period=all"
+            "id": 15421
         },
         "p1": {
             "name": "PrinzPi",
-            "url": "/player/14596?period=all"
+            "id": 14596
         }
     },
     {
@@ -676,11 +676,11 @@
         "map": "Race Tracks",
         "p0": {
             "name": "Gajcus",
-            "url": "/player/15421?period=all"
+            "id": 15421
         },
         "p1": {
             "name": "camundahl",
-            "url": "/player/6730?period=all"
+            "id": 6730
         }
     },
     {
@@ -688,11 +688,11 @@
         "map": "Race Tracks",
         "p0": {
             "name": "Gajcus",
-            "url": "/player/15421?period=all"
+            "id": 15421
         },
         "p1": {
             "name": "Dodder",
-            "url": "/player/11099?period=all"
+            "id": 11099
         }
     },
     {
@@ -700,11 +700,11 @@
         "map": "Scorched Earth",
         "p0": {
             "name": "luckyluke",
-            "url": "/player/12273?period=all"
+            "id": 12273
         },
         "p1": {
             "name": "Dodder",
-            "url": "/player/11099?period=all"
+            "id": 11099
         }
     },
     {
@@ -712,11 +712,11 @@
         "map": "Scorched Earth",
         "p0": {
             "name": "Gajcus",
-            "url": "/player/15421?period=all"
+            "id": 15421
         },
         "p1": {
             "name": "Eugenator",
-            "url": "/player/11442?period=all"
+            "id": 11442
         }
     },
     {
@@ -724,11 +724,11 @@
         "map": "Bucharest 1v1",
         "p0": {
             "name": "Gajcus",
-            "url": "/player/15421?period=all"
+            "id": 15421
         },
         "p1": {
             "name": "Eugenator",
-            "url": "/player/11442?period=all"
+            "id": 11442
         }
     },
     {
@@ -736,11 +736,11 @@
         "map": "Argon",
         "p0": {
             "name": "Gajcus",
-            "url": "/player/15421?period=all"
+            "id": 15421
         },
         "p1": {
             "name": "Eugenator",
-            "url": "/player/11442?period=all"
+            "id": 11442
         }
     },
     {
@@ -748,11 +748,11 @@
         "map": "Krakow 1v1",
         "p0": {
             "name": "Gajcus",
-            "url": "/player/15421?period=all"
+            "id": 15421
         },
         "p1": {
             "name": "Eugenator",
-            "url": "/player/11442?period=all"
+            "id": 11442
         }
     },
     {
@@ -760,11 +760,11 @@
         "map": "Agita",
         "p0": {
             "name": "Dodder",
-            "url": "/player/11099?period=all"
+            "id": 11099
         },
         "p1": {
             "name": "bete",
-            "url": "/player/15428?period=all"
+            "id": 15428
         }
     },
     {
@@ -772,11 +772,11 @@
         "map": "Scorched Earth",
         "p0": {
             "name": "bete",
-            "url": "/player/15428?period=all"
+            "id": 15428
         },
         "p1": {
             "name": "Dodder",
-            "url": "/player/11099?period=all"
+            "id": 11099
         }
     },
     {
@@ -784,11 +784,11 @@
         "map": "Cog of War",
         "p0": {
             "name": "_wyrd_",
-            "url": "/player/16003?period=all"
+            "id": 16003
         },
         "p1": {
             "name": "xXDESTROYERXx",
-            "url": "/player/16004?period=all"
+            "id": 16004
         }
     },
     {
@@ -796,11 +796,11 @@
         "map": "Bucharest 1v1",
         "p0": {
             "name": "despro",
-            "url": "/player/16222?period=all"
+            "id": 16222
         },
         "p1": {
             "name": "zx5",
-            "url": "/player/14229?period=all"
+            "id": 14229
         }
     },
     {
@@ -808,11 +808,11 @@
         "map": "Scorched Earth",
         "p0": {
             "name": "Duke Bones",
-            "url": "/player/11913?period=all"
+            "id": 11913
         },
         "p1": {
             "name": "bete",
-            "url": "/player/15428?period=all"
+            "id": 15428
         }
     },
     {
@@ -820,11 +820,11 @@
         "map": "Dirge",
         "p0": {
             "name": "despro",
-            "url": "/player/16222?period=all"
+            "id": 16222
         },
         "p1": {
             "name": "milkman",
-            "url": "/player/16066?period=all"
+            "id": 16066
         }
     },
     {
@@ -832,11 +832,11 @@
         "map": "Race Tracks",
         "p0": {
             "name": "Duke Bones",
-            "url": "/player/11913?period=all"
+            "id": 11913
         },
         "p1": {
             "name": "despro",
-            "url": "/player/16222?period=all"
+            "id": 16222
         }
     },
     {
@@ -844,11 +844,11 @@
         "map": "Bucharest 1v1",
         "p0": {
             "name": "despro",
-            "url": "/player/16222?period=all"
+            "id": 16222
         },
         "p1": {
             "name": "Duke Bones",
-            "url": "/player/11913?period=all"
+            "id": 11913
         }
     },
     {
@@ -856,11 +856,11 @@
         "map": "Barents\u00f8ya (BB)",
         "p0": {
             "name": "despro",
-            "url": "/player/16222?period=all"
+            "id": 16222
         },
         "p1": {
             "name": "Eugenator",
-            "url": "/player/11442?period=all"
+            "id": 11442
         }
     },
     {
@@ -868,11 +868,11 @@
         "map": "Race Tracks",
         "p0": {
             "name": "Eugenator",
-            "url": "/player/11442?period=all"
+            "id": 11442
         },
         "p1": {
             "name": "despro",
-            "url": "/player/16222?period=all"
+            "id": 16222
         }
     },
     {
@@ -880,11 +880,11 @@
         "map": "Argon",
         "p0": {
             "name": "Eugenator",
-            "url": "/player/11442?period=all"
+            "id": 11442
         },
         "p1": {
             "name": "despro",
-            "url": "/player/16222?period=all"
+            "id": 16222
         }
     },
     {
@@ -892,11 +892,11 @@
         "map": "Scorched Earth",
         "p0": {
             "name": "Eugenator",
-            "url": "/player/11442?period=all"
+            "id": 11442
         },
         "p1": {
             "name": "despro",
-            "url": "/player/16222?period=all"
+            "id": 16222
         }
     },
     {
@@ -904,11 +904,11 @@
         "map": "Dirge",
         "p0": {
             "name": "Eugenator",
-            "url": "/player/11442?period=all"
+            "id": 11442
         },
         "p1": {
             "name": "despro",
-            "url": "/player/16222?period=all"
+            "id": 16222
         }
     },
     {
@@ -916,11 +916,11 @@
         "map": "Race Tracks",
         "p0": {
             "name": "despro",
-            "url": "/player/16222?period=all"
+            "id": 16222
         },
         "p1": {
             "name": "alex1984",
-            "url": "/player/7514?period=all"
+            "id": 7514
         }
     },
     {
@@ -928,11 +928,11 @@
         "map": "Agita",
         "p0": {
             "name": "despro",
-            "url": "/player/16222?period=all"
+            "id": 16222
         },
         "p1": {
             "name": "bete",
-            "url": "/player/15428?period=all"
+            "id": 15428
         }
     },
     {
@@ -940,11 +940,11 @@
         "map": "Scorched Earth",
         "p0": {
             "name": "tux",
-            "url": "/player/15899?period=all"
+            "id": 15899
         },
         "p1": {
             "name": "IronScion",
-            "url": "/player/6386?period=all"
+            "id": 6386
         }
     },
     {
@@ -952,11 +952,11 @@
         "map": "Bucharest 1v1",
         "p0": {
             "name": "bete",
-            "url": "/player/15428?period=all"
+            "id": 15428
         },
         "p1": {
             "name": "tux",
-            "url": "/player/15899?period=all"
+            "id": 15899
         }
     },
     {
@@ -964,11 +964,11 @@
         "map": "Scorched Earth",
         "p0": {
             "name": "tux",
-            "url": "/player/15899?period=all"
+            "id": 15899
         },
         "p1": {
             "name": "IronScion",
-            "url": "/player/6386?period=all"
+            "id": 6386
         }
     },
     {
@@ -976,11 +976,11 @@
         "map": "Bucharest 1v1",
         "p0": {
             "name": "despro",
-            "url": "/player/16222?period=all"
+            "id": 16222
         },
         "p1": {
             "name": "Gtrizzle",
-            "url": "/player/11654?period=all"
+            "id": 11654
         }
     },
     {
@@ -988,11 +988,11 @@
         "map": "Scorched Earth",
         "p0": {
             "name": "Federico",
-            "url": "/player/14974?period=all"
+            "id": 14974
         },
         "p1": {
             "name": "IronScion",
-            "url": "/player/6386?period=all"
+            "id": 6386
         }
     },
     {
@@ -1000,11 +1000,11 @@
         "map": "Agita",
         "p0": {
             "name": "toiletbreakbrb",
-            "url": "/player/9156?period=all"
+            "id": 9156
         },
         "p1": {
             "name": "despro",
-            "url": "/player/16222?period=all"
+            "id": 16222
         }
     },
     {
@@ -1012,11 +1012,11 @@
         "map": "Argon",
         "p0": {
             "name": "toiletbreakbrb",
-            "url": "/player/9156?period=all"
+            "id": 9156
         },
         "p1": {
             "name": "Federico",
-            "url": "/player/14974?period=all"
+            "id": 14974
         }
     },
     {
@@ -1024,11 +1024,11 @@
         "map": "Scorched Earth",
         "p0": {
             "name": "tux",
-            "url": "/player/15899?period=all"
+            "id": 15899
         },
         "p1": {
             "name": "Federico",
-            "url": "/player/14974?period=all"
+            "id": 14974
         }
     },
     {
@@ -1036,11 +1036,11 @@
         "map": "Bucharest 1v1",
         "p0": {
             "name": "tux",
-            "url": "/player/15899?period=all"
+            "id": 15899
         },
         "p1": {
             "name": "Federico",
-            "url": "/player/14974?period=all"
+            "id": 14974
         }
     },
     {
@@ -1048,11 +1048,11 @@
         "map": "Sun Struggle",
         "p0": {
             "name": "Eugenator",
-            "url": "/player/11442?period=all"
+            "id": 11442
         },
         "p1": {
             "name": "despro",
-            "url": "/player/16222?period=all"
+            "id": 16222
         }
     },
     {
@@ -1060,11 +1060,11 @@
         "map": "Moonopoly",
         "p0": {
             "name": "Eugenator",
-            "url": "/player/11442?period=all"
+            "id": 11442
         },
         "p1": {
             "name": "despro",
-            "url": "/player/16222?period=all"
+            "id": 16222
         }
     },
     {
@@ -1072,11 +1072,11 @@
         "map": "Discovery",
         "p0": {
             "name": "Eugenator",
-            "url": "/player/11442?period=all"
+            "id": 11442
         },
         "p1": {
             "name": "despro",
-            "url": "/player/16222?period=all"
+            "id": 16222
         }
     },
     {
@@ -1084,11 +1084,11 @@
         "map": "Fairyland",
         "p0": {
             "name": "Eugenator",
-            "url": "/player/11442?period=all"
+            "id": 11442
         },
         "p1": {
             "name": "despro",
-            "url": "/player/16222?period=all"
+            "id": 16222
         }
     },
     {
@@ -1096,11 +1096,11 @@
         "map": "Bucharest 1v1",
         "p0": {
             "name": "despro",
-            "url": "/player/16222?period=all"
+            "id": 16222
         },
         "p1": {
             "name": "biasao",
-            "url": "/player/12444?period=all"
+            "id": 12444
         }
     },
     {
@@ -1108,11 +1108,11 @@
         "map": "Dirge",
         "p0": {
             "name": "biasao",
-            "url": "/player/12444?period=all"
+            "id": 12444
         },
         "p1": {
             "name": "Dodder",
-            "url": "/player/11099?period=all"
+            "id": 11099
         }
     },
     {
@@ -1120,11 +1120,11 @@
         "map": "Bucharest 1v1",
         "p0": {
             "name": "Dodder",
-            "url": "/player/11099?period=all"
+            "id": 11099
         },
         "p1": {
             "name": "biasao",
-            "url": "/player/12444?period=all"
+            "id": 12444
         }
     },
     {
@@ -1132,11 +1132,11 @@
         "map": "Krakow 1v1",
         "p0": {
             "name": "despro",
-            "url": "/player/16222?period=all"
+            "id": 16222
         },
         "p1": {
             "name": "bete",
-            "url": "/player/15428?period=all"
+            "id": 15428
         }
     },
     {
@@ -1144,11 +1144,11 @@
         "map": "Dirge",
         "p0": {
             "name": "PrinzPi",
-            "url": "/player/14596?period=all"
+            "id": 14596
         },
         "p1": {
             "name": "Dodder",
-            "url": "/player/11099?period=all"
+            "id": 11099
         }
     },
     {
@@ -1156,11 +1156,11 @@
         "map": "Dirge",
         "p0": {
             "name": "biasao",
-            "url": "/player/12444?period=all"
+            "id": 12444
         },
         "p1": {
             "name": "Dodder",
-            "url": "/player/11099?period=all"
+            "id": 11099
         }
     },
     {
@@ -1168,11 +1168,11 @@
         "map": "Dirge",
         "p0": {
             "name": "Eugenator",
-            "url": "/player/11442?period=all"
+            "id": 11442
         },
         "p1": {
             "name": "milkman",
-            "url": "/player/16066?period=all"
+            "id": 16066
         }
     },
     {
@@ -1180,11 +1180,11 @@
         "map": "Barents\u00f8ya (BB)",
         "p0": {
             "name": "biasao",
-            "url": "/player/12444?period=all"
+            "id": 12444
         },
         "p1": {
             "name": "TTTPPP",
-            "url": "/player/7387?period=all"
+            "id": 7387
         }
     },
     {
@@ -1192,11 +1192,11 @@
         "map": "Agita",
         "p0": {
             "name": "TTTPPP",
-            "url": "/player/7387?period=all"
+            "id": 7387
         },
         "p1": {
             "name": "bete",
-            "url": "/player/15428?period=all"
+            "id": 15428
         }
     },
     {
@@ -1204,11 +1204,11 @@
         "map": "Bucharest 1v1",
         "p0": {
             "name": "Goremented",
-            "url": "/player/11435?period=all"
+            "id": 11435
         },
         "p1": {
             "name": "despro",
-            "url": "/player/16222?period=all"
+            "id": 16222
         }
     },
     {
@@ -1216,11 +1216,11 @@
         "map": "Scorched Earth",
         "p0": {
             "name": "worldpeace",
-            "url": "/player/7617?period=all"
+            "id": 7617
         },
         "p1": {
             "name": "tux",
-            "url": "/player/15899?period=all"
+            "id": 15899
         }
     },
     {
@@ -1228,11 +1228,11 @@
         "map": "Dirge",
         "p0": {
             "name": "worldpeace",
-            "url": "/player/7617?period=all"
+            "id": 7617
         },
         "p1": {
             "name": "tux",
-            "url": "/player/15899?period=all"
+            "id": 15899
         }
     },
     {
@@ -1240,11 +1240,11 @@
         "map": "Trapped",
         "p0": {
             "name": "despro",
-            "url": "/player/16222?period=all"
+            "id": 16222
         },
         "p1": {
             "name": "Gajcus",
-            "url": "/player/15421?period=all"
+            "id": 15421
         }
     },
     {
@@ -1252,11 +1252,11 @@
         "map": "Scorched Earth",
         "p0": {
             "name": "biasao",
-            "url": "/player/12444?period=all"
+            "id": 12444
         },
         "p1": {
             "name": "despro",
-            "url": "/player/16222?period=all"
+            "id": 16222
         }
     },
     {
@@ -1264,11 +1264,11 @@
         "map": "Agita",
         "p0": {
             "name": "Silviu",
-            "url": "/player/16264?period=all"
+            "id": 16264
         },
         "p1": {
             "name": "ZippoHERE",
-            "url": "/player/16266?period=all"
+            "id": 16266
         }
     },
     {
@@ -1276,11 +1276,11 @@
         "map": "Scorched Earth",
         "p0": {
             "name": "Gajcus",
-            "url": "/player/15421?period=all"
+            "id": 15421
         },
         "p1": {
             "name": "bete",
-            "url": "/player/15428?period=all"
+            "id": 15428
         }
     },
     {
@@ -1288,11 +1288,11 @@
         "map": "Cog of War",
         "p0": {
             "name": "despro",
-            "url": "/player/16222?period=all"
+            "id": 16222
         },
         "p1": {
             "name": "f0rk",
-            "url": "/player/10862?period=all"
+            "id": 10862
         }
     },
     {
@@ -1300,11 +1300,11 @@
         "map": "Fairyland",
         "p0": {
             "name": "Mr Cloudy",
-            "url": "/player/6771?period=all"
+            "id": 6771
         },
         "p1": {
             "name": "despro",
-            "url": "/player/16222?period=all"
+            "id": 16222
         }
     },
     {
@@ -1312,11 +1312,11 @@
         "map": "Krakow 1v1",
         "p0": {
             "name": "biasao",
-            "url": "/player/12444?period=all"
+            "id": 12444
         },
         "p1": {
             "name": "despro",
-            "url": "/player/16222?period=all"
+            "id": 16222
         }
     },
     {
@@ -1324,11 +1324,11 @@
         "map": "Agita",
         "p0": {
             "name": "despro",
-            "url": "/player/16222?period=all"
+            "id": 16222
         },
         "p1": {
             "name": "biasao",
-            "url": "/player/12444?period=all"
+            "id": 12444
         }
     },
     {
@@ -1336,11 +1336,11 @@
         "map": "Bucharest 1v1",
         "p0": {
             "name": "despro",
-            "url": "/player/16222?period=all"
+            "id": 16222
         },
         "p1": {
             "name": "biasao",
-            "url": "/player/12444?period=all"
+            "id": 12444
         }
     },
     {
@@ -1348,11 +1348,11 @@
         "map": "Moonopoly",
         "p0": {
             "name": "biasao",
-            "url": "/player/12444?period=all"
+            "id": 12444
         },
         "p1": {
             "name": "despro",
-            "url": "/player/16222?period=all"
+            "id": 16222
         }
     },
     {
@@ -1360,11 +1360,11 @@
         "map": "Scorched Earth",
         "p0": {
             "name": "despro",
-            "url": "/player/16222?period=all"
+            "id": 16222
         },
         "p1": {
             "name": "Dodder",
-            "url": "/player/11099?period=all"
+            "id": 11099
         }
     },
     {
@@ -1372,11 +1372,11 @@
         "map": "Fairyland",
         "p0": {
             "name": "despro",
-            "url": "/player/16222?period=all"
+            "id": 16222
         },
         "p1": {
             "name": "Eugenator",
-            "url": "/player/11442?period=all"
+            "id": 11442
         }
     },
     {
@@ -1384,11 +1384,11 @@
         "map": "Krakow 1v1",
         "p0": {
             "name": "despro",
-            "url": "/player/16222?period=all"
+            "id": 16222
         },
         "p1": {
             "name": "Eugenator",
-            "url": "/player/11442?period=all"
+            "id": 11442
         }
     }
 ]
