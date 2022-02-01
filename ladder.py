@@ -159,15 +159,16 @@ data, player_data = glicko2_table(ratings, results)
 # Create the data files.
 with open(os.path.join('docs', 'data', 'timestamps.json'), 'w') as timestamp_file:
     json.dump(sorted(data.keys()), timestamp_file, indent=4)
-player_rating_data = collections.defaultdict(dict)
-for week_timestamp, week_data in data.items():
+player_rating_data = collections.defaultdict(list)
+for week_timestamp, week_data in sorted(data.items(), key=lambda item: -item[0]):
     week_table = []
     for player_id, player_week_data in sorted(week_data.items(), key=lambda item: -item[1]['r']):
         week_table.append(player_week_data)
-        player_rating_data[player_id][week_timestamp] = dict(player_week_data)
-        del(player_rating_data[player_id][week_timestamp]['i'])
-        player_rating_data[player_id][week_timestamp]['o'] = len(week_table)
-        player_rating_data[player_id][week_timestamp]['c'] = round(100.0 * (len(week_table)-1) / (len(week_data)-1))
+        player_rating_data[player_id].append(dict(player_week_data))
+        del(player_rating_data[player_id][-1]['i'])
+        player_rating_data[player_id][-1]['d'] = week_timestamp
+        player_rating_data[player_id][-1]['o'] = len(week_table)
+        player_rating_data[player_id][-1]['c'] = round(100.0 * (len(week_table)-1) / (len(week_data)-1))
     with open(os.path.join('docs', 'data', 'weeks', 'w{}.json'.format(week_timestamp)), 'w') as week_file:
         json.dump(week_table, week_file, indent=4)
 with open(os.path.join('docs', 'data', 'players.json'), 'w') as players_file:

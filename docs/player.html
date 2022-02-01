@@ -1,0 +1,61 @@
+<html>
+    <head>
+        <title>RAGL Ladder - Player History</title>
+        <script src="js/jquery.min.js"></script>
+        <script>
+            $(document).ready(function() {
+                $.getJSON('data/players.json', function(players) {
+                    const urlSearchParams = new URLSearchParams(window.location.search);
+                    var playerId = Number(urlSearchParams.get('player'));
+                    if (!playerId) {
+                        const playerIds = Object.keys(players);
+                        playerId = playerIds[Math.floor(playerIds.length * Math.random())];
+                    }
+                    const name = players[playerId];
+                    $('#name').text(name)
+
+                    $.getJSON('data/players/p'+playerId+'.json', function(weekData) {
+                        weekData.forEach(rowData => {
+                            const timestamp = rowData['d'];
+                            const date = new Date(timestamp * 1000);
+                            const rank = rowData['o'];
+                            const percentile = rowData['c'];
+                            const rating = rowData['r'];
+                            const error = rowData['e'];
+                            const played = rowData['p'];
+                            const won = rowData['w'];
+                            $('#week').append($('<tr>')
+                                    .append($('<td>').append($('<a>').attr('href', 'index.html?timestamp=' + timestamp).text(date.toDateString())))
+                                    .append($('<td>').text(rank))
+                                    .append($('<td>').text(percentile))
+                                    .append($('<td>').text(rating))
+                                    .append($('<td>').text(error))
+                                    .append($('<td>').text(played))
+                                    .append($('<td>').text(won)))
+                        });
+                    });
+                });
+            });
+        </script>
+    </head>
+    <body>
+        <h1><a href="index.html">RAGL Ladder</a></h1>
+        <h2>Ranking history for <span id="name"></span>:</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Week</th>
+                    <th>Rank</th>
+                    <th>Percentile</th>
+                    <th>Rating</th>
+                    <th>Error</th>
+                    <th>Played</th>
+                    <th>Won</th>
+                </tr>
+            </thead>
+            <tbody id="week">
+
+            </tbody>
+        </table>
+    </body>
+</html>

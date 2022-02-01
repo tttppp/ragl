@@ -3,35 +3,62 @@
         <title>RAGL Ladder</title>
         <script src="js/jquery.min.js"></script>
         <script>
-            $(document).ready(function() {
-                $.getJSON('data/timestamps.json', function(timestamps) {
-                    $.getJSON('data/players.json', function(players) {
-                        var timestamp = timestamps[timestamps.length - 2];
-                        var date = new Date(timestamp * 1000);
-                        $('#date').text(date.toDateString());
-                        $.getJSON('data/weeks/w'+timestamp+'.json', function(weekData) {
-                            weekData.forEach((rowData, rowIndex) => {
-                                var name = players[rowData['i']];
-                                var ranking = rowData['r'];
-                                var error = rowData['e'];
-                                var played = rowData['p'];
-                                var won = rowData['w'];
-                                $('#week').append($('<tr>')
-                                        .append($('<td>').text(rowIndex + 1))
-                                        .append($('<td>').text(name))
-                                        .append($('<td>').text(ranking))
-                                        .append($('<td>').text(error))
-                                        .append($('<td>').text(played))
-                                        .append($('<td>').text(won)))
-                            });
+            function displayWeek(timestamp) {
+                const date = new Date(timestamp * 1000);
+                $.getJSON('data/players.json', function(players) {
+                    $('#date').text(date.toDateString());
+                    $.getJSON('data/weeks/w'+timestamp+'.json', function(weekData) {
+                        weekData.forEach((rowData, rowIndex) => {
+                            const playerId = rowData['i'];
+                            const name = players[playerId];
+                            const rating = rowData['r'];
+                            const error = rowData['e'];
+                            const played = rowData['p'];
+                            const won = rowData['w'];
+                            $('#week').append($('<tr>')
+                                    .append($('<td>').text(rowIndex + 1))
+                                    .append($('<td>').append($('<a>').attr('href', 'player.html?player=' + playerId).text(name)))
+                                    .append($('<td>').text(rating))
+                                    .append($('<td>').text(error))
+                                    .append($('<td>').text(played))
+                                    .append($('<td>').text(won)))
                         });
                     });
+                });
+            }
+
+            $(document).ready(function() {
+                $.getJSON('data/timestamps.json', function(timestamps) {
+                    const urlSearchParams = new URLSearchParams(window.location.search);
+                    var timestamp = Number(urlSearchParams.get('timestamp'));
+                    const firstWeek = timestamps[0];
+                    const weekInProgress = timestamps[timestamps.length - 1];
+                    if (!timestamp) {
+                        timestamp = timestamps[timestamps.length - 2];
+                    }
+                    displayWeek(timestamp);
+                    // Populate previous/next links.
+                    var previousWeekLink = $('<a>').text("Previous Week");
+                    if (timestamp > firstWeek) {
+                        previousWeekLink.attr('href', '?timestamp=' + (timestamp - 7 * 24 * 60 * 60));
+                    }
+                    $('#previous').append(previousWeekLink);
+                    var nextWeekLink = $('<a>').text("Next Week");
+                    if (timestamp < weekInProgress) {
+                        nextWeekLink.attr('href', '?timestamp=' + (timestamp + 7 * 24 * 60 * 60));
+                    }
+                    $('#next').append(nextWeekLink);
                 });
             });
         </script>
     </head>
     <body>
-        <h1>Rankings as of <span id="date"></span>:</h1>
+        <h1><a href="index.html">RAGL Ladder</a></h1>
+        <h2>Rankings as of <span id="date"></span>:</h2>
+        <div>
+            <span id="previous"></span>
+            <span id="next"></span>
+        </div>
         <table>
             <thead>
                 <tr>
