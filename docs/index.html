@@ -1,0 +1,51 @@
+<html>
+    <head>
+        <title>RAGL Ladder</title>
+        <script src="js/jquery.min.js"></script>
+        <script>
+            $(document).ready(function() {
+                $.getJSON('data/timestamps.json', function(timestamps) {
+                    $.getJSON('data/players.json', function(players) {
+                        var timestamp = timestamps[timestamps.length - 2];
+                        var date = new Date(timestamp * 1000);
+                        $('#date').text(date.toDateString());
+                        $.getJSON('data/weeks/w'+timestamp+'.json', function(weekData) {
+                            weekData.forEach((rowData, rowIndex) => {
+                                var name = players[rowData['i']];
+                                var ranking = rowData['r'];
+                                var error = rowData['e'];
+                                var played = rowData['p'];
+                                var won = rowData['w'];
+                                $('#week').append($('<tr>')
+                                        .append($('<td>').text(rowIndex + 1))
+                                        .append($('<td>').text(name))
+                                        .append($('<td>').text(ranking))
+                                        .append($('<td>').text(error))
+                                        .append($('<td>').text(played))
+                                        .append($('<td>').text(won)))
+                            });
+                        });
+                    });
+                });
+            });
+        </script>
+    </head>
+    <body>
+        <h1>Rankings as of <span id="date"></span>:</h1>
+        <table>
+            <thead>
+                <tr>
+                    <th>Rank</th>
+                    <th>Name</th>
+                    <th>Rating</th>
+                    <th>Error</th>
+                    <th>Played</th>
+                    <th>Won</th>
+                </tr>
+            </thead>
+            <tbody id="week">
+
+            </tbody>
+        </table>
+    </body>
+</html>
