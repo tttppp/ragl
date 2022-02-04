@@ -1,0 +1,25 @@
+name: ladder
+on:
+  push:
+  schedule:
+    - cron:  '0 0 * * *'
+jobs:
+  update-ladder:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout project
+        uses: actions/checkout@v2
+      - name: Install python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      - name: Install dependencies
+        uses: py-actions/py-dependency-install@v3
+      - name: Refresh ladder
+        run: python3 ladder.py
+      - name: Push any changes
+        run: |
+        git config --global user.name 'GitHub Action'
+        git config --global user.email 'github-action@users.noreply.github.com'
+        git commit -am "Update for `date -I`."
+        git push
