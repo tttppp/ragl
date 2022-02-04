@@ -1714,5 +1714,17 @@
             "name": "TTTPPP",
             "id": 7387
         }
+    },
+    {
+        "date": "2022-02-03 19:59:09",
+        "map": "Barents\u00f8ya (BB)",
+        "p0": {
+            "name": "despro",
+            "id": 16222
+        },
+        "p1": {
+            "name": "TTTPPP",
+            "id": 7387
+        }
     }
 ]
