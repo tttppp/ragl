@@ -18,6 +18,7 @@ jobs:
       - name: Refresh ladder
         run: python3 ladder.py
       - name: Push if there are changes
+        continue-on-error: true
         run: >-
           git diff-index --quiet HEAD;
           if [[ $? != 0 ]];
