@@ -88,7 +88,7 @@ for year in sorted(new_games_by_year.keys()):
         results_filenames_by_year[year]['ladder'] = filename
     print('Adding {} games to {}'.format(len(new_games_by_year[year]), year))
     with open(filename, 'w') as results_file:
-        json.dump(results, results_file, indent=4)
+        json.dump(results, results_file, indent=4, sort_keys=True)
 
 start_datetime = str_to_date('2016-01-04 00:00:00')
 now = datetime.date.today()
@@ -158,7 +158,7 @@ data, player_data = glicko2_table(ratings, results)
 
 # Create the data files.
 with open(os.path.join('docs', 'data', 'timestamps.json'), 'w') as timestamp_file:
-    json.dump(sorted(data.keys()), timestamp_file, indent=4)
+    json.dump(sorted(data.keys()), timestamp_file, indent=4, sort_keys=True)
 player_rating_data = collections.defaultdict(list)
 for week_timestamp, week_data in sorted(data.items(), key=lambda item: -item[0]):
     week_table = []
@@ -170,9 +170,9 @@ for week_timestamp, week_data in sorted(data.items(), key=lambda item: -item[0])
         player_rating_data[player_id][-1]['o'] = len(week_table)
         player_rating_data[player_id][-1]['c'] = round(100.0 * (len(week_table)-1) / (len(week_data)-1))
     with open(os.path.join('docs', 'data', 'weeks', 'w{}.json'.format(week_timestamp)), 'w') as week_file:
-        json.dump(week_table, week_file, indent=4)
+        json.dump(week_table, week_file, indent=4, sort_keys=True)
 with open(os.path.join('docs', 'data', 'players.json'), 'w') as players_file:
-    json.dump(player_data, players_file, indent=4)
+    json.dump(player_data, players_file, indent=4, sort_keys=True)
 for player_id, entries in player_rating_data.items():
     with open(os.path.join('docs', 'data', 'players', 'p{}.json'.format(player_id)), 'w') as player_rating_file:
-        json.dump(entries, player_rating_file, indent=4)
+        json.dump(entries, player_rating_file, indent=4, sort_keys=True)
