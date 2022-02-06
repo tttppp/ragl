@@ -5,6 +5,7 @@ import collections
 import datetime
 import glicko2
 import json
+import math
 import os
 import requests
 
@@ -156,8 +157,11 @@ for week_timestamp, week_data in sorted(data.items(), key=lambda item: -item[0])
         player_rating_data[player_id].append(dict(player_week_data))
         del(player_rating_data[player_id][-1]['i'])
         player_rating_data[player_id][-1]['d'] = week_timestamp
-        player_rating_data[player_id][-1]['o'] = len(week_table)
-        player_rating_data[player_id][-1]['c'] = round(100.0 * (len(week_table)-1) / (len(week_data)-1))
+        frequency = len([row for row in week_data.values() if row['r'] == player_week_data['r']])
+        rank = len([row for row in week_data.values() if row['r'] > player_week_data['r']]) + 1
+        player_rating_data[player_id][-1]['o'] = rank
+        # Rank percentile
+        player_rating_data[player_id][-1]['c'] = math.ceil(100.0 * ((rank - 1) + 0.5 * frequency) / len(week_data))
     with open(os.path.join('docs', 'data', 'weeks', 'w{}.json'.format(week_timestamp)), 'w') as week_file:
         json.dump(week_table, week_file, indent=4, sort_keys=True)
 with open(os.path.join('docs', 'data', 'players.json'), 'w') as players_file:
