@@ -13,17 +13,6 @@ web_dir = 'docs'
 
 ladder_url = 'http://oraladder.net/latest-js?period=all'
 
-template = '''
-<html>
-    <head>
-        <title>RAGL Ladder</title>
-    </head>
-    <body>
-{}
-    </body>
-</html>
-'''
-
 def str_to_date(date_string):
     return datetime.datetime.fromisoformat(date_string)
 
