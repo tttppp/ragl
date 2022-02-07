@@ -1,6 +1,7 @@
 <html>
     <head>
         <title>RAGL Ladder</title>
+        <link rel="stylesheet" href="ragl.css">
         <script src="js/jquery.min.js"></script>
         <script>
             function displayWeek(timestamp) {
@@ -53,26 +54,28 @@
         </script>
     </head>
     <body>
-        <h1><a href="index.html">RAGL Ladder</a></h1>
-        <h2>Rankings as of <span id="date"></span>:</h2>
-        <div>
-            <span id="previous"></span>
-            <span id="next"></span>
-        </div>
-        <table>
-            <thead>
-                <tr>
-                    <th>Rank</th>
-                    <th>Name</th>
-                    <th>Rating</th>
-                    <th>Error</th>
-                    <th>Played</th>
-                    <th>Won</th>
-                </tr>
-            </thead>
-            <tbody id="week">
+        <div id="content">
+            <h1><a href="index.html">RAGL Ladder</a></h1>
+            <h2>Rankings as of <span id="date"></span>:</h2>
+            <div id="navigation">
+                <span id="previous"></span>
+                <span id="next"></span>
+            </div>
+            <table id="results">
+                <thead>
+                    <tr>
+                        <th>Rank</th>
+                        <th>Name</th>
+                        <th>Rating</th>
+                        <th>Error</th>
+                        <th>Played</th>
+                        <th>Won</th>
+                    </tr>
+                </thead>
+                <tbody id="week">
 
-            </tbody>
-        </table>
+                </tbody>
+            </table>
+        </div>
     </body>
 </html>

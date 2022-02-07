@@ -1,6 +1,7 @@
 <html>
     <head>
         <title>RAGL Ladder - Player History</title>
+        <link rel="stylesheet" href="ragl.css">
         <script src="js/jquery.min.js"></script>
         <script>
             $(document).ready(function() {
@@ -39,23 +40,25 @@
         </script>
     </head>
     <body>
-        <h1><a href="index.html">RAGL Ladder</a></h1>
-        <h2>Ranking history for <span id="name"></span>:</h2>
-        <table>
-            <thead>
-                <tr>
-                    <th>Week</th>
-                    <th>Rank</th>
-                    <th>Percentile</th>
-                    <th>Rating</th>
-                    <th>Error</th>
-                    <th>Played</th>
-                    <th>Won</th>
-                </tr>
-            </thead>
-            <tbody id="week">
+        <div id="content">
+            <h1><a href="index.html">RAGL Ladder</a></h1>
+            <h2>Ranking history for <span id="name"></span>:</h2>
+            <table id="results">
+                <thead>
+                    <tr>
+                        <th>Week</th>
+                        <th>Rank</th>
+                        <th>Percentile</th>
+                        <th>Rating</th>
+                        <th>Error</th>
+                        <th>Played</th>
+                        <th>Won</th>
+                    </tr>
+                </thead>
+                <tbody id="week">
 
-            </tbody>
-        </table>
+                </tbody>
+            </table>
+        </div>
     </body>
 </html>

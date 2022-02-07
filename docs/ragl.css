@@ -1,0 +1,56 @@
+body {
+    background-color: #000;
+    color: #aaa;
+    max-width: 800px;
+    margin: auto;
+    font-family: Georgia, serif;
+    font-size: 16pt;
+}
+
+h1 {
+    font-size: 40pt;
+    text-align: center;
+}
+
+h2 {
+    font-size: 24pt;
+}
+
+#content {
+    background-color: #222;
+    border-color: #222;
+    padding: 0 20px 0 20px;
+}
+
+#navigation {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    padding-bottom: 20px;
+}
+
+#results {
+    width: 100%;
+    font-size: 16pt;
+}
+
+tbody tr {
+    background-color: #282828;
+}
+
+tbody tr:nth-child(odd) {
+    background-color: #2c2c2c;
+}
+
+#results td {
+    padding: 2px;
+    text-align: center;
+}
+
+a[href] {
+    color: #66f;
+}
+
+a[href]:hover {
+    color: #aaf;
+}
