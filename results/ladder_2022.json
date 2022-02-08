@@ -1822,5 +1822,17 @@
             "id": 13987,
             "name": "Commander YZ"
         }
+    },
+    {
+        "date": "2022-02-07 21:24:29",
+        "map": "Bucharest 1v1",
+        "p0": {
+            "id": 14974,
+            "name": "Federico"
+        },
+        "p1": {
+            "id": 16066,
+            "name": "milkman"
+        }
     }
 ]
