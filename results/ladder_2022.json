@@ -1870,5 +1870,17 @@
             "id": 16256,
             "name": "nbernhar"
         }
+    },
+    {
+        "date": "2022-02-09 19:37:18",
+        "map": "Scorched Earth",
+        "p0": {
+            "id": 16028,
+            "name": "Koffiato"
+        },
+        "p1": {
+            "id": 16434,
+            "name": "Murisama"
+        }
     }
 ]
