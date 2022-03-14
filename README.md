@@ -1,6 +1,8 @@
 # RAGL
 
-This repository contains several archived resources related to RAGL.
+![RAGL Logo](docs/img/logo.png)
+
+This repository contains resources related to RAGL.
 
 ## RAGL Ladder
 
