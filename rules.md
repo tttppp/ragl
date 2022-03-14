@@ -271,7 +271,29 @@ Official communications between the players and with league officials are primar
 
 4.2.3 Map pool can be found at ragl.org
 
+### 4.2.4 Map contest
+
 4.2.4: There will be a vote for the community's favourite map before RAGL, this map will be automatically included in the pool. Maps must be submitted by 2021-09-30 (updated from 2021-10-04).
+
+4.2.4.1: Map submissions should be made in this thread or in the #map-making channel of the OpenRA Competitive Discord server,
+
+4.2.4.2: Up to two maps per mapmaker
+
+4.2.4.3: Maps do not have to be new, but may not have featured in previous seasons of RAGL
+
+4.2.4.4: Voting will open once map submissions have closed.
+
+4.2.4.5: Voting will close on 2021-10-07.
+
+4.2.4.6: Voters assign 3pts, 2pts and 1pt to three different maps (it is not allowed to vote for fewer than three maps)
+
+4.2.4.7: Votes are final at the point they are seen by TTTPPP and cannot be changed after this
+
+4.2.4.8: Mapmakers can't vote for their own maps
+
+4.2.4.9: Any mapmakers who vote will receive 3pts bonus on all maps they submitted
+
+4.2.4.10: The map with the highest score will win. If two maps are tied on the same score then the tiebreaker will be number of people who gave it a score (including bonus points). If the maps are still tied after this then the map with the lowest resource centre id wins (as shown in the links below).
 
 ## 4.3 Game disconnects
 
