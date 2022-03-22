@@ -1,39 +1,41 @@
 # The Rulebook
 
-Red Alert Global League (RAGL), Season 11 is played starting 2021-10-11. The end date can be flexible, however, we will aim to be finished in 10 weeks on 2021-12-20. This timespan includes up to 7 weeks for the group stage and 3 weeks reserved for unforeseen delays, tiebreakers and playoffs.
+Red Alert Global League (RAGL), Season 12 is played starting 2022-04-25. We will aim to be finished in 10 weeks by 2022-06-03. This timespan includes up to 7 weeks for the group stage and 3 weeks reserved for unforeseen delays, tiebreakers and playoffs.
 Timespan of the season is subject to change depending on actual player rosters and will be finalized after player registrations are closed.
 
-Current prize pool total: $1600
-For details on prize pool contributions, check out the Prize Pool section at the end of this post.
+Current prize pool total: TBC
+For details on prize pool contributions, check out the [Prize Pool section](#5.2-Prize-pool-contributions).
 
-```
-1. Format
-1.1 League structure
-1.2 Group stage
-1.3 Placements, promotions, relegations
-1.4 Playoffs
-1.5 Prizes
-2. Registrations
-2.1 New signups
-2.2 Returning players
-2.3 Qualifications
-2.4 Waiting list
-3. Communications
-3.1 Match scheduling
-3.2 Match reporting
-3.3 Failed contact notices
-3.4 Season Forfeit
-3.5 Disputes
-3.6 Match delays
-4. Match regulations
-4.1 Game setup
-4.2 Map pool
-4.3 Game disconnects
-5. Miscellaneous
-5.1 Streaming/casting
-5.2 Prize pool contributions
-5.3 Officials
-```
+- [The Rulebook](#the-rulebook)
+- [1. Format](#1-format)
+  - [1.1 League structure](#11-league-structure)
+  - [1.2 Group stage](#12-group-stage)
+  - [1.3 Placements, promotions, relegations](#13-placements-promotions-relegations)
+  - [1.4 Playoffs](#14-playoffs)
+  - [1.5 Prizes](#15-prizes)
+- [2. Registrations](#2-registrations)
+  - [2.1 New signups](#21-new-signups)
+  - [2.2 Returning players](#22-returning-players)
+  - [2.3 Qualifications](#23-qualifications)
+  - [2.4 Waiting list](#24-waiting-list)
+- [3. Communications](#3-communications)
+  - [3.1 Match scheduling](#31-match-scheduling)
+  - [3.2 Match reporting](#32-match-reporting)
+  - [3.3 Failed contact notices](#33-failed-contact-notices)
+  - [3.4 Season Forfeit](#34-season-forfeit)
+  - [3.5 Disputes](#35-disputes)
+  - [3.6 Match delays](#36-match-delays)
+- [4. Match regulations](#4-match-regulations)
+  - [4.1 Game setup](#41-game-setup)
+  - [4.2 Map pool](#42-map-pool)
+    - [4.2.4 Map contest](#424-map-contest)
+  - [4.3 Game disconnects](#43-game-disconnects)
+- [5. Miscellaneous](#5-miscellaneous)
+  - [5.1 Streaming/casting](#51-streamingcasting)
+  - [5.2 Prize pool contributions](#52-prize-pool-contributions)
+  - [5.3 Officials](#53-officials)
+- [Schedule Summary](#schedule-summary)
+
 
 # 1. Format
 
@@ -52,12 +54,13 @@ For details on prize pool contributions, check out the Prize Pool section at the
 * Promoted players from Minions
 * Relegated players from Masters
 * Players that finished below promotion spots in Minions
-* Disqualified/forfeited players from Masters
-* Players qualified through pre-season events
+* New signups and Disqualified/forfeited players
+
+Note that division assignment for Season 13 will use a different system from previous seasons to ensure that the winner of Minions is promoted to Masters.
 
 1.1.4.1 Players who competed in parallel divisions in the previous season (e.g. Minions A and Minions B) will be ranked based on their head-to-head result (if it exists), then win percentage, and then their all-time OpenRA 1v1 Ladder position.
 
-1.1.4.2 Where necessary pre-season head-to-heads will be played between tied players.
+1.1.4.2 Where necessary the all-time OpenRA 1v1 Ladder ratings will be used to order players who were tied in the previous season.
 
 1.1.5 In case the division is split into groups, seeding according to the ranking list takes place to prevent uneven draw of the groups rosters.
 
@@ -78,9 +81,9 @@ For details on prize pool contributions, check out the Prize Pool section at the
 1.3.2 In the event of tied points at the end of the season, the players will be ranked against each other based on:
 * Result of the players' current season matchup
 * Total number of strikes accumulated by players (less strikes is better)
-* Best-of-3 rematch (if necessary to determine prizes or playoff spots)
+* Best-of-3 rematch (if necessary to determine playoff spots)
 
-1.3.3 In the event of tied points for the first place in Minions group(s) at the end of the season, the players will be ranked against each other based on a Best-of-3 rematch, skipping all other tiebreakers.
+1.3.3 In the event of a tie for first place in any group at the end of the season, the players will be ranked against each other based on a Best-of-5 rematch, skipping all other tiebreakers.
 
 1.3.4 Strikes can be given for a number of different reasons, including failure to report a match, cheating, etc. Each strike is marked in Scoreboards.
 
@@ -88,11 +91,11 @@ For details on prize pool contributions, check out the Prize Pool section at the
 
 1.3.6 Players finishing in the top 4 spots of Masters are promoted into Masters Playoffs which decide final standings in Masters.
 
-1.3.7 In case Minions division is split into several groups, players finishing in the 1st place in their respective groups are promoted into Minions Playoffs which decide the Minions division Champion.
+1.3.7 In case any division is split into several groups, players finishing in the 1st place in their respective groups take part in Playoffs to decide the division Champion.
 
 1.3.8 Any required rematches are to be resolved in a week time following the end of the group stage. In case of failure of one of the players to schedule and play the rematch in the specified timeframe that player is automatically assigned a technical loss. In case of failure of both of the players to schedule and play the rematch in the specified timeframe both players are excluded from prize allocations and any following stages of the season.
 
-1.3.9 Due to the nature of the League, actual promotions/relegations between divisions can't be defined up until the start of the next season. Relegation zone size (Masters and Minions) is set by default as approx. 30% of the maximum player count for the respective group. Promotion zone size (Minions) is set according to Masters relegation zone and the number of Minions groups. Preliminary promotion/relegation spots are set once the season is started.
+1.3.9 Due to the nature of the League, actual promotions/relegations between divisions can't be defined up until the start of the next season. Division assignment for Season 13 may use a different system from previous seasons.
 
 ## 1.4 Playoffs
 
@@ -114,27 +117,27 @@ For details on prize pool contributions, check out the Prize Pool section at the
 
 1.5.1 By estimate, the prize pool is split as follows (final shares might differ due to the prize pool size, transfer fees and values rounding):
 * 38% Masters Champion
-* 21% Masters 2nd
+* 18% Masters 2nd
 * 16% Masters 3rd
-* 10% Minions Champion
-* 15% Season finisher prizes
-* $50 Mapmaker who wins the preliminary community voted map competition.
+* 12% Season finisher prizes
+* 15% Mapmaker who wins the preliminary community voted map competition.
 
-1.5.2 Share of the prize pool (Season finisher prize) is given out to 3 players drawn randomly among those who successfully finished the season (Masters, Minions or Recruits), did not accumulate strikes and are outside the normal prize spots.
+1.5.2 The Season finisher prize pool will be split between (up to) 3 players drawn randomly among those who successfully finished the season (Masters, Minions or Recruits), did not accumulate strikes and are outside the normal prize spots.
 
 1.5.3 Prize pools are completely voluntary and are not expected to be significant each season. If the prize pool for a particular season is thin the exact spread and rewards will be carefully considered.
+
+1.5.4 Players may be inelligable for prizes if they are based in countries on economic sanctions lists (for example PayPal is currently not operating in Russia). We reserve the right to reassign prizes if this is the case.
 
 # 2. Registrations
 
 ## 2.1 New signups
 
-2.1.1 New players have until 2021-10-07 to send the registration info.
+2.1.1 New players have until 2022-04-21 to send the registration info.
 
-2.1.2 Registration takes place through Discord (#ragl-signups in https://discord.gg/99zBDuS), the primary channel of communication for RAGL or in the registrations forum thread.
+2.1.2 Registration takes place through Discord (#ragl-signups in https://discord.gg/99zBDuS), the primary channel of communication for RAGL, or in the registrations forum thread.
 
 2.1.3 Registration info must include the following:
 * Nickname that will be used throughout the season;
-* 3-lettered initials for tagging replays (i.e. SoScared = SOS);
 * Country of origin and time zone expressed in UTC (see http://www.timeanddate.com);
 * OpenRA discord name (Discord is the primary channel for communication);
 * Forum name (used for game servers whitelisting).
@@ -143,7 +146,7 @@ For details on prize pool contributions, check out the Prize Pool section at the
 
 ## 2.2 Returning players
 
-2.2.1 Players transferring over from the previous season have until 2021-10-08 to confirm their participation.
+2.2.1 Players transferring over from the previous season have until 2022-04-21 to confirm their participation.
 
 2.2.2 Returning players don't have to provide any other information than the expressed confirmation, officials are to request any of the above if mandatory information is missing.
 
@@ -155,11 +158,15 @@ For details on prize pool contributions, check out the Prize Pool section at the
 
 2.3.4 These players will be placed into divisions using all-time ranking from the OpenRA 1v1 Ladder, and if necessary drawing lots, for seeding.
 
+2.3.5 Players who have been forfeit or disqualified in more seasons than they have completed will need to play some pre-season games on the ladder to be eligible to return. Players must have played `4*(incomplete - complete)²` games on the ladder in the month prior to registration closing.
+
+For example: If a player has season forfeit in 3 seasons and only completed 1 season then they must play `4*(3-1)² = 4*2² = 16` preseason ladder games to be eligible for the season.
+
 ## 2.4 Waiting list
 
 2.4.1 In the event of players leaving the lowest division during first week for any reasons, vacant slots may be re-occupied by the players from Waiting list.
 
-2.4.2 Waiting list is composed of players failing to qualify through pre-season qualification tournament and late signups that have missed the qualification tournament (or when the tournament didn't take place), in order of performance in qualification tournament and then by enlisting datetime.
+2.4.2 Waiting list is composed of players failing to qualify through late signups that have missed the qualification tournament (or when the tournament didn't take place), in order of performance in qualification tournament and then by enlisting datetime.
 
 2.4.3 Any matches that were scheduled to be played before the player promotion from Waiting list takes place are to be played out of order until the end of the group stage (same rules as player-delayed matches).
 
@@ -202,7 +209,7 @@ Official communications between the players and with league officials are primar
 
 3.5.2 The league officials reserve the right to make the final call in disputed situations with the health of the league in mind.
 
-3.5.3 CHEATING: any forms of cheating will be marked with various penalties decided by admins. Cheating can be anything deemed to give an unfair advantage to one player. This could be (but not limited to) Disconnecting on purpose, pausing and using actions, macros, GPS hacks etc. Plenties can range from a replay of the game to a ban from the league. DO NOT CHEAT.
+3.5.3 CHEATING: any forms of cheating will be marked with various penalties decided by admins. Cheating can be anything deemed to give an unfair advantage to one player. This could be (but not limited to) Disconnecting on purpose, pausing and using actions, macros, GPS hacks etc. Penalties can range from a replay of the game to a ban from the league. DO NOT CHEAT.
 
 ## 3.6 Match delays
 
@@ -224,7 +231,16 @@ Official communications between the players and with league officials are primar
 
 4.1.1 Games are by default to be played on the latest game release at the moment of season start. In case a new release is shipped during an ongoing season, an explicit official notice is sent to all players regarding the versioning.
 
-4.1.2 The player placed higher in the current group standings is to pick the map for the first game. The opponent is allowed to ban up to one map from the map pick. The roles are reversed for the second game. Players are free to make exceptions from this rule at the discretion of both parties.
+4.1.2 The first player listed in the match schedule is to pick the map for the first game. The map pick process should take the following order:
+
+* Second player bans a map;
+* First player picks a different map;
+* First game is played;
+* First player bans a map;
+* Second player picks a map excluding the two banned maps and the map used for the first game;
+* Second game is played.
+
+Players are free to make exceptions from this rule at the discretion of both parties.
 
 4.1.2.1 If a player wants to ban a map from his opponent's pick he should do that before the pick.
 
@@ -233,6 +249,8 @@ Official communications between the players and with league officials are primar
 4.1.3 First map pick is pre-set by officials for Tiebreaker and Playoffs matches, followed by loser's pick.
 
 4.1.3.1 Maps may not be played twice during a Tiebreaker or Playoff match.
+
+4.1.3.2 After the first game in a Tiebreaker or Playoff then the winner should ban a map, followed by the loser. These maps may not be picked by either player for the rest of the match.
 
 4.1.4 The standard game settings in the game lobby should be set as follows:
 * Explored Map: On
@@ -259,21 +277,21 @@ Official communications between the players and with league officials are primar
 
 4.1.7 The use of modified clients that alter core gameplay in anyway are strictly forbidden. Positive confirmation of the use of a modified client to gain an unfair advantage will impose a strict ruling, up to a possible ban from participation in RAGL for as long as admins see fit.
 
-4.1.8 Players found colluding in order to influence the result of their match and remove the uncertainty in the outcome of a match will be subject to strict ruling, up to a possible ban from participation in RAGL for as long as admins see fit.
+4.1.8 Players found colluding in order to influence the result of their match and remove the uncertainty in the outcome of a match will be subject to strict ruling, up to a possible ban from participation in RAGL for as long as admins see fit. This includes players who surrender prematurely.
 
 4.1.9 Rules from the OpenRA Competitive server also apply to in-game chat and player names - don't be a dick. Failure to comply with this rule will result in disqualification.
 
 ## 4.2 Map pool
 
-4.2.1 Map pool consists of 10-12 maps specifically uploaded to the Resource Centre and marked as "Category: RAGL 11" and explicit naming and thumbnail watermarks. Usage of any other versions of these maps for the league games is disallowed and will be rejected from being reported as a valid match result.
+4.2.1 Map pool consists of 10-12 maps specifically uploaded to the Resource Centre and marked as "Category: RAGL 12" and explicit naming and thumbnail watermarks. Usage of any other versions of these maps for the league games is disallowed and will be rejected from being reported as a valid match result.
 
-4.2.2 All maps include custom balance changes, including modified refinery (ERCC) and rax (BCC).
+4.2.2 All maps include custom balance changes.
 
 4.2.3 Map pool can be found at ragl.org
 
 ### 4.2.4 Map contest
 
-4.2.4: There will be a vote for the community's favourite map before RAGL, this map will be automatically included in the pool. Maps must be submitted by 2021-09-30 (updated from 2021-10-04).
+4.2.4: There will be a vote for the community's favourite map before RAGL, this map will be automatically included in the pool. Maps must be submitted by 2022-04-07.
 
 4.2.4.1: Map submissions should be made in this thread or in the #map-making channel of the OpenRA Competitive Discord server,
 
@@ -283,7 +301,7 @@ Official communications between the players and with league officials are primar
 
 4.2.4.4: Voting will open once map submissions have closed.
 
-4.2.4.5: Voting will close on 2021-10-07.
+4.2.4.5: Voting will close on 2022-04-14.
 
 4.2.4.6: Voters assign 3pts, 2pts and 1pt to three different maps (it is not allowed to vote for fewer than three maps)
 
@@ -317,7 +335,7 @@ Official communications between the players and with league officials are primar
 
 5.2.2 PayPal contributions are converted into Dollars ($), if you send money in your local currency the prize pool host will cover the conversion fees.
 
-5.2.3 Current Season 11 prize pool: $1600
+5.2.3 Current Season 12 prize pool: TBA
 
 ## 5.3 Officials
 
@@ -331,3 +349,12 @@ Official communications between the players and with league officials are primar
 5.3.3 League officials reserve the rights to alter or override the rulebook at any time, including during an ongoing season. All players will be immediately notified if any substantial changes are made during the season. Any change to the rulebook after player registrations are over is duplicated via a post in this thread.
 
 For all inquiries you can contact us through Discord or reply on this thread.
+
+# Schedule Summary
+
+* 2022-04-07 Map submission deadline
+* 2022-04-14 Community map vote deadline
+* 2022-04-21 Player registrations close
+* 2022-04-25 Start of week 1
+* 2022-06-13 Start of Playoffs
+* 2022-07-03 Target for end of Playoffs
