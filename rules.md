@@ -117,7 +117,7 @@ Note that division assignment for Season 13 will use a different system from pre
 
 1.5.1 By estimate, the prize pool is split as follows (final shares might differ due to the prize pool size, transfer fees and values rounding):
 * 38% Masters Champion
-* 18% Masters 2nd
+* 19% Masters 2nd
 * 16% Masters 3rd
 * 12% Season finisher prizes
 * 15% Mapmaker who wins the preliminary community voted map competition.
@@ -166,7 +166,7 @@ For example: If a player has season forfeit in 3 seasons and only completed 1 se
 
 2.4.1 In the event of players leaving the lowest division during first week for any reasons, vacant slots may be re-occupied by the players from Waiting list.
 
-2.4.2 Waiting list is composed of players failing to qualify through late signups that have missed the qualification tournament (or when the tournament didn't take place), in order of performance in qualification tournament and then by enlisting datetime.
+2.4.2 The waiting list is composed of late signups and ordered by enlisting datetime.
 
 2.4.3 Any matches that were scheduled to be played before the player promotion from Waiting list takes place are to be played out of order until the end of the group stage (same rules as player-delayed matches).
 
