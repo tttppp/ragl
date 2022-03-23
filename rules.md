@@ -122,6 +122,8 @@ Note that division assignment for Season 13 will use a different system from pre
 * 12% Season finisher prizes
 * 15% Mapmaker who wins the preliminary community voted map competition.
 
+1.5.1.1 Prize payments are subject to transfer fees and consequently it is not worth paying very small prizes. A small prize pool may result in prizes being omitted.
+
 1.5.2 The Season finisher prize pool will be split between (up to) 3 players drawn randomly among those who successfully finished the season (Masters, Minions or Recruits), did not accumulate strikes and are outside the normal prize spots.
 
 1.5.3 Prize pools are completely voluntary and are not expected to be significant each season. If the prize pool for a particular season is thin the exact spread and rewards will be carefully considered.
