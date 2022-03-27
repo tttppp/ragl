@@ -47,6 +47,9 @@
                     var nextWeekLink = $('<a>').text("Next Week");
                     if (timestamp < weekInProgress) {
                         nextWeekLink.attr('href', '?timestamp=' + (timestamp + 7 * 24 * 60 * 60));
+                        $('#provisional').hide();
+                    } else {
+                        $('#provisional').show();
                     }
                     $('#next').append(nextWeekLink);
                 });
@@ -56,7 +59,7 @@
     <body>
         <div id="content">
             <h1><a href="index.html">RAGL Ladder</a></h1>
-            <h2>Rankings as of <span id="date"></span>:</h2>
+            <h2>Rankings as of <span id="date"></span><span id="provisional" style="display: none;"> (provisional)</span>:</h2>
             <div id="navigation">
                 <span id="previous"></span>
                 <span id="next"></span>
