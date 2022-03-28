@@ -16,6 +16,7 @@
                     $('#name').text(name)
 
                     $.getJSON('data/players/p'+playerId+'.json', function(weekData) {
+                        const weekInProgress = weekData[0]['d'];
                         weekData.forEach(rowData => {
                             const timestamp = rowData['d'];
                             const date = new Date(timestamp * 1000);
@@ -25,14 +26,15 @@
                             const error = rowData['e'];
                             const played = rowData['p'];
                             const won = rowData['w'];
+                            const dateText = (timestamp == weekInProgress ? 'Week in progress' : date.toDateString());
                             $('#week').append($('<tr>')
-                                    .append($('<td>').append($('<a>').attr('href', 'index.html?timestamp=' + timestamp).text(date.toDateString())))
+                                    .append($('<td>').append($('<a>').attr('href', 'index.html?timestamp=' + timestamp).text(dateText)))
                                     .append($('<td>').text(rank))
                                     .append($('<td>').text(percentile))
                                     .append($('<td>').text(rating))
                                     .append($('<td>').text(error))
                                     .append($('<td>').text(played))
-                                    .append($('<td>').text(won)))
+                                    .append($('<td>').text(won)));
                         });
                     });
                 });
