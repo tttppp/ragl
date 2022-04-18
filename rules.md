@@ -3,7 +3,7 @@
 Red Alert Global League (RAGL), Season 12 is played starting 2022-04-25. We will aim to be finished in 10 weeks by 2022-06-03. This timespan includes up to 7 weeks for the group stage and 3 weeks reserved for unforeseen delays, tiebreakers and playoffs.
 Timespan of the season is subject to change depending on actual player rosters and will be finalized after player registrations are closed.
 
-Current prize pool total: TBC
+Current prize pool total: $40
 For details on prize pool contributions, check out the [Prize Pool section](#5.2-Prize-pool-contributions).
 
 - [The Rulebook](#the-rulebook)
@@ -359,7 +359,7 @@ Players are free to make exceptions from this rule at the discretion of both par
 
 5.2.2 PayPal contributions are converted into Dollars ($), if you send money in your local currency the prize pool host will cover the conversion fees.
 
-5.2.3 Current Season 12 prize pool: TBA
+5.2.3 Current Season 12 prize pool: $40
 
 ## 5.3 Officials
 
