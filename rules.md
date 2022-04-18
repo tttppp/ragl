@@ -72,7 +72,7 @@ Note that division assignment for Season 13 will use a different system from pre
 
 1.2.1 The group stage is held in a round robin format, where each player is to play a match against every opponent in his group.
 
-1.2.2 A single match consists of 2 games. Game wins are added to the score table as points. Must be played on the RAGL server.
+1.2.2 A single match consists of 2 games. Game wins are added to the score table as points.
 
 ## 1.3 Placements, promotions, relegations
 
@@ -142,7 +142,7 @@ Note that division assignment for Season 13 will use a different system from pre
 * Nickname that will be used throughout the season;
 * Country of origin and time zone expressed in UTC (see http://www.timeanddate.com);
 * OpenRA discord name (Discord is the primary channel for communication);
-* Forum name (used for game servers whitelisting).
+* Forum name (used to find player id).
 
 2.1.4 Registered players are put onto Signup list. If the player sent his registration info but wasn't put onto Signup list then he should subsequently contact the officials no later than the final date.
 
@@ -183,7 +183,27 @@ Official communications between the players and with league officials are primar
 
 ## 3.2 Match reporting
 
-3.2.1 Match reporting is done automatically by RAGL.org and playing on the official RAGL servers. Any attempts of playing games on any other server than the RAGL official server will void the replays and the games will not count. After you have completed your matches, it should appear on your player profile at ragl.org as completed.
+3.2.1 Match reporting is done by uploading the replay file to the replay channel on the Competitive Discord server. Both players should be authenticated for the match so that the players can be automatically identified by a replay parser.
+
+3.2.2 Match should be reported no later than the next week’s Monday 23:59 UTC+0.
+
+3.2.3 Match winner is ultimately responsible for reporting the results, or the player placed higher in the current group standings in case the match ended in a draw. Players are free to make exceptions from this rule at the discretion of both parties.
+
+3.2.4 The match winner is ultimately responsible for replay file uploads, or the player placed higher in the current group standings in case the match ended in a draw. Players are free to make exceptions from this rule at the discretion of both parties.
+
+3.2.5 Replay files are to be renamed in a specific way before uploading. The replay file name should be as follows (all letters in caps):
+RAGL-S09-[division]-[stage]-[initials]-[initials]-[number]
+Where
+* Division: MASTER, MINION, RECRUIT
+* Stage: GROUP (group stage), POSF (Playoffs semifinals), POF (Playoffs finals/bronze match), TIE (Tiebreaker match)
+* Initials: 3-letter initials assigned to each player pre-season
+* Number: game number in the match (G1-G2 for group stage, G1-G3 for tiebreakers, G1-G5 for playoffs)
+
+Example: In Season 1, SoScared played 2 games against PersianImmortal. They both play in the Minions' Division. The match was played in a group stage. The players' given initials are SOS for SoScared and PSI for PersianImmortal. The replay files for these matches would be:
+* RAGL-S01-MINION-GROUP-SOS-PSI-G1.orarep
+* RAGL-S01-MINION-GROUP-SOS-PSI-G2.orarep
+
+3.2.8 A failure to report a match until its weekly deadline can result in strikes for both players. Unreported matches that resulted in strikes for both players are still eligible to be played (same timeframe as delayed matches).
 
 ## 3.3 Failed contact notices
 
@@ -283,13 +303,15 @@ Players are free to make exceptions from this rule at the discretion of both par
 
 4.1.9 Rules from the OpenRA Competitive server also apply to in-game chat and player names - don't be a dick. Failure to comply with this rule will result in disqualification.
 
+4.1.10 All players must be authenticated for their games. Games featuring anonymous players may need to be replayed. It is recommended to play on servers that require authentication to avoid this situation.
+
 ## 4.2 Map pool
 
 4.2.1 Map pool consists of 10-12 maps specifically uploaded to the Resource Centre and marked as "Category: RAGL 12" and explicit naming and thumbnail watermarks. Usage of any other versions of these maps for the league games is disallowed and will be rejected from being reported as a valid match result.
 
 4.2.2 All maps include custom balance changes.
 
-4.2.3 Map pool can be found at ragl.org
+4.2.3 Map pool can be found in the Competitive Discord server.
 
 ### 4.2.4 Map contest
 
@@ -329,7 +351,7 @@ Players are free to make exceptions from this rule at the discretion of both par
 
 5.1.1 Streamers should add a minimum of 90 seconds delay to their streams when covering a league match, unless both players explicitly state their wish to disregard this rule.
 
-5.1.2 Streamers who do not participate in the league but are officially recognised will receive the RAGL server password upon request.
+5.1.2 Streamers who do not participate in the league but are officially recognised can be added to the Discord channels to stay informed about game scheduling.
 
 ## 5.2 Prize pool contributions
 
