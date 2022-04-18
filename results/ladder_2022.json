@@ -3166,5 +3166,17 @@
             "id": 8869,
             "name": "Sigil"
         }
+    },
+    {
+        "date": "2022-04-17 16:42:02",
+        "map": "Scorched Earth",
+        "p0": {
+            "id": 16314,
+            "name": "Svedski"
+        },
+        "p1": {
+            "id": 16474,
+            "name": "Implies"
+        }
     }
 ]
