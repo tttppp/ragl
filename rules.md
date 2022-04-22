@@ -83,7 +83,7 @@ Note that division assignment for Season 13 will use a different system from pre
 * Total number of strikes accumulated by players (less strikes is better)
 * Best-of-3 rematch (if necessary to determine playoff spots)
 
-1.3.3 In the event of a tie for first place in any group at the end of the season, the players will be ranked against each other based on a Best-of-5 rematch, skipping all other tiebreakers.
+1.3.3 In the event of a tie for first place in any group except Masters at the end of the season, the players will be ranked against each other based on a Best-of-5 rematch, skipping all other tiebreakers.
 
 1.3.4 Strikes can be given for a number of different reasons, including failure to report a match, cheating, etc. Each strike is marked in Scoreboards.
 
@@ -192,7 +192,7 @@ Official communications between the players and with league officials are primar
 3.2.4 The match winner is ultimately responsible for replay file uploads, or the player placed higher in the current group standings in case the match ended in a draw. Players are free to make exceptions from this rule at the discretion of both parties.
 
 3.2.5 Replay files are to be renamed in a specific way before uploading. The replay file name should be as follows (all letters in caps):
-RAGL-S09-[division]-[stage]-[initials]-[initials]-[number]
+RAGL-S12-[division]-[stage]-[initials]-[initials]-[number]
 Where
 * Division: MASTER, MINION, RECRUIT
 * Stage: GROUP (group stage), POSF (Playoffs semifinals), POF (Playoffs finals/bronze match), TIE (Tiebreaker match)
