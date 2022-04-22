@@ -7,44 +7,44 @@ SEASON = 12
 
 divisions = [
 ('Masters', sorted(
-'''goat (Denmark)
-Kav (Finland)
-happy (England)
-ZxGanon (Germany)
-Mr Cloudy (England)
-Pinkthoth (Finland)
-SinJul (Germany)
-Blackened (USA)
-Goremented (Germany)
-KSK_Nico (Germany)
-anjew (Australia)
-Upps (Germany)
-FiveAces (Austria)
-Sigil (USA)'''.split('\n'), key=str.casefold)),
+'''Upps (1463)
+Mr Cloudy (1559)
+Blackened (1446)
+anjew (1365)
+Goremented (1375)
+Sigil (1179)
+Kaution (1322)
+Gajcus (1414)
+Eugenator (1349)
+despro (1313)
+maceman (1302)
+[bye]'''.split('\n'), key=str.casefold)),
 
-('Minions Alfa', sorted(
-'''Eugenator (Austria)
-Kaution (Belgium)
-Moods (Canada)
-Dodder (Ireland)
-Mo (Wales)
-TTTPPP (UK)
-worldpeace (USA)
-Nilhall (China)
-MR C (UK)
-[bye] ()'''.split('\n'), key=str.casefold)),
+('Minions', sorted(
+'''FiveAces (1241)
+Mo (1125)
+Ekanim (1158)
+Jur (1147)
+Tux (1130)
+DukeBones (1114)
+worldpeace (1012)
+Dodder (1123)
+Margot Honecker (1064)
+Azure Anemone (986)
+Nilhall (843)
+[bye]'''.split('\n'), key=str.casefold)),
 
-('Minions Bravo', sorted(
-'''Unano (maceman) (England)
-TiTo (Slovenia)
-Gajcus (Poland)
-Ekanim (USA)
-DVoid (England)
-Duke Bones (USA)
-Nah (manta151) (Germany)
-Tailix Killa Mentor (England)
-Therapist (Canada)
-potato (Czech Republic)'''.split('\n'), key=str.casefold))
+('Recruits', sorted(
+'''TTTPPP (917)
+milkman (890)
+BeTe (814)
+spetsnaz84 (787)
+Pvt_Leaf (674)
+Mees (662)
+chouchani (163)
+RobLoweEscobar (0)
+jawsh (0)
+daswaseinbefel (0)'''.split('\n'), key=str.casefold))
 ]
 
 # Make the schedule for the season reproducible.
