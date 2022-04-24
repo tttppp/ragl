@@ -3238,5 +3238,17 @@
             "id": 12790,
             "name": "quarksplitter"
         }
+    },
+    {
+        "date": "2022-04-23 13:02:35",
+        "map": "Bucharest 1v1",
+        "p0": {
+            "id": 16703,
+            "name": "Rush Al"
+        },
+        "p1": {
+            "id": 15899,
+            "name": "tux"
+        }
     }
 ]
