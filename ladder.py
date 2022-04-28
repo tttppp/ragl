@@ -12,7 +12,10 @@ import requests
 results_dir = 'results'
 web_dir = 'docs'
 
-ladder_url = 'http://oraladder.net/latest-js?period=all'
+results_urls = {
+    'ladder': 'http://oraladder.net/latest-js?period=all',
+    'ragl': 'https://ragl.org/games/json'
+}
 
 def str_to_date(date_string):
     return datetime.datetime.fromisoformat(date_string)
@@ -31,54 +34,60 @@ def get_player_id(player_object):
     """Get the player id from the url (which has a format like /player/6010?period=all)"""
     return int(player_object['url'].split('/')[2].split('?')[0])
 
-# Find the latest ladder game already stored.
-results_filenames_by_year = collections.defaultdict(dict)
-ladder_years = []
-for results_filename in os.listdir(results_dir):
-    competition, year_str = results_filename.split('.')[0].split('_')
-    year = int(year_str)
-    results_filenames_by_year[year][competition] = os.path.join(results_dir, results_filename)
-    if competition == 'ladder':
-        ladder_years.append(year)
+def create_player_dict(game_object, player_reference):
+    if type(game_object[player_reference]) == str:
+        return {'name': game_object[player_reference], 'id': game_object[player_reference + '_id']}
+    return {'name': game_object[player_reference]['name'], 'id': get_player_id(game_object[player_reference])}
 
-for year in reversed(sorted(ladder_years)):
-    results_filename = results_filenames_by_year[year]['ladder']
-    with open(results_filename) as results_file:
-        results = json.load(results_file)
-    if len(results) > 0:
-        break
+for competition, competition_url in results_urls.items():
+    # Find the latest game already stored.
+    results_filenames_by_year = collections.defaultdict(dict)
+    competition_years = []
+    for results_filename in os.listdir(results_dir):
+        file_competition, year_str = results_filename.split('.')[0].split('_')
+        year = int(year_str)
+        results_filenames_by_year[year][file_competition] = os.path.join(results_dir, results_filename)
+        if file_competition == competition:
+            competition_years.append(year)
 
-last_stored_ladder_time = str_to_date(results[-1]['date'])
-
-# Load the ladder results from the official ladder.
-ladder_games = requests.get(ladder_url).json()
-new_games_by_year = collections.defaultdict(list)
-for ladder_game in sorted(ladder_games, key=lambda game: game['date']):
-    # Ignore games involving deleted players.
-    if ladder_game['p0'] == None or ladder_game['p1'] == None:
-        continue
-    # Store the results of new games.
-    game_date = str_to_date(ladder_game['date'])
-    if game_date > last_stored_ladder_time:
-        # Restrict to just the minimum data we want.
-        p0 = {'name': ladder_game['p0']['name'], 'id': get_player_id(ladder_game['p0'])}
-        p1 = {'name': ladder_game['p1']['name'], 'id': get_player_id(ladder_game['p1'])}
-        ladder_game = {'date': ladder_game['date'], 'map': ladder_game['map'], 'p0': p0, 'p1': p1}
-        new_games_by_year[game_date.year].append(ladder_game)
-
-# Store any new results.
-for year in sorted(new_games_by_year.keys()):
-    filename = make_results_filename(year, 'ladder')
-    if year in results_filenames_by_year.keys() and 'ladder' in results_filenames_by_year[year].keys():
-        with open(filename) as results_file:
+    for year in reversed(sorted(competition_years)):
+        results_filename = results_filenames_by_year[year][competition]
+        with open(results_filename) as results_file:
             results = json.load(results_file)
-        results += new_games_by_year[year]
-    else:
-        results = new_games_by_year[year]
-        results_filenames_by_year[year]['ladder'] = filename
-    print('Adding {} games to {}'.format(len(new_games_by_year[year]), year))
-    with open(filename, 'w') as results_file:
-        json.dump(results, results_file, indent=4, sort_keys=True)
+        if len(results) > 0:
+            break
+
+    last_stored_competition_time = str_to_date(results[-1]['date'])
+
+    # Load the results from the url.
+    competition_games = requests.get(competition_url).json()
+    new_games_by_year = collections.defaultdict(list)
+    for competition_game in sorted(competition_games, key=lambda game: game['date']):
+        # Ignore games involving deleted players.
+        if competition_game['p0'] == None or competition_game['p1'] == None:
+            continue
+        # Store the results of new games.
+        game_date = str_to_date(competition_game['date'])
+        if game_date > last_stored_competition_time:
+            # Restrict to just the minimum data we want.
+            p0 = create_player_dict(competition_game, 'p0')
+            p1 = create_player_dict(competition_game, 'p1')
+            competition_game = {'date': competition_game['date'], 'map': competition_game['map'], 'p0': p0, 'p1': p1}
+            new_games_by_year[game_date.year].append(competition_game)
+
+    # Store any new results.
+    for year in sorted(new_games_by_year.keys()):
+        filename = make_results_filename(year, competition)
+        if year in results_filenames_by_year.keys() and competition in results_filenames_by_year[year].keys():
+            with open(filename) as results_file:
+                results = json.load(results_file)
+            results += new_games_by_year[year]
+        else:
+            results = new_games_by_year[year]
+            results_filenames_by_year[year][competition] = filename
+        print('Adding {} games to {}'.format(len(new_games_by_year[year]), filename))
+        with open(filename, 'w') as results_file:
+            json.dump(results, results_file, indent=4, sort_keys=True)
 
 start_datetime = str_to_date('2016-01-04 00:00:00')
 now = datetime.date.today()
