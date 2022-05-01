@@ -262,5 +262,29 @@
             "id": 11442,
             "name": "Eugenator"
         }
+    },
+    {
+        "date": "2022-05-01 01:47:54",
+        "map": "Agita v2 [RAGL-12]",
+        "p0": {
+            "id": 7617,
+            "name": "worldpeace"
+        },
+        "p1": {
+            "id": 15899,
+            "name": "tux"
+        }
+    },
+    {
+        "date": "2022-05-01 02:15:31",
+        "map": "Annihilate v2 [RAGL-12]",
+        "p0": {
+            "id": 15899,
+            "name": "tux"
+        },
+        "p1": {
+            "id": 7617,
+            "name": "worldpeace"
+        }
     }
 ]
