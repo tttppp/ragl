@@ -214,5 +214,53 @@
             "id": 6793,
             "name": "maceman"
         }
+    },
+    {
+        "date": "2022-04-30 06:10:58",
+        "map": "Annihilate v2 [RAGL-12]",
+        "p0": {
+            "id": 15421,
+            "name": "Gajcus"
+        },
+        "p1": {
+            "id": 11435,
+            "name": "Goremented"
+        }
+    },
+    {
+        "date": "2022-04-30 06:23:25",
+        "map": "Schwerpunkt v2 [RAGL-12]",
+        "p0": {
+            "id": 15421,
+            "name": "Gajcus"
+        },
+        "p1": {
+            "id": 11435,
+            "name": "Goremented"
+        }
+    },
+    {
+        "date": "2022-04-30 06:43:04",
+        "map": "Chernobyl 1v1 v2 [RAGL-12]",
+        "p0": {
+            "id": 11435,
+            "name": "Goremented"
+        },
+        "p1": {
+            "id": 11442,
+            "name": "Eugenator"
+        }
+    },
+    {
+        "date": "2022-04-30 06:52:34",
+        "map": "Agita v2 [RAGL-12]",
+        "p0": {
+            "id": 11435,
+            "name": "Goremented"
+        },
+        "p1": {
+            "id": 11442,
+            "name": "Eugenator"
+        }
     }
 ]
