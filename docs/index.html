@@ -4,26 +4,70 @@
         <link rel="stylesheet" href="ragl.css">
         <script src="js/jquery.min.js"></script>
         <script>
-            function displayWeek(timestamp) {
+            function delta(field, rowData, previousWeekData) {
+                const deltaField = $('<span>');
+                if (previousWeekData === undefined) {
+                    deltaField.addClass('newPlayer').text('(*)');
+                } else {
+                    const active = (rowData['p'] != previousWeekData['p']);
+                    const deltaValue = rowData[field] - previousWeekData[field];
+                    if (active && deltaValue != 0) {
+                        // Negative values already have a sign.
+                        const sign = (deltaValue < 0 ? '' : '+');
+                        const formatClass = (deltaValue < 0 ? 'negativeChange' : 'positiveChange');
+                        deltaField.addClass(formatClass).text('(' + sign + deltaValue + ')');
+                    }
+                }
+                return deltaField;
+            }
+
+            function formatField(rowData, previousData, field) {
+                return $('<td>')
+                        .append($('<span>').text(rowData[field]))
+                        .append($('<span>').text(' '))
+                        .append(delta(field, rowData, previousData));
+            }
+
+            function populateTable(players, weekData, previousWeekData) {
+                const fields = ['r', 'e', 'p', 'w'];
+                const previousWeekByPlayer = {};
+                previousWeekData.forEach((rowData, rowIndex) => {
+                    const playerId = rowData['i'];
+                    previousWeekByPlayer[playerId] = {};
+                    fields.forEach(field => {
+                        previousWeekByPlayer[playerId][field] = rowData[field];
+                    });
+                });
+                weekData.forEach((rowData, rowIndex) => {
+                    const playerId = rowData['i'];
+                    const previousData = previousWeekByPlayer[playerId];
+                    const name = players[playerId];
+                    const rating = formatField(rowData, previousData, 'r');
+                    const error = formatField(rowData, previousData, 'e');
+                    const played = formatField(rowData, previousData, 'p');
+                    const won = formatField(rowData, previousData, 'w');
+                    $('#week').append($('<tr>')
+                            .append($('<td>').text(rowIndex + 1))
+                            .append($('<td>').append($('<a>').attr('href', 'player.html?player=' + playerId).text(name)))
+                            .append(rating)
+                            .append(error)
+                            .append(played)
+                            .append(won));
+                });
+            }
+
+            function displayWeek(timestamp, previousTimestamp) {
                 const date = new Date(timestamp * 1000);
                 $.getJSON('data/players.json', function(players) {
                     $('#date').text(date.toDateString());
                     $.getJSON('data/weeks/w'+timestamp+'.json', function(weekData) {
-                        weekData.forEach((rowData, rowIndex) => {
-                            const playerId = rowData['i'];
-                            const name = players[playerId];
-                            const rating = rowData['r'];
-                            const error = rowData['e'];
-                            const played = rowData['p'];
-                            const won = rowData['w'];
-                            $('#week').append($('<tr>')
-                                    .append($('<td>').text(rowIndex + 1))
-                                    .append($('<td>').append($('<a>').attr('href', 'player.html?player=' + playerId).text(name)))
-                                    .append($('<td>').text(rating))
-                                    .append($('<td>').text(error))
-                                    .append($('<td>').text(played))
-                                    .append($('<td>').text(won)))
-                        });
+                        if (previousTimestamp != undefined) {
+                            $.getJSON('data/weeks/w'+previousTimestamp+'.json', function(previousWeekData) {
+                                populateTable(players, weekData, previousWeekData);
+                            });
+                        } else {
+                            populateTable(players, weekData, []);
+                        }
                     });
                 });
             }
@@ -37,11 +81,13 @@
                     if (!timestamp) {
                         timestamp = timestamps[timestamps.length - 2];
                     }
-                    displayWeek(timestamp);
+                    var previousTimestamp = timestamps[timestamps.indexOf(timestamp) - 1];
+                    displayWeek(timestamp, previousTimestamp);
                     // Populate previous/next links.
                     var previousWeekLink = $('<a>').text("Previous Week");
                     if (timestamp > firstWeek) {
                         previousWeekLink.attr('href', '?timestamp=' + (timestamp - 7 * 24 * 60 * 60));
+
                     }
                     $('#previous').append(previousWeekLink);
                     var nextWeekLink = $('<a>').text("Next Week");

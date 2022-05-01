@@ -54,3 +54,15 @@ a[href] {
 a[href]:hover {
     color: #aaf;
 }
+
+.newPlayer {
+    color: #aa4;
+}
+
+.positiveChange {
+    color: #4a8;
+}
+
+.negativeChange {
+    color: #a44;
+}
