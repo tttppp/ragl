@@ -598,5 +598,53 @@
             "id": 14769,
             "name": "chouchani"
         }
+    },
+    {
+        "date": "2022-05-06 15:28:11",
+        "map": "Rediscovery v2 [RAGL-12]",
+        "p0": {
+            "id": 15899,
+            "name": "tux"
+        },
+        "p1": {
+            "id": 16066,
+            "name": "milkman"
+        }
+    },
+    {
+        "date": "2022-05-06 15:42:00",
+        "map": "Jungle Boogie v2 [RAGL-12]",
+        "p0": {
+            "id": 15899,
+            "name": "tux"
+        },
+        "p1": {
+            "id": 16066,
+            "name": "milkman"
+        }
+    },
+    {
+        "date": "2022-05-06 17:16:27",
+        "map": "Dover v2 [RAGL-12]",
+        "p0": {
+            "id": 10549,
+            "name": "Azure Anemone"
+        },
+        "p1": {
+            "id": 13086,
+            "name": "RobLoweEscobar"
+        }
+    },
+    {
+        "date": "2022-05-06 17:30:54",
+        "map": "Schwerpunkt v2 [RAGL-12]",
+        "p0": {
+            "id": 10549,
+            "name": "Azure Anemone"
+        },
+        "p1": {
+            "id": 13086,
+            "name": "RobLoweEscobar"
+        }
     }
 ]
