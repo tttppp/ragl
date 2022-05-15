@@ -922,5 +922,173 @@
             "id": 14769,
             "name": "chouchani"
         }
+    },
+    {
+        "date": "2022-05-14 12:59:22",
+        "map": "Dover v2 [RAGL-12]",
+        "p0": {
+            "id": 6793,
+            "name": "maceman"
+        },
+        "p1": {
+            "id": 3952,
+            "name": "anjew"
+        }
+    },
+    {
+        "date": "2022-05-14 13:13:02",
+        "map": "Rediscovery v2 [RAGL-12]",
+        "p0": {
+            "id": 6793,
+            "name": "maceman"
+        },
+        "p1": {
+            "id": 3952,
+            "name": "anjew"
+        }
+    },
+    {
+        "date": "2022-05-14 16:35:59",
+        "map": "Titan V.I.P v2 [RAGL-12]",
+        "p0": {
+            "id": 11099,
+            "name": "Dodder"
+        },
+        "p1": {
+            "id": 7714,
+            "name": "Nilhall"
+        }
+    },
+    {
+        "date": "2022-05-14 16:54:34",
+        "map": "Schwerpunkt v2 [RAGL-12]",
+        "p0": {
+            "id": 7714,
+            "name": "Nilhall"
+        },
+        "p1": {
+            "id": 11099,
+            "name": "Dodder"
+        }
+    },
+    {
+        "date": "2022-05-14 17:22:42",
+        "map": "Agita v2 [RAGL-12]",
+        "p0": {
+            "id": 13710,
+            "name": "Ekanim"
+        },
+        "p1": {
+            "id": 7714,
+            "name": "Nilhall"
+        }
+    },
+    {
+        "date": "2022-05-14 17:32:34",
+        "map": "Subjugated v2 [RAGL-12]",
+        "p0": {
+            "id": 13710,
+            "name": "Ekanim"
+        },
+        "p1": {
+            "id": 7714,
+            "name": "Nilhall"
+        }
+    },
+    {
+        "date": "2022-05-14 17:59:30",
+        "map": "Annihilate v2 [RAGL-12]",
+        "p0": {
+            "id": 13710,
+            "name": "Ekanim"
+        },
+        "p1": {
+            "id": 16066,
+            "name": "milkman"
+        }
+    },
+    {
+        "date": "2022-05-14 18:10:07",
+        "map": "Titan V.I.P v2 [RAGL-12]",
+        "p0": {
+            "id": 13710,
+            "name": "Ekanim"
+        },
+        "p1": {
+            "id": 16066,
+            "name": "milkman"
+        }
+    },
+    {
+        "date": "2022-05-14 18:44:09",
+        "map": "Schwerpunkt v2 [RAGL-12]",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 8869,
+            "name": "Sigil"
+        }
+    },
+    {
+        "date": "2022-05-14 18:54:04",
+        "map": "Dover v2 [RAGL-12]",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 8869,
+            "name": "Sigil"
+        }
+    },
+    {
+        "date": "2022-05-14 21:34:39",
+        "map": "Sullied Valleys v2 [RAGL-12]",
+        "p0": {
+            "id": 11913,
+            "name": "Duke Bones"
+        },
+        "p1": {
+            "id": 16066,
+            "name": "milkman"
+        }
+    },
+    {
+        "date": "2022-05-14 21:48:52",
+        "map": "Jungle Boogie v2 [RAGL-12]",
+        "p0": {
+            "id": 11913,
+            "name": "Duke Bones"
+        },
+        "p1": {
+            "id": 16066,
+            "name": "milkman"
+        }
+    },
+    {
+        "date": "2022-05-14 22:52:26",
+        "map": "Sullied Valleys v2 [RAGL-12]",
+        "p0": {
+            "id": 16401,
+            "name": "Margot Honecker"
+        },
+        "p1": {
+            "id": 11099,
+            "name": "Dodder"
+        }
+    },
+    {
+        "date": "2022-05-14 23:11:32",
+        "map": "Agita v2 [RAGL-12]",
+        "p0": {
+            "id": 11099,
+            "name": "Dodder"
+        },
+        "p1": {
+            "id": 16401,
+            "name": "Margot Honecker"
+        }
     }
 ]
