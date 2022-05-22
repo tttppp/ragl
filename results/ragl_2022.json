@@ -1402,5 +1402,173 @@
             "id": 10549,
             "name": "Azure Anemone"
         }
+    },
+    {
+        "date": "2022-05-21 15:31:46",
+        "map": "Annihilate v2 [RAGL-12]",
+        "p0": {
+            "id": 8869,
+            "name": "Sigil"
+        },
+        "p1": {
+            "id": 6793,
+            "name": "maceman"
+        }
+    },
+    {
+        "date": "2022-05-21 15:32:53",
+        "map": "Sullied Valleys v2 [RAGL-12]",
+        "p0": {
+            "id": 11913,
+            "name": "Duke Bones"
+        },
+        "p1": {
+            "id": 7714,
+            "name": "Nilhall"
+        }
+    },
+    {
+        "date": "2022-05-21 15:49:15",
+        "map": "Chernobyl 1v1 v3 [RAGL-12]",
+        "p0": {
+            "id": 8869,
+            "name": "Sigil"
+        },
+        "p1": {
+            "id": 6793,
+            "name": "maceman"
+        }
+    },
+    {
+        "date": "2022-05-21 15:52:25",
+        "map": "Rediscovery v2 [RAGL-12]",
+        "p0": {
+            "id": 11913,
+            "name": "Duke Bones"
+        },
+        "p1": {
+            "id": 7714,
+            "name": "Nilhall"
+        }
+    },
+    {
+        "date": "2022-05-21 16:35:17",
+        "map": "Summer Camp v2 [RAGL-12]",
+        "p0": {
+            "id": 6793,
+            "name": "maceman"
+        },
+        "p1": {
+            "id": 6430,
+            "name": "Blackened"
+        }
+    },
+    {
+        "date": "2022-05-21 16:48:35",
+        "map": "Chernobyl 1v1 v3 [RAGL-12]",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 6793,
+            "name": "maceman"
+        }
+    },
+    {
+        "date": "2022-05-21 19:32:54",
+        "map": "Annihilate v2 [RAGL-12]",
+        "p0": {
+            "id": 9800,
+            "name": "Mees"
+        },
+        "p1": {
+            "id": 13086,
+            "name": "RobLoweEscobar"
+        }
+    },
+    {
+        "date": "2022-05-21 19:50:45",
+        "map": "Schwerpunkt v2 [RAGL-12]",
+        "p0": {
+            "id": 9800,
+            "name": "Mees"
+        },
+        "p1": {
+            "id": 13086,
+            "name": "RobLoweEscobar"
+        }
+    },
+    {
+        "date": "2022-05-21 21:08:43",
+        "map": "Rediscovery v2 [RAGL-12]",
+        "p0": {
+            "id": 16222,
+            "name": "despro"
+        },
+        "p1": {
+            "id": 4527,
+            "name": "FiveAces"
+        }
+    },
+    {
+        "date": "2022-05-21 21:17:40",
+        "map": "Agita v2 [RAGL-12]",
+        "p0": {
+            "id": 16222,
+            "name": "despro"
+        },
+        "p1": {
+            "id": 4527,
+            "name": "FiveAces"
+        }
+    },
+    {
+        "date": "2022-05-21 21:30:46",
+        "map": "Dover v2 [RAGL-12]",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 4527,
+            "name": "FiveAces"
+        }
+    },
+    {
+        "date": "2022-05-21 21:38:20",
+        "map": "Agita v2 [RAGL-12]",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 4527,
+            "name": "FiveAces"
+        }
+    },
+    {
+        "date": "2022-05-21 22:05:22",
+        "map": "Agita v2 [RAGL-12]",
+        "p0": {
+            "id": 6793,
+            "name": "maceman"
+        },
+        "p1": {
+            "id": 4527,
+            "name": "FiveAces"
+        }
+    },
+    {
+        "date": "2022-05-21 22:13:35",
+        "map": "Sullied Valleys v2 [RAGL-12]",
+        "p0": {
+            "id": 6793,
+            "name": "maceman"
+        },
+        "p1": {
+            "id": 4527,
+            "name": "FiveAces"
+        }
     }
 ]
