@@ -1882,5 +1882,29 @@
             "id": 14769,
             "name": "chouchani"
         }
+    },
+    {
+        "date": "2022-05-27 16:41:50",
+        "map": "Annihilate v2 [RAGL-12]",
+        "p0": {
+            "id": 16222,
+            "name": "despro"
+        },
+        "p1": {
+            "id": 15421,
+            "name": "Gajcus"
+        }
+    },
+    {
+        "date": "2022-05-27 16:53:12",
+        "map": "Titan V.I.P v2 [RAGL-12]",
+        "p0": {
+            "id": 16222,
+            "name": "despro"
+        },
+        "p1": {
+            "id": 15421,
+            "name": "Gajcus"
+        }
     }
 ]
