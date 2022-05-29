@@ -1906,5 +1906,221 @@
             "id": 15421,
             "name": "Gajcus"
         }
+    },
+    {
+        "date": "2022-05-28 05:15:55",
+        "map": "Annihilate v2 [RAGL-12]",
+        "p0": {
+            "id": 7617,
+            "name": "worldpeace"
+        },
+        "p1": {
+            "id": 16401,
+            "name": "Margot Honecker"
+        }
+    },
+    {
+        "date": "2022-05-28 05:28:08",
+        "map": "Subjugated v2 [RAGL-12]",
+        "p0": {
+            "id": 16401,
+            "name": "Margot Honecker"
+        },
+        "p1": {
+            "id": 7617,
+            "name": "worldpeace"
+        }
+    },
+    {
+        "date": "2022-05-28 06:53:55",
+        "map": "Annihilate v2 [RAGL-12]",
+        "p0": {
+            "id": 11435,
+            "name": "Goremented"
+        },
+        "p1": {
+            "id": 8869,
+            "name": "Sigil"
+        }
+    },
+    {
+        "date": "2022-05-28 07:11:38",
+        "map": "Titan V.I.P v2 [RAGL-12]",
+        "p0": {
+            "id": 11435,
+            "name": "Goremented"
+        },
+        "p1": {
+            "id": 8869,
+            "name": "Sigil"
+        }
+    },
+    {
+        "date": "2022-05-28 14:45:49",
+        "map": "Agita v2 [RAGL-12]",
+        "p0": {
+            "id": 16222,
+            "name": "despro"
+        },
+        "p1": {
+            "id": 3952,
+            "name": "anjew"
+        }
+    },
+    {
+        "date": "2022-05-28 15:00:46",
+        "map": "Subjugated v2 [RAGL-12]",
+        "p0": {
+            "id": 16222,
+            "name": "despro"
+        },
+        "p1": {
+            "id": 3952,
+            "name": "anjew"
+        }
+    },
+    {
+        "date": "2022-05-28 15:28:05",
+        "map": "Subjugated v2 [RAGL-12]",
+        "p0": {
+            "id": 15421,
+            "name": "Gajcus"
+        },
+        "p1": {
+            "id": 3952,
+            "name": "anjew"
+        }
+    },
+    {
+        "date": "2022-05-28 15:41:50",
+        "map": "Summer Camp v2 [RAGL-12]",
+        "p0": {
+            "id": 15421,
+            "name": "Gajcus"
+        },
+        "p1": {
+            "id": 3952,
+            "name": "anjew"
+        }
+    },
+    {
+        "date": "2022-05-28 16:00:36",
+        "map": "Rediscovery v2 [RAGL-12]",
+        "p0": {
+            "id": 7304,
+            "name": "Upps"
+        },
+        "p1": {
+            "id": 3952,
+            "name": "anjew"
+        }
+    },
+    {
+        "date": "2022-05-28 16:10:55",
+        "map": "Schwerpunkt v2 [RAGL-12]",
+        "p0": {
+            "id": 3952,
+            "name": "anjew"
+        },
+        "p1": {
+            "id": 7304,
+            "name": "Upps"
+        }
+    },
+    {
+        "date": "2022-05-28 16:35:19",
+        "map": "Summer Camp v2 [RAGL-12]",
+        "p0": {
+            "id": 7304,
+            "name": "Upps"
+        },
+        "p1": {
+            "id": 15421,
+            "name": "Gajcus"
+        }
+    },
+    {
+        "date": "2022-05-28 16:43:37",
+        "map": "Chernobyl 1v1 v3 [RAGL-12]",
+        "p0": {
+            "id": 5292,
+            "name": "Mo"
+        },
+        "p1": {
+            "id": 16066,
+            "name": "milkman"
+        }
+    },
+    {
+        "date": "2022-05-28 16:52:00",
+        "map": "Schwerpunkt v2 [RAGL-12]",
+        "p0": {
+            "id": 15421,
+            "name": "Gajcus"
+        },
+        "p1": {
+            "id": 7304,
+            "name": "Upps"
+        }
+    },
+    {
+        "date": "2022-05-28 16:58:48",
+        "map": "Sullied Valleys v2 [RAGL-12]",
+        "p0": {
+            "id": 5292,
+            "name": "Mo"
+        },
+        "p1": {
+            "id": 16066,
+            "name": "milkman"
+        }
+    },
+    {
+        "date": "2022-05-28 17:06:37",
+        "map": "Rediscovery v2 [RAGL-12]",
+        "p0": {
+            "id": 7304,
+            "name": "Upps"
+        },
+        "p1": {
+            "id": 11435,
+            "name": "Goremented"
+        }
+    },
+    {
+        "date": "2022-05-28 17:21:20",
+        "map": "Annihilate v2 [RAGL-12]",
+        "p0": {
+            "id": 11435,
+            "name": "Goremented"
+        },
+        "p1": {
+            "id": 7304,
+            "name": "Upps"
+        }
+    },
+    {
+        "date": "2022-05-28 19:34:01",
+        "map": "Dover v2 [RAGL-12]",
+        "p0": {
+            "id": 6881,
+            "name": "spetsnaz84"
+        },
+        "p1": {
+            "id": 13086,
+            "name": "RobLoweEscobar"
+        }
+    },
+    {
+        "date": "2022-05-28 19:50:50",
+        "map": "Titan V.I.P v2 [RAGL-12]",
+        "p0": {
+            "id": 6881,
+            "name": "spetsnaz84"
+        },
+        "p1": {
+            "id": 13086,
+            "name": "RobLoweEscobar"
+        }
     }
 ]
