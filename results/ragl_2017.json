@@ -2208,31 +2208,7 @@
         }
     },
     {
-        "date": "2017-04-25 10:40:40",
-        "map": "Patches (RAGL:S3)",
-        "p0": {
-            "name": "SirCake",
-            "id": 6288
-        },
-        "p1": {
-            "name": "noobmapmaker",
-            "id": 4037
-        }
-    },
-    {
         "date": "2017-04-25 10:55:01",
-        "map": "Agenda (RAGL:S3)",
-        "p0": {
-            "name": "noobmapmaker",
-            "id": 4037
-        },
-        "p1": {
-            "name": "SirCake",
-            "id": 6288
-        }
-    },
-    {
-        "date": "2017-04-25 10:55:07",
         "map": "Agenda (RAGL:S3)",
         "p0": {
             "name": "noobmapmaker",
@@ -3804,30 +3780,6 @@
         }
     },
     {
-        "date": "2017-06-28 20:35:59",
-        "map": "Agenda (RAGL:S3)",
-        "p0": {
-            "name": "Fahrrad",
-            "id": 6016
-        },
-        "p1": {
-            "name": "SirCake",
-            "id": 6288
-        }
-    },
-    {
-        "date": "2017-06-28 20:38:04",
-        "map": "Patches (RAGL:S3)",
-        "p0": {
-            "name": "SirCake",
-            "id": 6288
-        },
-        "p1": {
-            "name": "Fahrrad",
-            "id": 6016
-        }
-    },
-    {
         "date": "2017-07-21 18:04:31",
         "map": "Keep Off The Grass 2 (RAGL:S3)",
         "p0": {
@@ -3861,6 +3813,18 @@
         "p1": {
             "name": "JuiceBox",
             "id": 6504
+        }
+    },
+    {
+        "date": "2017-07-21 18:46:14",
+        "map": "Green Belt (RAGL:S3)",
+        "p0": {
+            "name": "JuiceBox",
+            "id": 6504
+        },
+        "p1": {
+            "name": "Blackened",
+            "id": 6430
         }
     },
     {
@@ -9614,18 +9578,6 @@
     {
         "date": "2017-12-30 18:19:20",
         "map": "Winter Storm 2 (RAGL:S4)",
-        "p0": {
-            "name": "Smitty",
-            "id": 6586
-        },
-        "p1": {
-            "name": "Gatekeeper",
-            "id": 6026
-        }
-    },
-    {
-        "date": "2017-12-30 20:23:04",
-        "map": "BIGGER MAP",
         "p0": {
             "name": "Smitty",
             "id": 6586
