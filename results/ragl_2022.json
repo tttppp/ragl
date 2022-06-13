@@ -2806,5 +2806,173 @@
             "id": 16401,
             "name": "Margot Honecker"
         }
+    },
+    {
+        "date": "2022-06-12 05:03:05",
+        "map": "Titan V.I.P v2 [RAGL-12]",
+        "p0": {
+            "id": 15899,
+            "name": "tux"
+        },
+        "p1": {
+            "id": 13710,
+            "name": "Ekanim"
+        }
+    },
+    {
+        "date": "2022-06-12 05:22:49",
+        "map": "Jungle Boogie v3 [RAGL-12]",
+        "p0": {
+            "id": 15899,
+            "name": "tux"
+        },
+        "p1": {
+            "id": 13710,
+            "name": "Ekanim"
+        }
+    },
+    {
+        "date": "2022-06-12 07:21:54",
+        "map": "Subjugated v2 [RAGL-12]",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 3952,
+            "name": "anjew"
+        }
+    },
+    {
+        "date": "2022-06-12 07:30:00",
+        "map": "Enthrall v2 [RAGL-12]",
+        "p0": {
+            "id": 3952,
+            "name": "anjew"
+        },
+        "p1": {
+            "id": 6430,
+            "name": "Blackened"
+        }
+    },
+    {
+        "date": "2022-06-12 10:55:12",
+        "map": "Annihilate v2 [RAGL-12]",
+        "p0": {
+            "id": 3952,
+            "name": "anjew"
+        },
+        "p1": {
+            "id": 11435,
+            "name": "Goremented"
+        }
+    },
+    {
+        "date": "2022-06-12 11:17:05",
+        "map": "Rediscovery v2 [RAGL-12]",
+        "p0": {
+            "id": 11435,
+            "name": "Goremented"
+        },
+        "p1": {
+            "id": 3952,
+            "name": "anjew"
+        }
+    },
+    {
+        "date": "2022-06-12 13:43:43",
+        "map": "Agita v2 [RAGL-12]",
+        "p0": {
+            "id": 9800,
+            "name": "Mees"
+        },
+        "p1": {
+            "id": 16338,
+            "name": "Pvt_Leaf"
+        }
+    },
+    {
+        "date": "2022-06-12 13:57:56",
+        "map": "Sullied Valleys v2 [RAGL-12]",
+        "p0": {
+            "id": 9800,
+            "name": "Mees"
+        },
+        "p1": {
+            "id": 16338,
+            "name": "Pvt_Leaf"
+        }
+    },
+    {
+        "date": "2022-06-12 17:03:57",
+        "map": "Sullied Valleys v2 [RAGL-12]",
+        "p0": {
+            "id": 11913,
+            "name": "Duke Bones"
+        },
+        "p1": {
+            "id": 15899,
+            "name": "tux"
+        }
+    },
+    {
+        "date": "2022-06-12 17:19:44",
+        "map": "Jungle Boogie v3 [RAGL-12]",
+        "p0": {
+            "id": 11913,
+            "name": "Duke Bones"
+        },
+        "p1": {
+            "id": 15899,
+            "name": "tux"
+        }
+    },
+    {
+        "date": "2022-06-12 18:26:08",
+        "map": "Rediscovery v2 [RAGL-12]",
+        "p0": {
+            "id": 3952,
+            "name": "anjew"
+        },
+        "p1": {
+            "id": 8869,
+            "name": "Sigil"
+        }
+    },
+    {
+        "date": "2022-06-12 18:39:36",
+        "map": "Sullied Valleys v2 [RAGL-12]",
+        "p0": {
+            "id": 8869,
+            "name": "Sigil"
+        },
+        "p1": {
+            "id": 3952,
+            "name": "anjew"
+        }
+    },
+    {
+        "date": "2022-06-12 18:49:00",
+        "map": "Annihilate v2 [RAGL-12]",
+        "p0": {
+            "id": 11442,
+            "name": "Eugenator"
+        },
+        "p1": {
+            "id": 3952,
+            "name": "anjew"
+        }
+    },
+    {
+        "date": "2022-06-12 18:57:53",
+        "map": "Rediscovery v2 [RAGL-12]",
+        "p0": {
+            "id": 11442,
+            "name": "Eugenator"
+        },
+        "p1": {
+            "id": 3952,
+            "name": "anjew"
+        }
     }
 ]
