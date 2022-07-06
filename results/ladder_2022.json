@@ -4390,5 +4390,29 @@
             "id": 11913,
             "name": "Duke Bones"
         }
+    },
+    {
+        "date": "2022-07-05 19:00:20",
+        "map": "Krakow 1v1",
+        "p0": {
+            "id": 16066,
+            "name": "milkman"
+        },
+        "p1": {
+            "id": 14769,
+            "name": "chouchani"
+        }
+    },
+    {
+        "date": "2022-07-05 19:17:14",
+        "map": "Bucharest 1v1",
+        "p0": {
+            "id": 16066,
+            "name": "milkman"
+        },
+        "p1": {
+            "id": 14769,
+            "name": "chouchani"
+        }
     }
 ]
