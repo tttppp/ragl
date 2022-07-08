@@ -1,0 +1,203 @@
+{
+  "groups": {
+    "Masters": {
+      "": [
+        {
+          "id": 16222,
+          "played": 18,
+          "won": 18
+        },
+        {
+          "id": 6430,
+          "played": 18,
+          "won": 13
+        },
+        {
+          "id": 15421,
+          "played": 18,
+          "won": 12
+        },
+        {
+          "id": 6793,
+          "played": 18,
+          "won": 10
+        },
+        {
+          "id": 7304,
+          "played": 18,
+          "won": 8,
+          "headToHead": "1-1"
+        },
+        {
+          "id": 11435,
+          "played": 18,
+          "won": 8,
+          "headToHead": "1-1"
+        },
+        {
+          "id": 11442,
+          "played": 18,
+          "won": 7
+        },
+        {
+          "id": 3952,
+          "played": 18,
+          "won": 6
+        },
+        {
+          "id": 4527,
+          "played": 18,
+          "won": 4,
+          "headToHead": "1-1"
+        },
+        {
+          "id": 8869,
+          "played": 18,
+          "won": 4,
+          "headToHead": "1-1",
+          "strikes": 1
+        },
+        {
+          "id": 6771,
+          "seasonForfeit": true
+        }
+      ]
+    },
+    "Minions": {
+      "": [
+        {
+          "id": 6941,
+          "played": 20,
+          "won": 15
+        },
+        {
+          "id": 11913,
+          "played": 20,
+          "won": 14
+        },
+        {
+          "id": 11099,
+          "played": 20,
+          "won": 13
+        },
+        {
+          "id": 15899,
+          "played": 20,
+          "won": 15,
+          "headToHead": "3-1"
+        },
+        {
+          "id": 5292,
+          "played": 20,
+          "won": 12,
+          "headToHead": "2-2"
+        },
+        {
+          "id": 13710,
+          "played": 20,
+          "won": 15,
+          "headToHead": "1-3"
+        },
+        {
+          "id": 16401,
+          "played": 20,
+          "won": 9
+        },
+        {
+          "id": 7387,
+          "played": 20,
+          "won": 7
+        },
+        {
+          "id": 7617,
+          "played": 20,
+          "won": 6,
+          "strikes": 2
+        },
+        {
+          "id": 16066,
+          "played": 20,
+          "won": 5,
+          "headToHead": "1-1"
+        },
+        {
+          "id": 7714,
+          "played": 20,
+          "won": 5,
+          "headToHead": "1-1"
+        }
+      ]
+    },
+    "Recruits": {
+      "": [
+        {
+          "id": 9800,
+          "played": 12,
+          "won": 11
+        },
+        {
+          "id": 15428,
+          "played": 12,
+          "won": 9
+        },
+        {
+          "id": 16338,
+          "played": 12,
+          "won": 8
+        },
+        {
+          "id": 6751,
+          "played": 12,
+          "won": 7,
+          "headToHead": "1-1"
+        },
+        {
+          "id": 6881,
+          "played": 12,
+          "won": 5,
+          "headToHead": "1-1"
+        },
+        {
+          "id": 10549,
+          "played": 12,
+          "won": 4
+        },
+        {
+          "id": 14769,
+          "played": 12,
+          "won": 0
+        },
+        {
+          "id": 13086,
+          "seasonForfeit": true
+        },
+        {
+          "id": 16677,
+          "seasonForfeit": true
+        },
+        {
+          "id": 16889,
+          "seasonForfeit": true
+        }
+      ]
+    }
+  },
+  "playoffs": [
+    {
+      "16222": 3,
+      "6793": 0
+    },
+    {
+      "6430": 3,
+      "15421": 1
+    },
+    {
+      "15421": 3,
+      "6793": 1
+    },
+    {
+      "16222": 3,
+      "6430": 0
+    }
+  ]
+}

@@ -1,12 +1,12 @@
-Happy, 14, 14, -1
-Doomsday, 16, 11, -1
-SoScared, 16, 9
-Mentats, 16, 7
-Lucassss, 16, 5, 2;3-1
-NoobMapMaker, 16, 5, 2;2-2
-T, 16, 5, 2;1-3;-1
-Kuba, 16, 1, -2
-Omnom, SF
-Medium Tank, SF
-Raishiwi, SF
-WhoCares, SF
+6680, Clockwork, 14, 14, , , -1, , 
+6621, Doomsday, 16, 11, , , -1, , 
+2793, SoScared, 16, 9, , , , , 
+-19, Mentats, 16, 7, , , , , 
+6211, lucassss, 16, 5, 2, 3-1, , , 
+4037, noobmapmaker, 16, 5, 2, 2-2, , , 
+-2, t, 16, 5, 2, 1-3, -1, , 
+-9, Kuba, 16, 1, , , -2, , 
+6608, OMnom, , , , , , , SF
+6410, Medium Tank, , , , , , , SF
+6625, Raishiwi, , , , , , , SF
+6723, WhoCares, , , , , , , SF

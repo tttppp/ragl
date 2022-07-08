@@ -1,11 +1,11 @@
-LorryDriver, 16, 14
-Barf, 16, 13
-Gatekeeper, 16, 10, 5;1-1;1-0
-Smitty, 16, 10, 5;1-1;1-0
-FiveAces, 16, 10, 4
-Orb, 14, 6, -1
-Anjew, 14, 4, -1
-Blackened, 16, 2
-SirCake, 16, 1
-Abcdefg30, SF
-Han, SF
+6646, Lorrydriver, 16, 14, , , , , 
+6790, barf_openra, 16, 13, , , , , 
+6026, Gatekeeper, 16, 10, 5, 1-1, , 1-0, 
+6586, Smitty, 16, 10, 5, 1-1, , 1-0, 
+4527, FiveAces, 16, 10, 4, , , , 
+6748, Orb, 14, 6, , , -1, , 
+3952, anjew, 14, 4, , , -1, , 
+6430, Blackened, 16, 2, , , , , 
+6288, SirCake, 16, 1, , , , , 
+3812, abcdefg30, , , , , , , SF
+6316, Han, , , , , , , SF

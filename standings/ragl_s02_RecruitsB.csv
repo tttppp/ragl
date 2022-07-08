@@ -1,12 +1,12 @@
-LorryDriver, 10, 10
-Wee Man, 10, 8
-Orb, 10, 6
-SirCake, 10, 4
-Kuba, 10, 1, 0;1-1
-Strelkov, 10, 1, 0;1-1
-bone|superr0x, SF
-Streteeg, SF
-Chrisf, SF
-Jamesasthenia, SF
-Insomnic, SF
-LeugensVB, SF
+6646, Lorrydriver, 10, 10, , , , , 
+5301, weeman, 10, 8, , , , , 
+6748, Orb, 10, 6, , , , , 
+6288, SirCake, 10, 4, , , , , 
+-9, Kuba, 10, 1, 0, 1-1, , , 
+-10, Strelkov, 10, 1, 0, 1-1, , , 
+-14, bone|superr0x, , , , , , , SF
+-50, Streteeg, , , , , , , SF
+2196, chrisf, , , , , , , SF
+6390, Jamesasthenia, , , , , , , SF
+-11, Insomnic, , , , , , , SF
+-51, LeugensVB, , , , , , , SF
