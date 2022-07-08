@@ -89,6 +89,11 @@ for competition, competition_url in results_urls.items():
         with open(filename, 'w') as results_file:
             json.dump(results, results_file, indent=4, sort_keys=True)
 
+def load_existing_player_data():
+    with open(os.path.join('docs', 'data', 'players.json')) as players_file:
+        player_data = json.load(players_file)
+        return {int(player_id): name for player_id, name in player_data.items()}
+
 start_datetime = str_to_date('2016-01-04 00:00:00')
 now = datetime.date.today()
 # End date is the beginning of this week, so we're only including complete weeks.
@@ -106,7 +111,7 @@ def glicko2_table(ratings, games):
     played = collections.Counter()
     won = collections.Counter()
     data = collections.defaultdict(dict)
-    player_data = {}
+    player_data = load_existing_player_data()
     while batch_end < end_datetime.timestamp():
         batch_start = batch_end
         batch_end += BATCH_DURATION
