@@ -4558,5 +4558,17 @@
             "id": 14769,
             "name": "chouchani"
         }
+    },
+    {
+        "date": "2022-07-26 02:09:56",
+        "map": "Scorched Earth",
+        "p0": {
+            "id": 14623,
+            "name": "Rusty"
+        },
+        "p1": {
+            "id": 14631,
+            "name": "Chrono"
+        }
     }
 ]
