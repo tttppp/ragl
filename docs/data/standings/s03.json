@@ -1,4 +1,10 @@
 {
+  "order": [
+    {"won": "DESC"},
+    {"headToHead": "DESC"},
+    {"guestWins": "DESC"},
+    {"tieBreak": "DESC"}
+  ],
   "groups": {
     "Masters": {
       "": [
@@ -26,26 +32,26 @@
           "id": 3214,
           "played": 14,
           "won": 6,
-          "awayWins": 3
+          "guestWins": 3
         },
         {
           "id": 4527,
           "played": 16,
           "won": 6,
-          "awayWins": 2
+          "guestWins": 2
         },
         {
           "id": 3812,
           "played": 16,
           "won": 5,
-          "awayWins": 1,
+          "guestWins": 1,
           "headToHead": "1-1"
         },
         {
           "id": 3952,
           "played": 14,
           "won": 5,
-          "awayWins": 1,
+          "guestWins": 1,
           "headToHead": "1-1"
         },
         {
@@ -73,7 +79,7 @@
           "id": 6586,
           "played": 14,
           "won": 13,
-          "awayWins": 7,
+          "guestWins": 7,
           "headToHead": "1-1",
           "tieBreak": "3-2"
         },
@@ -81,7 +87,7 @@
           "id": 6748,
           "played": 14,
           "won": 13,
-          "awayWins": 7,
+          "guestWins": 7,
           "headToHead": "1-1",
           "tieBreak": "2-3"
         },
@@ -89,14 +95,14 @@
           "id": 6288,
           "played": 14,
           "won": 7,
-          "awayWins": 3,
+          "guestWins": 3,
           "headToHead": "2-0"
         },
         {
           "id": 6430,
           "played": 14,
           "won": 7,
-          "awayWins": 3,
+          "guestWins": 3,
           "headToHead": "0-2"
         },
         {
@@ -153,14 +159,14 @@
           "id": 6625,
           "played": 10,
           "won": 6,
-          "awayWins": 2,
+          "guestWins": 2,
           "headToHead": "2-0"
         },
         {
           "id": 6723,
           "played": 12,
           "won": 6,
-          "awayWins": 2,
+          "guestWins": 2,
           "headToHead": "0-2"
         },
         {
@@ -229,14 +235,14 @@
           "id": -18,
           "played": 16,
           "won": 3,
-          "awayWins": 2,
+          "guestWins": 2,
           "headToHead": "1-1"
         },
         {
           "id": 6861,
           "played": 14,
           "won": 3,
-          "awayWins": 2,
+          "guestWins": 2,
           "headToHead": "1-1"
         },
         {
@@ -264,18 +270,20 @@
       ]
     }
   },
-  "playoffs": [
-    {
-      "6504": 3,
-      "6680": 2
-    },
-    {
-      "6288": 3,
-      "6016": 0
-    },
-    {
-      "6430": 3,
-      "6504": 2
-    }
-  ]
+  "playoffs": {
+    "Masters Qualification": [
+      {
+        "6288": 3,
+        "6016": 0
+      },
+      {
+        "6504": 3,
+        "6680": 2
+      },
+      {
+        "6430": 3,
+        "6504": 2
+      }
+    ]
+  }
 }

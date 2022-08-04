@@ -1,4 +1,10 @@
 {
+  "order": [
+    {"won": "DESC"},
+    {"headToHead": "DESC"},
+    {"guestWins": "DESC"},
+    {"tieBreak": "DESC"}
+  ],
   "groups": {
     "Masters": {
       "": [
@@ -6,29 +12,29 @@
           "id": 4527,
           "played": 16,
           "won": 13,
-          "awayWins": 7
+          "guestWins": 7
         },
         {
           "id": 6410,
           "played": 16,
           "won": 13,
-          "awayWins": 5
+          "guestWins": 5
         },
         {
           "id": 6790,
           "played": 16,
           "won": 11,
-          "awayWins": 6,
+          "guestWins": 6,
           "headToHead": "1-1",
-          "tieBreak": "1-0"
+          "tieBreak": "2-0"
         },
         {
           "id": 6026,
           "played": 16,
           "won": 11,
-          "awayWins": 6,
+          "guestWins": 6,
           "headToHead": "1-1",
-          "tieBreak": "0-1"
+          "tieBreak": "0-2"
         },
         {
           "id": 3214,
@@ -39,14 +45,14 @@
           "id": 2793,
           "played": 16,
           "won": 6,
-          "awayWins": 3,
+          "guestWins": 3,
           "headToHead": "2-0"
         },
         {
           "id": 3812,
           "played": 16,
           "won": 6,
-          "awayWins": 3,
+          "guestWins": 3,
           "headToHead": "0-2"
         },
         {
@@ -140,13 +146,13 @@
           "id": 6265,
           "played": 12,
           "won": 10,
-          "awayWins": 6
+          "guestWins": 6
         },
         {
           "id": 6586,
           "played": 12,
           "won": 10,
-          "awayWins": 5
+          "guestWins": 5
         },
         {
           "id": 6430,
@@ -219,14 +225,14 @@
           "id": -9,
           "played": 10,
           "won": 1,
-          "awayWins": 0,
+          "guestWins": 0,
           "headToHead": "1-1"
         },
         {
           "id": -10,
           "played": 10,
           "won": 1,
-          "awayWins": 0,
+          "guestWins": 0,
           "headToHead": "1-1"
         },
         {
@@ -256,26 +262,30 @@
       ]
     }
   },
-  "playoffs": [
-    {
-      "6316": 3,
-      "-3": 1
-    },
-    {
-      "6646": 3,
-      "6265": 0
-    },
-    {
-      "6646": 3,
-      "-2": 0
-    },
-    {
-      "6288": 3,
-      "4372": 0
-    },
-    {
-      "6288": 3,
-      "6861": 0
-    }
-  ]
+  "playoffs": {
+    "Masters Qualification": [
+      {
+        "6316": 3,
+        "-3": 1
+      },
+      {
+        "6646": 3,
+        "6265": 0
+      },
+      {
+        "6646": 3,
+        "-2": 0
+      }
+    ],
+    "Minions Qualification": [
+      {
+        "6288": 3,
+        "4372": 0
+      },
+      {
+        "6288": 3,
+        "6861": 0
+      }
+    ]
+  }
 }

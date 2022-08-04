@@ -1,4 +1,9 @@
 {
+  "order": [
+    {"won": "DESC"},
+    {"headToHead": "DESC"},
+    {"guestWins": "DESC"}
+  ],
   "groups": {
     "Masters": {
       "": [
@@ -6,27 +11,27 @@
           "id": 4527,
           "played": 12,
           "won": 9,
-          "awayWins": 4,
+          "guestWins": 4,
           "headToHead": "2-0"
         },
         {
           "id": 3958,
           "played": 12,
           "won": 9,
-          "awayWins": 4,
+          "guestWins": 4,
           "headToHead": "0-2"
         },
         {
           "id": 6410,
           "played": 10,
           "won": 6,
-          "awayWins": 3
+          "guestWins": 3
         },
         {
           "id": 6026,
           "played": 12,
           "won": 6,
-          "awayWins": 1
+          "guestWins": 1
         },
         {
           "id": 6790,
@@ -71,13 +76,13 @@
           "id": 6528,
           "played": 18,
           "won": 16,
-          "awayWins": 8
+          "guestWins": 8
         },
         {
           "id": 2793,
           "played": 18,
           "won": 16,
-          "awayWins": 7
+          "guestWins": 7
         },
         {
           "id": 3812,
@@ -98,13 +103,13 @@
           "id": 4037,
           "played": 18,
           "won": 7,
-          "awayWins": 4
+          "guestWins": 4
         },
         {
           "id": 6415,
           "played": 18,
           "won": 7,
-          "awayWins": 2
+          "guestWins": 2
         },
         {
           "id": 6016,
@@ -115,14 +120,14 @@
           "id": 2333,
           "played": 18,
           "won": 3,
-          "awayWins": 2,
+          "guestWins": 2,
           "headToHead": "1-1"
         },
         {
           "id": 7295,
           "played": 18,
           "won": 3,
-          "awayWins": 2,
+          "guestWins": 2,
           "headToHead": "1-1"
         },
         {
@@ -146,13 +151,13 @@
           "id": 6316,
           "played": 12,
           "won": 9,
-          "awayWins": 4
+          "guestWins": 4
         },
         {
           "id": -2,
           "played": 14,
           "won": 9,
-          "awayWins": 3
+          "guestWins": 3
         },
         {
           "id": -4,
