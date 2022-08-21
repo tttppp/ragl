@@ -1,0 +1,86 @@
+<html>
+    <head>
+        <title>RAGL Standings</title>
+        <link rel="stylesheet" href="ragl.css">
+        <script src="js/jquery.min.js"></script>
+        <script>
+            function makeHeaders(columns) {
+                const columnNames = {'position': 'Position', 'name': 'Name', 'played': 'Played', 'won': 'Won', 'guestWins': 'Guest Wins', 'headToHead': 'Head To Head', 'strikes': 'Strikes', 'tieBreak': 'Tie-Break'};
+                var headers = $('<tr>');
+                columns.forEach(column => {
+                    headers.append($('<th>').text(columnNames[column]));
+                });
+                return headers;
+            }
+
+            function makeRows(columns, entries, players) {
+                var tbody = $('<tbody>');
+                entries.forEach(function(entry, i) {
+                    var row = $('<tr>');
+                    columns.forEach(column => {
+                        var text = entry[column];
+                        if (column == 'position') {
+                            text = i+1;
+                        } else if (column == 'name') {
+                            text = players[entry['id']];
+                        } else if (column == 'played' && entry['seasonForfeit']) {
+                            text = 'SF';
+                        }
+                        row.append($('<td>').text(text));
+                    });
+                    $(tbody).append(row);
+                });
+                return tbody;
+            }
+
+            $(document).ready(function() {
+                $.getJSON('data/players.json', function(players) {
+                    const urlSearchParams = new URLSearchParams(window.location.search);
+                    var season = Number(urlSearchParams.get('season'));
+                    if (!season) {
+                        $.getJSON('data/ragl.json', function(ragl) {
+                            season = ragl.latestSeason;
+                        });
+                    }
+                    $('#season').text(season);
+
+                    $.getJSON('data/standings/s'+season+'.json', function(standingData) {
+                        var columns = ['position', 'name', 'played'];
+                        standingData.order.forEach(column => columns.push(Object.keys(column)[0]));
+
+                        divisionNames = ['Masters', 'Minions', 'Recruits']
+                        groupNames = ['A', 'B', 'C', 'D']
+                        divisionNames.forEach(divisionName => {
+                            if (divisionName in standingData.groups) {
+                                Object.keys(standingData.groups[divisionName]).sort().forEach(groupName => {
+                                    $('#groups').append($('<h3>').text(divisionName + ' ' + groupName));
+                                    $('#groups').append($('<table>')
+                                        .append($('<thead>')
+                                            .html(makeHeaders(columns)))
+                                        .append(makeRows(columns, standingData.groups[divisionName][groupName], players)));
+                                });
+                            }
+                        });
+                    });
+                });
+            });
+        </script>
+    </head>
+    <body>
+        <div id="content">
+            <h1><a href="index.html">RAGL Ladder</a></h1>
+            <h2>RAGL Standings for Season <span id="season"></span>:</h2>
+            <div id="groups">
+            </div>
+            <table>
+                <thead>
+                    <tr id="columns">
+                    </tr>
+                </thead>
+                <tbody id="standings">
+
+                </tbody>
+            </table>
+        </div>
+    </body>
+</html>
