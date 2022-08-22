@@ -23,6 +23,7 @@
           "played": 14,
           "won": 8,
           "headToHead": "1-1",
+          "strikes": 0,
           "tieBreak": "2-1"
         },
         {
@@ -30,6 +31,7 @@
           "played": 14,
           "won": 8,
           "headToHead": "1-1",
+          "strikes": 0,
           "tieBreak": "1-2"
         },
         {
@@ -46,13 +48,15 @@
           "id": 4527,
           "played": 14,
           "won": 2,
-          "headToHead": "1-1"
+          "headToHead": "1-1",
+          "strikes": 0
         },
         {
           "id": 8869,
           "played": 14,
           "won": 2,
-          "headToHead": "1-1"
+          "headToHead": "1-1",
+          "strikes": 0
         },
         {
           "id": 6680,
@@ -75,13 +79,15 @@
           "id": 5292,
           "played": 16,
           "won": 11,
-          "headToHead": "1-1"
+          "headToHead": "1-1",
+          "strikes": 0
         },
         {
           "id": 11442,
           "played": 16,
           "won": 11,
-          "headToHead": "1-1"
+          "headToHead": "1-1",
+          "strikes": 0
         },
         {
           "id": 7813,
@@ -104,13 +110,15 @@
           "id": 6881,
           "played": 16,
           "won": 5,
-          "headToHead": "1-1"
+          "headToHead": "1-1",
+          "strikes": 0
         },
         {
           "id": 7387,
           "played": 16,
           "won": 5,
-          "headToHead": "1-1"
+          "headToHead": "1-1",
+          "strikes": 0
         },
         {
           "id": 13096,

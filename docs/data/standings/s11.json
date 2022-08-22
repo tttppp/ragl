@@ -49,13 +49,15 @@
           "id": 3952,
           "played": 20,
           "won": 6,
-          "headToHead": "1-1"
+          "headToHead": "1-1",
+          "strikes": 0
         },
         {
           "id": 11435,
           "played": 20,
           "won": 6,
-          "headToHead": "1-1"
+          "headToHead": "1-1",
+          "strikes": 0
         },
         {
           "id": 8869,
@@ -66,7 +68,7 @@
         {
           "id": 4527,
           "played": 20,
-          "won": 0,
+          "won": 3,
           "headToHead": "0-2"
         },
         {

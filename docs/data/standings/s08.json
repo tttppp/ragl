@@ -13,6 +13,7 @@
           "played": 16,
           "won": 12,
           "headToHead": "1-1",
+          "strikes": 0,
           "tieBreak": "1-0"
         },
         {
@@ -20,6 +21,7 @@
           "played": 18,
           "won": 12,
           "headToHead": "1-1",
+          "strikes": 0,
           "tieBreak": "0-1"
         },
         {
@@ -146,13 +148,15 @@
           "id": 8869,
           "played": 20,
           "won": 9,
-          "headToHead": "1-1"
+          "headToHead": "1-1",
+          "strikes": 0
         },
         {
           "id": 7212,
           "played": 20,
           "won": 9,
-          "headToHead": "1-1"
+          "headToHead": "1-1",
+          "strikes": 0
         },
         {
           "id": 6881,

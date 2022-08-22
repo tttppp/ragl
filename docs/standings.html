@@ -13,24 +13,71 @@
                 return headers;
             }
 
+            function hashEntry(columns, entry) {
+                var hashFields = [];
+                for (column of columns) {
+                    if (!['position', 'name', 'played'].includes(column)) {
+                        hashFields.push(entry[column]);
+                    }
+                }
+                return hashFields.join('|');
+            }
+
             function makeRows(columns, entries, players) {
                 var tbody = $('<tbody>');
+                var positionCounter = {};
+                for (entry of entries) {
+                    var key = hashEntry(columns, entry);
+                    if (!Object.keys(positionCounter).includes(key)) {
+                        positionCounter[key] = 0;
+                    }
+                    positionCounter[key]++;
+                }
+                var currentPosition = 1;
+                var countAtPosition = 0;
                 entries.forEach(function(entry, i) {
                     var row = $('<tr>');
                     columns.forEach(column => {
                         var text = entry[column];
                         if (column == 'position') {
-                            text = i+1;
+                            var totalAtPosition = positionCounter[hashEntry(columns, entry)];
+                            if (totalAtPosition > 1) {
+                                text = '=' + currentPosition;
+                            } else {
+                                text = currentPosition;
+                            }
+                            countAtPosition++;
+                            if (countAtPosition == totalAtPosition) {
+                                currentPosition += countAtPosition;
+                                countAtPosition = 0;
+                            }
+
+                            if (entry['seasonForfeit']) {
+                                text = 'SF';
+                            }
                         } else if (column == 'name') {
                             text = players[entry['id']];
-                        } else if (column == 'played' && entry['seasonForfeit']) {
-                            text = 'SF';
                         }
                         row.append($('<td>').text(text));
                     });
-                    $(tbody).append(row);
+                    tbody.append(row);
                 });
                 return tbody;
+            }
+
+            function makePlayoff(playoff, players) {
+                var table = $('<table>').attr('id', 'results');
+                var tbody = $('<tbody>');
+                table.append(tbody);
+                for (result of playoff) {
+                    var row = $('<tr>');
+                    var sortedPlayerIds = Object.keys(result).sort(function(playerA, playerB) { return result[playerB] - result[playerA]; });
+                    row.append($('<td>').text(players[sortedPlayerIds[0]]));
+                    row.append($('<td>').text(result[sortedPlayerIds[0]] + ' - ' + result[sortedPlayerIds[1]]));
+                    row.append($('<td>').text(players[sortedPlayerIds[1]]));
+                    tbody.append(row);
+                }
+                return table;
             }
 
             $(document).ready(function() {
@@ -44,23 +91,43 @@
                     }
                     $('#season').text(season);
 
-                    $.getJSON('data/standings/s'+season+'.json', function(standingData) {
+                    $.getJSON('data/standings/s' + (season < 10 ? '0' : '') + season+'.json', function(standingData) {
                         var columns = ['position', 'name', 'played'];
                         standingData.order.forEach(column => columns.push(Object.keys(column)[0]));
 
-                        divisionNames = ['Masters', 'Minions', 'Recruits']
-                        groupNames = ['A', 'B', 'C', 'D']
+                        divisionNames = ['Masters', 'Minions', 'Recruits', 'Cadets']
+                        groupNames = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']
+                        var displayedPlayoffs = [];
                         divisionNames.forEach(divisionName => {
                             if (divisionName in standingData.groups) {
                                 Object.keys(standingData.groups[divisionName]).sort().forEach(groupName => {
                                     $('#groups').append($('<h3>').text(divisionName + ' ' + groupName));
-                                    $('#groups').append($('<table>')
+                                    $('#groups').append($('<table>').attr('id', 'results')
                                         .append($('<thead>')
                                             .html(makeHeaders(columns)))
                                         .append(makeRows(columns, standingData.groups[divisionName][groupName], players)));
                                 });
+
+                                if ('playoffs' in standingData) {
+                                    for (playoffTitle in standingData.playoffs) {
+                                        if (playoffTitle.includes(divisionName)) {
+                                            $('#groups').append($('<h3>').text(playoffTitle));
+                                            $('#groups').append(makePlayoff(standingData.playoffs[playoffTitle], players));
+                                            displayedPlayoffs.push(playoffTitle);
+                                        }
+                                    }
+                                }
                             }
                         });
+                        // Include any playoffs that have been missed so far.
+                        if ('playoffs' in standingData) {
+                            for (playoffTitle in standingData.playoffs) {
+                                if (!displayedPlayoffs.includes(playoffTitle)) {
+                                    $('#groups').append($('<h3>').text(playoffTitle));
+                                    $('#groups').append(makePlayoff(standingData.playoffs[playoffTitle], players));
+                                }
+                            }
+                        }
                     });
                 });
             });
@@ -72,15 +139,6 @@
             <h2>RAGL Standings for Season <span id="season"></span>:</h2>
             <div id="groups">
             </div>
-            <table>
-                <thead>
-                    <tr id="columns">
-                    </tr>
-                </thead>
-                <tbody id="standings">
-
-                </tbody>
-            </table>
         </div>
     </body>
 </html>

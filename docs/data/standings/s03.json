@@ -32,12 +32,14 @@
           "id": 3214,
           "played": 14,
           "won": 6,
+          "headToHead": "1-1",
           "guestWins": 3
         },
         {
           "id": 4527,
           "played": 16,
           "won": 6,
+          "headToHead": "1-1",
           "guestWins": 2
         },
         {
@@ -177,12 +179,16 @@
         {
           "id": -16,
           "played": 12,
-          "won": 2
+          "won": 2,
+          "guestWins": 1,
+          "headToHead": "2-0"
         },
         {
           "id": -20,
           "played": 10,
-          "won": 2
+          "won": 2,
+          "guestWins": 1,
+          "headToHead": "0-2"
         },
         {
           "id": -17,

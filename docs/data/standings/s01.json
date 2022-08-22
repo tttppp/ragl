@@ -1,8 +1,9 @@
 {
   "order": [
     {"won": "DESC"},
+    {"guestWins": "DESC"},
     {"headToHead": "DESC"},
-    {"guestWins": "DESC"}
+    {"tieBreak": "DESC"}
   ],
   "groups": {
     "Masters": {
