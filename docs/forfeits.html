@@ -48,12 +48,20 @@
                             table.append($('<tr>')
                                 .append($('<th>').text('Name'))
                                 .append($('<th>').text('Season Forfeits'))
-                                .append($('<th>').text('Completed Seasons')));
+                                .append($('<th>').text('Completed Seasons'))
+                                .append($('<th>').text('Qualification Games')));
                             results.forEach((entry, id) => {
+                                var qualificationGames = entry.seasonForfeits - entry.completedSeasons;
+                                if (qualificationGames < 0) {
+                                    qualificationGames = 0;
+                                } else {
+                                    qualificationGames = 4 * qualificationGames * qualificationGames;
+                                }
                                 table.append($('<tr>')
                                     .append($('<td>').text(players[id]))
                                     .append($('<td>').text(entry.seasonForfeits))
-                                    .append($('<td>').text(entry.completedSeasons)));
+                                    .append($('<td>').text(entry.completedSeasons))
+                                    .append($('<td>').text(qualificationGames)));
                             });
                             $('#forfeits').html(table);
                         });
@@ -83,7 +91,7 @@
                 <span><a href="forfeits.html">RAGL Forfeits</a></span>
                 <span><a href="https://github.com/tttppp/ragl/blob/master/rules.md">RAGL Rules</a></span>
             </div>
-            <h1><a href="standings.html">RAGL Season Forfeits</a></h1>
+            <h1><a href="forfeits.html">RAGL Season Forfeits</a></h1>
             <h2>RAGL Season Forfeits as of Season <span id="season"></span>:</h2>
             <div id="navigation">
                 <span id="previous"></span>
