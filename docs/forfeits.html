@@ -44,24 +44,34 @@
                                     }
                                 });
                             }
+                            var rows = [];
+                            results.forEach((result, id) => {
+                                var qualificationGames = result.seasonForfeits - result.completedSeasons;
+                                if (qualificationGames < 0) {
+                                    qualificationGames = 0;
+                                } else {
+                                    qualificationGames = 4 * qualificationGames * qualificationGames;
+                                }
+                                var row = result;
+                                row['name'] = players[id];
+                                row['qualificationGames'] = qualificationGames;
+                                rows.push(row);
+                            });
+                            rows.sort((rowA, rowB) => 10000 * (rowB.qualificationGames - rowA.qualificationGames)
+                                                      + 100 * (rowB.seasonForfeits - rowA.seasonForfeits)
+                                                      +        rowB.completedSeasons - rowA.completedSeasons);
                             var table = $('<table>').attr('id', 'results');
                             table.append($('<tr>')
                                 .append($('<th>').text('Name'))
                                 .append($('<th>').text('Season Forfeits'))
                                 .append($('<th>').text('Completed Seasons'))
                                 .append($('<th>').text('Qualification Games')));
-                            results.forEach((entry, id) => {
-                                var qualificationGames = entry.seasonForfeits - entry.completedSeasons;
-                                if (qualificationGames < 0) {
-                                    qualificationGames = 0;
-                                } else {
-                                    qualificationGames = 4 * qualificationGames * qualificationGames;
-                                }
+                            rows.forEach(entry => {
                                 table.append($('<tr>')
-                                    .append($('<td>').text(players[id]))
+                                    .append($('<td>').text(entry.name))
                                     .append($('<td>').text(entry.seasonForfeits))
                                     .append($('<td>').text(entry.completedSeasons))
-                                    .append($('<td>').text(qualificationGames)));
+                                    .append($('<td>').text(entry.qualificationGames)));
                             });
                             $('#forfeits').html(table);
                         });
