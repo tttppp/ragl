@@ -1,0 +1,96 @@
+<html>
+    <head>
+        <title>RAGL Season Forfeits</title>
+        <link rel="stylesheet" href="ragl.css">
+        <script src="js/jquery.min.js"></script>
+        <script>
+            $(document).ready(function() {
+                $.getJSON('data/ragl.json', function(ragl) {
+                    const urlSearchParams = new URLSearchParams(window.location.search);
+                    var season = Number(urlSearchParams.get('season'));
+                    if (!season) {
+                        season = ragl.latestSeason;
+                    }
+                    $('#season').text(season);
+
+                    $.getJSON('data/players.json', function(players) {
+                        var finishers = new Map();
+                        var promises = [];
+                        for (var pastSeason = 1; pastSeason <= season; pastSeason++) {
+                            finishers.set(pastSeason, new Map());
+                            promises.push($.getJSON('data/standings/s' + (pastSeason < 10 ? '0' : '') + pastSeason+'.json', function(pastSeason) {
+                                return function(standingData) {
+                                    Object.keys(standingData.groups).forEach(divisionName => {
+                                        Object.keys(standingData.groups[divisionName]).forEach(groupName => {
+                                            standingData.groups[divisionName][groupName].forEach(function(entry, i) {
+                                                finishers.get(pastSeason).set(entry.id, !entry.seasonForfeit);
+                                            });
+                                        });
+                                    });
+                                };
+                            }(pastSeason)));
+                        }
+                        $.when.apply($, promises).done(function() {
+                            var results = new Map();
+                            for (var pastSeason = 1; pastSeason <= season; pastSeason++) {
+                                finishers.get(pastSeason).forEach((finished, id) => {
+                                    if (!results.has(id)) {
+                                        results.set(id, {'seasonForfeits': 0, 'completedSeasons': 0});
+                                    }
+                                    if (finished) {
+                                        results.get(id).completedSeasons++;
+                                    } else {
+                                        results.get(id).seasonForfeits++;
+                                    }
+                                });
+                            }
+                            var table = $('<table>').attr('id', 'results');
+                            table.append($('<tr>')
+                                .append($('<th>').text('Name'))
+                                .append($('<th>').text('Season Forfeits'))
+                                .append($('<th>').text('Completed Seasons')));
+                            results.forEach((entry, id) => {
+                                table.append($('<tr>')
+                                    .append($('<td>').text(players[id]))
+                                    .append($('<td>').text(entry.seasonForfeits))
+                                    .append($('<td>').text(entry.completedSeasons)));
+                            });
+                            $('#forfeits').html(table);
+                        });
+                    });
+
+                    // Populate previous/next links.
+                    var previousSeasonLink = $('<a>').text("Previous Season");
+                    if (season > 1) {
+                        previousSeasonLink.attr('href', '?season=' + (season - 1));
+
+                    }
+                    $('#previous').append(previousSeasonLink);
+                    var nextSeasonLink = $('<a>').text("Next Season");
+                    if (season < ragl.latestSeason) {
+                        nextSeasonLink.attr('href', '?season=' + (season + 1));
+                    }
+                    $('#next').append(nextSeasonLink);
+                });
+            });
+        </script>
+    </head>
+    <body>
+        <div id="content">
+            <div id="menu">
+                <span><a href="index.html">RAGL Ladder</a></span>
+                <span><a href="standings.html">RAGL Standings</a></span>
+                <span><a href="forfeits.html">RAGL Forfeits</a></span>
+                <span><a href="https://github.com/tttppp/ragl/blob/master/rules.md">RAGL Rules</a></span>
+            </div>
+            <h1><a href="standings.html">RAGL Season Forfeits</a></h1>
+            <h2>RAGL Season Forfeits as of Season <span id="season"></span>:</h2>
+            <div id="navigation">
+                <span id="previous"></span>
+                <span id="next"></span>
+            </div>
+            <div id="forfeits">
+            </div>
+        </div>
+    </body>
+</html>
