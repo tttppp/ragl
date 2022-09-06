@@ -4606,5 +4606,17 @@
             "id": 12957,
             "name": "J!NX"
         }
+    },
+    {
+        "date": "2022-09-05 22:33:00",
+        "map": "Scorched Earth",
+        "p0": {
+            "id": 16066,
+            "name": "milkman"
+        },
+        "p1": {
+            "id": 12261,
+            "name": "DVoid"
+        }
     }
 ]
