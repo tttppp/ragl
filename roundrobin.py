@@ -1,56 +1,55 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+from collections import defaultdict
+from datetime import date, timedelta
+from math import ceil
 from random import seed, shuffle
 
-SEASON = 12
+SEASON = 13
+GROUP_STAGE_START_DATE = date(2022, 10, 3)
+GROUP_STAGE_WEEKS = 7
 
 divisions = [
 ('Masters', sorted(
-'''Upps (1463)
-Mr Cloudy (1559)
-Blackened (1446)
-anjew (1365)
-Goremented (1375)
-Sigil (1179)
-Kaution (1322)
-Gajcus (1414)
-Eugenator (1349)
-despro (1313)
-maceman (1302)
+'''despro (16222)
+Kav (13705)
+Blackened (6430)
+Gajcus (15421)
+maceman (6793)
+dang_shot (12283)
+Duke Bones (11913)
+Mr Cloudy (6771)
+Upps (7304)
+Dodder (11099)
+Eugenator (11442)
+anjew (3952)
+tux (15899)
 [bye]'''.split('\n'), key=str.casefold)),
 
 ('Minions', sorted(
-'''FiveAces (1241)
-Mo (1125)
-Ekanim (1158)
-Jur (1147)
-Tux (1130)
-DukeBones (1114)
-worldpeace (1012)
-Dodder (1123)
-Margot Honecker (1064)
-Azure Anemone (986)
-Nilhall (843)
-[bye]'''.split('\n'), key=str.casefold)),
-
-('Recruits', sorted(
-'''TTTPPP (917)
-milkman (890)
-BeTe (814)
-spetsnaz84 (787)
-Pvt_Leaf (674)
-Mees (662)
-chouchani (163)
-RobLoweEscobar (0)
-jawsh (0)
-daswaseinbefel (0)'''.split('\n'), key=str.casefold))
+'''Sigil (8869)
+Mo (5292)
+Ekanim (13710)
+bete (15428)
+Pvt_Leaf (16338)
+Tailix Killa Mentor (6751)
+TTTPPP (7387)
+milkman (16066)
+spetsnaz84 (6881)
+chouchani (14769)
+Nilhall (7714)
+J!NX (12957)
+jungle (9984)
+[bye]'''.split('\n'), key=str.casefold))
 ]
 
 # Make the schedule for the season reproducible.
 seed(SEASON)
 
+match_rounds_by_division = {}
 for division, players in divisions:
+    match_rounds = []
     names = [player.split(' (')[0] for player in players]
     shuffle(names)
     # Use a second list of names to randomise who has first map pick in each match.
@@ -62,7 +61,7 @@ for division, players in divisions:
     others = names[1:]
     matches = set()
     for i in range(len(others)):
-        print('[size=150][b]{}[/b][/size]'.format(division))
+        match_round = ''
         order = [first] + others[i:] + others[:i]
         for j in range(len(order) // 2):
             if '[bye]' in [order[j], order[-j-1]]:
@@ -70,9 +69,22 @@ for division, players in divisions:
             else:
                 swap_order = (name_ordering.index(order[j]) - name_ordering.index(order[-j-1])) % len(name_ordering) + len(name_ordering) % len(name_ordering) <= len(name_ordering) // 2
             if swap_order:
-                print('{} vs {}'.format(order[-j-1], order[j]))
+                match_round += '{} vs {}\n'.format(order[-j-1], order[j])
             else:
-                print('{} vs {}'.format(order[j], order[-j-1]))
+                match_round += '{} vs {}\n'.format(order[j], order[-j-1])
             matches.add((order[j], order[-j-1]))
             matches.add((order[-j-1], order[j]))
-        print()
+        match_rounds.append(match_round)
+    match_rounds_by_division[division] = match_rounds
+
+latest_round_played = defaultdict(int)
+for week in range(1, GROUP_STAGE_WEEKS + 1):
+    start_date = (GROUP_STAGE_START_DATE + timedelta(weeks=week - 1)).strftime('%Y-%m-%d')
+    end_date = (GROUP_STAGE_START_DATE + timedelta(days=7 * week - 1)).strftime('%Y-%m-%d')
+    print('[size=200][b]Week {}: {} - {}[/b][/size]\n'.format(week, start_date, end_date))
+    for division, _ in divisions:
+        print('[size=150][b]{}[/b][/size]\n'.format(division))
+        round_to_play_up_to = ceil((len(match_rounds_by_division[division]) * week) / GROUP_STAGE_WEEKS)
+        for match_round in match_rounds_by_division[division][latest_round_played[division]:round_to_play_up_to]:
+            print(match_round)
+        latest_round_played[division] = round_to_play_up_to
