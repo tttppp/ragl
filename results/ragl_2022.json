@@ -3190,5 +3190,29 @@
             "id": 15899,
             "name": "tux"
         }
+    },
+    {
+        "date": "2022-10-02 22:23:12",
+        "map": "Anar [RAGL-13]",
+        "p0": {
+            "id": 16066,
+            "name": "milkman"
+        },
+        "p1": {
+            "id": 13710,
+            "name": "Ekanim"
+        }
+    },
+    {
+        "date": "2022-10-02 22:39:11",
+        "map": "Territorial [RAGL-13]",
+        "p0": {
+            "id": 13710,
+            "name": "Ekanim"
+        },
+        "p1": {
+            "id": 16066,
+            "name": "milkman"
+        }
     }
 ]
