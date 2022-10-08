@@ -6298,5 +6298,17 @@
             "id": 6430,
             "name": "Blackened"
         }
+    },
+    {
+        "date": "2022-10-07 17:16:53",
+        "map": "Pity Light",
+        "p0": {
+            "id": 13710,
+            "name": "Ekanim"
+        },
+        "p1": {
+            "id": 17632,
+            "name": "jemoeder"
+        }
     }
 ]
