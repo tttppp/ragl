@@ -3766,5 +3766,29 @@
             "id": 9984,
             "name": "jungle"
         }
+    },
+    {
+        "date": "2022-10-14 20:10:47",
+        "map": "Abendland [RAGL-13]",
+        "p0": {
+            "id": 13705,
+            "name": "Kav"
+        },
+        "p1": {
+            "id": 11913,
+            "name": "Duke Bones"
+        }
+    },
+    {
+        "date": "2022-10-14 20:16:27",
+        "map": "OverKill [RAGL-13]",
+        "p0": {
+            "id": 13705,
+            "name": "Kav"
+        },
+        "p1": {
+            "id": 11913,
+            "name": "Duke Bones"
+        }
     }
 ]
