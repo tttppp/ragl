@@ -3838,5 +3838,101 @@
             "id": 5292,
             "name": "Mo"
         }
+    },
+    {
+        "date": "2022-10-16 15:30:53",
+        "map": "Sompio [RAGL-13]",
+        "p0": {
+            "id": 17607,
+            "name": "BigHALK"
+        },
+        "p1": {
+            "id": 7714,
+            "name": "Nilhall"
+        }
+    },
+    {
+        "date": "2022-10-16 15:54:42",
+        "map": "Assault [RAGL-13]",
+        "p0": {
+            "id": 17607,
+            "name": "BigHALK"
+        },
+        "p1": {
+            "id": 7714,
+            "name": "Nilhall"
+        }
+    },
+    {
+        "date": "2022-10-16 20:27:24",
+        "map": "OverKill [RAGL-13]",
+        "p0": {
+            "id": 13710,
+            "name": "Ekanim"
+        },
+        "p1": {
+            "id": 5292,
+            "name": "Mo"
+        }
+    },
+    {
+        "date": "2022-10-16 20:45:08",
+        "map": "Elevation [RAGL-13]",
+        "p0": {
+            "id": 13710,
+            "name": "Ekanim"
+        },
+        "p1": {
+            "id": 5292,
+            "name": "Mo"
+        }
+    },
+    {
+        "date": "2022-10-16 21:12:04",
+        "map": "Pity Light [RAGL-13]",
+        "p0": {
+            "id": 8869,
+            "name": "Sigil"
+        },
+        "p1": {
+            "id": 14769,
+            "name": "chouchani"
+        }
+    },
+    {
+        "date": "2022-10-16 21:12:57",
+        "map": "Territorial [RAGL-13]",
+        "p0": {
+            "id": 5292,
+            "name": "Mo"
+        },
+        "p1": {
+            "id": 16066,
+            "name": "milkman"
+        }
+    },
+    {
+        "date": "2022-10-16 21:26:25",
+        "map": "Anar [RAGL-13]",
+        "p0": {
+            "id": 8869,
+            "name": "Sigil"
+        },
+        "p1": {
+            "id": 14769,
+            "name": "chouchani"
+        }
+    },
+    {
+        "date": "2022-10-16 21:33:04",
+        "map": "Greener Pastures [RAGL-13]",
+        "p0": {
+            "id": 5292,
+            "name": "Mo"
+        },
+        "p1": {
+            "id": 16066,
+            "name": "milkman"
+        }
     }
 ]
