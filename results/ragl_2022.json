@@ -3934,5 +3934,101 @@
             "id": 16066,
             "name": "milkman"
         }
+    },
+    {
+        "date": "2022-10-17 14:19:00",
+        "map": "Anar [RAGL-13]",
+        "p0": {
+            "id": 15428,
+            "name": "bete"
+        },
+        "p1": {
+            "id": 7387,
+            "name": "TTTPPP"
+        }
+    },
+    {
+        "date": "2022-10-17 14:28:15",
+        "map": "Forgotten Plains [RAGL-13]",
+        "p0": {
+            "id": 7387,
+            "name": "TTTPPP"
+        },
+        "p1": {
+            "id": 15428,
+            "name": "bete"
+        }
+    },
+    {
+        "date": "2022-10-17 18:30:07",
+        "map": "Elevation [RAGL-13]",
+        "p0": {
+            "id": 16222,
+            "name": "despro"
+        },
+        "p1": {
+            "id": 11913,
+            "name": "Duke Bones"
+        }
+    },
+    {
+        "date": "2022-10-17 18:39:20",
+        "map": "Assault [RAGL-13]",
+        "p0": {
+            "id": 16222,
+            "name": "despro"
+        },
+        "p1": {
+            "id": 11913,
+            "name": "Duke Bones"
+        }
+    },
+    {
+        "date": "2022-10-17 19:24:09",
+        "map": "Anar [RAGL-13]",
+        "p0": {
+            "id": 6881,
+            "name": "spetsnaz84"
+        },
+        "p1": {
+            "id": 15428,
+            "name": "bete"
+        }
+    },
+    {
+        "date": "2022-10-17 19:54:36",
+        "map": "Greener Pastures [RAGL-13]",
+        "p0": {
+            "id": 6881,
+            "name": "spetsnaz84"
+        },
+        "p1": {
+            "id": 15428,
+            "name": "bete"
+        }
+    },
+    {
+        "date": "2022-10-17 20:37:10",
+        "map": "Territorial [RAGL-13]",
+        "p0": {
+            "id": 7387,
+            "name": "TTTPPP"
+        },
+        "p1": {
+            "id": 16066,
+            "name": "milkman"
+        }
+    },
+    {
+        "date": "2022-10-17 20:51:27",
+        "map": "Abendland [RAGL-13]",
+        "p0": {
+            "id": 16066,
+            "name": "milkman"
+        },
+        "p1": {
+            "id": 7387,
+            "name": "TTTPPP"
+        }
     }
 ]
