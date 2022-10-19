@@ -4030,5 +4030,77 @@
             "id": 7387,
             "name": "TTTPPP"
         }
+    },
+    {
+        "date": "2022-10-18 19:42:25",
+        "map": "Territorial [RAGL-13]",
+        "p0": {
+            "id": 11442,
+            "name": "Eugenator"
+        },
+        "p1": {
+            "id": 7304,
+            "name": "Upps"
+        }
+    },
+    {
+        "date": "2022-10-18 19:54:03",
+        "map": "Assault [RAGL-13]",
+        "p0": {
+            "id": 11442,
+            "name": "Eugenator"
+        },
+        "p1": {
+            "id": 7304,
+            "name": "Upps"
+        }
+    },
+    {
+        "date": "2022-10-18 20:08:58",
+        "map": "Greener Pastures [RAGL-13]",
+        "p0": {
+            "id": 16222,
+            "name": "despro"
+        },
+        "p1": {
+            "id": 11099,
+            "name": "Dodder"
+        }
+    },
+    {
+        "date": "2022-10-18 20:20:07",
+        "map": "Anar [RAGL-13]",
+        "p0": {
+            "id": 16222,
+            "name": "despro"
+        },
+        "p1": {
+            "id": 11099,
+            "name": "Dodder"
+        }
+    },
+    {
+        "date": "2022-10-18 21:31:11",
+        "map": "Elevation [RAGL-13]",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 11913,
+            "name": "Duke Bones"
+        }
+    },
+    {
+        "date": "2022-10-18 21:41:32",
+        "map": "Pity Light [RAGL-13]",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 11913,
+            "name": "Duke Bones"
+        }
     }
 ]
