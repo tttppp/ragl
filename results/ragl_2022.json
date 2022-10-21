@@ -4174,5 +4174,53 @@
             "id": 11913,
             "name": "Duke Bones"
         }
+    },
+    {
+        "date": "2022-10-20 17:25:01",
+        "map": "Greener Pastures [RAGL-13]",
+        "p0": {
+            "id": 12283,
+            "name": "dang_shot"
+        },
+        "p1": {
+            "id": 13705,
+            "name": "Kav"
+        }
+    },
+    {
+        "date": "2022-10-20 17:34:50",
+        "map": "Abendland [RAGL-13]",
+        "p0": {
+            "id": 13705,
+            "name": "Kav"
+        },
+        "p1": {
+            "id": 12283,
+            "name": "dang_shot"
+        }
+    },
+    {
+        "date": "2022-10-20 21:02:59",
+        "map": "Abendland [RAGL-13]",
+        "p0": {
+            "id": 17607,
+            "name": "BigHALK"
+        },
+        "p1": {
+            "id": 16066,
+            "name": "milkman"
+        }
+    },
+    {
+        "date": "2022-10-20 21:17:12",
+        "map": "OverKill [RAGL-13]",
+        "p0": {
+            "id": 16066,
+            "name": "milkman"
+        },
+        "p1": {
+            "id": 17607,
+            "name": "BigHALK"
+        }
     }
 ]
