@@ -4798,5 +4798,101 @@
             "id": 7304,
             "name": "Upps"
         }
+    },
+    {
+        "date": "2022-10-29 01:43:15",
+        "map": "Sompio [RAGL-13]",
+        "p0": {
+            "id": 17607,
+            "name": "BigHALK"
+        },
+        "p1": {
+            "id": 12957,
+            "name": "J!NX"
+        }
+    },
+    {
+        "date": "2022-10-29 03:22:19",
+        "map": "Elevation [RAGL-13]",
+        "p0": {
+            "id": 12957,
+            "name": "J!NX"
+        },
+        "p1": {
+            "id": 17607,
+            "name": "BigHALK"
+        }
+    },
+    {
+        "date": "2022-10-29 16:16:29",
+        "map": "Infection [RAGL-13]",
+        "p0": {
+            "id": 13710,
+            "name": "Ekanim"
+        },
+        "p1": {
+            "id": 7714,
+            "name": "Nilhall"
+        }
+    },
+    {
+        "date": "2022-10-29 16:25:12",
+        "map": "OverKill [RAGL-13]",
+        "p0": {
+            "id": 13710,
+            "name": "Ekanim"
+        },
+        "p1": {
+            "id": 7714,
+            "name": "Nilhall"
+        }
+    },
+    {
+        "date": "2022-10-29 18:45:51",
+        "map": "Sompio [RAGL-13]",
+        "p0": {
+            "id": 8869,
+            "name": "Sigil"
+        },
+        "p1": {
+            "id": 15428,
+            "name": "bete"
+        }
+    },
+    {
+        "date": "2022-10-29 19:01:38",
+        "map": "Elevation [RAGL-13]",
+        "p0": {
+            "id": 15428,
+            "name": "bete"
+        },
+        "p1": {
+            "id": 8869,
+            "name": "Sigil"
+        }
+    },
+    {
+        "date": "2022-10-29 20:05:48",
+        "map": "Pity Light [RAGL-13]",
+        "p0": {
+            "id": 15428,
+            "name": "bete"
+        },
+        "p1": {
+            "id": 16338,
+            "name": "Pvt_Leaf"
+        }
+    },
+    {
+        "date": "2022-10-29 20:21:48",
+        "map": "Greener Pastures [RAGL-13]",
+        "p0": {
+            "id": 15428,
+            "name": "bete"
+        },
+        "p1": {
+            "id": 16338,
+            "name": "Pvt_Leaf"
+        }
     }
 ]
