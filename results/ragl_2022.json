@@ -4894,5 +4894,221 @@
             "id": 16338,
             "name": "Pvt_Leaf"
         }
+    },
+    {
+        "date": "2022-10-30 04:29:40",
+        "map": "Territorial [RAGL-13]",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 3952,
+            "name": "anjew"
+        }
+    },
+    {
+        "date": "2022-10-30 04:40:32",
+        "map": "Sompio [RAGL-13]",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 3952,
+            "name": "anjew"
+        }
+    },
+    {
+        "date": "2022-10-30 14:56:25",
+        "map": "Greener Pastures [RAGL-13]",
+        "p0": {
+            "id": 12283,
+            "name": "dang_shot"
+        },
+        "p1": {
+            "id": 6793,
+            "name": "maceman"
+        }
+    },
+    {
+        "date": "2022-10-30 15:27:24",
+        "map": "Assault [RAGL-13]",
+        "p0": {
+            "id": 12283,
+            "name": "dang_shot"
+        },
+        "p1": {
+            "id": 6793,
+            "name": "maceman"
+        }
+    },
+    {
+        "date": "2022-10-30 18:22:15",
+        "map": "OverKill [RAGL-13]",
+        "p0": {
+            "id": 8869,
+            "name": "Sigil"
+        },
+        "p1": {
+            "id": 5292,
+            "name": "Mo"
+        }
+    },
+    {
+        "date": "2022-10-30 19:00:11",
+        "map": "Pity Light [RAGL-13]",
+        "p0": {
+            "id": 5292,
+            "name": "Mo"
+        },
+        "p1": {
+            "id": 8869,
+            "name": "Sigil"
+        }
+    },
+    {
+        "date": "2022-10-30 19:14:55",
+        "map": "Greener Pastures [RAGL-13]",
+        "p0": {
+            "id": 12283,
+            "name": "dang_shot"
+        },
+        "p1": {
+            "id": 6430,
+            "name": "Blackened"
+        }
+    },
+    {
+        "date": "2022-10-30 19:24:18",
+        "map": "Infection [RAGL-13]",
+        "p0": {
+            "id": 12283,
+            "name": "dang_shot"
+        },
+        "p1": {
+            "id": 6430,
+            "name": "Blackened"
+        }
+    },
+    {
+        "date": "2022-10-30 19:25:40",
+        "map": "Greener Pastures [RAGL-13]",
+        "p0": {
+            "id": 16338,
+            "name": "Pvt_Leaf"
+        },
+        "p1": {
+            "id": 9984,
+            "name": "jungle"
+        }
+    },
+    {
+        "date": "2022-10-30 19:38:46",
+        "map": "Assault [RAGL-13]",
+        "p0": {
+            "id": 16338,
+            "name": "Pvt_Leaf"
+        },
+        "p1": {
+            "id": 9984,
+            "name": "jungle"
+        }
+    },
+    {
+        "date": "2022-10-30 19:40:00",
+        "map": "Elevation [RAGL-13]",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 6793,
+            "name": "maceman"
+        }
+    },
+    {
+        "date": "2022-10-30 19:50:41",
+        "map": "Anar [RAGL-13]",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 6793,
+            "name": "maceman"
+        }
+    },
+    {
+        "date": "2022-10-30 20:29:57",
+        "map": "Greener Pastures [RAGL-13]",
+        "p0": {
+            "id": 16338,
+            "name": "Pvt_Leaf"
+        },
+        "p1": {
+            "id": 6881,
+            "name": "spetsnaz84"
+        }
+    },
+    {
+        "date": "2022-10-30 20:46:56",
+        "map": "Anar [RAGL-13]",
+        "p0": {
+            "id": 16338,
+            "name": "Pvt_Leaf"
+        },
+        "p1": {
+            "id": 6881,
+            "name": "spetsnaz84"
+        }
+    },
+    {
+        "date": "2022-10-30 21:13:47",
+        "map": "Anar [RAGL-13]",
+        "p0": {
+            "id": 16066,
+            "name": "milkman"
+        },
+        "p1": {
+            "id": 6881,
+            "name": "spetsnaz84"
+        }
+    },
+    {
+        "date": "2022-10-30 21:26:34",
+        "map": "Sompio [RAGL-13]",
+        "p0": {
+            "id": 16066,
+            "name": "milkman"
+        },
+        "p1": {
+            "id": 6881,
+            "name": "spetsnaz84"
+        }
+    },
+    {
+        "date": "2022-10-30 22:35:32",
+        "map": "Pity Light [RAGL-13]",
+        "p0": {
+            "id": 5292,
+            "name": "Mo"
+        },
+        "p1": {
+            "id": 15428,
+            "name": "bete"
+        }
+    },
+    {
+        "date": "2022-10-30 22:53:17",
+        "map": "Abendland [RAGL-13]",
+        "p0": {
+            "id": 5292,
+            "name": "Mo"
+        },
+        "p1": {
+            "id": 15428,
+            "name": "bete"
+        }
     }
 ]
