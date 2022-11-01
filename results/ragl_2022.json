@@ -5110,5 +5110,29 @@
             "id": 15428,
             "name": "bete"
         }
+    },
+    {
+        "date": "2022-10-31 01:27:11",
+        "map": "Territorial [RAGL-13]",
+        "p0": {
+            "id": 17607,
+            "name": "BigHALK"
+        },
+        "p1": {
+            "id": 8869,
+            "name": "Sigil"
+        }
+    },
+    {
+        "date": "2022-10-31 02:05:02",
+        "map": "Sompio [RAGL-13]",
+        "p0": {
+            "id": 8869,
+            "name": "Sigil"
+        },
+        "p1": {
+            "id": 17607,
+            "name": "BigHALK"
+        }
     }
 ]
