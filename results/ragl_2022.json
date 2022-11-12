@@ -5578,5 +5578,161 @@
             "id": 7304,
             "name": "Upps"
         }
+    },
+    {
+        "date": "2022-11-11 06:46:08",
+        "map": "Territorial [RAGL-13]",
+        "p0": {
+            "id": 12957,
+            "name": "J!NX"
+        },
+        "p1": {
+            "id": 7387,
+            "name": "TTTPPP"
+        }
+    },
+    {
+        "date": "2022-11-11 07:01:03",
+        "map": "Sompio [RAGL-13]",
+        "p0": {
+            "id": 12957,
+            "name": "J!NX"
+        },
+        "p1": {
+            "id": 7387,
+            "name": "TTTPPP"
+        }
+    },
+    {
+        "date": "2022-11-11 16:19:40",
+        "map": "Infection [RAGL-13]",
+        "p0": {
+            "id": 13710,
+            "name": "Ekanim"
+        },
+        "p1": {
+            "id": 7387,
+            "name": "TTTPPP"
+        }
+    },
+    {
+        "date": "2022-11-11 16:29:03",
+        "map": "Forgotten Plains [RAGL-13]",
+        "p0": {
+            "id": 13710,
+            "name": "Ekanim"
+        },
+        "p1": {
+            "id": 7387,
+            "name": "TTTPPP"
+        }
+    },
+    {
+        "date": "2022-11-11 16:57:02",
+        "map": "Isle of Wight [RAGL-13]",
+        "p0": {
+            "id": 8869,
+            "name": "Sigil"
+        },
+        "p1": {
+            "id": 7714,
+            "name": "Nilhall"
+        }
+    },
+    {
+        "date": "2022-11-11 17:12:21",
+        "map": "Anar [RAGL-13]",
+        "p0": {
+            "id": 8869,
+            "name": "Sigil"
+        },
+        "p1": {
+            "id": 7714,
+            "name": "Nilhall"
+        }
+    },
+    {
+        "date": "2022-11-11 18:18:39",
+        "map": "Elevation [RAGL-13]",
+        "p0": {
+            "id": 7714,
+            "name": "Nilhall"
+        },
+        "p1": {
+            "id": 12957,
+            "name": "J!NX"
+        }
+    },
+    {
+        "date": "2022-11-11 18:47:55",
+        "map": "Assault [RAGL-13]",
+        "p0": {
+            "id": 12957,
+            "name": "J!NX"
+        },
+        "p1": {
+            "id": 7714,
+            "name": "Nilhall"
+        }
+    },
+    {
+        "date": "2022-11-11 20:25:32",
+        "map": "Territorial [RAGL-13]",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 15421,
+            "name": "Gajcus"
+        }
+    },
+    {
+        "date": "2022-11-11 20:43:09",
+        "map": "Abendland [RAGL-13]",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 15421,
+            "name": "Gajcus"
+        }
+    },
+    {
+        "date": "2022-11-11 21:13:44",
+        "map": "Territorial [RAGL-13]",
+        "p0": {
+            "id": 15421,
+            "name": "Gajcus"
+        },
+        "p1": {
+            "id": 11913,
+            "name": "Duke Bones"
+        }
+    },
+    {
+        "date": "2022-11-11 21:23:10",
+        "map": "Anar [RAGL-13]",
+        "p0": {
+            "id": 15421,
+            "name": "Gajcus"
+        },
+        "p1": {
+            "id": 11913,
+            "name": "Duke Bones"
+        }
+    },
+    {
+        "date": "2022-11-12 01:01:58",
+        "map": "Greener Pastures [RAGL-13]",
+        "p0": {
+            "id": 8869,
+            "name": "Sigil"
+        },
+        "p1": {
+            "id": 16338,
+            "name": "Pvt_Leaf"
+        }
     }
 ]
