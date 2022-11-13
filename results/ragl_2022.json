@@ -5734,5 +5734,113 @@
             "id": 16338,
             "name": "Pvt_Leaf"
         }
+    },
+    {
+        "date": "2022-11-12 01:22:04",
+        "map": "Sompio [RAGL-13]",
+        "p0": {
+            "id": 8869,
+            "name": "Sigil"
+        },
+        "p1": {
+            "id": 16338,
+            "name": "Pvt_Leaf"
+        }
+    },
+    {
+        "date": "2022-11-12 18:10:48",
+        "map": "Sompio [RAGL-13]",
+        "p0": {
+            "id": 15428,
+            "name": "bete"
+        },
+        "p1": {
+            "id": 12957,
+            "name": "J!NX"
+        }
+    },
+    {
+        "date": "2022-11-12 18:22:26",
+        "map": "Elevation [RAGL-13]",
+        "p0": {
+            "id": 15428,
+            "name": "bete"
+        },
+        "p1": {
+            "id": 12957,
+            "name": "J!NX"
+        }
+    },
+    {
+        "date": "2022-11-12 18:49:38",
+        "map": "Elevation [RAGL-13]",
+        "p0": {
+            "id": 13710,
+            "name": "Ekanim"
+        },
+        "p1": {
+            "id": 12957,
+            "name": "J!NX"
+        }
+    },
+    {
+        "date": "2022-11-12 19:03:18",
+        "map": "OverKill [RAGL-13]",
+        "p0": {
+            "id": 13710,
+            "name": "Ekanim"
+        },
+        "p1": {
+            "id": 12957,
+            "name": "J!NX"
+        }
+    },
+    {
+        "date": "2022-11-12 21:02:27",
+        "map": "Anar [RAGL-13]",
+        "p0": {
+            "id": 13710,
+            "name": "Ekanim"
+        },
+        "p1": {
+            "id": 14769,
+            "name": "chouchani"
+        }
+    },
+    {
+        "date": "2022-11-12 21:20:04",
+        "map": "Forgotten Plains [RAGL-13]",
+        "p0": {
+            "id": 13710,
+            "name": "Ekanim"
+        },
+        "p1": {
+            "id": 14769,
+            "name": "chouchani"
+        }
+    },
+    {
+        "date": "2022-11-12 21:39:19",
+        "map": "Isle of Wight [RAGL-13]",
+        "p0": {
+            "id": 5292,
+            "name": "Mo"
+        },
+        "p1": {
+            "id": 9984,
+            "name": "jungle"
+        }
+    },
+    {
+        "date": "2022-11-12 21:52:59",
+        "map": "Assault [RAGL-13]",
+        "p0": {
+            "id": 5292,
+            "name": "Mo"
+        },
+        "p1": {
+            "id": 9984,
+            "name": "jungle"
+        }
     }
 ]
