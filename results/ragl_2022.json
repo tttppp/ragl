@@ -5962,5 +5962,53 @@
             "id": 13705,
             "name": "Kav"
         }
+    },
+    {
+        "date": "2022-11-16 15:15:50",
+        "map": "Sompio [RAGL-13]",
+        "p0": {
+            "id": 11913,
+            "name": "Duke Bones"
+        },
+        "p1": {
+            "id": 3952,
+            "name": "anjew"
+        }
+    },
+    {
+        "date": "2022-11-16 15:28:30",
+        "map": "Assault [RAGL-13]",
+        "p0": {
+            "id": 11913,
+            "name": "Duke Bones"
+        },
+        "p1": {
+            "id": 3952,
+            "name": "anjew"
+        }
+    },
+    {
+        "date": "2022-11-16 21:00:21",
+        "map": "Anar [RAGL-13]",
+        "p0": {
+            "id": 17607,
+            "name": "BigHALK"
+        },
+        "p1": {
+            "id": 14769,
+            "name": "chouchani"
+        }
+    },
+    {
+        "date": "2022-11-16 21:31:24",
+        "map": "Pity Light [RAGL-13]",
+        "p0": {
+            "id": 17607,
+            "name": "BigHALK"
+        },
+        "p1": {
+            "id": 14769,
+            "name": "chouchani"
+        }
     }
 ]
