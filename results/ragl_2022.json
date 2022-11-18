@@ -6010,5 +6010,53 @@
             "id": 14769,
             "name": "chouchani"
         }
+    },
+    {
+        "date": "2022-11-17 19:57:58",
+        "map": "Greener Pastures [RAGL-13]",
+        "p0": {
+            "id": 17607,
+            "name": "BigHALK"
+        },
+        "p1": {
+            "id": 16338,
+            "name": "Pvt_Leaf"
+        }
+    },
+    {
+        "date": "2022-11-17 20:15:02",
+        "map": "Assault [RAGL-13]",
+        "p0": {
+            "id": 16338,
+            "name": "Pvt_Leaf"
+        },
+        "p1": {
+            "id": 17607,
+            "name": "BigHALK"
+        }
+    },
+    {
+        "date": "2022-11-17 20:39:02",
+        "map": "Sompio [RAGL-13]",
+        "p0": {
+            "id": 16222,
+            "name": "despro"
+        },
+        "p1": {
+            "id": 6793,
+            "name": "maceman"
+        }
+    },
+    {
+        "date": "2022-11-17 20:52:20",
+        "map": "Infection [RAGL-13]",
+        "p0": {
+            "id": 16222,
+            "name": "despro"
+        },
+        "p1": {
+            "id": 6793,
+            "name": "maceman"
+        }
     }
 ]
