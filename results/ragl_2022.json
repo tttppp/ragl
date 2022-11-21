@@ -6058,5 +6058,65 @@
             "id": 6793,
             "name": "maceman"
         }
+    },
+    {
+        "date": "2022-11-20 19:45:50",
+        "map": "OverKill [RAGL-13]",
+        "p0": {
+            "id": 13710,
+            "name": "Ekanim"
+        },
+        "p1": {
+            "id": 6881,
+            "name": "spetsnaz84"
+        }
+    },
+    {
+        "date": "2022-11-20 20:01:44",
+        "map": "Anar [RAGL-13]",
+        "p0": {
+            "id": 13710,
+            "name": "Ekanim"
+        },
+        "p1": {
+            "id": 6881,
+            "name": "spetsnaz84"
+        }
+    },
+    {
+        "date": "2022-11-20 20:28:54",
+        "map": "Infection [RAGL-13]",
+        "p0": {
+            "id": 7304,
+            "name": "Upps"
+        },
+        "p1": {
+            "id": 11099,
+            "name": "Dodder"
+        }
+    },
+    {
+        "date": "2022-11-20 23:07:40",
+        "map": "Anar [RAGL-13]",
+        "p0": {
+            "id": 12957,
+            "name": "J!NX"
+        },
+        "p1": {
+            "id": 14769,
+            "name": "chouchani"
+        }
+    },
+    {
+        "date": "2022-11-20 23:18:32",
+        "map": "Sompio [RAGL-13]",
+        "p0": {
+            "id": 12957,
+            "name": "J!NX"
+        },
+        "p1": {
+            "id": 14769,
+            "name": "chouchani"
+        }
     }
 ]
