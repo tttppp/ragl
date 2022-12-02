@@ -6142,5 +6142,41 @@
             "id": 3952,
             "name": "anjew"
         }
+    },
+    {
+        "date": "2022-12-01 19:17:43",
+        "map": "Greener Pastures [RAGL-13]",
+        "p0": {
+            "id": 13705,
+            "name": "Kav"
+        },
+        "p1": {
+            "id": 15421,
+            "name": "Gajcus"
+        }
+    },
+    {
+        "date": "2022-12-01 19:30:06",
+        "map": "Abendland [RAGL-13]",
+        "p0": {
+            "id": 13705,
+            "name": "Kav"
+        },
+        "p1": {
+            "id": 15421,
+            "name": "Gajcus"
+        }
+    },
+    {
+        "date": "2022-12-01 19:39:51",
+        "map": "Isle of Wight [RAGL-13]",
+        "p0": {
+            "id": 13705,
+            "name": "Kav"
+        },
+        "p1": {
+            "id": 15421,
+            "name": "Gajcus"
+        }
     }
 ]
