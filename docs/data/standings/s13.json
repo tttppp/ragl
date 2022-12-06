@@ -1,0 +1,160 @@
+{
+  "order": [
+    {"won": "DESC"},
+    {"headToHead": "DESC"},
+    {"strikes": "ASC"},
+    {"tieBreak": "DESC"}
+  ],
+  "groups": {
+    "Masters": {
+      "": [
+        {
+          "id": 6430,
+          "played": 14,
+          "won": 14
+        },
+        {
+          "id": 13705,
+          "played": 14,
+          "won": 12
+        },
+        {
+          "id": 15421,
+          "played": 14,
+          "won": 8
+        },
+        {
+          "id": 6793,
+          "played": 14,
+          "won": 7
+        },
+        {
+          "id": 11442,
+          "played": 14,
+          "won": 5
+        },
+        {
+          "id": 11913,
+          "played": 14,
+          "won": 4,
+          "headToHead": "2-0"
+        },
+        {
+          "id": 3952,
+          "played": 14,
+          "won": 4,
+          "headToHead": "0-2"
+        },
+        {
+          "id": 7304,
+          "played": 14,
+          "won": 2
+        },
+        {
+          "id": 6771,
+          "seasonForfeit": true
+        },
+        {
+          "id": 11099,
+          "seasonForfeit": true
+        },
+        {
+          "id": 12283,
+          "seasonForfeit": true
+        },
+        {
+          "id": 15899,
+          "seasonForfeit": true
+        },
+        {
+          "id": 16222,
+          "seasonForfeit": true
+        }
+      ]
+    },
+    "Minions": {
+      "": [
+        {
+          "id": 13710,
+          "played": 22,
+          "won": 21
+        },
+        {
+          "id": 5292,
+          "played": 22,
+          "won": 16
+        },
+        {
+          "id": 8869,
+          "played": 22,
+          "won": 15
+        },
+        {
+          "id": 16066,
+          "played": 22,
+          "won": 14
+        },
+        {
+          "id": 15428,
+          "played": 22,
+          "won": 12
+        },
+        {
+          "id": 12957,
+          "played": 22,
+          "won": 11
+        },
+        {
+          "id": 6881,
+          "played": 22,
+          "won": 9,
+          "headToHead": "3-3"
+        },
+        {
+          "id": 7714,
+          "played": 22,
+          "won": 9,
+          "headToHead": "3-3"
+        },
+        {
+          "id": 16338,
+          "played": 22,
+          "won": 9,
+          "headToHead": "3-3"
+        },
+        {
+          "id": 17607,
+          "played": 22,
+          "won": 9,
+          "headToHead": "3-3"
+        },
+        {
+          "id": 7387,
+          "played": 22,
+          "won": 7
+        },
+        {
+          "id": 14769,
+          "played": 22,
+          "won": 0
+        },
+        {
+          "id": 6751,
+          "seasonForfeit": true
+        },
+        {
+          "id": 9984,
+          "seasonForfeit": true
+        }
+      ]
+    }
+  },
+  "playoffs": {
+    "Masters Playoffs": [
+      {
+        "13705": 3,
+        "15421": 0
+      }
+    ]
+  }
+}
