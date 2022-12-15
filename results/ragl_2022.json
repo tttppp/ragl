@@ -6226,5 +6226,41 @@
             "id": 6430,
             "name": "Blackened"
         }
+    },
+    {
+        "date": "2022-12-14 16:00:07",
+        "map": "Anar [RAGL-13]",
+        "p0": {
+            "id": 13705,
+            "name": "Kav"
+        },
+        "p1": {
+            "id": 6793,
+            "name": "maceman"
+        }
+    },
+    {
+        "date": "2022-12-14 16:17:10",
+        "map": "OverKill [RAGL-13]",
+        "p0": {
+            "id": 13705,
+            "name": "Kav"
+        },
+        "p1": {
+            "id": 6793,
+            "name": "maceman"
+        }
+    },
+    {
+        "date": "2022-12-14 16:30:15",
+        "map": "Forgotten Plains [RAGL-13]",
+        "p0": {
+            "id": 13705,
+            "name": "Kav"
+        },
+        "p1": {
+            "id": 6793,
+            "name": "maceman"
+        }
     }
 ]
