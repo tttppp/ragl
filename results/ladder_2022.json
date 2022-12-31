@@ -11674,5 +11674,29 @@
             "id": 16066,
             "name": "milkman"
         }
+    },
+    {
+        "date": "2022-12-30 19:43:29",
+        "map": "Pity Light",
+        "p0": {
+            "id": 13710,
+            "name": "Ekanim"
+        },
+        "p1": {
+            "id": 9080,
+            "name": "niklaskb"
+        }
+    },
+    {
+        "date": "2022-12-30 19:54:37",
+        "map": "Territorial",
+        "p0": {
+            "id": 13710,
+            "name": "Ekanim"
+        },
+        "p1": {
+            "id": 9080,
+            "name": "niklaskb"
+        }
     }
 ]
