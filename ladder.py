@@ -13,7 +13,7 @@ results_dir = 'results'
 web_dir = 'docs'
 
 results_urls = {
-    'ladder': 'http://oraladder.net/latest-js?period=all',
+    'ladder': 'http://oraladder.net/latest-js?mod=ra',
     'ragl': 'https://ragl.org/games/json'
 }
 
