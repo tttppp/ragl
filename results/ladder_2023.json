@@ -970,5 +970,29 @@
             "id": 15428,
             "name": "bete"
         }
+    },
+    {
+        "date": "2023-01-12 16:03:18",
+        "map": "Timian",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzar"
+        },
+        "p1": {
+            "id": 15428,
+            "name": "bete"
+        }
+    },
+    {
+        "date": "2023-01-12 22:43:47",
+        "map": "Twisted River of Gold",
+        "p0": {
+            "id": 17267,
+            "name": "General Carl"
+        },
+        "p1": {
+            "id": 17607,
+            "name": "BigHALK"
+        }
     }
 ]
