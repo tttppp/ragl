@@ -1270,5 +1270,41 @@
             "id": 16066,
             "name": "milkman"
         }
+    },
+    {
+        "date": "2023-01-14 16:52:33",
+        "map": "Strashno",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzar"
+        },
+        "p1": {
+            "id": 15428,
+            "name": "bete"
+        }
+    },
+    {
+        "date": "2023-01-14 17:47:23",
+        "map": "Strashno",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzar"
+        },
+        "p1": {
+            "id": 17465,
+            "name": "tonfisk1337"
+        }
+    },
+    {
+        "date": "2023-01-14 22:42:14",
+        "map": "Clearing",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzar"
+        },
+        "p1": {
+            "id": 15584,
+            "name": "Spider"
+        }
     }
 ]
