@@ -3130,5 +3130,101 @@
             "id": 13710,
             "name": "Ekanim"
         }
+    },
+    {
+        "date": "2023-02-05 01:12:36",
+        "map": "Thales",
+        "p0": {
+            "id": 11729,
+            "name": "matts_mum"
+        },
+        "p1": {
+            "id": 11188,
+            "name": "M0nk3Ee"
+        }
+    },
+    {
+        "date": "2023-02-05 10:29:38",
+        "map": "Jungle Boogie",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzar"
+        },
+        "p1": {
+            "id": 13753,
+            "name": "gargraval"
+        }
+    },
+    {
+        "date": "2023-02-05 18:39:09",
+        "map": "Excavations",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 13710,
+            "name": "Ekanim"
+        }
+    },
+    {
+        "date": "2023-02-05 18:55:52",
+        "map": "The Long Night",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 13710,
+            "name": "Ekanim"
+        }
+    },
+    {
+        "date": "2023-02-05 19:13:14",
+        "map": "Autumn Mix",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 13710,
+            "name": "Ekanim"
+        }
+    },
+    {
+        "date": "2023-02-05 19:21:03",
+        "map": "The Pooper Bowl 1v1",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 13710,
+            "name": "Ekanim"
+        }
+    },
+    {
+        "date": "2023-02-05 19:30:44",
+        "map": "Below Zero",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 13710,
+            "name": "Ekanim"
+        }
+    },
+    {
+        "date": "2023-02-05 19:43:46",
+        "map": "Twisted River of Gold",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 13710,
+            "name": "Ekanim"
+        }
     }
 ]
