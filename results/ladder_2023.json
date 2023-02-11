@@ -3694,5 +3694,41 @@
             "id": 6941,
             "name": "Jur"
         }
+    },
+    {
+        "date": "2023-02-10 17:45:34",
+        "map": "The Pooper Bowl 1v1",
+        "p0": {
+            "id": 3952,
+            "name": "anjew"
+        },
+        "p1": {
+            "id": 16967,
+            "name": "C3(Z)"
+        }
+    },
+    {
+        "date": "2023-02-10 21:11:34",
+        "map": "Deciduous Ring",
+        "p0": {
+            "id": 18317,
+            "name": "qmkadz"
+        },
+        "p1": {
+            "id": 18318,
+            "name": "Vivin"
+        }
+    },
+    {
+        "date": "2023-02-10 21:37:53",
+        "map": "Jungle Boogie",
+        "p0": {
+            "id": 15428,
+            "name": "bete"
+        },
+        "p1": {
+            "id": 6793,
+            "name": "maceman"
+        }
     }
 ]
