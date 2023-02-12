@@ -3730,5 +3730,17 @@
             "id": 6793,
             "name": "maceman"
         }
+    },
+    {
+        "date": "2023-02-11 17:25:08",
+        "map": "Pulverize",
+        "p0": {
+            "id": 12273,
+            "name": "luckyluke"
+        },
+        "p1": {
+            "id": 13753,
+            "name": "gargraval"
+        }
     }
 ]
