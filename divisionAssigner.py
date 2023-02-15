@@ -139,16 +139,17 @@ with open('docs/data/standings/s{:02d}.json'.format(SEASON - 1)) as standings_fi
             eliminations += [player['id'] for player in all_groups if ('seasonForfeit' in player and player['seasonForfeit'])]
 
 def open_rating_file(registration_close_date):
-    """Find the rating date preceding the registration date."""
+    """Find the rating date immediately after the registration date."""
     now = date.today()
     if registration_close_date > now:
         registration_close_date = now
-    rating_date = registration_close_date - timedelta(days=registration_close_date.weekday())
+    rating_date = registration_close_date + timedelta(days=(11-registration_close_date.weekday())%7)
     timestamp = timegm(rating_date.timetuple())
     while int(timestamp) > 0:
         try:
             return open('docs/data/weeks/w{}.json'.format(int(timestamp)))
         except FileNotFoundError:
+            print('WARNING: Rating file not found docs/data/weeks/w{}.json'.format(int(timestamp)))
             # If the file doesn't exist yet then try a week earlier.
             rating_date = rating_date - timedelta(days=7)
             timestamp = timegm(rating_date.timetuple())
@@ -228,13 +229,13 @@ with open_rating_file(REGISTRATION_CLOSE_DATE) as ratings_file:
 
 continuity_order = continuity_sort(REGISTRATIONS, standings_from_last_season, eliminations)
 print('### Continuity ranking ###')
-for player_id in continuity_order:
-    print(player_names[str(player_id)])
+for i, player_id in enumerate(continuity_order):
+    print('{} ({})'.format(player_names[str(player_id)], i+1))
 
 print('### Ladder ranking ###')
 ladder_order = ladder_sort(REGISTRATIONS, ladder_ratings)
 for player_id in ladder_order:
-    print(player_names[str(player_id)])
+    print('{} ({})'.format(player_names[str(player_id)], [player['r'] for player in ladder_ratings if player['i'] == player_id][0]))
 
 print('### Divisions ###')
 divisions = create_divisions(continuity_order, ladder_order)

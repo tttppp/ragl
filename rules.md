@@ -76,7 +76,7 @@ For details on prize pool contributions, check out the [Prize Pool section](#5.2
 * Game point difference (i.e. wins minus losses)
 * Group stage matchup
 * Total strikes (less strikes is better)
-* RAGL Ladder rating from the Monday before the Bo5s started
+* RAGL Ladder rating from the Friday before the Bo5s started
 
 1.3.4 Strikes can be given for a number of different reasons, including failure to report a match, cheating, etc. Each strike is marked in Scoreboards.
 
