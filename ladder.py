@@ -94,10 +94,10 @@ def load_existing_player_data():
         player_data = json.load(players_file)
         return {int(player_id): name for player_id, name in player_data.items()}
 
-start_datetime = str_to_date('2016-01-04 00:00:00')
+start_datetime = str_to_date('2016-01-01 00:00:00')
 now = datetime.date.today()
 # End date is the beginning of this week, so we're only including complete weeks.
-end_date = now + datetime.timedelta(days=7-now.weekday())
+end_date = now + datetime.timedelta(days=(10 - now.weekday()) % 7 + 1)
 end_datetime = datetime.datetime.combine(end_date, datetime.datetime.min.time())
 
 # Calculate Glicko2 rankings.
