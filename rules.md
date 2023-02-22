@@ -80,7 +80,7 @@ For details on prize pool contributions, check out the [Prize Pool section](#5.2
 
 1.3.4 Strikes can be given for a number of different reasons, including failure to report a match, cheating, etc. Each strike is marked in Scoreboards.
 
-1.3.5 3 strikes accumulated during the season result in a straight Disqualification from the group stage. Disqualified players are cleared of any results in that season and are placed last in their respective group.
+1.3.5 Three strikes accumulated during the season result in a straight Disqualification from the group stage. Disqualified players are cleared of any results in that season and are placed last in their respective group.
 
 1.3.6 Players finishing in the top 4 spots of Masters are promoted into Masters Playoffs which decide final standings in Masters.
 
@@ -117,7 +117,9 @@ For details on prize pool contributions, check out the [Prize Pool section](#5.2
 
 1.5.1.1 Prize payments are subject to transfer fees and consequently it is not worth paying very small prizes. A small prize pool may result in prizes being omitted.
 
-1.5.2 The Season finisher prize pool will be split between (up to) 3 players drawn randomly among those who successfully finished the season (Masters, Minions or Recruits), did not accumulate strikes and are outside the normal prize spots.
+1.5.2 The Season finisher prize pool will be split between (up to) 3 players drawn randomly among those who successfully finished the season (all divisions) and did not win any other prize.
+
+1.5.2.1 For each strike that a player receieves the chance of them winning a share of the Season finisher prize pool will decrease. (Nb. Due to the implementation of the prize draw the chance of winning may not be proportional to the number of strikes a player has left)
 
 1.5.3 Prize pools are completely voluntary and are not expected to be significant each season. If the prize pool for a particular season is thin the exact spread and rewards will be carefully considered.
 
@@ -180,7 +182,7 @@ Official communications between the players and with league officials are primar
 
 3.3.3 The player has to notify both officials and the opponent, preferably in the dedicated Discord channel. Any info regarding the contact failure should be present in the notice for officials to resolve the matter.
 
-3.3.4 Failed contact notices must be sent ASAP, leaving a failed contact notice attempt till after the deadline for the match will mean it will not be addressed; matches will be noted as a strike.
+3.3.4 Failed contact notices must be sent ASAP, leaving a failed contact notice attempt until after the deadline for the match will mean it will not be addressed; matches will be noted as a strike.
 
 3.3.5 Failure to respond entirely will result in a 0-2 loss and a strike.
 
@@ -202,9 +204,9 @@ Official communications between the players and with league officials are primar
 
 ## 3.6 Match delays
 
-3.6.1 Matches are possible to be delayed past their schedule up until the end of the group stage.
+3.6.1 Matches are possible to be delayed by one player for up to one week, or by both players for up to two weeks.
 
-3.6.2 The player has to notify both officials and the opponent in the dedicated Discord channel. Each delay is marked in Scoreboards until it is played.
+3.6.2 Delay notices must be published in the dedicated Discord channel with a mention of the opponent.
 
 3.6.3 Delay notices must be sent no later than the next week's Monday 23:59 UTC+0.
 
@@ -213,6 +215,8 @@ Official communications between the players and with league officials are primar
 3.6.5 There are no regulations regarding matches being played before their designated schedule, thus it is advised to play matches early instead of delaying.
 
 3.6.6 Failed contact notices will take precedence over delay notices. If only one player is actively trying to schedule a match then their opponent will be issued with a strike, rather than the active player having to use a delay.
+
+3.6.7 Officials will make decisions about any overdue matches and make a judgement as to which players to assign strikes to.
 
 # 4. Match regulations
 
