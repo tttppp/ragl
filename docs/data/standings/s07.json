@@ -87,13 +87,17 @@
           "id": 6771,
           "played": 14,
           "won": 13,
-          "headToHead": "2-0"
+          "headToHead": "1-1",
+          "strikes": 0,
+          "tiebreak": "2-0"
         },
         {
           "id": 8769,
           "played": 14,
           "won": 13,
-          "headToHead": "0-2"
+          "headToHead": "1-1",
+          "strikes": 0,
+          "tiebreak": "0-2"
         },
         {
           "id": 6265,
