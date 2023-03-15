@@ -13,82 +13,89 @@
                     }
                     $('#season').text(season);
 
-                    $.getJSON('data/players.json', function(players) {
-                        var finishers = new Map();
-                        var promises = [];
-                        for (var pastSeason = 1; pastSeason <= season; pastSeason++) {
-                            finishers.set(pastSeason, new Map());
-                            promises.push($.getJSON('data/standings/s' + (pastSeason < 10 ? '0' : '') + pastSeason+'.json', function(pastSeason) {
-                                return function(standingData) {
-                                    Object.keys(standingData.groups).forEach(divisionName => {
-                                        Object.keys(standingData.groups[divisionName]).forEach(groupName => {
-                                            standingData.groups[divisionName][groupName].forEach(function(entry, i) {
-                                                finishers.get(pastSeason).set(entry.id, !entry.seasonForfeit);
+                    $.getJSON('data/replacements.json', function(replacements) {
+
+                        $.getJSON('data/players.json', function(players) {
+                            var finishers = new Map();
+                            var promises = [];
+                            for (var pastSeason = 1; pastSeason <= season; pastSeason++) {
+                                finishers.set(pastSeason, new Map());
+                                promises.push($.getJSON('data/standings/s' + (pastSeason < 10 ? '0' : '') + pastSeason+'.json', function(pastSeason) {
+                                    return function(standingData) {
+                                        Object.keys(standingData.groups).forEach(divisionName => {
+                                            Object.keys(standingData.groups[divisionName]).forEach(groupName => {
+                                                standingData.groups[divisionName][groupName].forEach(function(entry, i) {
+                                                    var playerId = entry.id;
+                                                    while (playerId in replacements) {
+                                                        playerId = Number(replacements[playerId]);
+                                                    }
+                                                    finishers.get(pastSeason).set(playerId, !entry.seasonForfeit);
+                                                });
                                             });
                                         });
-                                    });
-                                };
-                            }(pastSeason)));
-                        }
-                        $.when.apply($, promises).done(function() {
-                            var results = new Map();
-                            for (var pastSeason = 1; pastSeason <= season; pastSeason++) {
-                                finishers.get(pastSeason).forEach((finished, id) => {
-                                    if (!results.has(id)) {
-                                        results.set(id, {'seasonForfeits': 0, 'completedSeasons': 0});
-                                    }
-                                    if (finished) {
-                                        results.get(id).completedSeasons++;
-                                    } else {
-                                        results.get(id).seasonForfeits++;
-                                    }
-                                });
+                                    };
+                                }(pastSeason)));
                             }
-                            var rows = [];
-                            results.forEach((result, id) => {
-                                var qualificationGames = result.seasonForfeits - result.completedSeasons;
-                                if (qualificationGames < 0) {
-                                    qualificationGames = 0;
-                                } else {
-                                    qualificationGames = 4 * qualificationGames * qualificationGames;
+                            $.when.apply($, promises).done(function() {
+                                var results = new Map();
+                                for (var pastSeason = 1; pastSeason <= season; pastSeason++) {
+                                    finishers.get(pastSeason).forEach((finished, id) => {
+                                        if (!results.has(id)) {
+                                            results.set(id, {'seasonForfeits': 0, 'completedSeasons': 0});
+                                        }
+                                        if (finished) {
+                                            results.get(id).completedSeasons++;
+                                        } else {
+                                            results.get(id).seasonForfeits++;
+                                        }
+                                    });
                                 }
-                                var row = result;
-                                row['name'] = players[id];
-                                row['qualificationGames'] = qualificationGames;
-                                rows.push(row);
-                            });
-                            rows.sort((rowA, rowB) => 10000 * (rowB.qualificationGames - rowA.qualificationGames)
-                                                      + 100 * (rowB.seasonForfeits - rowA.seasonForfeits)
-                                                      +        rowB.completedSeasons - rowA.completedSeasons);
-                            var table = $('<table>').attr('id', 'results');
-                            table.append($('<tr>')
-                                .append($('<th>').text('Name'))
-                                .append($('<th>').text('Season Forfeits'))
-                                .append($('<th>').text('Completed Seasons'))
-                                .append($('<th>').text('Qualification Games')));
-                            rows.forEach(entry => {
+                                var rows = [];
+                                results.forEach((result, id) => {
+                                    var qualificationGames = result.seasonForfeits - result.completedSeasons;
+                                    if (qualificationGames < 0) {
+                                        qualificationGames = 0;
+                                    } else {
+                                        qualificationGames = 4 * qualificationGames * qualificationGames;
+                                    }
+                                    var row = result;
+                                    row['name'] = players[id];
+                                    row['qualificationGames'] = qualificationGames;
+                                    rows.push(row);
+                                });
+                                rows.sort((rowA, rowB) => 10000 * (rowB.qualificationGames - rowA.qualificationGames)
+                                                        + 100 * (rowB.seasonForfeits - rowA.seasonForfeits)
+                                                        +        rowB.completedSeasons - rowA.completedSeasons);
+                                var table = $('<table>').attr('id', 'results');
                                 table.append($('<tr>')
-                                    .append($('<td>').text(entry.name))
-                                    .append($('<td>').text(entry.seasonForfeits))
-                                    .append($('<td>').text(entry.completedSeasons))
-                                    .append($('<td>').text(entry.qualificationGames)));
+                                    .append($('<th>').text('Name'))
+                                    .append($('<th>').text('Season Forfeits'))
+                                    .append($('<th>').text('Completed Seasons'))
+                                    .append($('<th>').text('Qualification Games')));
+                                rows.forEach(entry => {
+                                    table.append($('<tr>')
+                                        .append($('<td>').text(entry.name))
+                                        .append($('<td>').text(entry.seasonForfeits))
+                                        .append($('<td>').text(entry.completedSeasons))
+                                        .append($('<td>').text(entry.qualificationGames)));
+                                });
+                                $('#forfeits').html(table);
                             });
-                            $('#forfeits').html(table);
                         });
+
+                        // Populate previous/next links.
+                        var previousSeasonLink = $('<a>').text("Previous Season");
+                        if (season > 1) {
+                            previousSeasonLink.attr('href', '?season=' + (season - 1));
+
+                        }
+                        $('#previous').append(previousSeasonLink);
+                        var nextSeasonLink = $('<a>').text("Next Season");
+                        if (season < ragl.latestSeason) {
+                            nextSeasonLink.attr('href', '?season=' + (season + 1));
+                        }
+                        $('#next').append(nextSeasonLink);
                     });
-
-                    // Populate previous/next links.
-                    var previousSeasonLink = $('<a>').text("Previous Season");
-                    if (season > 1) {
-                        previousSeasonLink.attr('href', '?season=' + (season - 1));
-
-                    }
-                    $('#previous').append(previousSeasonLink);
-                    var nextSeasonLink = $('<a>').text("Next Season");
-                    if (season < ragl.latestSeason) {
-                        nextSeasonLink.attr('href', '?season=' + (season + 1));
-                    }
-                    $('#next').append(nextSeasonLink);
                 });
             });
         </script>

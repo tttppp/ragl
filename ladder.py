@@ -10,7 +10,7 @@ import os
 import requests
 
 results_dir = 'results'
-web_dir = 'docs'
+data_dir = os.path.join('docs', 'data')
 
 results_urls = {
     'ladder': 'http://oraladder.net/latest-js?mod=ra',
@@ -90,9 +90,18 @@ for competition, competition_url in results_urls.items():
             json.dump(results, results_file, indent=4, sort_keys=True)
 
 def load_existing_player_data():
-    with open(os.path.join('docs', 'data', 'players.json')) as players_file:
+    with open(os.path.join(data_dir, 'players.json')) as players_file:
         player_data = json.load(players_file)
         return {int(player_id): name for player_id, name in player_data.items()}
+
+with open(os.path.join(data_dir, 'replacements.json')) as replacements_file:
+    player_id_replacements = json.load(replacements_file)
+
+def get_canonical_player_id(player):
+    player_id = str(player['id'])
+    while player_id in player_id_replacements:
+        player_id = str(player_id_replacements[player_id])
+    return int(player_id)
 
 start_datetime = str_to_date('2016-01-01 00:00:00')
 now = datetime.date.today()
@@ -120,8 +129,8 @@ def glicko2_table(ratings, games):
         results = collections.defaultdict(list)
         for game in reversed(games):
             if timestamp(game) >= batch_start and timestamp(game) < batch_end:
-                winner = game['p0']['id']
-                loser = game['p1']['id']
+                winner = get_canonical_player_id(game['p0'])
+                loser = get_canonical_player_id(game['p1'])
                 opponent_ratings[winner].append(ratings[loser].rating)
                 opponent_rds[winner].append(ratings[loser].rd)
                 results[winner].append(1)
@@ -161,7 +170,7 @@ for year in sorted(results_filenames_by_year.keys()):
 data, player_data = glicko2_table(ratings, results)
 
 # Create the data files.
-with open(os.path.join('docs', 'data', 'timestamps.json'), 'w') as timestamp_file:
+with open(os.path.join(data_dir, 'timestamps.json'), 'w') as timestamp_file:
     json.dump(sorted(data.keys()), timestamp_file, indent=4, sort_keys=True)
 player_rating_data = collections.defaultdict(list)
 for week_timestamp, week_data in sorted(data.items(), key=lambda item: -item[0]):
@@ -176,10 +185,10 @@ for week_timestamp, week_data in sorted(data.items(), key=lambda item: -item[0])
         player_rating_data[player_id][-1]['o'] = rank
         # Rank percentile
         player_rating_data[player_id][-1]['c'] = math.ceil(100.0 * ((rank - 1) + 0.5 * frequency) / len(week_data))
-    with open(os.path.join('docs', 'data', 'weeks', 'w{}.json'.format(week_timestamp)), 'w') as week_file:
+    with open(os.path.join(data_dir, 'weeks', 'w{}.json'.format(week_timestamp)), 'w') as week_file:
         json.dump(week_table, week_file, indent=4, sort_keys=True)
-with open(os.path.join('docs', 'data', 'players.json'), 'w') as players_file:
+with open(os.path.join(data_dir, 'players.json'), 'w') as players_file:
     json.dump(player_data, players_file, indent=4, sort_keys=True)
 for player_id, entries in player_rating_data.items():
-    with open(os.path.join('docs', 'data', 'players', 'p{}.json'.format(player_id)), 'w') as player_rating_file:
+    with open(os.path.join(data_dir, 'players', 'p{}.json'.format(player_id)), 'w') as player_rating_file:
         json.dump(entries, player_rating_file, indent=4, sort_keys=True)
