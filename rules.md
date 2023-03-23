@@ -1,6 +1,6 @@
 # The Rulebook
 
-Red Alert Global League (RAGL), Season 13 is played starting 2022-10-03. We will aim to be finished in 10 weeks by 2022-12-11. This timespan includes up to 7 weeks for the group stage and 3 weeks reserved for unforeseen delays, tiebreakers and playoffs.
+Red Alert Global League (RAGL), Season 14 is played starting 2023-05-01. We will aim to be finished in 10 weeks by 2023-07-09. This timespan includes up to 7 weeks for the group stage and 3 weeks reserved for unforeseen delays, tiebreakers and playoffs.
 Timespan of the season is subject to change depending on actual player rosters and will be finalized after player registrations are closed.
 
 Current prize pool total: TBA
@@ -117,19 +117,19 @@ For details on prize pool contributions, check out the [Prize Pool section](#5.2
 
 1.5.1.1 Prize payments are subject to transfer fees and consequently it is not worth paying very small prizes. A small prize pool may result in prizes being omitted.
 
-1.5.2 The Season finisher prize pool will be split between (up to) 3 players drawn randomly among those who successfully finished the season (all divisions) and did not win any other prize.
+1.5.2 Players who successfully finished the season and did not win any other prize will be entered into the Season finisher prize draw.
 
-1.5.2.1 For each strike that a player receieves the chance of them winning a share of the Season finisher prize pool will decrease. (Nb. Due to the implementation of the prize draw the chance of winning may not be proportional to the number of strikes a player has left)
+1.5.2.1 The season finisher prize pool will be split into some number of season finisher prizes and those players with more unused strikes will have a higher chance of winning a prize. (Nb. Due to the implementation of the prize draw the chance of winning may not be proportional to the number of strikes a player has left)
 
 1.5.3 Prize pools are completely voluntary and are not expected to be significant each season. If the prize pool for a particular season is thin the exact spread and rewards will be carefully considered.
 
-1.5.4 Players may be inelligable for prizes if they are based in countries on economic sanctions lists (for example PayPal is currently not operating in Russia). We reserve the right to reassign prizes if this is the case.
+1.5.4 Players may be ineligable for prizes if they are based in countries on economic sanctions lists (for example PayPal is currently not operating in Russia). We reserve the right to reassign prizes if this is the case.
 
 # 2. Registrations
 
 ## 2.1 New signups
 
-2.1.1 New players have until 2022-09-29 to send the registration info.
+2.1.1 New players have until 2023-04-27 to send the registration info.
 
 2.1.2 Registration takes place through Discord (#ragl-signups in https://discord.gg/99zBDuS), the primary channel of communication for RAGL, or in the registrations forum thread.
 
@@ -143,7 +143,7 @@ For details on prize pool contributions, check out the [Prize Pool section](#5.2
 
 ## 2.2 Returning players
 
-2.2.1 Players transferring over from the previous season have until 2022-09-29 to confirm their participation.
+2.2.1 Players transferring over from the previous season have until 2023-04-27 to confirm their participation.
 
 2.2.2 Returning players don't have to provide any other information than the expressed confirmation, officials are to request any of the above if mandatory information is missing.
 
@@ -216,7 +216,7 @@ Official communications between the players and with league officials are primar
 
 3.6.6 Failed contact notices will take precedence over delay notices. If only one player is actively trying to schedule a match then their opponent will be issued with a strike, rather than the active player having to use a delay.
 
-3.6.7 Officials will make decisions about any overdue matches and make a judgement as to which players to assign strikes to.
+3.6.7 Officials will make decisions about any overdue matches in the scheduled order and make a judgement as to which players to assign strikes to.
 
 # 4. Match regulations
 
@@ -278,7 +278,7 @@ Players are free to make exceptions from this rule at the discretion of both par
 
 ## 4.2 Map pool
 
-4.2.1 Map pool consists of 10-12 maps specifically uploaded to the Resource Centre and marked as "Category: RAGL 13" and explicit naming and thumbnail watermarks. Usage of any other versions of these maps for the league games is disallowed and will be rejected from being reported as a valid match result.
+4.2.1 Map pool consists of 10-12 maps specifically uploaded to the Resource Centre and marked as "Category: RAGL 14" and explicit naming and thumbnail watermarks. Usage of any other versions of these maps for the league games is disallowed and will be rejected from being reported as a valid match result.
 
 4.2.2 All maps include custom balance changes.
 
@@ -286,7 +286,7 @@ Players are free to make exceptions from this rule at the discretion of both par
 
 ### 4.2.4 Map contest
 
-4.2.4: There will be a vote for the community's favourite map before RAGL, this map will be automatically included in the pool. Maps must be submitted by 2022-09-15.
+4.2.4: There will be a vote for the community's favourite map before RAGL, this map will be automatically included in the pool. Maps must be submitted by 2023-04-13.
 
 4.2.4.1: Map submissions should be made in this thread or in the #map-making channel of the OpenRA Competitive Discord server,
 
@@ -296,7 +296,7 @@ Players are free to make exceptions from this rule at the discretion of both par
 
 4.2.4.4: Voting will open once map submissions have closed.
 
-4.2.4.5: Voting will close on 2022-09-22.
+4.2.4.5: Voting will close on 2023-04-20.
 
 4.2.4.6: Voters assign 3pts, 2pts and 1pt to three different maps (it is not allowed to vote for fewer than three maps)
 
@@ -330,7 +330,7 @@ Players are free to make exceptions from this rule at the discretion of both par
 
 5.2.2 PayPal contributions are converted into Dollars ($), if you send money in your local currency the prize pool host will cover the conversion fees.
 
-5.2.3 Current Season 13 prize pool: TBA
+5.2.3 Current Season 14 prize pool: TBA
 
 ## 5.3 Officials
 
@@ -348,9 +348,9 @@ For all inquiries you can contact us through Discord or reply on this thread.
 
 # Schedule Summary
 
-* 2022-09-15 Map submission deadline
-* 2022-09-22 Community map vote deadline
-* 2022-09-29 Player registrations close
-* 2022-10-03 Start of week 1
-* 2022-11-21 Start of Playoffs
-* 2022-12-11 Target for end of Playoffs
+* 2023-04-13 Map submission deadline
+* 2023-04-20 Community map vote deadline
+* 2023-04-27 Player registrations close
+* 2023-05-01 Start of week 1
+* 2023-06-19 Start of Playoffs
+* 2023-07-09 Target for end of Playoffs
