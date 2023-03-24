@@ -5643,12 +5643,12 @@
         "date": "2018-11-23 19:11:07",
         "map": "Forgotten Plains (RAGL:S6)",
         "p0": {
-            "name": "lundiz",
-            "id": 6974
-        },
-        "p1": {
             "name": "Dualwarhead",
             "id": -41
+        },
+        "p1": {
+            "name": "lundiz",
+            "id": 6974
         }
     },
     {

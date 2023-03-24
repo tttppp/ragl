@@ -4227,12 +4227,12 @@
         "date": "2016-09-26 19:37:57",
         "map": "Behind The Veil",
         "p0": {
-            "name": "SoScared",
-            "id": 2793
-        },
-        "p1": {
             "name": "kazu.",
             "id": 6528
+        },
+        "p1": {
+            "name": "SoScared",
+            "id": 2793
         }
     },
     {

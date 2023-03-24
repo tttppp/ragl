@@ -1791,12 +1791,12 @@
         "date": "2019-03-20 14:41:38",
         "map": "Lacetown (RAGL:S7)",
         "p0": {
-            "name": "malboo",
-            "id": 8797
-        },
-        "p1": {
             "name": "Mr Cloudy",
             "id": 6771
+        },
+        "p1": {
+            "name": "malboo",
+            "id": 8797
         }
     },
     {
