@@ -54,6 +54,17 @@ tbody tr:nth-child(odd) {
     text-align: center;
 }
 
+#statistics {
+    width: 100%;
+    font-size: 16pt;
+}
+
+#statistics td {
+    padding: 2px;
+    width: 50%;
+    text-align: center;
+}
+
 a[href] {
     color: #66f;
 }

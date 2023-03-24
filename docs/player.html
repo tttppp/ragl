@@ -41,6 +41,9 @@
                                         .append($('<td>').text(played))
                                         .append($('<td>').text(won)));
                             });
+                            $('#statistics_highestrank').text(Math.min(...weekData.map(rowData => rowData['o'])));
+                            $('#statistics_highestpercentile').text(Math.min(...weekData.map(rowData => rowData['c'])));
+                            $('#statistics_highestrating').text(Math.max(...weekData.map(rowData => rowData['r'])));
                         });
                     });
                 });
@@ -56,7 +59,13 @@
                 <span><a href="https://github.com/tttppp/ragl/blob/master/rules.md">RAGL Rules</a></span>
             </div>
             <h1><a href="index.html">RAGL Ladder</a></h1>
-            <h2>Ranking history for <span id="name"></span>:</h2>
+            <h2>Performance history for <span id="name"></span>:</h2>
+            <table id="statistics">
+                <tr><th>Highest Rank</th><td id="statistics_highestrank"></td></tr>
+                <tr><th>Highest Percentile</th><td id="statistics_highestpercentile"></td></tr>
+                <tr><th>Highest Rating</th><td id="statistics_highestrating"></td></tr>
+            </table>
+            <br />
             <table id="results">
                 <thead>
                     <tr>
