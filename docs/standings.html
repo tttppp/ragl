@@ -23,6 +23,10 @@
                 return hashFields.join('|');
             }
 
+            function makePlayerLink(id, players) {
+                return $('<a>').attr('href', 'player.html?player=' + id).text(players[id]);
+            }
+
             function makeRows(columns, entries, players) {
                 var tbody = $('<tbody>');
                 var positionCounter = {};
@@ -55,10 +59,14 @@
                             if (entry['seasonForfeit']) {
                                 text = 'SF';
                             }
-                        } else if (column == 'name') {
-                            text = players[entry['id']];
                         }
-                        row.append($('<td>').text(text));
+                        var cell = $('<td>');
+                        if (column == 'name') {
+                            cell.append(makePlayerLink(entry['id'], players));
+                        } else {
+                            cell.text(text);
+                        }
+                        row.append(cell);
                     });
                     tbody.append(row);
                 });
@@ -72,9 +80,9 @@
                 for (result of playoff) {
                     var row = $('<tr>');
                     var sortedPlayerIds = Object.keys(result).sort(function(playerA, playerB) { return result[playerB] - result[playerA]; });
-                    row.append($('<td>').text(players[sortedPlayerIds[0]]));
+                    row.append($('<td>').append(makePlayerLink(sortedPlayerIds[0], players)));
                     row.append($('<td>').text(result[sortedPlayerIds[0]] + ' - ' + result[sortedPlayerIds[1]]));
-                    row.append($('<td>').text(players[sortedPlayerIds[1]]));
+                    row.append($('<td>').append(makePlayerLink(sortedPlayerIds[1], players)));
                     tbody.append(row);
                 }
                 return table;
@@ -100,7 +108,11 @@
                             divisionNames.forEach(divisionName => {
                                 if (divisionName in standingData.groups) {
                                     Object.keys(standingData.groups[divisionName]).sort().forEach(groupName => {
-                                        $('#groups').append($('<h3>').text(divisionName + ' ' + groupName));
+                                        var divisionTitle = divisionName;
+                                        if (groupName != '') {
+                                            divisionTitle += ' ' + groupName;
+                                        }
+                                        $('#groups').append($('<h3>').append($('<a>').attr('id', divisionTitle.replace(' ', '')).text(divisionTitle)));
                                         $('#groups').append($('<table>').attr('id', 'results')
                                             .append($('<thead>')
                                                 .html(makeHeaders(columns)))
@@ -110,7 +122,7 @@
                                     if ('playoffs' in standingData) {
                                         for (playoffTitle in standingData.playoffs) {
                                             if (playoffTitle.includes(divisionName)) {
-                                                $('#groups').append($('<h3>').text(playoffTitle));
+                                                $('#groups').append($('<h3>').append($('<a>').attr('id', playoffTitle.replace(' ', '')).text(playoffTitle)));
                                                 $('#groups').append(makePlayoff(standingData.playoffs[playoffTitle], players));
                                                 displayedPlayoffs.push(playoffTitle);
                                             }
@@ -122,10 +134,14 @@
                             if ('playoffs' in standingData) {
                                 for (playoffTitle in standingData.playoffs) {
                                     if (!displayedPlayoffs.includes(playoffTitle)) {
-                                        $('#groups').append($('<h3>').text(playoffTitle));
+                                        $('#groups').append($('<h3>').append($('<a>').attr('id', playoffTitle.replace(' ', '')).text(playoffTitle)));
                                         $('#groups').append(makePlayoff(standingData.playoffs[playoffTitle], players));
                                     }
                                 }
+                            }
+                            // Scroll to anchor if a hash was given in the URL.
+                            if (location.hash) {
+                                $(document.body).scrollTop($(location.hash.replace(' ', '')).offset().top);
                             }
                         });
                     });

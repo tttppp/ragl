@@ -59,6 +59,7 @@
                                         qualificationGames = 4 * qualificationGames * qualificationGames;
                                     }
                                     var row = result;
+                                    row['id'] = id;
                                     row['name'] = players[id];
                                     row['qualificationGames'] = qualificationGames;
                                     rows.push(row);
@@ -74,7 +75,7 @@
                                     .append($('<th>').text('Qualification Games')));
                                 rows.forEach(entry => {
                                     table.append($('<tr>')
-                                        .append($('<td>').text(entry.name))
+                                        .append($('<td>').append($('<a>').attr('href', 'player.html?player=' + entry.id).text(entry.name)))
                                         .append($('<td>').text(entry.seasonForfeits))
                                         .append($('<td>').text(entry.completedSeasons))
                                         .append($('<td>').text(entry.qualificationGames)));

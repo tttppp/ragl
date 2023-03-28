@@ -4,6 +4,35 @@
         <link rel="stylesheet" href="ragl.css">
         <script src="js/jquery.min.js"></script>
         <script>
+            function addRAGLSeasonParticipationFn(pastSeasonRef, playerId, replacements, players) {
+                return function(standingData) {
+                    Object.keys(standingData.groups).forEach(divisionName => {
+                        Object.keys(standingData.groups[divisionName]).forEach(groupName => {
+                            standingData.groups[divisionName][groupName].forEach(function(entry, i) {
+                                var raglPlayerId = entry.id;
+                                while (raglPlayerId in replacements) {
+                                    raglPlayerId = Number(replacements[raglPlayerId]);
+                                }
+                                if (raglPlayerId == playerId) {
+                                    var divisionTitle = divisionName;
+                                    if (groupName != '') {
+                                        divisionTitle += ' ' + groupName;
+                                    }
+                                    var participantGroup = 'S' + pastSeasonRef + ' ' + divisionTitle;
+                                    if (entry.seasonForfeit) {
+                                        participantGroup += ' (SF)'
+                                    }
+                                    if (entry.id != playerId) {
+                                        participantGroup += ' (as ' + players[entry.id] + ')';
+                                    }
+                                    $('#statistics_ragl_' + pastSeasonRef).html($('<a>').attr('href', 'standings.html?season=' + pastSeasonRef + '#' + divisionTitle.replace(' ', '')).text(participantGroup));
+                                }
+                            });
+                        });
+                    });
+                }
+            }
+
             $(document).ready(function() {
                 $.getJSON('data/replacements.json', function(replacements) {
                     $.getJSON('data/players.json', function(players) {
@@ -45,6 +74,14 @@
                             $('#statistics_highestpercentile').text(Math.min(...weekData.map(rowData => rowData['c'])));
                             $('#statistics_highestrating').text(Math.max(...weekData.map(rowData => rowData['r'])));
                         });
+
+                        $.getJSON('data/ragl.json', function(ragl) {
+                            for (var pastSeason = 1; pastSeason <= ragl.latestSeason; pastSeason++) {
+                                var pastSeasonRef = (pastSeason < 10 ? '0' : '') + pastSeason;
+                                $('#statistics_ragl').append($('<div>').attr('id', 'statistics_ragl_' + pastSeasonRef));
+                                $.getJSON('data/standings/s' + pastSeasonRef + '.json', addRAGLSeasonParticipationFn(pastSeasonRef, playerId, replacements, players));
+                            }
+                        });
                     });
                 });
             });
@@ -64,6 +101,7 @@
                 <tr><th>Highest Rank</th><td id="statistics_highestrank"></td></tr>
                 <tr><th>Highest Percentile</th><td id="statistics_highestpercentile"></td></tr>
                 <tr><th>Highest Rating</th><td id="statistics_highestrating"></td></tr>
+                <tr><th>RAGL Participation</th><td id="statistics_ragl"></td></tr>
             </table>
             <br />
             <table id="results">
