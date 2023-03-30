@@ -68,18 +68,20 @@
                                                         + 100 * (rowB.seasonForfeits - rowA.seasonForfeits)
                                                         +        rowB.completedSeasons - rowA.completedSeasons);
                                 var table = $('<table>').attr('id', 'results');
-                                table.append($('<tr>')
+                                table.append($('<thead>').append($('<tr>')
                                     .append($('<th>').text('Name'))
                                     .append($('<th>').text('Season Forfeits'))
                                     .append($('<th>').text('Completed Seasons'))
-                                    .append($('<th>').text('Qualification Games')));
+                                    .append($('<th>').text('Qualification Games'))));
+                                const tbody = $('<tbody>');
                                 rows.forEach(entry => {
-                                    table.append($('<tr>')
+                                    tbody.append($('<tr>')
                                         .append($('<td>').append($('<a>').attr('href', 'player.html?player=' + entry.id).text(entry.name)))
                                         .append($('<td>').text(entry.seasonForfeits))
                                         .append($('<td>').text(entry.completedSeasons))
                                         .append($('<td>').text(entry.qualificationGames)));
                                 });
+                                table.append(tbody);
                                 $('#forfeits').html(table);
                             });
                         });
