@@ -204,7 +204,7 @@ Official communications between the players and with league officials are primar
 
 ## 3.6 Match delays
 
-3.6.1 Matches are possible to be delayed by one player for up to one week, or by both players for up to two weeks.
+3.6.1 Matches are possible to be delayed by one player for up to one week, or by both players for up to two weeks, up until the end of the group stage.
 
 3.6.2 Delay notices must be published in the dedicated Discord channel with a mention of the opponent.
 
@@ -326,19 +326,19 @@ Players are free to make exceptions from this rule at the discretion of both par
 
 ## 5.2 Prize pool contributions
 
-5.2.1 Personal email account, OpenRA.RAGL@gmail.com, is connected via PayPal to host the prize pool contributions (https://www.paypal.me/openraragl). Any person willing to contribute is to send a payment through PayPal to this email address. Name or a request to remain anonymous is to be stated in 'Write a note' section, as well as a request to a specific league contribution or a prize.
+5.2.1 Donations to the pool should be sent in Euros or US Dollars via PayPal to mm_openra@protonmail.com (milkman). Name or a request to remain anonymous is to be stated in 'Write a note' section.
 
-5.2.2 PayPal contributions are converted into Dollars ($), if you send money in your local currency the prize pool host will cover the conversion fees.
+5.2.2 PayPal charges conversion fees for payouts in a different currency than the donation. Conversion fees for payouts will be drawn from the respective prize money rather than the entire pool.
 
 5.2.3 Current Season 14 prize pool: TBA
 
 ## 5.3 Officials
 
 5.3.1 The list of officials to contact is as follows:
-* .won(.1)
 * TTTPPP
+* milkman
+* .won(.1)
 * Anjew
-* Milkman
 
 5.3.2 RAGL has its own discord, it can be found here https://discord.gg/99zBDuS Please post in the discord with any questions. Please, refrain from using discord personal messages unless the matter is urgent and cannot be discussed by other means.
 
