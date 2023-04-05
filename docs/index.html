@@ -21,6 +21,35 @@
                 return deltaField;
             }
 
+            function glickoG(rd) {
+                return 1 / Math.sqrt(1 + 3 * Math.pow(rd, 2) / Math.pow(Math.PI, 2));
+            }
+
+            function glickoE(ratingA, ratingB, averageRD) {
+                return 1 / (1 + Math.exp(-1 * glickoG(averageRD) * (ratingB - ratingA)));
+            }
+
+            var previousName = null;
+            var previousRating = null;
+            var previousError = null;
+            function probabilityCalculator(name, rating, error) {
+                rating = (1 * rating + error - 1500) / 173.7178;
+                error = (1 * error / 3) / 173.7178;
+                return function() {
+                    if (previousName != null) {
+                        averageRD = Math.sqrt(Math.pow(previousError, 2) + Math.pow(error, 2));
+                        var probability = glickoE(rating, previousRating, averageRD) * 100;
+                        $('#notification').text('Probability for ' + previousName + ' to beat ' + name + ': ' + probability.toFixed(2) + '%');
+                        $('#notification').stop(true).fadeTo(100, 0.99).fadeTo(3000, 1.0).fadeOut(1000);
+                        previousName = null;
+                    } else {
+                        previousName = name;
+                        previousRating = rating;
+                        previousError = error;
+                    }
+                }
+            }
+
             function formatField(rowData, previousData, field) {
                 return $('<td>')
                         .append($('<span>').text(rowData[field]))
@@ -47,7 +76,7 @@
                     const played = formatField(rowData, previousData, 'p');
                     const won = formatField(rowData, previousData, 'w');
                     $('#week').append($('<tr>')
-                            .append($('<td>').text(rowIndex + 1))
+                            .append($('<td>').click(probabilityCalculator(name, rowData['r'], rowData['e'])).text(rowIndex + 1))
                             .append($('<td>').append($('<a>').attr('href', 'player.html?player=' + playerId).text(name)))
                             .append(rating)
                             .append(error)
@@ -131,6 +160,7 @@
 
                 </tbody>
             </table>
+            <div id="notification" style="display: none;" />
         </div>
     </body>
 </html>

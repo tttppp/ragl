@@ -65,6 +65,18 @@ tbody tr:nth-child(odd) {
     text-align: center;
 }
 
+#notification {
+    position: fixed;
+    left: 50%;
+    bottom:32px;
+    min-width: 500px;
+    margin-left: -250px;
+    text-align: center;
+    padding: 16px;
+    background-color: #444;
+    z-index: 1;
+}
+
 a[href] {
     color: #66f;
 }
