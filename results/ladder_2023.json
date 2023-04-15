@@ -14206,5 +14206,65 @@
             "id": 13710,
             "name": "Ekanim"
         }
+    },
+    {
+        "date": "2023-04-14 12:34:16",
+        "map": "Kitsunegari",
+        "p0": {
+            "id": 9156,
+            "name": "toiletbreakbrb"
+        },
+        "p1": {
+            "id": 10262,
+            "name": "Oaked.ru"
+        }
+    },
+    {
+        "date": "2023-04-14 17:01:05",
+        "map": "Jungle Boogie",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzar"
+        },
+        "p1": {
+            "id": 12273,
+            "name": "luckyluke"
+        }
+    },
+    {
+        "date": "2023-04-14 17:10:27",
+        "map": "Pulverize",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzar"
+        },
+        "p1": {
+            "id": 12273,
+            "name": "luckyluke"
+        }
+    },
+    {
+        "date": "2023-04-14 17:23:52",
+        "map": "Duskwood",
+        "p0": {
+            "id": 12273,
+            "name": "luckyluke"
+        },
+        "p1": {
+            "id": 17239,
+            "name": "Fazzar"
+        }
+    },
+    {
+        "date": "2023-04-14 17:32:47",
+        "map": "Orthos",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzar"
+        },
+        "p1": {
+            "id": 12273,
+            "name": "luckyluke"
+        }
     }
 ]
