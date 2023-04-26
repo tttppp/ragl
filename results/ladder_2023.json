@@ -17182,5 +17182,101 @@
             "id": 18732,
             "name": "Logos Vindex"
         }
+    },
+    {
+        "date": "2023-04-25 13:34:44",
+        "map": "Taiga Vortex",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzar"
+        },
+        "p1": {
+            "id": 9156,
+            "name": "toiletbreakbrb"
+        }
+    },
+    {
+        "date": "2023-04-25 13:51:05",
+        "map": "Tarback",
+        "p0": {
+            "id": 9156,
+            "name": "toiletbreakbrb"
+        },
+        "p1": {
+            "id": 13994,
+            "name": "jirik"
+        }
+    },
+    {
+        "date": "2023-04-25 15:32:38",
+        "map": "Below Zero",
+        "p0": {
+            "id": 7387,
+            "name": "TTTPPP"
+        },
+        "p1": {
+            "id": 16677,
+            "name": "jawsh"
+        }
+    },
+    {
+        "date": "2023-04-25 16:35:32",
+        "map": "Endless Night",
+        "p0": {
+            "id": 12444,
+            "name": "biasao"
+        },
+        "p1": {
+            "id": 10509,
+            "name": "APOLKA"
+        }
+    },
+    {
+        "date": "2023-04-25 16:55:12",
+        "map": "Wormrot",
+        "p0": {
+            "id": 14596,
+            "name": "PrinzPi"
+        },
+        "p1": {
+            "id": 16385,
+            "name": "Seth_II"
+        }
+    },
+    {
+        "date": "2023-04-25 17:13:50",
+        "map": "Taiga Vortex",
+        "p0": {
+            "id": 15266,
+            "name": "cracksmoka420"
+        },
+        "p1": {
+            "id": 14596,
+            "name": "PrinzPi"
+        }
+    },
+    {
+        "date": "2023-04-25 19:42:39",
+        "map": "Tarback",
+        "p0": {
+            "id": 14596,
+            "name": "PrinzPi"
+        },
+        "p1": {
+            "id": 6786,
+            "name": "DomoTheRussian"
+        }
+    },
+    {
+        "date": "2023-04-25 20:33:18",
+        "map": "Bad Company",
+        "p0": {
+            "id": 14596,
+            "name": "PrinzPi"
+        },
+        "p1": {
+            "id": 16066,
+            "name": "milkman"
+        }
     }
 ]
