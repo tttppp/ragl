@@ -270,6 +270,8 @@ Players are free to make exceptions from this rule at the discretion of both par
 
 4.1.7 The use of modified clients that alter core gameplay in anyway are strictly forbidden. Positive confirmation of the use of a modified client to gain an unfair advantage will impose a strict ruling, up to a possible ban from participation in RAGL for as long as admins see fit.
 
+4.1.7.1 It is explicitly allowed to use the client Punsho released with [support for dark player colors](https://github.com/OpenRA/OpenRA/pull/20721) as an alternative to release-20230225.
+
 4.1.8 Players found colluding in order to influence the result of their match and remove the uncertainty in the outcome of a match will be subject to strict ruling, up to a possible ban from participation in RAGL for as long as admins see fit. This includes players who surrender prematurely.
 
 4.1.9 Rules from the OpenRA Competitive server also apply to in-game chat and player names - don't be a dick. Failure to comply with this rule will result in disqualification.
@@ -278,11 +280,13 @@ Players are free to make exceptions from this rule at the discretion of both par
 
 ## 4.2 Map pool
 
-4.2.1 Map pool consists of 10-12 maps specifically uploaded to the Resource Centre and marked as "Category: RAGL 14" and explicit naming and thumbnail watermarks. Usage of any other versions of these maps for the league games is disallowed and will be rejected from being reported as a valid match result.
+4.2.1 Map pool consists of 12 maps specifically uploaded to the Resource Centre and marked as "Category: RAGL 14" and explicit naming and thumbnail watermarks. Usage of any other versions of these maps for the league games is disallowed and will be rejected from being reported as a valid match result.
 
 4.2.2 All maps include custom balance changes.
 
 4.2.3 Map pool can be found in the Competitive Discord server.
+
+4.2.4 An alternative version of snow maps using the temperate tileset has been provided for Season 14 to assist players with colourblindness. Players are encouraged to play the original map unless they have a strong reason for preferring the temperate version. For the purpose of map bans then the two versions of each map count as the same map.
 
 ### 4.2.4 Map contest
 

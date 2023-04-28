@@ -12,7 +12,9 @@ from math import ceil, floor
 SEASON = 14
 # Season 14 registrations.
 REGISTRATION_CLOSE_DATE = date(2023, 4, 27)
-REGISTRATIONS = [16066, 6793, 11913, 17607, 7387, 15428, 7714, 15899, 3952]
+REGISTRATIONS = [16066, 6793, 11913, 17607, 7387, 7714, 15899, 3952, 17239,
+                 11442, 18246, 13710, 6881, 5292, 14769, 9156, 16401, 12022,
+                 8869, 6430, 13705, 6771, 7304, 10588]
 
 # Season 13 registrations.
 #REGISTRATION_CLOSE_DATE = date(2022, 9, 29)
@@ -243,6 +245,8 @@ for player_id in ladder_order:
 print('### Divisions ###')
 divisions = create_divisions(continuity_order, ladder_order)
 for division_index, division in enumerate(divisions):
-    print('--- {} ---'.format(DIVISION_NAMES[division_index]))
+    print('--- {} ({}) ---'.format(DIVISION_NAMES[division_index], len(division)))
     for player_id in division:
         print(player_names[str(player_id)])
+        #print('{} ({})'.format(player_names[str(player_id)], player_id))
+        #print('        - [{}, {}]'.format(player_id, player_names[str(player_id)]))
