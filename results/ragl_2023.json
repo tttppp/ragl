@@ -22,5 +22,77 @@
             "id": 16066,
             "name": "milkman"
         }
+    },
+    {
+        "date": "2023-05-02 15:29:02",
+        "map": "Taiga Vortex v2 [RAGL-14]",
+        "p0": {
+            "id": 7387,
+            "name": "TTTPPP"
+        },
+        "p1": {
+            "id": 7714,
+            "name": "Nilhall"
+        }
+    },
+    {
+        "date": "2023-05-02 16:05:03",
+        "map": "Military Mind v2 [RAGL-14]",
+        "p0": {
+            "id": 7714,
+            "name": "Nilhall"
+        },
+        "p1": {
+            "id": 7387,
+            "name": "TTTPPP"
+        }
+    },
+    {
+        "date": "2023-05-02 19:49:47",
+        "map": "Duskwood v2 [RAGL-14]",
+        "p0": {
+            "id": 16066,
+            "name": "milkman"
+        },
+        "p1": {
+            "id": 7714,
+            "name": "Nilhall"
+        }
+    },
+    {
+        "date": "2023-05-02 20:07:52",
+        "map": "Military Mind v2 [RAGL-14]",
+        "p0": {
+            "id": 7714,
+            "name": "Nilhall"
+        },
+        "p1": {
+            "id": 16066,
+            "name": "milkman"
+        }
+    },
+    {
+        "date": "2023-05-02 20:54:26",
+        "map": "Bad Company v2 [RAGL-14]",
+        "p0": {
+            "id": 15899,
+            "name": "tux"
+        },
+        "p1": {
+            "id": 14769,
+            "name": "chouchani"
+        }
+    },
+    {
+        "date": "2023-05-02 21:09:02",
+        "map": "Yukon Territory (Temperate Edition) v2 [RAGL-14]",
+        "p0": {
+            "id": 15899,
+            "name": "tux"
+        },
+        "p1": {
+            "id": 14769,
+            "name": "chouchani"
+        }
     }
 ]
