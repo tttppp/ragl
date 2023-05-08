@@ -466,5 +466,29 @@
             "id": 5292,
             "name": "Mo"
         }
+    },
+    {
+        "date": "2023-05-07 17:10:29",
+        "map": "Duskwood v2 [RAGL-14]",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzar"
+        },
+        "p1": {
+            "id": 13710,
+            "name": "Ekanim"
+        }
+    },
+    {
+        "date": "2023-05-07 17:25:36",
+        "map": "River Crossing 2023 v2 [RAGL-14]",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzar"
+        },
+        "p1": {
+            "id": 13710,
+            "name": "Ekanim"
+        }
     }
 ]
