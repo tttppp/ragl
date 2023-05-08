@@ -19306,5 +19306,29 @@
             "id": 14769,
             "name": "chouchani"
         }
+    },
+    {
+        "date": "2023-05-08 02:39:17",
+        "map": "Taiga Vortex v2",
+        "p0": {
+            "id": 12654,
+            "name": "Therapist"
+        },
+        "p1": {
+            "id": 12022,
+            "name": "Rossie"
+        }
+    },
+    {
+        "date": "2023-05-08 03:11:07",
+        "map": "Rheinpfalz v2",
+        "p0": {
+            "id": 12654,
+            "name": "Therapist"
+        },
+        "p1": {
+            "id": 12022,
+            "name": "Rossie"
+        }
     }
 ]
