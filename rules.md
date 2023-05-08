@@ -210,8 +210,6 @@ Official communications between the players and with league officials are primar
 
 3.6.3 Delay notices must be sent no later than the next week's Monday 23:59 UTC+0.
 
-3.6.4 Players can have up to 3 delay requests active at the same time.
-
 3.6.5 There are no regulations regarding matches being played before their designated schedule, thus it is advised to play matches early instead of delaying.
 
 3.6.6 Failed contact notices will take precedence over delay notices. If only one player is actively trying to schedule a match then their opponent will be issued with a strike, rather than the active player having to use a delay.
