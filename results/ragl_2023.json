@@ -490,5 +490,149 @@
             "id": 13710,
             "name": "Ekanim"
         }
+    },
+    {
+        "date": "2023-05-09 16:24:43",
+        "map": "Three and a half woods v2 [RAGL-14]",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzar"
+        },
+        "p1": {
+            "id": 6793,
+            "name": "maceman"
+        }
+    },
+    {
+        "date": "2023-05-09 16:35:04",
+        "map": "Bad Company v2 [RAGL-14]",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzar"
+        },
+        "p1": {
+            "id": 6793,
+            "name": "maceman"
+        }
+    },
+    {
+        "date": "2023-05-09 18:32:38",
+        "map": "Duskwood v2 [RAGL-14]",
+        "p0": {
+            "id": 18246,
+            "name": "creo"
+        },
+        "p1": {
+            "id": 6793,
+            "name": "maceman"
+        }
+    },
+    {
+        "date": "2023-05-09 18:50:54",
+        "map": "Taiga Vortex v2 [RAGL-14]",
+        "p0": {
+            "id": 18246,
+            "name": "creo"
+        },
+        "p1": {
+            "id": 6793,
+            "name": "maceman"
+        }
+    },
+    {
+        "date": "2023-05-09 19:36:30",
+        "map": "Intensity v2 [RAGL-14]",
+        "p0": {
+            "id": 16401,
+            "name": "Margot Honecker"
+        },
+        "p1": {
+            "id": 7387,
+            "name": "TTTPPP"
+        }
+    },
+    {
+        "date": "2023-05-09 19:44:35",
+        "map": "Duskwood v2 [RAGL-14]",
+        "p0": {
+            "id": 16401,
+            "name": "Margot Honecker"
+        },
+        "p1": {
+            "id": 7387,
+            "name": "TTTPPP"
+        }
+    },
+    {
+        "date": "2023-05-09 19:59:37",
+        "map": "Bad Company v2 [RAGL-14]",
+        "p0": {
+            "id": 16066,
+            "name": "milkman"
+        },
+        "p1": {
+            "id": 7387,
+            "name": "TTTPPP"
+        }
+    },
+    {
+        "date": "2023-05-09 20:29:46",
+        "map": "Tarback v2 [RAGL-14]",
+        "p0": {
+            "id": 7387,
+            "name": "TTTPPP"
+        },
+        "p1": {
+            "id": 16066,
+            "name": "milkman"
+        }
+    },
+    {
+        "date": "2023-05-09 20:43:40",
+        "map": "Bad Company v2 [RAGL-14]",
+        "p0": {
+            "id": 7304,
+            "name": "Upps"
+        },
+        "p1": {
+            "id": 7387,
+            "name": "TTTPPP"
+        }
+    },
+    {
+        "date": "2023-05-09 21:01:22",
+        "map": "Yukon Territory v2 [RAGL-14]",
+        "p0": {
+            "id": 7304,
+            "name": "Upps"
+        },
+        "p1": {
+            "id": 7387,
+            "name": "TTTPPP"
+        }
+    },
+    {
+        "date": "2023-05-09 21:17:18",
+        "map": "Three and a half woods v2 [RAGL-14]",
+        "p0": {
+            "id": 16066,
+            "name": "milkman"
+        },
+        "p1": {
+            "id": 16401,
+            "name": "Margot Honecker"
+        }
+    },
+    {
+        "date": "2023-05-09 21:27:41",
+        "map": "Taiga Vortex v2 [RAGL-14]",
+        "p0": {
+            "id": 16401,
+            "name": "Margot Honecker"
+        },
+        "p1": {
+            "id": 16066,
+            "name": "milkman"
+        }
     }
 ]

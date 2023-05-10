@@ -19474,5 +19474,65 @@
             "id": 13710,
             "name": "Ekanim"
         }
+    },
+    {
+        "date": "2023-05-09 13:24:40",
+        "map": "Rheinpfalz v2",
+        "p0": {
+            "id": 12760,
+            "name": "MASTER"
+        },
+        "p1": {
+            "id": 9156,
+            "name": "toiletbreakbrb"
+        }
+    },
+    {
+        "date": "2023-05-09 16:59:57",
+        "map": "Duskwood v2",
+        "p0": {
+            "id": 14596,
+            "name": "PrinzPi"
+        },
+        "p1": {
+            "id": 17988,
+            "name": "CommanderNoob"
+        }
+    },
+    {
+        "date": "2023-05-09 17:08:03",
+        "map": "Kitsunegari",
+        "p0": {
+            "id": 18797,
+            "name": "Longlong"
+        },
+        "p1": {
+            "id": 18778,
+            "name": "gunit"
+        }
+    },
+    {
+        "date": "2023-05-09 17:42:12",
+        "map": "Taiga Vortex v2",
+        "p0": {
+            "id": 14596,
+            "name": "PrinzPi"
+        },
+        "p1": {
+            "id": 6793,
+            "name": "maceman"
+        }
+    },
+    {
+        "date": "2023-05-09 18:07:13",
+        "map": "Bad Company v2",
+        "p0": {
+            "id": 6793,
+            "name": "maceman"
+        },
+        "p1": {
+            "id": 16066,
+            "name": "milkman"
+        }
     }
 ]
