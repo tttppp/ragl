@@ -1090,5 +1090,29 @@
             "id": 14769,
             "name": "chouchani"
         }
+    },
+    {
+        "date": "2023-05-17 22:27:25",
+        "map": "War Factory v2 [RAGL-14]",
+        "p0": {
+            "id": 16066,
+            "name": "milkman"
+        },
+        "p1": {
+            "id": 17607,
+            "name": "BigHALK"
+        }
+    },
+    {
+        "date": "2023-05-17 22:44:28",
+        "map": "Rheinpfalz v2 [RAGL-14]",
+        "p0": {
+            "id": 16066,
+            "name": "milkman"
+        },
+        "p1": {
+            "id": 17607,
+            "name": "BigHALK"
+        }
     }
 ]
