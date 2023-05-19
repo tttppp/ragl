@@ -20734,5 +20734,41 @@
             "id": 18693,
             "name": "Panek"
         }
+    },
+    {
+        "date": "2023-05-18 16:01:57",
+        "map": "Military Mind v2",
+        "p0": {
+            "id": 3952,
+            "name": "anjew"
+        },
+        "p1": {
+            "id": 7787,
+            "name": "porcukor"
+        }
+    },
+    {
+        "date": "2023-05-18 19:20:49",
+        "map": "Duskwood",
+        "p0": {
+            "id": 12273,
+            "name": "luckyluke"
+        },
+        "p1": {
+            "id": 12444,
+            "name": "biasao"
+        }
+    },
+    {
+        "date": "2023-05-18 19:42:10",
+        "map": "Cow Level",
+        "p0": {
+            "id": 12444,
+            "name": "biasao"
+        },
+        "p1": {
+            "id": 12930,
+            "name": "Phoenician"
+        }
     }
 ]
