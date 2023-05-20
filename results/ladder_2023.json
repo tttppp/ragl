@@ -20770,5 +20770,89 @@
             "id": 12930,
             "name": "Phoenician"
         }
+    },
+    {
+        "date": "2023-05-19 14:45:48",
+        "map": "Rheinpfalz v2",
+        "p0": {
+            "id": 3952,
+            "name": "anjew"
+        },
+        "p1": {
+            "id": 17106,
+            "name": "neen"
+        }
+    },
+    {
+        "date": "2023-05-19 15:06:30",
+        "map": "Taiga Vortex v2",
+        "p0": {
+            "id": 3952,
+            "name": "anjew"
+        },
+        "p1": {
+            "id": 17106,
+            "name": "neen"
+        }
+    },
+    {
+        "date": "2023-05-19 15:28:20",
+        "map": "Excavations",
+        "p0": {
+            "id": 17106,
+            "name": "neen"
+        },
+        "p1": {
+            "id": 3952,
+            "name": "anjew"
+        }
+    },
+    {
+        "date": "2023-05-19 15:57:39",
+        "map": "Tarback v2",
+        "p0": {
+            "id": 3952,
+            "name": "anjew"
+        },
+        "p1": {
+            "id": 12444,
+            "name": "biasao"
+        }
+    },
+    {
+        "date": "2023-05-19 16:57:06",
+        "map": "Jungle Boogie",
+        "p0": {
+            "id": 10509,
+            "name": "APOLKA"
+        },
+        "p1": {
+            "id": 18417,
+            "name": "808MANN"
+        }
+    },
+    {
+        "date": "2023-05-19 17:04:23",
+        "map": "Duskwood v2",
+        "p0": {
+            "id": 14596,
+            "name": "PrinzPi"
+        },
+        "p1": {
+            "id": 6938,
+            "name": "WaRRyKeR"
+        }
+    },
+    {
+        "date": "2023-05-19 21:13:11",
+        "map": "Military Mind v2",
+        "p0": {
+            "id": 14596,
+            "name": "PrinzPi"
+        },
+        "p1": {
+            "id": 13218,
+            "name": "Traveler"
+        }
     }
 ]
