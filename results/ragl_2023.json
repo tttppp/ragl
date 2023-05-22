@@ -1210,5 +1210,77 @@
             "id": 5292,
             "name": "Mo"
         }
+    },
+    {
+        "date": "2023-05-21 17:54:39",
+        "map": "Three and a half woods v2 [RAGL-14]",
+        "p0": {
+            "id": 6793,
+            "name": "maceman"
+        },
+        "p1": {
+            "id": 13710,
+            "name": "Ekanim"
+        }
+    },
+    {
+        "date": "2023-05-21 18:05:09",
+        "map": "Military Mind v2 [RAGL-14]",
+        "p0": {
+            "id": 6793,
+            "name": "maceman"
+        },
+        "p1": {
+            "id": 13710,
+            "name": "Ekanim"
+        }
+    },
+    {
+        "date": "2023-05-21 18:58:36",
+        "map": "Yukon Territory v2 [RAGL-14]",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 6793,
+            "name": "maceman"
+        }
+    },
+    {
+        "date": "2023-05-21 19:05:30",
+        "map": "Bad Company v2 [RAGL-14]",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 6793,
+            "name": "maceman"
+        }
+    },
+    {
+        "date": "2023-05-21 19:29:46",
+        "map": "River Crossing 2023 v2 [RAGL-14]",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 17239,
+            "name": "Fazzar"
+        }
+    },
+    {
+        "date": "2023-05-21 19:36:53",
+        "map": "Duskwood v2 [RAGL-14]",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzar"
+        },
+        "p1": {
+            "id": 6430,
+            "name": "Blackened"
+        }
     }
 ]
