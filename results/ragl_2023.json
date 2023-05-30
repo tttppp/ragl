@@ -1810,5 +1810,29 @@
             "id": 5292,
             "name": "Mo"
         }
+    },
+    {
+        "date": "2023-05-29 16:17:36",
+        "map": "Military Mind v2 [RAGL-14]",
+        "p0": {
+            "id": 3952,
+            "name": "anjew"
+        },
+        "p1": {
+            "id": 13710,
+            "name": "Ekanim"
+        }
+    },
+    {
+        "date": "2023-05-29 16:48:40",
+        "map": "Tarback v2 [RAGL-14]",
+        "p0": {
+            "id": 3952,
+            "name": "anjew"
+        },
+        "p1": {
+            "id": 13710,
+            "name": "Ekanim"
+        }
     }
 ]
