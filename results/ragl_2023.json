@@ -1834,5 +1834,17 @@
             "id": 13710,
             "name": "Ekanim"
         }
+    },
+    {
+        "date": "2023-05-31 00:37:21",
+        "map": "Tarback v2 [RAGL-14]",
+        "p0": {
+            "id": 9156,
+            "name": "toiletbreakbrb"
+        },
+        "p1": {
+            "id": 12022,
+            "name": "Rossie"
+        }
     }
 ]
