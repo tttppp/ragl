@@ -1906,5 +1906,77 @@
             "id": 13710,
             "name": "Ekanim"
         }
+    },
+    {
+        "date": "2023-06-04 04:51:38",
+        "map": "Intensity v2 [RAGL-14]",
+        "p0": {
+            "id": 12022,
+            "name": "Rossie"
+        },
+        "p1": {
+            "id": 17607,
+            "name": "BigHALK"
+        }
+    },
+    {
+        "date": "2023-06-04 05:10:41",
+        "map": "Tarback v2 [RAGL-14]",
+        "p0": {
+            "id": 12022,
+            "name": "Rossie"
+        },
+        "p1": {
+            "id": 17607,
+            "name": "BigHALK"
+        }
+    },
+    {
+        "date": "2023-06-04 17:05:39",
+        "map": "Yukon Territory (Temperate Edition) v2 [RAGL-14]",
+        "p0": {
+            "id": 13705,
+            "name": "Kav"
+        },
+        "p1": {
+            "id": 8869,
+            "name": "Sigil"
+        }
+    },
+    {
+        "date": "2023-06-04 17:26:25",
+        "map": "Bad Company v2 [RAGL-14]",
+        "p0": {
+            "id": 13705,
+            "name": "Kav"
+        },
+        "p1": {
+            "id": 8869,
+            "name": "Sigil"
+        }
+    },
+    {
+        "date": "2023-06-04 17:37:35",
+        "map": "Yukon Territory (Temperate Edition) v2 [RAGL-14]",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzar"
+        },
+        "p1": {
+            "id": 8869,
+            "name": "Sigil"
+        }
+    },
+    {
+        "date": "2023-06-04 17:49:48",
+        "map": "Duskwood v2 [RAGL-14]",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzar"
+        },
+        "p1": {
+            "id": 8869,
+            "name": "Sigil"
+        }
     }
 ]
