@@ -2002,5 +2002,53 @@
             "id": 14769,
             "name": "chouchani"
         }
+    },
+    {
+        "date": "2023-06-06 11:19:05",
+        "map": "Rheinpfalz v2 [RAGL-14]",
+        "p0": {
+            "id": 15899,
+            "name": "tux"
+        },
+        "p1": {
+            "id": 7387,
+            "name": "TTTPPP"
+        }
+    },
+    {
+        "date": "2023-06-06 11:40:43",
+        "map": "Three and a half woods v2 [RAGL-14]",
+        "p0": {
+            "id": 15899,
+            "name": "tux"
+        },
+        "p1": {
+            "id": 7387,
+            "name": "TTTPPP"
+        }
+    },
+    {
+        "date": "2023-06-06 20:27:06",
+        "map": "River Crossing 2023 v2 [RAGL-14]",
+        "p0": {
+            "id": 7304,
+            "name": "Upps"
+        },
+        "p1": {
+            "id": 6881,
+            "name": "spetsnaz84"
+        }
+    },
+    {
+        "date": "2023-06-06 20:32:27",
+        "map": "Bad Company v2 [RAGL-14]",
+        "p0": {
+            "id": 7304,
+            "name": "Upps"
+        },
+        "p1": {
+            "id": 6881,
+            "name": "spetsnaz84"
+        }
     }
 ]
