@@ -2074,5 +2074,17 @@
             "id": 7714,
             "name": "Nilhall"
         }
+    },
+    {
+        "date": "2023-06-08 19:59:56",
+        "map": "Dragonking v2 [RAGL-14]",
+        "p0": {
+            "id": 17607,
+            "name": "BigHALK"
+        },
+        "p1": {
+            "id": 7387,
+            "name": "TTTPPP"
+        }
     }
 ]
