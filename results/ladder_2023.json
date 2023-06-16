@@ -22738,5 +22738,29 @@
             "id": 16191,
             "name": "Funske"
         }
+    },
+    {
+        "date": "2023-06-15 13:52:27",
+        "map": "Queen of the Hill",
+        "p0": {
+            "id": 18934,
+            "name": "BussyBoy"
+        },
+        "p1": {
+            "id": 18935,
+            "name": "InspectorOfNests"
+        }
+    },
+    {
+        "date": "2023-06-15 19:11:49",
+        "map": "Timian",
+        "p0": {
+            "id": 15899,
+            "name": "tux"
+        },
+        "p1": {
+            "id": 17607,
+            "name": "BigHALK"
+        }
     }
 ]
