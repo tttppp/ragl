@@ -22786,5 +22786,41 @@
             "id": 7387,
             "name": "TTTPPP"
         }
+    },
+    {
+        "date": "2023-06-17 15:01:41",
+        "map": "Dragonking v2",
+        "p0": {
+            "id": 18917,
+            "name": "Galaxis"
+        },
+        "p1": {
+            "id": 18979,
+            "name": "Rocket105"
+        }
+    },
+    {
+        "date": "2023-06-17 20:56:33",
+        "map": "Toxicity",
+        "p0": {
+            "id": 18979,
+            "name": "Rocket105"
+        },
+        "p1": {
+            "id": 18917,
+            "name": "Galaxis"
+        }
+    },
+    {
+        "date": "2023-06-17 21:50:52",
+        "map": "Queen of the Hill",
+        "p0": {
+            "id": 18917,
+            "name": "Galaxis"
+        },
+        "p1": {
+            "id": 18979,
+            "name": "Rocket105"
+        }
     }
 ]
