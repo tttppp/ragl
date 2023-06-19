@@ -2242,5 +2242,53 @@
             "id": 3952,
             "name": "anjew"
         }
+    },
+    {
+        "date": "2023-06-18 15:51:32",
+        "map": "Bad Company v2 [RAGL-14]",
+        "p0": {
+            "id": 18246,
+            "name": "creo"
+        },
+        "p1": {
+            "id": 17239,
+            "name": "Fazzar"
+        }
+    },
+    {
+        "date": "2023-06-18 16:31:31",
+        "map": "Rheinpfalz v2 [RAGL-14]",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzar"
+        },
+        "p1": {
+            "id": 18246,
+            "name": "creo"
+        }
+    },
+    {
+        "date": "2023-06-18 17:17:30",
+        "map": "Duskwood v2 [RAGL-14]",
+        "p0": {
+            "id": 18246,
+            "name": "creo"
+        },
+        "p1": {
+            "id": 13705,
+            "name": "Kav"
+        }
+    },
+    {
+        "date": "2023-06-18 17:31:33",
+        "map": "Bad Company v2 [RAGL-14]",
+        "p0": {
+            "id": 13705,
+            "name": "Kav"
+        },
+        "p1": {
+            "id": 18246,
+            "name": "creo"
+        }
     }
 ]
