@@ -22954,5 +22954,29 @@
             "id": 18993,
             "name": "Talidan"
         }
+    },
+    {
+        "date": "2023-06-21 18:10:37",
+        "map": "Wormrot",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzar"
+        },
+        "p1": {
+            "id": 17607,
+            "name": "BigHALK"
+        }
+    },
+    {
+        "date": "2023-06-21 21:11:06",
+        "map": "Endless Night",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzar"
+        },
+        "p1": {
+            "id": 12930,
+            "name": "Phoenician"
+        }
     }
 ]
