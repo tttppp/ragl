@@ -22978,5 +22978,29 @@
             "id": 12930,
             "name": "Phoenician"
         }
+    },
+    {
+        "date": "2023-06-22 09:55:50",
+        "map": "Duskwood",
+        "p0": {
+            "id": 7527,
+            "name": "McAfee"
+        },
+        "p1": {
+            "id": 18993,
+            "name": "Talidan"
+        }
+    },
+    {
+        "date": "2023-06-22 12:01:41",
+        "map": "Orthos",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzar"
+        },
+        "p1": {
+            "id": 14769,
+            "name": "chouchani"
+        }
     }
 ]
