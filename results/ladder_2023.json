@@ -23002,5 +23002,17 @@
             "id": 14769,
             "name": "chouchani"
         }
+    },
+    {
+        "date": "2023-06-23 08:57:43",
+        "map": "Taiga Vortex v2",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzar"
+        },
+        "p1": {
+            "id": 18993,
+            "name": "Talidan"
+        }
     }
 ]
