@@ -23230,5 +23230,29 @@
             "id": 6790,
             "name": "barf_openra"
         }
+    },
+    {
+        "date": "2023-06-30 21:52:17",
+        "map": "Jungle Boogie",
+        "p0": {
+            "id": 16066,
+            "name": "milkman"
+        },
+        "p1": {
+            "id": 7617,
+            "name": "worldpeace"
+        }
+    },
+    {
+        "date": "2023-06-30 22:13:27",
+        "map": "Tarback v2",
+        "p0": {
+            "id": 16066,
+            "name": "milkman"
+        },
+        "p1": {
+            "id": 7617,
+            "name": "worldpeace"
+        }
     }
 ]
