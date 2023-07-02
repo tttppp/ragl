@@ -2434,5 +2434,41 @@
             "id": 6793,
             "name": "maceman"
         }
+    },
+    {
+        "date": "2023-07-01 18:08:13",
+        "map": "Yukon Territory v2 [RAGL-14]",
+        "p0": {
+            "id": 13705,
+            "name": "Kav"
+        },
+        "p1": {
+            "id": 6430,
+            "name": "Blackened"
+        }
+    },
+    {
+        "date": "2023-07-01 18:17:07",
+        "map": "War Factory v2 [RAGL-14]",
+        "p0": {
+            "id": 13705,
+            "name": "Kav"
+        },
+        "p1": {
+            "id": 6430,
+            "name": "Blackened"
+        }
+    },
+    {
+        "date": "2023-07-01 18:30:40",
+        "map": "River Crossing 2023 v2 [RAGL-14]",
+        "p0": {
+            "id": 13705,
+            "name": "Kav"
+        },
+        "p1": {
+            "id": 6430,
+            "name": "Blackened"
+        }
     }
 ]
