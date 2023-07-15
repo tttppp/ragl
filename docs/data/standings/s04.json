@@ -82,6 +82,13 @@
           "strikes": 1
         },
         {
+          "id": 6608,
+          "played": 14,
+          "won": 13,
+          "strikes": 1,
+          "seasonForfeit": true
+        },
+        {
           "id": 6621,
           "played": 16,
           "won": 11,
@@ -124,10 +131,6 @@
           "played": 16,
           "won": 1,
           "strikes": 2
-        },
-        {
-          "id": 6608,
-          "seasonForfeit": true
         },
         {
           "id": 6410,

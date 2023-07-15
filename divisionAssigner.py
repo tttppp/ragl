@@ -9,7 +9,7 @@ from functools import cmp_to_key
 import json
 from math import ceil, floor
 
-SEASON = 14
+SEASON = 15
 # Season 14 registrations.
 REGISTRATION_CLOSE_DATE = date(2023, 4, 27)
 REGISTRATIONS = [16066, 6793, 11913, 17607, 7387, 7714, 15899, 3952, 17239,
