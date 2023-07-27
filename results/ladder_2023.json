@@ -25258,5 +25258,65 @@
             "id": 14769,
             "name": "chouchani"
         }
+    },
+    {
+        "date": "2023-07-26 12:00:49",
+        "map": "Lonely Land",
+        "p0": {
+            "id": 18810,
+            "name": "Mav"
+        },
+        "p1": {
+            "id": 13994,
+            "name": "jirik"
+        }
+    },
+    {
+        "date": "2023-07-26 12:12:17",
+        "map": "River of Blood",
+        "p0": {
+            "id": 18810,
+            "name": "Mav"
+        },
+        "p1": {
+            "id": 13994,
+            "name": "jirik"
+        }
+    },
+    {
+        "date": "2023-07-26 20:56:34",
+        "map": "Lonely Land",
+        "p0": {
+            "id": 18993,
+            "name": "Talidan"
+        },
+        "p1": {
+            "id": 17607,
+            "name": "BigHALK"
+        }
+    },
+    {
+        "date": "2023-07-26 21:39:01",
+        "map": "Lonely Land",
+        "p0": {
+            "id": 15428,
+            "name": "bete"
+        },
+        "p1": {
+            "id": 17607,
+            "name": "BigHALK"
+        }
+    },
+    {
+        "date": "2023-07-26 22:24:06",
+        "map": "River of Blood",
+        "p0": {
+            "id": 13660,
+            "name": "Eleiko"
+        },
+        "p1": {
+            "id": 17607,
+            "name": "BigHALK"
+        }
     }
 ]
