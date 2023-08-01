@@ -25498,5 +25498,41 @@
             "id": 7787,
             "name": "porcukor"
         }
+    },
+    {
+        "date": "2023-07-31 11:52:32",
+        "map": "Lonely Land",
+        "p0": {
+            "id": 9156,
+            "name": "toiletbreakbrb"
+        },
+        "p1": {
+            "id": 17239,
+            "name": "Fazzar"
+        }
+    },
+    {
+        "date": "2023-07-31 12:04:23",
+        "map": "River of Blood",
+        "p0": {
+            "id": 9156,
+            "name": "toiletbreakbrb"
+        },
+        "p1": {
+            "id": 17239,
+            "name": "Fazzar"
+        }
+    },
+    {
+        "date": "2023-07-31 12:18:48",
+        "map": "Lonely Land",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzar"
+        },
+        "p1": {
+            "id": 9156,
+            "name": "toiletbreakbrb"
+        }
     }
 ]
