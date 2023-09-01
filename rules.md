@@ -1,6 +1,6 @@
 # The Rulebook
 
-Red Alert Global League (RAGL), Season 14 is played starting 2023-05-01. We will aim to be finished in 10 weeks by 2023-07-09. This timespan includes up to 7 weeks for the group stage and 3 weeks reserved for unforeseen delays, tiebreakers and playoffs.
+Red Alert Global League (RAGL), Season 15 is played starting 2023-10-09. We will aim to be finished in 10 weeks by 2023-12-17. This timespan includes up to 7 weeks for the group stage and 3 weeks reserved for unforeseen delays, tiebreakers and playoffs.
 Timespan of the season is subject to change depending on actual player rosters and will be finalized after player registrations are closed.
 
 Current prize pool total: TBA
@@ -21,7 +21,7 @@ For details on prize pool contributions, check out the [Prize Pool section](#5.2
 - [3. Communications](#3-communications)
   - [3.1 Match scheduling](#31-match-scheduling)
   - [3.2 Match reporting](#32-match-reporting)
-  - [3.3 Failed contact notices](#33-failed-contact-notices)
+  - [3.3 Strikes](#33-strikes)
   - [3.4 Season Forfeit](#34-season-forfeit)
   - [3.5 Disputes](#35-disputes)
   - [3.6 Match delays](#36-match-delays)
@@ -44,10 +44,6 @@ For details on prize pool contributions, check out the [Prize Pool section](#5.2
 1.1.1 The League is split into Masters (1st tier) and Minions (2nd tier) divisions.
 
 1.1.1.1 Recruits division (3rd tier) might be considered in case there are enough signups for its creation.
-
-1.1.2 Masters division is always a single group of players. There is a minimum of 8 players in Masters division. There is a maximum of 16 players in Masters division.
-
-1.1.3 Each division except Masters may consist of one or more groups of players. There is a minimum of 8 players per group. There is a maximum of 16 players per group.
 
 1.1.4 Players are assigned to divisions according to the [division assignment algorithm](divisionAssigner.py).
 
@@ -80,13 +76,11 @@ For details on prize pool contributions, check out the [Prize Pool section](#5.2
 
 1.3.4 Strikes can be given for a number of different reasons, including failure to report a match, cheating, etc. Each strike is marked in Scoreboards.
 
-1.3.5 Three strikes accumulated during the season result in a straight Disqualification from the group stage. Disqualified players are cleared of any results in that season and are placed last in their respective group.
+1.3.5 Three strikes accumulated during the season result in a straight Disqualification from the group stage. Disqualified players are cleared of any group stage results in that season and are placed last in their respective group.
 
 1.3.6 Players finishing in the top 4 spots of Masters are promoted into Masters Playoffs which decide final standings in Masters.
 
-1.3.7 In case any division is split into several groups, players finishing in the 1st place in their respective groups take part in Playoffs to decide the division Champion.
-
-1.3.8 Any required rematches are to be resolved in a week time following the end of the group stage. In case of failure of one of the players to schedule and play the rematch in the specified timeframe that player is automatically assigned a technical loss. In case of failure of both of the players to schedule and play the rematch in the specified timeframe both players are excluded from prize allocations and any following stages of the season.
+1.3.8 Any required rematches are to be resolved in a week time following the end of the group stage. In case of failure of one of the players to schedule and play the rematch in the specified timeframe that player is automatically assigned a technical loss. In case of failure of both of the players to schedule and play the rematch in the specified timeframe both players are excluded from any following stages of the season.
 
 1.3.9 Due to the nature of the League, actual promotions/relegations between divisions can't be defined up until the start of the next season.
 
@@ -96,15 +90,13 @@ For details on prize pool contributions, check out the [Prize Pool section](#5.2
 
 1.4.2 Players finishing 1st and 4th play in the first Semi-final. Players finishing 2nd and 3rd play in the second Semi-final. Semi-final losers play in Bronze Match for the 3rd and 4th place overall. Semi-final winners play in the Final for the Masters Champion title and 2nd place overall.
 
-1.4.3 In case any division is split into 2 groups, players finishing 1st in their groups play in a Final for the division Champion title. The match is a Best-of-5.
+1.4.3 If any player has finished all their group stage matches and is in a Playoff spot, but then drops before the Semi-final maps are announced then a different player will included in the Playoffs. For example if the 3rd place finisher drops then the Semi-finals will be 1st against 5th and 2nd against 4th.
 
-1.4.4 In case any division is split into 4 groups, players finishing 1st in their groups play in Semi-finals, drawn at random. The Semi-finals winners play in a Final for the division Champion title. All matches are Best-of-5.
+1.4.4 Once the Semi-final maps are announced then any Playoff player dropping will not be replaced. It is possible that a prize will be unallocated and rolled over to the next season.
 
-1.4.5 Semi-final matches are to be resolved in 2 weeks time following the end of the group stage. In case of failure of one of the players to schedule and play the match in the specified timeframe that player is automatically assigned a technical loss. In case of failure of both of the players to schedule and play the match in the specified timeframe both players are excluded from prize allocations and any following stages of the season.
+1.4.5 Semi-final matches are to be resolved in 2 weeks time following the end of the group stage. In case of failure of one of the players to schedule and play the match in the specified timeframe that player is automatically assigned a technical loss. In case of failure of both of the players to schedule and play the match in the specified timeframe both players are excluded from top three prize allocations and any following stages of the season.
 
-1.4.6 Final and 3rd place matches are to be resolved in 3 weeks time following the end of the group stage. In case of failure of one of the players to schedule and play the match in the specified timeframe that player is automatically assigned a technical loss. In case of failure of both of the players to schedule and play the match in the specified timeframe both players are excluded from prize allocations.
-
-1.4.7 Admins reserve the right to replace players excluded under 1.4.5 and 1.4.6 with the aim of preserving the integrity of the league.
+1.4.6 Final and 3rd place matches are to be resolved in 3 weeks time following the end of the group stage. In case of failure of one of the players to schedule and play the match in the specified timeframe that player is automatically assigned a technical loss. In case of failure of both of the players to schedule and play the match in the specified timeframe both players are excluded from top three prize allocations.
 
 ## 1.5 Prizes
 
@@ -117,19 +109,19 @@ For details on prize pool contributions, check out the [Prize Pool section](#5.2
 
 1.5.1.1 Prize payments are subject to transfer fees and consequently it is not worth paying very small prizes. A small prize pool may result in prizes being omitted.
 
-1.5.2 Players who successfully finished the season and did not win any other prize will be entered into the Season finisher prize draw.
+1.5.2 Players who successfully finished the Group Stage and did not win any other prize will be entered into the Season finisher prize draw. Note that if players drop from the Playoffs then they are not eligible for the top three prizes, but could still win a Season finisher prize.
 
 1.5.2.1 The season finisher prize pool will be split into some number of season finisher prizes and those players with more unused strikes will have a higher chance of winning a prize. (Nb. Due to the implementation of the prize draw the chance of winning may not be proportional to the number of strikes a player has left)
 
 1.5.3 Prize pools are completely voluntary and are not expected to be significant each season. If the prize pool for a particular season is thin the exact spread and rewards will be carefully considered.
 
-1.5.4 Players may be ineligable for prizes if they are based in countries on economic sanctions lists (for example PayPal is currently not operating in Russia). We reserve the right to reassign prizes if this is the case.
+1.5.4 Players may be ineligable for prizes if they are based in countries on economic sanctions lists (for example PayPal is currently not operating in Russia). We reserve the right to reassign or roll over prizes to the next season if this is the case.
 
 # 2. Registrations
 
 ## 2.1 New signups
 
-2.1.1 New players have until 2023-04-27 to send the registration info.
+2.1.1 New players have until 2023-10-05 to send the registration info.
 
 2.1.2 Registration takes place through Discord (#ragl-signups in https://discord.gg/99zBDuS), the primary channel of communication for RAGL, or in the registrations forum thread.
 
@@ -143,7 +135,7 @@ For details on prize pool contributions, check out the [Prize Pool section](#5.2
 
 ## 2.2 Returning players
 
-2.2.1 Players transferring over from the previous season have until 2023-04-27 to confirm their participation.
+2.2.1 Players transferring over from the previous season have until 2023-10-05 to confirm their participation.
 
 2.2.2 Returning players don't have to provide any other information than the expressed confirmation, officials are to request any of the above if mandatory information is missing.
 
@@ -157,9 +149,10 @@ See https://tttppp.github.io/ragl/forfeits.html for individual records.
 
 ## 2.4 Waiting list
 
-2.4.1 In the event of players leaving during first week for any reasons, players may be added from the waiting list. The league officials will use a combination of the waiting list and promotion to fill the vacancy.
+2.4.1 In the event of players leaving during the first week for any reasons, players may be added from the waiting list. The league officials will use a combination of the waiting list and promotion to fill the vacancy.
 
 # 3. Communications
+
 Official communications between the players and with league officials are primarily done through Discord.
 
 ## 3.1 Match scheduling
@@ -170,29 +163,27 @@ Official communications between the players and with league officials are primar
 
 ## 3.2 Match reporting
 
-3.2.1 Match reporting is done automatically by RAGL.org and playing on the official RAGL servers. Any attempts of playing games on any other server than the RAGL official server will void the replays and the games will not count. After you have completed your matches, it should appear on your player profile at ragl.org as completed.
+3.2.1 Match reporting is done automatically by RAGL.org and playing on the official RAGL servers. Games played on any other server than the RAGL official server will probably need to be replayed at the discretion of the league officials. After you have completed a match, the result should appear on your player profile at ragl.org.
 
 3.2.8 Failure to play a match until its weekly deadline can result in strikes for both players. These matches still need to be played (same timeframe as delayed matches).
 
-## 3.3 Failed contact notices
+## 3.3 Strikes
 
-3.3.1 In case match opponent is not responding or otherwise ignores the proper match scheduling, the player should inform officials of a Failed contact. Reporting a Failed contact notice protects a player that has filed such notice from receiving a strike for an unreported match.
+3.3.1 If a player is unresponsive on the official Discord channel for their division then the league officials will attempt to notify them that they are at risk of receiving a strike.
 
 3.3.2 Players caught dodging, being unresponsive or scheduling matches at inappropriate times for their benefit will be punished. Punishments include but are not limited to: warnings, strikes, defaulted matches, season forfeits, and permanent banning from RAGL.
-
-3.3.3 The player has to notify both officials and the opponent, preferably in the dedicated Discord channel. Any info regarding the contact failure should be present in the notice for officials to resolve the matter.
-
-3.3.4 Failed contact notices must be sent ASAP, leaving a failed contact notice attempt until after the deadline for the match will mean it will not be addressed; matches will be noted as a strike.
-
-3.3.5 Failure to respond entirely will result in a 0-2 loss and a strike.
 
 3.3.6 Any strikes awarded will be published on Discord.
 
 ## 3.4 Season Forfeit
 
-3.4.1 Player is to explicitly state a season forfeit notice due to any reason that prevents finishing the season in a normal manner. Player has to notify officials, preferably in the dedicated Discord channel.
+3.4.1 Players can give a season forfeit notice if there is any reason that prevents finishing the season in a normal manner. They should notify officials, preferably in the dedicated Discord channel.
 
-3.4.2 Players that forfeited the season are cleared of any results (except strikes) for that season and are placed last in their respective group.
+3.4.2 If a player forfeits and has more than two unplayed group stage matches then they will be cleared of any results (except strikes) for that season and placed last in their respective group.
+
+3.4.3 If a player forfeits and has two or fewer unplayed group stage matches then these matches will be scored as 0-2 losses and the player will be put on 2 strikes (regardless of how many strikes they had up to this point).
+
+3.4.4 If a player has finished the group stage and forfeits during the playoffs then they will be placed last out of those competing in the playoffs (i.e. 4th for the Masters Playoffs). In the unlikely event that more than one player forfeits in this way then they will be ranked against each other based on their playoff seeding.
 
 ## 3.5 Disputes
 
@@ -212,7 +203,7 @@ Official communications between the players and with league officials are primar
 
 3.6.5 There are no regulations regarding matches being played before their designated schedule, thus it is advised to play matches early instead of delaying.
 
-3.6.6 Failed contact notices will take precedence over delay notices. If only one player is actively trying to schedule a match then their opponent will be issued with a strike, rather than the active player having to use a delay.
+3.6.6 If only one player is actively trying to schedule a match then their opponent will be issued with a strike, rather than the active player having to use a delay.
 
 3.6.7 Officials will make decisions about any overdue matches in the scheduled order and make a judgement as to which players to assign strikes to.
 
@@ -264,13 +255,15 @@ Players are free to make exceptions from this rule at the discretion of both par
 
 4.1.5 The game is played until one of the players is named defeated (either by all buildings and MCVs being destroyed or by pressing "Surrender"). Leaving the game before this occurs is highly discouraged as it prevents proper recording of a game result in a replay. If a player disconnects rather than surrendering then the other player may also leave the game afterwards, but should not surrender.
 
+4.1.5.1 Messages sent in the game chat should not be interpretted as the end of the game. In particular if a player sends a "gg" message then this is not the end of the game unless they are also defeated or they disconnect.
+
 4.1.6 The use of external software macros (programmed keypress sequences of commands that are not possible to be executed by game engine means, i.e. ordering units automation) is an unsportsmanlike conduct and is forbidden. More obvious automation scripts resulting in APM spikes are detectable by replay parsing tools, other suspicious behaviours might be up for scrutiny by officials. Positive confirmation of using external tools to gain game advantage will impose a strict ruling, up to a possible ban from participation in RAGL for as long as admins see fit.
 
 4.1.7 The use of modified clients that alter core gameplay in anyway are strictly forbidden. Positive confirmation of the use of a modified client to gain an unfair advantage will impose a strict ruling, up to a possible ban from participation in RAGL for as long as admins see fit.
 
 4.1.7.1 It is explicitly allowed to use the client Punsho released with [support for dark player colors](https://github.com/OpenRA/OpenRA/pull/20721) as an alternative to release-20230225.
 
-4.1.8 Players found colluding in order to influence the result of their match and remove the uncertainty in the outcome of a match will be subject to strict ruling, up to a possible ban from participation in RAGL for as long as admins see fit. This includes players who surrender prematurely.
+4.1.8 Players found colluding in order to influence the result of their match and remove the uncertainty in the outcome will be subject to strict ruling, up to a possible ban from participation in RAGL for as long as admins see fit. This includes players who surrender prematurely.
 
 4.1.9 Rules from the OpenRA Competitive server also apply to in-game chat and player names - don't be a dick. Failure to comply with this rule will result in disqualification.
 
@@ -278,17 +271,17 @@ Players are free to make exceptions from this rule at the discretion of both par
 
 ## 4.2 Map pool
 
-4.2.1 Map pool consists of 12 maps specifically uploaded to the Resource Centre and marked as "Category: RAGL 14" and explicit naming and thumbnail watermarks. Usage of any other versions of these maps for the league games is disallowed and will be rejected from being reported as a valid match result.
+4.2.1 Map pool consists of 12 maps specifically uploaded to the Resource Centre and marked as "Category: RAGL 15" and explicit naming and thumbnail watermarks. Usage of any other versions of these maps for the league games is disallowed and will be rejected from being reported as a valid match result.
 
 4.2.2 All maps include custom balance changes.
 
 4.2.3 Map pool can be found in the Competitive Discord server.
 
-4.2.4 An alternative version of snow maps using the temperate tileset has been provided for Season 14 to assist players with colourblindness. Players are encouraged to play the original map unless they have a strong reason for preferring the temperate version. For the purpose of map bans then the two versions of each map count as the same map.
+4.2.4 An alternative version of snow maps using the temperate tileset has been provided for Season 15 to assist players with colourblindness. Players are encouraged to play the original map unless they have a strong reason for preferring the temperate version. For the purpose of map bans then the two versions of each map count as the same map.
 
 ### 4.2.4 Map contest
 
-4.2.4: There will be a vote for the community's favourite map before RAGL, this map will be automatically included in the pool. Maps must be submitted by 2023-04-13.
+4.2.4: There will be a vote for the community's favourite map before RAGL, this map will be automatically included in the pool. Maps must be submitted by 2023-09-21.
 
 4.2.4.1: Map submissions should be made in this thread or in the #map-making channel of the OpenRA Competitive Discord server,
 
@@ -298,7 +291,7 @@ Players are free to make exceptions from this rule at the discretion of both par
 
 4.2.4.4: Voting will open once map submissions have closed.
 
-4.2.4.5: Voting will close on 2023-04-20.
+4.2.4.5: Voting will close on 2023-09-28.
 
 4.2.4.6: Voters assign 3pts, 2pts and 1pt to three different maps (it is not allowed to vote for fewer than three maps)
 
@@ -312,7 +305,7 @@ Players are free to make exceptions from this rule at the discretion of both par
 
 ## 4.3 Game disconnects
 
-4.3.1 Players are to decide between themselves the outcome of a disconnected game. If it is decided to re-play the game, the game that resulted in disconnect prior to this is deemed forfeit and cannot be used in a match result report.
+4.3.1 Players are to decide between themselves the outcome of a disconnected game. If it is decided to replay the game, the game that resulted in disconnect prior to this is deemed forfeit and cannot be used in a match result report.
 
 4.3.2 If the players cannot come to an agreement with regards to a game that resulted in disconnect, a notice to the officials should be stated including the replay of the game in question, preferably in the dedicated Discord channel. The evaluation of such game will likely result in a re-play unless the game is undoubtedly decided towards one player. The final word will be up to the official evaluation regardless.
 
@@ -332,14 +325,14 @@ Players are free to make exceptions from this rule at the discretion of both par
 
 5.2.2 PayPal charges conversion fees for payouts in a different currency than the donation. Conversion fees for payouts will be drawn from the respective prize money rather than the entire pool.
 
-5.2.3 Current Season 14 prize pool: TBA
+5.2.3 Current Season 15 prize pool: TBA
 
 ## 5.3 Officials
 
 5.3.1 The list of officials to contact is as follows:
 * TTTPPP
 * milkman
-* .won(.1)
+* .won (.1)
 * Anjew
 
 5.3.2 RAGL has its own discord, it can be found here https://discord.gg/99zBDuS Please post in the discord with any questions. Please, refrain from using discord personal messages unless the matter is urgent and cannot be discussed by other means.
@@ -350,9 +343,9 @@ For all inquiries you can contact us through Discord or reply on this thread.
 
 # Schedule Summary
 
-* 2023-04-13 Map submission deadline
-* 2023-04-20 Community map vote deadline
-* 2023-04-27 Player registrations close
-* 2023-05-01 Start of week 1
-* 2023-06-19 Start of Playoffs
-* 2023-07-09 Target for end of Playoffs
+* 2023-09-21 Map submission deadline
+* 2023-09-28 Community map vote deadline
+* 2023-10-05 Player registrations close
+* 2023-10-09 Start of week 1
+* 2023-11-27 Start of Playoffs
+* 2023-12-17 Target for end of Playoffs
