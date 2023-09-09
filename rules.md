@@ -147,6 +147,8 @@ For example: If a player has season forfeit in 3 seasons and only completed 1 se
 
 See https://tttppp.github.io/ragl/forfeits.html for individual records.
 
+2.3.6 Forfeits during the playoffs of this season will count as a completed season for future qualification (although similar forfeits in the past were subject to different rules and so continue to count as forfeits).
+
 ## 2.4 Waiting list
 
 2.4.1 In the event of players leaving during the first week for any reasons, players may be added from the waiting list. The league officials will use a combination of the waiting list and promotion to fill the vacancy.
@@ -255,7 +257,7 @@ Players are free to make exceptions from this rule at the discretion of both par
 
 4.1.5 The game is played until one of the players is named defeated (either by all buildings and MCVs being destroyed or by pressing "Surrender"). Leaving the game before this occurs is highly discouraged as it prevents proper recording of a game result in a replay. If a player disconnects rather than surrendering then the other player may also leave the game afterwards, but should not surrender.
 
-4.1.5.1 Messages sent in the game chat should not be interpretted as the end of the game. In particular if a player sends a "gg" message then this is not the end of the game unless they are also defeated or they disconnect.
+4.1.5.1 Messages sent in the game chat should not be interpreted as the end of the game. In particular if a player sends a "gg" message then this is not the end of the game unless they are also defeated or they disconnect.
 
 4.1.6 The use of external software macros (programmed keypress sequences of commands that are not possible to be executed by game engine means, i.e. ordering units automation) is an unsportsmanlike conduct and is forbidden. More obvious automation scripts resulting in APM spikes are detectable by replay parsing tools, other suspicious behaviours might be up for scrutiny by officials. Positive confirmation of using external tools to gain game advantage will impose a strict ruling, up to a possible ban from participation in RAGL for as long as admins see fit.
 
@@ -277,7 +279,7 @@ Players are free to make exceptions from this rule at the discretion of both par
 
 4.2.3 Map pool can be found in the Competitive Discord server.
 
-4.2.4 An alternative version of snow maps using the temperate tileset has been provided for Season 15 to assist players with colourblindness. Players are encouraged to play the original map unless they have a strong reason for preferring the temperate version. For the purpose of map bans then the two versions of each map count as the same map.
+4.2.3.1 An alternative version of snow maps using the temperate tileset has been provided for Season 15 to assist players with colourblindness. Players are encouraged to play the original map unless they have a strong reason for preferring the temperate version. For the purpose of map bans then the two versions of each map count as the same map.
 
 ### 4.2.4 Map contest
 
