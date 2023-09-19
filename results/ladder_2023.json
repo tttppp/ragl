@@ -29902,5 +29902,17 @@
             "id": 12051,
             "name": "sfk"
         }
+    },
+    {
+        "date": "2023-09-18 20:37:53",
+        "map": "Arctic Assault",
+        "p0": {
+            "id": 18804,
+            "name": "RoboCody"
+        },
+        "p1": {
+            "id": 13994,
+            "name": "jirik"
+        }
     }
 ]
