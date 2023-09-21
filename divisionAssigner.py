@@ -10,12 +10,14 @@ import json
 from math import ceil, floor
 
 SEASON = 15
+# Season 15 registrations.
+REGISTRATION_CLOSE_DATE = date(2023, 10, 5)
+REGISTRATIONS = [15899, 16066, 11913, 7714, 7387, 13008, 18864, 15428]
 # Season 14 registrations.
-REGISTRATION_CLOSE_DATE = date(2023, 4, 27)
-REGISTRATIONS = [16066, 6793, 11913, 17607, 7387, 7714, 15899, 3952, 17239,
-                 11442, 18246, 13710, 6881, 5292, 14769, 9156, 16401, 12022,
-                 8869, 6430, 13705, 6771, 7304, 10588]
-
+#REGISTRATION_CLOSE_DATE = date(2023, 4, 27)
+#REGISTRATIONS = [16066, 6793, 11913, 17607, 7387, 7714, 15899, 3952, 17239,
+#                 11442, 18246, 13710, 6881, 5292, 14769, 9156, 16401, 12022,
+#                 8869, 6430, 13705, 6771, 7304, 10588]
 # Season 13 registrations.
 #REGISTRATION_CLOSE_DATE = date(2022, 9, 29)
 #REGISTRATIONS = [6793, 11913, 11099, 11442, 3952, 15899, 8869, 5292, 13710, 15428, 16338, 7387,
@@ -240,7 +242,8 @@ for i, player_id in enumerate(continuity_order):
 print('### Ladder ranking ###')
 ladder_order = ladder_sort(REGISTRATIONS, ladder_ratings)
 for player_id in ladder_order:
-    print('{} ({})'.format(player_names[str(player_id)], [player['r'] for player in ladder_ratings if player['i'] == player_id][0]))
+    rating = next(iter(player['r'] for player in ladder_ratings if player['i'] == player_id), '-')
+    print('{} ({})'.format(player_names[str(player_id)], rating))
 
 print('### Divisions ###')
 divisions = create_divisions(continuity_order, ladder_order)
