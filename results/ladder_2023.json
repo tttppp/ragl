@@ -30394,5 +30394,17 @@
             "id": 18968,
             "name": "Nightingale"
         }
+    },
+    {
+        "date": "2023-09-26 01:23:39",
+        "map": "Calming Lakes",
+        "p0": {
+            "id": 17607,
+            "name": "BigHALK"
+        },
+        "p1": {
+            "id": 18810,
+            "name": "Mav"
+        }
     }
 ]
