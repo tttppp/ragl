@@ -181,9 +181,7 @@ Official communications between the players and with league officials are primar
 
 3.4.1 Players can give a season forfeit notice if there is any reason that prevents finishing the season in a normal manner. They should notify officials, preferably in the dedicated Discord channel.
 
-3.4.2 If a player forfeits and has more than two unplayed group stage matches then they will be cleared of any results (except strikes) for that season and placed last in their respective group.
-
-3.4.3 If a player forfeits and has two or fewer unplayed group stage matches then these matches will be scored as 0-2 losses and the player will be put on 2 strikes (regardless of how many strikes they had up to this point).
+3.4.2 If a player forfeits and has unplayed group stage matches then they will be cleared of any results (except strikes) for the season and placed last in their respective group.
 
 3.4.4 If a player has finished the group stage and forfeits during the playoffs then they will be placed last out of those competing in the playoffs (i.e. 4th for the Masters Playoffs). In the unlikely event that more than one player forfeits in this way then they will be ranked against each other based on their playoff seeding.
 
@@ -265,7 +263,7 @@ Players are free to make exceptions from this rule at the discretion of both par
 
 4.1.7.1 It is explicitly allowed to use the client Punsho released with [support for dark player colors](https://github.com/OpenRA/OpenRA/pull/20721) as an alternative to release-20230225.
 
-4.1.8 Players found colluding in order to influence the result of their match and remove the uncertainty in the outcome will be subject to strict ruling, up to a possible ban from participation in RAGL for as long as admins see fit. This includes players who surrender prematurely.
+4.1.8 Players found colluding in order to influence the result of their match and remove the uncertainty in the outcome will be subject to strict ruling, up to a possible ban from participation in RAGL for as long as admins see fit. This includes players who surrender prematurely or season forfeit in order to cancel their earlier results.
 
 4.1.9 Rules from the OpenRA Competitive server also apply to in-game chat and player names - don't be a dick. Failure to comply with this rule will result in disqualification.
 
