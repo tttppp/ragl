@@ -2470,5 +2470,77 @@
             "id": 6430,
             "name": "Blackened"
         }
+    },
+    {
+        "date": "2023-10-07 20:30:47",
+        "map": "Westworld [RAGL-15]",
+        "p0": {
+            "id": 18864,
+            "name": "fiwo"
+        },
+        "p1": {
+            "id": 6751,
+            "name": "Tailix Killa Mentor"
+        }
+    },
+    {
+        "date": "2023-10-07 21:17:27",
+        "map": "Pleasant Plains [RAGL-15]",
+        "p0": {
+            "id": 6751,
+            "name": "Tailix Killa Mentor"
+        },
+        "p1": {
+            "id": 18864,
+            "name": "fiwo"
+        }
+    },
+    {
+        "date": "2023-10-08 18:35:58",
+        "map": "Paranoia [RAGL-15]",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzar"
+        },
+        "p1": {
+            "id": 16066,
+            "name": "milkman"
+        }
+    },
+    {
+        "date": "2023-10-08 18:46:17",
+        "map": "Cow Level [RAGL-15]",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzar"
+        },
+        "p1": {
+            "id": 16066,
+            "name": "milkman"
+        }
+    },
+    {
+        "date": "2023-10-08 20:00:38",
+        "map": "Cow Level [RAGL-15]",
+        "p0": {
+            "id": 7714,
+            "name": "Nilhall"
+        },
+        "p1": {
+            "id": 18864,
+            "name": "fiwo"
+        }
+    },
+    {
+        "date": "2023-10-08 20:16:24",
+        "map": "Bossman [RAGL-15]",
+        "p0": {
+            "id": 7714,
+            "name": "Nilhall"
+        },
+        "p1": {
+            "id": 18864,
+            "name": "fiwo"
+        }
     }
 ]
