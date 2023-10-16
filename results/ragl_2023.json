@@ -2998,5 +2998,149 @@
             "id": 7304,
             "name": "Upps"
         }
+    },
+    {
+        "date": "2023-10-15 12:59:21",
+        "map": "Westworld [RAGL-15]",
+        "p0": {
+            "id": 13705,
+            "name": "Kav"
+        },
+        "p1": {
+            "id": 6793,
+            "name": "maceman"
+        }
+    },
+    {
+        "date": "2023-10-15 13:23:10",
+        "map": "Pleasant Plains [RAGL-15]",
+        "p0": {
+            "id": 13705,
+            "name": "Kav"
+        },
+        "p1": {
+            "id": 6793,
+            "name": "maceman"
+        }
+    },
+    {
+        "date": "2023-10-15 15:31:01",
+        "map": "Westworld [RAGL-15]",
+        "p0": {
+            "id": 13705,
+            "name": "Kav"
+        },
+        "p1": {
+            "id": 8860,
+            "name": "ROCKhardFISTnips"
+        }
+    },
+    {
+        "date": "2023-10-15 15:40:45",
+        "map": "Scorched Earth II [RAGL-15]",
+        "p0": {
+            "id": 13705,
+            "name": "Kav"
+        },
+        "p1": {
+            "id": 8860,
+            "name": "ROCKhardFISTnips"
+        }
+    },
+    {
+        "date": "2023-10-15 16:16:00",
+        "map": "Pleasant Plains [RAGL-15]",
+        "p0": {
+            "id": 18968,
+            "name": "Nightingale"
+        },
+        "p1": {
+            "id": 18864,
+            "name": "fiwo"
+        }
+    },
+    {
+        "date": "2023-10-15 16:34:45",
+        "map": "Cow Level [RAGL-15]",
+        "p0": {
+            "id": 18968,
+            "name": "Nightingale"
+        },
+        "p1": {
+            "id": 18864,
+            "name": "fiwo"
+        }
+    },
+    {
+        "date": "2023-10-15 17:41:57",
+        "map": "Westworld [RAGL-15]",
+        "p0": {
+            "id": 13705,
+            "name": "Kav"
+        },
+        "p1": {
+            "id": 15899,
+            "name": "tux"
+        }
+    },
+    {
+        "date": "2023-10-15 17:55:49",
+        "map": "Pleasant Plains [RAGL-15]",
+        "p0": {
+            "id": 13705,
+            "name": "Kav"
+        },
+        "p1": {
+            "id": 15899,
+            "name": "tux"
+        }
+    },
+    {
+        "date": "2023-10-15 18:16:06",
+        "map": "Timian v2 [RAGL-15]",
+        "p0": {
+            "id": 15899,
+            "name": "tux"
+        },
+        "p1": {
+            "id": 8860,
+            "name": "ROCKhardFISTnips"
+        }
+    },
+    {
+        "date": "2023-10-15 18:28:55",
+        "map": "Pleasant Plains [RAGL-15]",
+        "p0": {
+            "id": 8860,
+            "name": "ROCKhardFISTnips"
+        },
+        "p1": {
+            "id": 15899,
+            "name": "tux"
+        }
+    },
+    {
+        "date": "2023-10-15 18:42:24",
+        "map": "Timian v2 [RAGL-15]",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzar"
+        },
+        "p1": {
+            "id": 8860,
+            "name": "ROCKhardFISTnips"
+        }
+    },
+    {
+        "date": "2023-10-15 19:09:31",
+        "map": "Bossman [RAGL-15]",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzar"
+        },
+        "p1": {
+            "id": 8860,
+            "name": "ROCKhardFISTnips"
+        }
     }
 ]
