@@ -3142,5 +3142,197 @@
             "id": 8860,
             "name": "ROCKhardFISTnips"
         }
+    },
+    {
+        "date": "2023-10-16 16:56:40",
+        "map": "Westworld [RAGL-15]",
+        "p0": {
+            "id": 6771,
+            "name": "Mr Cloudy"
+        },
+        "p1": {
+            "id": 6793,
+            "name": "maceman"
+        }
+    },
+    {
+        "date": "2023-10-16 17:08:36",
+        "map": "Timian v2 [RAGL-15]",
+        "p0": {
+            "id": 6771,
+            "name": "Mr Cloudy"
+        },
+        "p1": {
+            "id": 6793,
+            "name": "maceman"
+        }
+    },
+    {
+        "date": "2023-10-16 17:20:55",
+        "map": "Pleasant Plains [RAGL-15]",
+        "p0": {
+            "id": 15469,
+            "name": "not happy"
+        },
+        "p1": {
+            "id": 6771,
+            "name": "Mr Cloudy"
+        }
+    },
+    {
+        "date": "2023-10-16 17:30:01",
+        "map": "Dover [RAGL-15]",
+        "p0": {
+            "id": 15469,
+            "name": "not happy"
+        },
+        "p1": {
+            "id": 6771,
+            "name": "Mr Cloudy"
+        }
+    },
+    {
+        "date": "2023-10-16 18:02:38",
+        "map": "Timian v2 [RAGL-15]",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzar"
+        },
+        "p1": {
+            "id": 6793,
+            "name": "maceman"
+        }
+    },
+    {
+        "date": "2023-10-16 18:11:56",
+        "map": "Paranoia [RAGL-15]",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzar"
+        },
+        "p1": {
+            "id": 6793,
+            "name": "maceman"
+        }
+    },
+    {
+        "date": "2023-10-16 18:33:53",
+        "map": "Overlook [RAGL-15]",
+        "p0": {
+            "id": 6771,
+            "name": "Mr Cloudy"
+        },
+        "p1": {
+            "id": 16066,
+            "name": "milkman"
+        }
+    },
+    {
+        "date": "2023-10-16 18:44:22",
+        "map": "Pleasant Plains [RAGL-15]",
+        "p0": {
+            "id": 16066,
+            "name": "milkman"
+        },
+        "p1": {
+            "id": 6771,
+            "name": "Mr Cloudy"
+        }
+    },
+    {
+        "date": "2023-10-16 19:27:43",
+        "map": "Cow Level [RAGL-15]",
+        "p0": {
+            "id": 15469,
+            "name": "not happy"
+        },
+        "p1": {
+            "id": 15899,
+            "name": "tux"
+        }
+    },
+    {
+        "date": "2023-10-16 19:32:13",
+        "map": "Dover [RAGL-15]",
+        "p0": {
+            "id": 18968,
+            "name": "Nightingale"
+        },
+        "p1": {
+            "id": 6881,
+            "name": "spetsnaz84"
+        }
+    },
+    {
+        "date": "2023-10-16 19:40:51",
+        "map": "Snap [RAGL-15]",
+        "p0": {
+            "id": 15469,
+            "name": "not happy"
+        },
+        "p1": {
+            "id": 15899,
+            "name": "tux"
+        }
+    },
+    {
+        "date": "2023-10-16 19:41:12",
+        "map": "Timian v2 [RAGL-15]",
+        "p0": {
+            "id": 18968,
+            "name": "Nightingale"
+        },
+        "p1": {
+            "id": 6881,
+            "name": "spetsnaz84"
+        }
+    },
+    {
+        "date": "2023-10-16 19:41:12",
+        "map": "Paranoia [RAGL-15]",
+        "p0": {
+            "id": 11913,
+            "name": "Duke Bones"
+        },
+        "p1": {
+            "id": 7387,
+            "name": "TTTPPP"
+        }
+    },
+    {
+        "date": "2023-10-16 19:54:31",
+        "map": "Pleasant Plains [RAGL-15]",
+        "p0": {
+            "id": 11913,
+            "name": "Duke Bones"
+        },
+        "p1": {
+            "id": 7387,
+            "name": "TTTPPP"
+        }
+    },
+    {
+        "date": "2023-10-16 20:15:06",
+        "map": "Cow Level [RAGL-15]",
+        "p0": {
+            "id": 7387,
+            "name": "TTTPPP"
+        },
+        "p1": {
+            "id": 6881,
+            "name": "spetsnaz84"
+        }
+    },
+    {
+        "date": "2023-10-16 20:29:36",
+        "map": "Dover [RAGL-15]",
+        "p0": {
+            "id": 7387,
+            "name": "TTTPPP"
+        },
+        "p1": {
+            "id": 6881,
+            "name": "spetsnaz84"
+        }
     }
 ]
