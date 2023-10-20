@@ -3550,5 +3550,29 @@
             "id": 16066,
             "name": "milkman"
         }
+    },
+    {
+        "date": "2023-10-19 14:30:57",
+        "map": "Westworld [RAGL-15]",
+        "p0": {
+            "id": 7714,
+            "name": "Nilhall"
+        },
+        "p1": {
+            "id": 6751,
+            "name": "Tailix Killa Mentor"
+        }
+    },
+    {
+        "date": "2023-10-19 15:03:51",
+        "map": "Bossman [RAGL-15]",
+        "p0": {
+            "id": 7714,
+            "name": "Nilhall"
+        },
+        "p1": {
+            "id": 6751,
+            "name": "Tailix Killa Mentor"
+        }
     }
 ]
