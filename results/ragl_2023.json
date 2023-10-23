@@ -3718,5 +3718,221 @@
             "id": 6881,
             "name": "spetsnaz84"
         }
+    },
+    {
+        "date": "2023-10-22 13:49:27",
+        "map": "Pleasant Plains [RAGL-15]",
+        "p0": {
+            "id": 8860,
+            "name": "ROCKhardFISTnips"
+        },
+        "p1": {
+            "id": 7304,
+            "name": "Upps"
+        }
+    },
+    {
+        "date": "2023-10-22 14:01:41",
+        "map": "Tank Trap [RAGL-15]",
+        "p0": {
+            "id": 8860,
+            "name": "ROCKhardFISTnips"
+        },
+        "p1": {
+            "id": 7304,
+            "name": "Upps"
+        }
+    },
+    {
+        "date": "2023-10-22 14:18:37",
+        "map": "Tank Trap [RAGL-15]",
+        "p0": {
+            "id": 7304,
+            "name": "Upps"
+        },
+        "p1": {
+            "id": 5292,
+            "name": "Mo"
+        }
+    },
+    {
+        "date": "2023-10-22 14:32:07",
+        "map": "Dover [RAGL-15]",
+        "p0": {
+            "id": 7304,
+            "name": "Upps"
+        },
+        "p1": {
+            "id": 5292,
+            "name": "Mo"
+        }
+    },
+    {
+        "date": "2023-10-22 17:57:49",
+        "map": "Timian v2 [RAGL-15]",
+        "p0": {
+            "id": 11913,
+            "name": "Duke Bones"
+        },
+        "p1": {
+            "id": 17607,
+            "name": "BigHALK"
+        }
+    },
+    {
+        "date": "2023-10-22 18:19:08",
+        "map": "Paranoia [RAGL-15]",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzar"
+        },
+        "p1": {
+            "id": 6430,
+            "name": "Blackened"
+        }
+    },
+    {
+        "date": "2023-10-22 18:21:58",
+        "map": "Westworld [RAGL-15]",
+        "p0": {
+            "id": 11913,
+            "name": "Duke Bones"
+        },
+        "p1": {
+            "id": 17607,
+            "name": "BigHALK"
+        }
+    },
+    {
+        "date": "2023-10-22 18:32:15",
+        "map": "Timian v2 [RAGL-15]",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzar"
+        },
+        "p1": {
+            "id": 6430,
+            "name": "Blackened"
+        }
+    },
+    {
+        "date": "2023-10-22 18:37:57",
+        "map": "Pleasant Plains [RAGL-15]",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 15469,
+            "name": "not happy"
+        }
+    },
+    {
+        "date": "2023-10-22 18:47:52",
+        "map": "Cow Level [RAGL-15]",
+        "p0": {
+            "id": 15469,
+            "name": "not happy"
+        },
+        "p1": {
+            "id": 6430,
+            "name": "Blackened"
+        }
+    },
+    {
+        "date": "2023-10-22 19:00:00",
+        "map": "Glittering Gully [RAGL-15]",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 8860,
+            "name": "ROCKhardFISTnips"
+        }
+    },
+    {
+        "date": "2023-10-22 19:07:20",
+        "map": "Cow Level [RAGL-15]",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 8860,
+            "name": "ROCKhardFISTnips"
+        }
+    },
+    {
+        "date": "2023-10-22 19:16:02",
+        "map": "Scorched Earth II [RAGL-15]",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 15899,
+            "name": "tux"
+        }
+    },
+    {
+        "date": "2023-10-22 19:30:44",
+        "map": "Pleasant Plains [RAGL-15]",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 15899,
+            "name": "tux"
+        }
+    },
+    {
+        "date": "2023-10-22 19:41:44",
+        "map": "Dover [RAGL-15]",
+        "p0": {
+            "id": 17607,
+            "name": "BigHALK"
+        },
+        "p1": {
+            "id": 6881,
+            "name": "spetsnaz84"
+        }
+    },
+    {
+        "date": "2023-10-22 20:06:30",
+        "map": "Overlook [RAGL-15]",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 6793,
+            "name": "maceman"
+        }
+    },
+    {
+        "date": "2023-10-22 20:18:30",
+        "map": "Dover [RAGL-15]",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 6793,
+            "name": "maceman"
+        }
+    },
+    {
+        "date": "2023-10-22 20:30:08",
+        "map": "Cow Level [RAGL-15]",
+        "p0": {
+            "id": 6881,
+            "name": "spetsnaz84"
+        },
+        "p1": {
+            "id": 17607,
+            "name": "BigHALK"
+        }
     }
 ]
