@@ -3982,5 +3982,29 @@
             "id": 6881,
             "name": "spetsnaz84"
         }
+    },
+    {
+        "date": "2023-10-25 21:39:22",
+        "map": "Timian v2 [RAGL-15]",
+        "p0": {
+            "id": 18968,
+            "name": "Nightingale"
+        },
+        "p1": {
+            "id": 17607,
+            "name": "BigHALK"
+        }
+    },
+    {
+        "date": "2023-10-25 22:11:22",
+        "map": "Paranoia [RAGL-15]",
+        "p0": {
+            "id": 17607,
+            "name": "BigHALK"
+        },
+        "p1": {
+            "id": 18968,
+            "name": "Nightingale"
+        }
     }
 ]
