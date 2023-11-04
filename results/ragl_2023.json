@@ -4174,5 +4174,53 @@
             "id": 6751,
             "name": "Tailix Killa Mentor"
         }
+    },
+    {
+        "date": "2023-11-03 20:38:22",
+        "map": "Westworld [RAGL-15]",
+        "p0": {
+            "id": 6751,
+            "name": "Tailix Killa Mentor"
+        },
+        "p1": {
+            "id": 18359,
+            "name": "goldie"
+        }
+    },
+    {
+        "date": "2023-11-03 20:52:29",
+        "map": "Timian v2 [RAGL-15]",
+        "p0": {
+            "id": 18359,
+            "name": "goldie"
+        },
+        "p1": {
+            "id": 6751,
+            "name": "Tailix Killa Mentor"
+        }
+    },
+    {
+        "date": "2023-11-03 21:11:43",
+        "map": "Pleasant Plains [RAGL-15]",
+        "p0": {
+            "id": 18864,
+            "name": "fiwo"
+        },
+        "p1": {
+            "id": 18359,
+            "name": "goldie"
+        }
+    },
+    {
+        "date": "2023-11-03 21:30:12",
+        "map": "Dover [RAGL-15]",
+        "p0": {
+            "id": 18864,
+            "name": "fiwo"
+        },
+        "p1": {
+            "id": 18359,
+            "name": "goldie"
+        }
     }
 ]
