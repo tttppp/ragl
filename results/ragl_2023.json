@@ -4294,5 +4294,221 @@
             "id": 7714,
             "name": "Nilhall"
         }
+    },
+    {
+        "date": "2023-11-05 13:53:53",
+        "map": "Cow Level [RAGL-15]",
+        "p0": {
+            "id": 3952,
+            "name": "anjew"
+        },
+        "p1": {
+            "id": 5292,
+            "name": "Mo"
+        }
+    },
+    {
+        "date": "2023-11-05 14:08:03",
+        "map": "Pleasant Plains [RAGL-15]",
+        "p0": {
+            "id": 3952,
+            "name": "anjew"
+        },
+        "p1": {
+            "id": 5292,
+            "name": "Mo"
+        }
+    },
+    {
+        "date": "2023-11-05 14:25:35",
+        "map": "Snap [RAGL-15]",
+        "p0": {
+            "id": 15469,
+            "name": "not happy"
+        },
+        "p1": {
+            "id": 5292,
+            "name": "Mo"
+        }
+    },
+    {
+        "date": "2023-11-05 14:40:58",
+        "map": "Cow Level [RAGL-15]",
+        "p0": {
+            "id": 15469,
+            "name": "not happy"
+        },
+        "p1": {
+            "id": 5292,
+            "name": "Mo"
+        }
+    },
+    {
+        "date": "2023-11-05 15:00:02",
+        "map": "Overlook [RAGL-15]",
+        "p0": {
+            "id": 15469,
+            "name": "not happy"
+        },
+        "p1": {
+            "id": 3952,
+            "name": "anjew"
+        }
+    },
+    {
+        "date": "2023-11-05 15:10:50",
+        "map": "Paranoia [RAGL-15]",
+        "p0": {
+            "id": 15469,
+            "name": "not happy"
+        },
+        "p1": {
+            "id": 3952,
+            "name": "anjew"
+        }
+    },
+    {
+        "date": "2023-11-05 16:06:05",
+        "map": "Glittering Gully [RAGL-15]",
+        "p0": {
+            "id": 13705,
+            "name": "Kav"
+        },
+        "p1": {
+            "id": 6430,
+            "name": "Blackened"
+        }
+    },
+    {
+        "date": "2023-11-05 16:13:43",
+        "map": "Tank Trap [RAGL-15]",
+        "p0": {
+            "id": 13705,
+            "name": "Kav"
+        },
+        "p1": {
+            "id": 6430,
+            "name": "Blackened"
+        }
+    },
+    {
+        "date": "2023-11-05 16:58:38",
+        "map": "Dover [RAGL-15]",
+        "p0": {
+            "id": 17607,
+            "name": "BigHALK"
+        },
+        "p1": {
+            "id": 18864,
+            "name": "fiwo"
+        }
+    },
+    {
+        "date": "2023-11-05 17:26:47",
+        "map": "Timian v2 [RAGL-15]",
+        "p0": {
+            "id": 17607,
+            "name": "BigHALK"
+        },
+        "p1": {
+            "id": 18864,
+            "name": "fiwo"
+        }
+    },
+    {
+        "date": "2023-11-05 17:45:46",
+        "map": "Timian v2 [RAGL-15]",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 6771,
+            "name": "Mr Cloudy"
+        }
+    },
+    {
+        "date": "2023-11-05 17:51:09",
+        "map": "Pleasant Plains [RAGL-15]",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 6771,
+            "name": "Mr Cloudy"
+        }
+    },
+    {
+        "date": "2023-11-05 21:13:22",
+        "map": "Overlook [RAGL-15]",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 16066,
+            "name": "milkman"
+        }
+    },
+    {
+        "date": "2023-11-05 21:29:14",
+        "map": "Snap [RAGL-15]",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 16066,
+            "name": "milkman"
+        }
+    },
+    {
+        "date": "2023-11-05 21:39:33",
+        "map": "Timian v2 [RAGL-15]",
+        "p0": {
+            "id": 7304,
+            "name": "Upps"
+        },
+        "p1": {
+            "id": 16066,
+            "name": "milkman"
+        }
+    },
+    {
+        "date": "2023-11-05 21:57:23",
+        "map": "Pleasant Plains [RAGL-15]",
+        "p0": {
+            "id": 16066,
+            "name": "milkman"
+        },
+        "p1": {
+            "id": 7304,
+            "name": "Upps"
+        }
+    },
+    {
+        "date": "2023-11-05 22:08:05",
+        "map": "Bossman [RAGL-15]",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 7304,
+            "name": "Upps"
+        }
+    },
+    {
+        "date": "2023-11-05 22:23:17",
+        "map": "Overlook [RAGL-15]",
+        "p0": {
+            "id": 7304,
+            "name": "Upps"
+        },
+        "p1": {
+            "id": 6430,
+            "name": "Blackened"
+        }
     }
 ]
