@@ -4558,5 +4558,53 @@
             "id": 6881,
             "name": "spetsnaz84"
         }
+    },
+    {
+        "date": "2023-11-09 00:53:31",
+        "map": "Westworld [RAGL-15]",
+        "p0": {
+            "id": 6751,
+            "name": "Tailix Killa Mentor"
+        },
+        "p1": {
+            "id": 17607,
+            "name": "BigHALK"
+        }
+    },
+    {
+        "date": "2023-11-09 01:12:15",
+        "map": "Cow Level [RAGL-15]",
+        "p0": {
+            "id": 17607,
+            "name": "BigHALK"
+        },
+        "p1": {
+            "id": 6751,
+            "name": "Tailix Killa Mentor"
+        }
+    },
+    {
+        "date": "2023-11-09 21:15:38",
+        "map": "Overlook [RAGL-15]",
+        "p0": {
+            "id": 7714,
+            "name": "Nilhall"
+        },
+        "p1": {
+            "id": 14769,
+            "name": "chouchani"
+        }
+    },
+    {
+        "date": "2023-11-09 21:37:34",
+        "map": "Paranoia [RAGL-15]",
+        "p0": {
+            "id": 14769,
+            "name": "chouchani"
+        },
+        "p1": {
+            "id": 7714,
+            "name": "Nilhall"
+        }
     }
 ]
