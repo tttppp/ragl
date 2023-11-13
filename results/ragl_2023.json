@@ -4630,5 +4630,53 @@
             "id": 14769,
             "name": "chouchani"
         }
+    },
+    {
+        "date": "2023-11-12 19:36:47",
+        "map": "Bossman [RAGL-15]",
+        "p0": {
+            "id": 7714,
+            "name": "Nilhall"
+        },
+        "p1": {
+            "id": 6881,
+            "name": "spetsnaz84"
+        }
+    },
+    {
+        "date": "2023-11-12 19:48:16",
+        "map": "Timian v2 [RAGL-15]",
+        "p0": {
+            "id": 7714,
+            "name": "Nilhall"
+        },
+        "p1": {
+            "id": 6881,
+            "name": "spetsnaz84"
+        }
+    },
+    {
+        "date": "2023-11-12 23:10:02",
+        "map": "Scorched Earth II [RAGL-15]",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 5292,
+            "name": "Mo"
+        }
+    },
+    {
+        "date": "2023-11-12 23:34:55",
+        "map": "Cow Level [RAGL-15]",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 5292,
+            "name": "Mo"
+        }
     }
 ]
