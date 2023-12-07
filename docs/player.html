@@ -4,6 +4,9 @@
         <link rel="stylesheet" href="ragl.css">
         <script src="js/jquery.min.js"></script>
         <script>
+            var wonTotal = 0;
+            var lostTotal = 0;
+
             function addRAGLSeasonParticipationFn(pastSeasonRef, playerId, replacements, players) {
                 return function(standingData) {
                     Object.keys(standingData.groups).forEach(divisionName => {
@@ -21,6 +24,11 @@
                                     var participantGroup = 'S' + pastSeasonRef + ' ' + divisionTitle;
                                     if (entry.seasonForfeit) {
                                         participantGroup += ' (SF)'
+                                    } else {
+                                        var lost = (entry.played - entry.won);
+                                        participantGroup += ' (W' + entry.won + ' / L' + lost + ')'
+                                        wonTotal += entry.won;
+                                        lostTotal += lost;
                                     }
                                     if (entry.id != playerId) {
                                         participantGroup += ' (as ' + players[entry.id] + ')';
@@ -28,6 +36,10 @@
                                     $('#statistics_ragl_' + pastSeasonRef).html($('<a>').attr('href', 'standings.html?season=' + pastSeasonRef + '#' + divisionTitle.replace(' ', '')).text(participantGroup));
                                 }
                             });
+                            if (wonTotal + lostTotal > 0) {
+                                var percentage = Math.round(100 * wonTotal / (wonTotal + lostTotal));
+                                $('#statistics_ragl_won_lost').text('Won ' + wonTotal + ' / Lost ' + lostTotal + ' (' + percentage + '%)');
+                            }
                         });
                     });
                 }
@@ -102,6 +114,7 @@
                 <tr><th>Highest Percentile</th><td id="statistics_highestpercentile"></td></tr>
                 <tr><th>Highest Rating</th><td id="statistics_highestrating"></td></tr>
                 <tr><th>RAGL Participation</th><td id="statistics_ragl"></td></tr>
+                <tr><th>RAGL Won / Lost</th><td id="statistics_ragl_won_lost"></td></tr>
             </table>
             <br />
             <table id="results">
