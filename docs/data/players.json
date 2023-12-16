@@ -1,628 +1,4398 @@
 {
-    "-56": "h34vy",
-    "-55": "Julie",
-    "-54": "kthxbye",
-    "-53": "Hello22",
-    "-52": "Jackie",
-    "-51": "LeugensVB",
-    "-50": "Streteeg",
-    "-49": "Germany",
-    "-48": "Karina",
-    "-47": "Chaosgrunt22",
-    "-46": "Ikke",
-    "-45": "Nukin'",
-    "-44": "Fruttielicious",
-    "-43": "beuk",
-    "-42": "jjkramok",
-    "-41": "Dualwarhead",
-    "-40": "Odourless",
-    "-39": "merimursu",
-    "-38": "Julle",
-    "-37": "Submarine",
-    "-36": "MrZuerg",
-    "-35": "LaKulta",
-    "-34": "crash_dash",
-    "-33": "Kallen",
-    "-32": "fittsaft",
-    "-31": "Petit Dejeuner",
-    "-30": "Follicle",
-    "-29": "ConcaveCats",
-    "-28": "ass_pounder_4000",
-    "-27": "Digital Jihad",
-    "-26": "Chin0",
-    "-25": "Bamsi",
-    "-24": "Lord of War",
-    "-23": "Snufflegrunt",
-    "-22": "SeaCucumber",
-    "-21": "Barxx",
-    "-20": "Ohmk Torque",
-    "-19": "Mentats",
-    "-18": "Balloon",
-    "-17": "BlueJay",
-    "-16": "Mint Spokesman",
-    "-15": "Fundahl",
-    "-14": "bone|superr0x",
-    "-13": "FasTSlacK",
-    "-12": "Snake",
-    "-11": "Insomnic",
-    "-10": "Strelkov",
-    "-9": "Kuba",
-    "-8": "Strateeg",
-    "-7": "General",
-    "-6": "MicroBit",
-    "-5": "Fenix",
-    "-4": "Flecken",
-    "-3": "Testosterone Rex",
-    "-2": "t",
-    "-1": "jreed",
-    "235": "Daz",
-    "2196": "chrisf",
-    "2321": "hamb",
-    "2333": "jaymanxyz",
-    "2580": "KOYK_GR",
-    "2793": "SoScared",
-    "2900": "squidgeny",
-    "2982": "donb",
-    "3214": "klaas",
-    "3534": "Beef",
-    "3642": "AmericanBlunt_",
-    "3717": "Green Giant",
-    "3812": "abcdefg30",
-    "3817": "fris",
-    "3952": "anjew",
-    "3958": "Murto the Ray",
-    "4037": "noobmapmaker",
-    "4038": "zoidyberg",
-    "4155": "Declan",
-    "4175": "yellow (theRaffy)",
-    "4267": "kyrylo",
-    "4372": "raymundo",
-    "4527": "FiveAces",
-    "5292": "Mo",
-    "5301": "weeman",
-    "5463": "4mfie",
-    "5512": "Spy",
-    "5661": "Polaris",
-    "6010": "GoldenHippo",
-    "6016": "Fahrrad",
-    "6026": "Gatekeeper",
-    "6056": "Greasyudders",
-    "6124": "Aaron_Lloyd",
-    "6211": "lucassss",
-    "6231": "shpooky",
-    "6251": "Major Kusanagi Motoko",
-    "6265": "Zaqzorn",
-    "6270": "Aggr3ss1vePanda",
-    "6288": "SirCake",
-    "6316": "Han",
-    "6318": "OzzyOuzo",
-    "6336": "xy",
-    "6355": "KillaB",
-    "6386": "IronScion",
-    "6390": "Jamesasthenia",
-    "6410": "Medium Tank",
-    "6415": "Henry_the_Slav",
-    "6430": "Blackened",
-    "6446": "Wippie",
-    "6470": "flamewh33l",
-    "6483": "FRenzy",
-    "6487": "doggo the pupper",
-    "6504": "JuiceBox",
-    "6528": "kazu.",
-    "6534": "AMHOL",
-    "6586": "Smitty",
-    "6608": "OMnom",
-    "6613": "Klumpat",
-    "6621": "Doomsday",
-    "6625": "Raishiwi",
-    "6646": "Lorrydriver",
-    "6664": "GDave",
-    "6665": "3.Lucian",
-    "6680": "Clockwork",
-    "6685": "crlf",
-    "6695": "eskimo",
-    "6705": "BigSmoke",
-    "6723": "WhoCares",
-    "6730": "camundahl",
-    "6740": "DrLuke",
-    "6748": "Orb",
-    "6750": "Karthus",
-    "6751": "Tailix Killa Mentor",
-    "6757": "mechANIC",
-    "6766": "ZxGanon",
-    "6771": "Mr Cloudy",
-    "6776": "corrode",
-    "6786": "DomoTheRussian",
-    "6790": "barf_openra",
-    "6792": "Printer",
-    "6793": "maceman",
-    "6812": "jvk",
-    "6816": "Gamma",
-    "6822": "Anykeyich",
-    "6832": "Sotsch",
-    "6852": "NethIafin",
-    "6855": "Borgmo",
-    "6856": "netnazgul",
-    "6859": "Chewey",
-    "6861": "potato",
-    "6865": ".1",
-    "6880": "manu200",
-    "6881": "spetsnaz84",
-    "6883": "Craig Christ",
-    "6891": "DaolDnaKcol",
-    "6896": "bullE",
-    "6922": "ThunderStruck115",
-    "6938": "WaRRyKeR",
-    "6941": "Jur",
-    "6974": "lundiz",
-    "7021": "N/a",
-    "7031": "Naigel",
-    "7212": "Hermann G'",
-    "7223": "Punsho",
-    "7226": "Super_Newbie",
-    "7229": "dragunoff",
-    "7234": "b\u00b5g",
-    "7254": "60Hertz",
-    "7265": "givepeasachance",
-    "7295": "Antares",
-    "7299": "Kernel Panic",
-    "7304": "Upps",
-    "7313": "lonestar",
-    "7344": "Icesinithol",
-    "7387": "TTTPPP",
-    "7392": "Richter_Alexander",
-    "7404": "Dualwarhead",
-    "7427": "Xahid",
-    "7433": "ShitStormTrooper",
-    "7472": "Abarrat",
-    "7478": "PeterRusselClarke",
-    "7495": "pir0-",
-    "7498": "Socan",
-    "7512": "Comrat",
-    "7514": "alex1984",
-    "7527": "McAfee",
-    "7568": "Timber",
-    "7571": "kalessin",
-    "7591": "manta151",
-    "7617": "worldpeace",
-    "7644": "KSK_Nico",
-    "7653": "kwibus",
-    "7687": "DoDoCat",
-    "7696": "Metalcallous",
-    "7714": "Nilhall",
-    "7785": "Lazarus",
-    "7787": "porcukor",
-    "7813": "TiTo",
-    "7954": "stoutfire",
-    "8031": "SarahSicaria",
-    "8152": "_Bo",
-    "8255": "Teew",
-    "8269": "SlickSloth",
-    "8419": "snotty otty",
-    "8464": "Serum",
-    "8494": "Widow",
-    "8591": "Casib",
-    "8620": "DaniwA",
-    "8769": "Dying Fetus",
-    "8790": "Yara",
-    "8797": "malboo",
-    "8860": "ROCKhardFISTnips",
-    "8869": "Sigil",
-    "8894": "PieChild",
-    "8943": "maeshi",
-    "9080": "niklaskb",
-    "9156": "toiletbreakbrb",
-    "9157": "Kingster",
-    "9159": "MegaTank",
-    "9175": "piraengu",
-    "9249": "DodoBirb",
-    "9283": "layer",
-    "9342": "JackoDerp",
-    "9438": "wismar007",
-    "9453": "Snizzle",
-    "9465": "bobbyd",
-    "9473": "Antarctica",
-    "9506": "Misery",
-    "9558": "sup",
-    "9599": "goat",
-    "9650": "Ore Gasm",
-    "9764": "disruptor",
-    "9800": "Mees",
-    "9865": "igorbushko",
-    "9877": "SinJul",
-    "9965": "ioverthoughtthis",
-    "9984": "jungle",
-    "9989": "Biomecaman",
-    "10220": "Michigan",
-    "10237": "hmma",
-    "10262": "Oaked.ru",
-    "10277": "Mammoth Silo",
-    "10286": "WillVaz",
-    "10428": "daniel40392",
-    "10468": "willsonwillson",
-    "10501": "9H0DxF",
-    "10509": "APOLKA",
-    "10549": "Azure Anemone",
-    "10569": "vvoj",
-    "10588": "JustSomeGuy",
-    "10747": "morkel",
-    "10751": "Zimmer",
-    "10755": "TermX",
-    "10757": "i like men",
-    "10801": "xiaoRen",
-    "10862": "f0rk",
-    "11099": "Dodder",
-    "11188": "M0nk3Ee",
-    "11362": "pgrwoo",
-    "11435": "Goremented",
-    "11442": "Eugenator",
-    "11584": "Card Ninja",
-    "11654": "Gtrizzle",
-    "11705": "Pinkthoth",
-    "11729": "matts_mum",
-    "11782": "Bibodo",
-    "11835": "WTF",
-    "11855": "Kaution",
-    "11861": "akpella",
-    "11869": "danorq",
-    "11913": "Duke Bones",
-    "11917": "jkalmar",
-    "11979": "blood",
-    "12022": "Rossie",
-    "12051": "sfk",
-    "12090": "JoanotColom",
-    "12160": "y2\u200e",
-    "12163": "MOLLMANIA",
-    "12261": "DVoid",
-    "12273": "luckyluke",
-    "12283": "dang_shot",
-    "12323": "vcxz09876",
-    "12325": "maths",
-    "12399": "General Zico",
-    "12444": "biasao",
-    "12494": "akaudio",
-    "12501": "TasteOfIndia",
-    "12517": "LukaMile",
-    "12526": "\u0418\u03b1\u03b9g\u03b5l",
-    "12654": "Therapist",
-    "12760": "MASTER",
-    "12790": "quarksplitter",
-    "12835": "Memnon",
-    "12877": "Cymbal",
-    "12892": "poop",
-    "12927": "CottonTheButton",
-    "12930": "Phoenician",
-    "12957": "J!NX",
-    "12961": "wildwasserpommes",
-    "12964": "Oafa",
-    "12997": "Mr_Biro",
-    "13008": "OpiumPrime",
-    "13011": "LaRoux",
-    "13039": "iljaco",
-    "13060": "PallyRoy",
-    "13077": "Tuborgnamozgu",
-    "13086": "RobLoweEscobar",
-    "13090": "NumericPad",
-    "13096": "MR C",
-    "13101": "Tomminho",
-    "13169": "Kalma",
-    "13174": "avro",
-    "13179": "SunTzu",
-    "13191": "Dassault",
-    "13200": "At0mic",
-    "13217": "Minsk (Noob)",
-    "13218": "Traveler",
-    "13258": "copla201",
-    "13378": "R.Sarah.L",
-    "13512": "Drixiart",
-    "13518": "Sneeky-Bandit",
-    "13532": "Monmarco",
-    "13559": "johnnyboy",
-    "13574": "paganini",
-    "13578": "HAMBONE",
-    "13612": "zipp0",
-    "13635": "flaker",
-    "13660": "Eleiko",
-    "13674": "shavkat",
-    "13679": "Amit",
-    "13702": "Enderman6389",
-    "13704": "Beebz",
-    "13705": "Kav",
-    "13708": "nvrnight",
-    "13710": "Ekanim",
-    "13730": "guigz",
-    "13734": "McGriff",
-    "13750": "Freki",
-    "13753": "gargraval",
-    "13763": "std::nullptr_t",
-    "13822": "ISeeMangos",
-    "13850": "Dr. Schmock",
-    "13872": "x3oo",
-    "13873": "8.9",
-    "13884": "Ballistic",
-    "13920": "Katzenbaby",
-    "13943": "gokserg",
-    "13962": "noniXXnarreZZ",
-    "13964": "alex italy",
-    "13969": "zDig",
-    "13971": "skarockoi",
-    "13987": "Commander YZ",
-    "13994": "jirik",
-    "14008": "porenut",
-    "14021": "hexagon",
-    "14070": "chaircollector",
-    "14099": "Zhall",
-    "14105": "Handel",
-    "14115": "Parsely",
-    "14146": "Underware",
-    "14149": "alden_the_23rd",
-    "14174": "\u20ac5,-",
-    "14216": "Death-Sentence",
-    "14229": "zx5",
-    "14232": "ZorN230",
-    "14276": "Fin",
-    "14285": "stereofield_",
-    "14296": "Commander_Konka",
-    "14297": "KlimaOpa",
-    "14328": "1997cui",
-    "14394": "Tommo_86",
-    "14453": "valdurs",
-    "14458": "Rimmel",
-    "14467": "Skillless",
-    "14472": "King Curtis",
-    "14473": "fragment",
-    "14490": "CatMan3e3",
-    "14508": "BigBadBain",
-    "14560": "Kasajohn",
-    "14578": "HeejinSon",
-    "14579": "LordMani",
-    "14596": "PrinzPi",
-    "14600": "Elon_musk",
-    "14601": "feelynx",
-    "14623": "Rusty",
-    "14626": "boncis",
-    "14627": "Sisna22",
-    "14631": "Chrono",
-    "14665": "boriken1171",
-    "14725": "asam",
-    "14726": "Stinky Silo",
-    "14731": "Daniel",
-    "14769": "chouchani",
-    "14834": "Bobuc\u0131\u2039",
-    "14894": "TheFitz",
-    "14934": "SquidwardWzRd",
-    "14938": "El_Duderino",
-    "14974": "Federico",
-    "15017": "Kalion",
-    "15021": "Onexygor",
-    "15047": "ActionMan",
-    "15057": "TommyHawkeye",
-    "15082": "wtigga",
-    "15120": "Pikica",
-    "15130": "neveragain",
-    "15155": "Dingo",
-    "15210": "morty",
-    "15211": "comunder",
-    "15248": "timl",
-    "15249": "Steffen123",
-    "15266": "cracksmoka420",
-    "15293": "NEGAN",
-    "15302": "SnidlWhutz",
-    "15305": "Cupko",
-    "15315": "Mad_Max",
-    "15316": "0x0",
-    "15361": "Orangenaffe42",
-    "15421": "Gajcus",
-    "15423": "Astolfo_Chan",
-    "15428": "bete",
-    "15445": "Batfire",
-    "15469": "not happy",
-    "15567": "s3kit0",
-    "15568": "Elmir",
-    "15584": "Spider",
-    "15639": "tompollon",
-    "15643": "Jonesthe1337",
-    "15652": "doppiogaming",
-    "15663": "Kadirhan",
-    "15678": "Kabuum",
-    "15679": "catNull",
-    "15893": "Muad'Dib",
-    "15899": "tux",
-    "15947": "MrTre",
-    "15981": "yur3i__",
-    "16003": "_wyrd_",
-    "16004": "xXDESTROYERXx",
-    "16028": "Koffiato",
-    "16029": "2dick1pussy",
-    "16066": "milkman",
-    "16080": "Bea5ty",
-    "16082": "Jameson495",
-    "16083": "Invade_Pulse",
-    "16086": "Norman2021",
-    "16089": "Cosmo",
-    "16175": "Hackepeter",
-    "16191": "Funske",
-    "16222": "despro",
-    "16256": "nbernhar",
-    "16264": "Silviu",
-    "16266": "ZippoHERE",
-    "16314": "Svedski",
-    "16316": "fabio",
-    "16318": "wangyanbin",
-    "16338": "Pvt_Leaf",
-    "16385": "Seth_II",
-    "16401": "Margot Honecker",
-    "16403": "Lepe",
-    "16434": "Murisama",
-    "16448": "Noobatron",
-    "16474": "Implies",
-    "16535": "Starforce",
-    "16539": "Frank3412",
-    "16548": "SovietArmy",
-    "16592": "maralm",
-    "16594": "Cliffan",
-    "16601": "UnknownSoldier",
-    "16630": "ludotaurus",
-    "16631": "oule",
-    "16643": "jkscorpion",
-    "16644": "calangorn1",
-    "16647": "peace4ever",
-    "16675": "kyshama",
-    "16677": "jawsh",
-    "16703": "Rush Al",
-    "16726": "Pouchy",
-    "16729": "Darkalex9",
-    "16731": "Karl Marx",
-    "16737": "blaze31",
-    "16744": "Tioh",
-    "16783": "Tim the Psycho Bot",
-    "16788": "muleyyyy",
-    "16795": "Luxemburg_",
-    "16804": "Dr.Grow",
-    "16809": "doohhhh",
-    "16810": "Techy",
-    "16814": "Gargamel",
-    "16889": "daswaseinbefel",
-    "16966": "XiaoMai",
-    "16967": "C3(Z)",
-    "16978": "Dr.DJ",
-    "16990": "openra_admin",
-    "17029": "Jake",
-    "17030": "Mar_2k6",
-    "17053": "realsloth",
-    "17106": "neen",
-    "17212": "1430Grandi",
-    "17239": "Fazzar",
-    "17267": "General Carl",
-    "17300": "wonky",
-    "17321": "gg.",
-    "17367": "whackpak",
-    "17380": "ilrat",
-    "17465": "tonfisk1337",
-    "17600": "zipex",
-    "17607": "BigHALK",
-    "17622": "ICLifeNPixels",
-    "17627": "Fixie Hartmann",
-    "17632": "jemoeder",
-    "17642": "radiohead",
-    "17645": "xaxl",
-    "17672": "annomy",
-    "17696": "Dr.Easy",
-    "17714": "peep",
-    "17730": "dabber2022",
-    "17756": "batica81",
-    "17757": "Mare",
-    "17762": "PacmanGraphics",
-    "17783": "doohhhhh",
-    "17793": "CarISweden",
-    "17794": "KushBuddy",
-    "17851": "Stillness",
-    "17907": "jeff",
-    "17946": "Chrisib\u00e4r",
-    "17988": "CommanderNoob",
-    "18017": "Docker_b_49",
-    "18037": ".gg",
-    "18051": "Lettuce",
-    "18052": "qazxcvqaz",
-    "18102": "AjejeBraso",
-    "18149": "bheleu",
-    "18150": "master zorak",
-    "18203": "catsby",
-    "18231": "ApatheiA",
-    "18246": "creo",
-    "18262": "Thule",
-    "18263": "Orcaz",
-    "18272": "echkourine25",
-    "18280": "pMalone",
-    "18282": "Slyjournz",
-    "18283": "TheodoxIV",
-    "18284": "psykotekIV",
-    "18299": "Tunefish",
-    "18301": "CyborgMeatPuppet",
-    "18317": "qmkadz",
-    "18318": "Vivin",
-    "18359": "goldie",
-    "18376": "momo84",
-    "18404": "tea_bag",
-    "18408": "rovation",
-    "18417": "808MANN",
-    "18431": "MJI",
-    "18437": "ivan_ivanov_2007",
-    "18445": "AvAlanche",
-    "18480": "WhatEverMan",
-    "18522": "Tazding0",
-    "18537": "Spud",
-    "18562": "pepe the frog",
-    "18563": "Piwor",
-    "18571": "LongNine",
-    "18589": "muttilein",
-    "18620": "Ne0n",
-    "18646": "realpeep",
-    "18672": "fIr3fOx_",
-    "18693": "Panek",
-    "18724": "rolikoviekonki",
-    "18732": "Logos Vindex",
-    "18733": "T-Dogg",
-    "18751": "quaXe",
-    "18778": "gunit",
-    "18779": "eX3c",
-    "18794": "Lukewarm Placenta",
-    "18797": "Longlong",
-    "18803": "nbaglietto",
-    "18804": "RoboCody",
-    "18810": "Mav",
-    "18864": "fiwo",
-    "18892": "Aegidius",
-    "18910": "TastySausage",
-    "18911": "MaksimGrabko",
-    "18917": "Galaxis",
-    "18925": "danejohno",
-    "18926": "Ginge",
-    "18931": "RArev.64",
-    "18934": "BussyBoy",
-    "18935": "InspectorOfNests",
-    "18941": "C4Huevos",
-    "18947": "mitestone",
-    "18968": "Nightingale",
-    "18979": "Rocket105",
-    "18987": "Lasol",
-    "18989": "s\u00e4\u00e4mies1",
-    "18993": "Talidan",
-    "19024": "xfnty",
-    "19076": "pillbox",
-    "19109": "NixPlayer",
-    "19133": "jediandrew",
-    "19177": "kaspersky",
-    "19178": "BaTbKa777",
-    "19209": "Medium Silo",
-    "19219": "Time",
-    "19241": "yyfyyf",
-    "19296": "lambda madness",
-    "19305": "sir123",
-    "19317": "Comando",
-    "19376": "-Y_a_M_y-",
-    "19453": "Leader of Vodka",
-    "19454": "random_player",
-    "19457": "Jacomo",
-    "19461": "0121WinnerGang",
-    "19474": "OGAtomic",
-    "19494": "Mirror2999",
-    "19523": "Ankram",
-    "19553": "cpb",
-    "19557": "CRYPIC@1",
-    "19597": "nordikki",
-    "19612": "djarum",
-    "19618": "kevinnnn",
-    "19619": "anvandaren",
-    "19620": "mertpinkman",
-    "19622": "sloppyy",
-    "19623": "Form",
-    "19654": "Easy Dude !!!",
-    "19661": "MrVegan1",
-    "19662": "FieldRebel",
-    "19728": "vgy",
-    "19771": "itsrob",
-    "19776": "Klm",
-    "19810": "ConscriptZor",
-    "19811": "Mr.Bombarino"
+    "-56": {
+        "name": "h34vy",
+        "ragl": {
+            "7": {
+                "p": 2,
+                "w": 0
+            }
+        }
+    },
+    "-55": {
+        "name": "Julie"
+    },
+    "-54": {
+        "name": "kthxbye"
+    },
+    "-53": {
+        "name": "Hello22"
+    },
+    "-52": {
+        "name": "Jackie"
+    },
+    "-51": {
+        "name": "LeugensVB"
+    },
+    "-50": {
+        "name": "Streteeg"
+    },
+    "-49": {
+        "name": "Germany"
+    },
+    "-48": {
+        "name": "Karina",
+        "ragl": {
+            "5": {
+                "p": 7,
+                "w": 0
+            }
+        }
+    },
+    "-47": {
+        "name": "Chaosgrunt22",
+        "ragl": {
+            "8": {
+                "p": 12,
+                "w": 2
+            }
+        }
+    },
+    "-46": {
+        "name": "Ikke"
+    },
+    "-45": {
+        "name": "Nukin'",
+        "ragl": {
+            "7": {
+                "p": 14,
+                "w": 2
+            }
+        }
+    },
+    "-44": {
+        "name": "Fruttielicious",
+        "ragl": {
+            "7": {
+                "p": 14,
+                "w": 5
+            }
+        }
+    },
+    "-43": {
+        "name": "beuk",
+        "ragl": {
+            "6": {
+                "p": 22,
+                "w": 6
+            },
+            "7": {
+                "p": 4,
+                "w": 0
+            }
+        }
+    },
+    "-42": {
+        "name": "jjkramok",
+        "ragl": {
+            "6": {
+                "p": 20,
+                "w": 11
+            },
+            "7": {
+                "p": 24,
+                "w": 3
+            }
+        }
+    },
+    "-41": {
+        "name": "Dualwarhead",
+        "ragl": {
+            "6": {
+                "p": 24,
+                "w": 14
+            },
+            "8": {
+                "p": 17,
+                "w": 14
+            }
+        }
+    },
+    "-40": {
+        "name": "Odourless",
+        "ragl": {
+            "6": {
+                "p": 7,
+                "w": 4
+            }
+        }
+    },
+    "-39": {
+        "name": "merimursu",
+        "ragl": {
+            "6": {
+                "p": 24,
+                "w": 6
+            }
+        }
+    },
+    "-38": {
+        "name": "Julle",
+        "ragl": {
+            "6": {
+                "p": 4,
+                "w": 0
+            }
+        }
+    },
+    "-37": {
+        "name": "Submarine",
+        "ragl": {
+            "5": {
+                "p": 4,
+                "w": 0
+            }
+        }
+    },
+    "-36": {
+        "name": "MrZuerg",
+        "ragl": {
+            "5": {
+                "p": 4,
+                "w": 0
+            }
+        }
+    },
+    "-35": {
+        "name": "LaKulta",
+        "ragl": {
+            "5": {
+                "p": 10,
+                "w": 3
+            }
+        }
+    },
+    "-34": {
+        "name": "crash_dash",
+        "ragl": {
+            "5": {
+                "p": 6,
+                "w": 2
+            }
+        }
+    },
+    "-33": {
+        "name": "Kallen",
+        "ragl": {
+            "4": {
+                "p": 4,
+                "w": 2
+            }
+        }
+    },
+    "-32": {
+        "name": "fittsaft",
+        "ragl": {
+            "4": {
+                "p": 1,
+                "w": 0
+            }
+        }
+    },
+    "-31": {
+        "name": "Petit Dejeuner",
+        "ragl": {
+            "4": {
+                "p": 6,
+                "w": 0
+            }
+        }
+    },
+    "-30": {
+        "name": "Follicle",
+        "ragl": {
+            "4": {
+                "p": 6,
+                "w": 0
+            }
+        }
+    },
+    "-29": {
+        "name": "ConcaveCats",
+        "ragl": {
+            "4": {
+                "p": 14,
+                "w": 0
+            }
+        }
+    },
+    "-28": {
+        "name": "ass_pounder_4000",
+        "ragl": {
+            "4": {
+                "p": 18,
+                "w": 4
+            }
+        }
+    },
+    "-27": {
+        "name": "Digital Jihad",
+        "ragl": {
+            "4": {
+                "p": 10,
+                "w": 7
+            },
+            "5": {
+                "p": 8,
+                "w": 7
+            }
+        }
+    },
+    "-26": {
+        "name": "Chin0",
+        "ragl": {
+            "4": {
+                "p": 6,
+                "w": 3
+            }
+        }
+    },
+    "-25": {
+        "name": "Bamsi",
+        "ragl": {
+            "4": {
+                "p": 16,
+                "w": 8
+            }
+        }
+    },
+    "-24": {
+        "name": "Lord of War",
+        "ragl": {
+            "4": {
+                "p": 18,
+                "w": 11
+            }
+        }
+    },
+    "-23": {
+        "name": "Snufflegrunt",
+        "ragl": {
+            "4": {
+                "p": 16,
+                "w": 0
+            }
+        }
+    },
+    "-22": {
+        "name": "SeaCucumber",
+        "ragl": {
+            "4": {
+                "p": 12,
+                "w": 9
+            }
+        }
+    },
+    "-21": {
+        "name": "Barxx",
+        "ragl": {
+            "3": {
+                "p": 2,
+                "w": 0
+            }
+        }
+    },
+    "-20": {
+        "name": "Ohmk Torque",
+        "ragl": {
+            "3": {
+                "p": 19,
+                "w": 6
+            }
+        }
+    },
+    "-19": {
+        "name": "Mentats",
+        "ragl": {
+            "3": {
+                "p": 12,
+                "w": 9
+            },
+            "4": {
+                "p": 20,
+                "w": 9
+            }
+        }
+    },
+    "-18": {
+        "name": "Balloon",
+        "ragl": {
+            "3": {
+                "p": 18,
+                "w": 3
+            }
+        }
+    },
+    "-17": {
+        "name": "BlueJay",
+        "ragl": {
+            "3": {
+                "p": 6,
+                "w": 2
+            }
+        }
+    },
+    "-16": {
+        "name": "Mint Spokesman",
+        "ragl": {
+            "3": {
+                "p": 19,
+                "w": 5
+            }
+        }
+    },
+    "-15": {
+        "name": "Fundahl",
+        "ragl": {
+            "2": {
+                "p": 2,
+                "w": 0
+            }
+        }
+    },
+    "-14": {
+        "name": "bone|superr0x",
+        "ragl": {
+            "2": {
+                "p": 6,
+                "w": 0
+            }
+        }
+    },
+    "-13": {
+        "name": "FasTSlacK",
+        "ragl": {
+            "2": {
+                "p": 10,
+                "w": 0
+            }
+        }
+    },
+    "-12": {
+        "name": "Snake",
+        "ragl": {
+            "2": {
+                "p": 9,
+                "w": 0
+            }
+        }
+    },
+    "-11": {
+        "name": "Insomnic",
+        "ragl": {
+            "2": {
+                "p": 4,
+                "w": 2
+            }
+        }
+    },
+    "-10": {
+        "name": "Strelkov",
+        "ragl": {
+            "2": {
+                "p": 14,
+                "w": 5
+            }
+        }
+    },
+    "-9": {
+        "name": "Kuba",
+        "ragl": {
+            "2": {
+                "p": 16,
+                "w": 7
+            },
+            "3": {
+                "p": 14,
+                "w": 1
+            },
+            "4": {
+                "p": 20,
+                "w": 1
+            }
+        }
+    },
+    "-8": {
+        "name": "Strateeg",
+        "ragl": {
+            "2": {
+                "p": 8,
+                "w": 0
+            }
+        }
+    },
+    "-7": {
+        "name": "General",
+        "ragl": {
+            "1": {
+                "p": 14,
+                "w": 0
+            }
+        }
+    },
+    "-6": {
+        "name": "MicroBit",
+        "ragl": {
+            "1": {
+                "p": 8,
+                "w": 4
+            },
+            "2": {
+                "p": 13,
+                "w": 9
+            }
+        }
+    },
+    "-5": {
+        "name": "Fenix",
+        "ragl": {
+            "1": {
+                "p": 16,
+                "w": 7
+            }
+        }
+    },
+    "-4": {
+        "name": "Flecken",
+        "ragl": {
+            "1": {
+                "p": 18,
+                "w": 11
+            }
+        }
+    },
+    "-3": {
+        "name": "Testosterone Rex",
+        "ragl": {
+            "1": {
+                "p": 20,
+                "w": 9
+            },
+            "2": {
+                "p": 18,
+                "w": 2
+            },
+            "3": {
+                "p": 6,
+                "w": 0
+            }
+        }
+    },
+    "-2": {
+        "name": "t",
+        "ragl": {
+            "1": {
+                "p": 16,
+                "w": 10
+            },
+            "2": {
+                "p": 15,
+                "w": 7
+            },
+            "3": {
+                "p": 16,
+                "w": 6
+            },
+            "4": {
+                "p": 18,
+                "w": 7
+            }
+        }
+    },
+    "-1": {
+        "name": "jreed",
+        "ragl": {
+            "1": {
+                "p": 12,
+                "w": 8
+            }
+        }
+    },
+    "235": {
+        "name": "Daz",
+        "ragl": {
+            "1": {
+                "p": 18,
+                "w": 6
+            }
+        }
+    },
+    "2196": {
+        "name": "chrisf",
+        "ragl": {
+            "2": {
+                "p": 10,
+                "w": 0
+            },
+            "3": {
+                "p": 2,
+                "w": 0
+            },
+            "4": {
+                "p": 6,
+                "w": 0
+            }
+        }
+    },
+    "2321": {
+        "name": "hamb",
+        "ragl": {
+            "1": {
+                "p": 22,
+                "w": 12
+            },
+            "2": {
+                "p": 8,
+                "w": 0
+            },
+            "8": {
+                "p": 18,
+                "w": 1
+            }
+        }
+    },
+    "2333": {
+        "name": "jaymanxyz",
+        "ragl": {
+            "1": {
+                "p": 16,
+                "w": 3
+            },
+            "2": {
+                "p": 16,
+                "w": 3
+            }
+        }
+    },
+    "2580": {
+        "name": "KOYK_GR",
+        "ragl": {
+            "10": {
+                "p": 6,
+                "w": 1
+            },
+            "4": {
+                "p": 12,
+                "w": 7
+            }
+        }
+    },
+    "2793": {
+        "name": "SoScared",
+        "ragl": {
+            "1": {
+                "p": 20,
+                "w": 18
+            },
+            "2": {
+                "p": 18,
+                "w": 6
+            },
+            "4": {
+                "p": 27,
+                "w": 15
+            }
+        }
+    },
+    "2900": {
+        "name": "squidgeny",
+        "ragl": {
+            "7": {
+                "p": 18,
+                "w": 0
+            }
+        }
+    },
+    "2982": {
+        "name": "donb"
+    },
+    "3214": {
+        "name": "klaas",
+        "ragl": {
+            "1": {
+                "p": 12,
+                "w": 4
+            },
+            "2": {
+                "p": 18,
+                "w": 10
+            },
+            "3": {
+                "p": 14,
+                "w": 6
+            }
+        }
+    },
+    "3534": {
+        "name": "Beef",
+        "ragl": {
+            "4": {
+                "p": 8,
+                "w": 0
+            }
+        }
+    },
+    "3642": {
+        "name": "AmericanBlunt_",
+        "ragl": {
+            "1": {
+                "p": 6,
+                "w": 1
+            },
+            "2": {
+                "p": 2,
+                "w": 0
+            }
+        }
+    },
+    "3717": {
+        "name": "Green Giant"
+    },
+    "3812": {
+        "name": "abcdefg30",
+        "ragl": {
+            "1": {
+                "p": 20,
+                "w": 17
+            },
+            "2": {
+                "p": 17,
+                "w": 6
+            },
+            "3": {
+                "p": 18,
+                "w": 5
+            },
+            "4": {
+                "p": 10,
+                "w": 0
+            }
+        }
+    },
+    "3817": {
+        "name": "fris",
+        "ragl": {
+            "7": {
+                "p": 17,
+                "w": 11
+            },
+            "8": {
+                "p": 20,
+                "w": 10
+            }
+        }
+    },
+    "3952": {
+        "name": "anjew",
+        "ragl": {
+            "1": {
+                "p": 12,
+                "w": 1
+            },
+            "10": {
+                "p": 24,
+                "w": 10
+            },
+            "11": {
+                "p": 20,
+                "w": 6
+            },
+            "12": {
+                "p": 19,
+                "w": 7
+            },
+            "13": {
+                "p": 16,
+                "w": 4
+            },
+            "14": {
+                "p": 18,
+                "w": 6
+            },
+            "15": {
+                "p": 20,
+                "w": 9
+            },
+            "2": {
+                "p": 18,
+                "w": 4
+            },
+            "3": {
+                "p": 13,
+                "w": 5
+            },
+            "4": {
+                "p": 18,
+                "w": 5
+            },
+            "5": {
+                "p": 12,
+                "w": 2
+            },
+            "6": {
+                "p": 21,
+                "w": 12
+            },
+            "7": {
+                "p": 20,
+                "w": 9
+            },
+            "8": {
+                "p": 14,
+                "w": 8
+            },
+            "9": {
+                "p": 22,
+                "w": 6
+            }
+        }
+    },
+    "3958": {
+        "name": "Murto the Ray",
+        "ragl": {
+            "1": {
+                "p": 15,
+                "w": 11
+            }
+        }
+    },
+    "4037": {
+        "name": "noobmapmaker",
+        "ragl": {
+            "1": {
+                "p": 21,
+                "w": 8
+            },
+            "2": {
+                "p": 12,
+                "w": 5
+            },
+            "3": {
+                "p": 18,
+                "w": 6
+            },
+            "4": {
+                "p": 18,
+                "w": 6
+            }
+        }
+    },
+    "4038": {
+        "name": "zoidyberg",
+        "ragl": {
+            "1": {
+                "p": 2,
+                "w": 0
+            }
+        }
+    },
+    "4155": {
+        "name": "Declan",
+        "ragl": {
+            "1": {
+                "p": 8,
+                "w": 3
+            }
+        }
+    },
+    "4175": {
+        "name": "yellow (theRaffy)"
+    },
+    "4267": {
+        "name": "kyrylo",
+        "ragl": {
+            "1": {
+                "p": 7,
+                "w": 5
+            },
+            "2": {
+                "p": 5,
+                "w": 5
+            }
+        }
+    },
+    "4372": {
+        "name": "raymundo",
+        "ragl": {
+            "2": {
+                "p": 17,
+                "w": 8
+            },
+            "3": {
+                "p": 6,
+                "w": 0
+            }
+        }
+    },
+    "4527": {
+        "name": "FiveAces",
+        "ragl": {
+            "1": {
+                "p": 16,
+                "w": 13
+            },
+            "10": {
+                "p": 14,
+                "w": 2
+            },
+            "11": {
+                "p": 20,
+                "w": 3
+            },
+            "12": {
+                "p": 18,
+                "w": 4
+            },
+            "2": {
+                "p": 16,
+                "w": 13
+            },
+            "3": {
+                "p": 17,
+                "w": 5
+            },
+            "4": {
+                "p": 19,
+                "w": 13
+            },
+            "5": {
+                "p": 12,
+                "w": 5
+            },
+            "6": {
+                "p": 31,
+                "w": 16
+            },
+            "7": {
+                "p": 22,
+                "w": 12
+            },
+            "8": {
+                "p": 24,
+                "w": 12
+            },
+            "9": {
+                "p": 26,
+                "w": 6
+            }
+        }
+    },
+    "5292": {
+        "name": "Mo",
+        "ragl": {
+            "10": {
+                "p": 16,
+                "w": 11
+            },
+            "11": {
+                "p": 15,
+                "w": 8
+            },
+            "12": {
+                "p": 20,
+                "w": 12
+            },
+            "13": {
+                "p": 24,
+                "w": 18
+            },
+            "14": {
+                "p": 18,
+                "w": 5
+            },
+            "15": {
+                "p": 18,
+                "w": 3
+            },
+            "7": {
+                "p": 20,
+                "w": 14
+            },
+            "8": {
+                "p": 18,
+                "w": 6
+            },
+            "9": {
+                "p": 23,
+                "w": 3
+            }
+        }
+    },
+    "5301": {
+        "name": "weeman",
+        "ragl": {
+            "2": {
+                "p": 16,
+                "w": 14
+            },
+            "3": {
+                "p": 5,
+                "w": 4
+            }
+        }
+    },
+    "5463": {
+        "name": "4mfie"
+    },
+    "5512": {
+        "name": "Spy",
+        "ragl": {
+            "1": {
+                "p": 4,
+                "w": 0
+            }
+        }
+    },
+    "5661": {
+        "name": "Polaris",
+        "ragl": {
+            "5": {
+                "p": 11,
+                "w": 9
+            }
+        }
+    },
+    "6010": {
+        "name": "GoldenHippo",
+        "ragl": {
+            "1": {
+                "p": 14,
+                "w": 7
+            }
+        }
+    },
+    "6016": {
+        "name": "Fahrrad",
+        "ragl": {
+            "1": {
+                "p": 22,
+                "w": 7
+            },
+            "2": {
+                "p": 14,
+                "w": 2
+            },
+            "3": {
+                "p": 19,
+                "w": 0
+            },
+            "5": {
+                "p": 6,
+                "w": 2
+            },
+            "8": {
+                "p": 18,
+                "w": 5
+            }
+        }
+    },
+    "6026": {
+        "name": "Gatekeeper",
+        "ragl": {
+            "1": {
+                "p": 16,
+                "w": 9
+            },
+            "2": {
+                "p": 18,
+                "w": 11
+            },
+            "3": {
+                "p": 16,
+                "w": 13
+            },
+            "4": {
+                "p": 26,
+                "w": 14
+            },
+            "5": {
+                "p": 14,
+                "w": 5
+            }
+        }
+    },
+    "6056": {
+        "name": "Greasyudders",
+        "ragl": {
+            "1": {
+                "p": 14,
+                "w": 5
+            }
+        }
+    },
+    "6124": {
+        "name": "Aaron_Lloyd",
+        "ragl": {
+            "1": {
+                "p": 12,
+                "w": 4
+            }
+        }
+    },
+    "6211": {
+        "name": "lucassss",
+        "ragl": {
+            "2": {
+                "p": 12,
+                "w": 5
+            },
+            "3": {
+                "p": 20,
+                "w": 9
+            },
+            "4": {
+                "p": 16,
+                "w": 5
+            }
+        }
+    },
+    "6231": {
+        "name": "shpooky",
+        "ragl": {
+            "4": {
+                "p": 2,
+                "w": 2
+            }
+        }
+    },
+    "6251": {
+        "name": "Major Kusanagi Motoko"
+    },
+    "6265": {
+        "name": "Zaqzorn",
+        "ragl": {
+            "2": {
+                "p": 16,
+                "w": 11
+            },
+            "3": {
+                "p": 6,
+                "w": 4
+            },
+            "4": {
+                "p": 7,
+                "w": 2
+            },
+            "6": {
+                "p": 20,
+                "w": 10
+            },
+            "7": {
+                "p": 16,
+                "w": 11
+            },
+            "8": {
+                "p": 14,
+                "w": 0
+            },
+            "9": {
+                "p": 16,
+                "w": 4
+            }
+        }
+    },
+    "6270": {
+        "name": "Aggr3ss1vePanda",
+        "ragl": {
+            "5": {
+                "p": 2,
+                "w": 2
+            }
+        }
+    },
+    "6288": {
+        "name": "SirCake",
+        "ragl": {
+            "2": {
+                "p": 22,
+                "w": 14
+            },
+            "3": {
+                "p": 20,
+                "w": 13
+            },
+            "4": {
+                "p": 17,
+                "w": 1
+            },
+            "6": {
+                "p": 22,
+                "w": 7
+            },
+            "7": {
+                "p": 14,
+                "w": 5
+            }
+        }
+    },
+    "6316": {
+        "name": "Han",
+        "ragl": {
+            "1": {
+                "p": 14,
+                "w": 9
+            },
+            "2": {
+                "p": 22,
+                "w": 15
+            },
+            "3": {
+                "p": 16,
+                "w": 9
+            },
+            "4": {
+                "p": 8,
+                "w": 1
+            }
+        }
+    },
+    "6318": {
+        "name": "OzzyOuzo",
+        "ragl": {
+            "1": {
+                "p": 16,
+                "w": 15
+            },
+            "2": {
+                "p": 14,
+                "w": 11
+            },
+            "3": {
+                "p": 2,
+                "w": 0
+            }
+        }
+    },
+    "6336": {
+        "name": "xy",
+        "ragl": {
+            "4": {
+                "p": 12,
+                "w": 6
+            }
+        }
+    },
+    "6355": {
+        "name": "KillaB",
+        "ragl": {
+            "1": {
+                "p": 4,
+                "w": 0
+            }
+        }
+    },
+    "6386": {
+        "name": "IronScion"
+    },
+    "6390": {
+        "name": "Jamesasthenia",
+        "ragl": {
+            "2": {
+                "p": 10,
+                "w": 4
+            }
+        }
+    },
+    "6410": {
+        "name": "Medium Tank",
+        "ragl": {
+            "1": {
+                "p": 10,
+                "w": 6
+            },
+            "2": {
+                "p": 18,
+                "w": 15
+            },
+            "3": {
+                "p": 6,
+                "w": 5
+            },
+            "4": {
+                "p": 6,
+                "w": 5
+            }
+        }
+    },
+    "6415": {
+        "name": "Henry_the_Slav",
+        "ragl": {
+            "1": {
+                "p": 16,
+                "w": 7
+            },
+            "2": {
+                "p": 2,
+                "w": 0
+            }
+        }
+    },
+    "6430": {
+        "name": "Blackened",
+        "ragl": {
+            "10": {
+                "p": 14,
+                "w": 7
+            },
+            "12": {
+                "p": 25,
+                "w": 16
+            },
+            "13": {
+                "p": 26,
+                "w": 20
+            },
+            "14": {
+                "p": 23,
+                "w": 16
+            },
+            "15": {
+                "p": 27,
+                "w": 18
+            },
+            "2": {
+                "p": 16,
+                "w": 12
+            },
+            "3": {
+                "p": 19,
+                "w": 9
+            },
+            "4": {
+                "p": 18,
+                "w": 4
+            },
+            "5": {
+                "p": 20,
+                "w": 13
+            },
+            "8": {
+                "p": 21,
+                "w": 16
+            }
+        }
+    },
+    "6446": {
+        "name": "Wippie",
+        "ragl": {
+            "3": {
+                "p": 20,
+                "w": 8
+            },
+            "4": {
+                "p": 10,
+                "w": 7
+            }
+        }
+    },
+    "6470": {
+        "name": "flamewh33l",
+        "ragl": {
+            "2": {
+                "p": 4,
+                "w": 0
+            },
+            "3": {
+                "p": 12,
+                "w": 2
+            },
+            "4": {
+                "p": 10,
+                "w": 0
+            }
+        }
+    },
+    "6483": {
+        "name": "FRenzy",
+        "ragl": {
+            "2": {
+                "p": 14,
+                "w": 12
+            }
+        }
+    },
+    "6487": {
+        "name": "doggo the pupper"
+    },
+    "6504": {
+        "name": "JuiceBox",
+        "ragl": {
+            "3": {
+                "p": 24,
+                "w": 20
+            }
+        }
+    },
+    "6528": {
+        "name": "kazu.",
+        "ragl": {
+            "1": {
+                "p": 17,
+                "w": 15
+            },
+            "2": {
+                "p": 10,
+                "w": 8
+            },
+            "4": {
+                "p": 38,
+                "w": 35
+            }
+        }
+    },
+    "6534": {
+        "name": "AMHOL"
+    },
+    "6586": {
+        "name": "Smitty",
+        "ragl": {
+            "2": {
+                "p": 14,
+                "w": 11
+            },
+            "3": {
+                "p": 20,
+                "w": 18
+            },
+            "4": {
+                "p": 28,
+                "w": 17
+            },
+            "5": {
+                "p": 21,
+                "w": 11
+            }
+        }
+    },
+    "6608": {
+        "name": "OMnom",
+        "ragl": {
+            "3": {
+                "p": 16,
+                "w": 14
+            },
+            "4": {
+                "p": 18,
+                "w": 18
+            }
+        }
+    },
+    "6613": {
+        "name": "Klumpat"
+    },
+    "6621": {
+        "name": "Doomsday",
+        "ragl": {
+            "3": {
+                "p": 18,
+                "w": 14
+            },
+            "4": {
+                "p": 26,
+                "w": 11
+            }
+        }
+    },
+    "6625": {
+        "name": "Raishiwi",
+        "ragl": {
+            "3": {
+                "p": 10,
+                "w": 7
+            },
+            "4": {
+                "p": 8,
+                "w": 3
+            },
+            "5": {
+                "p": 6,
+                "w": 4
+            }
+        }
+    },
+    "6646": {
+        "name": "Lorrydriver",
+        "ragl": {
+            "2": {
+                "p": 16,
+                "w": 16
+            },
+            "3": {
+                "p": 18,
+                "w": 16
+            },
+            "4": {
+                "p": 19,
+                "w": 17
+            },
+            "5": {
+                "p": 8,
+                "w": 7
+            }
+        }
+    },
+    "6664": {
+        "name": "GDave"
+    },
+    "6665": {
+        "name": "3.Lucian",
+        "ragl": {
+            "4": {
+                "p": 10,
+                "w": 3
+            },
+            "5": {
+                "p": 8,
+                "w": 4
+            }
+        }
+    },
+    "6680": {
+        "name": "Clockwork"
+    },
+    "6685": {
+        "name": "crlf"
+    },
+    "6695": {
+        "name": "eskimo",
+        "ragl": {
+            "4": {
+                "p": 12,
+                "w": 9
+            },
+            "5": {
+                "p": 18,
+                "w": 12
+            },
+            "6": {
+                "p": 22,
+                "w": 13
+            },
+            "7": {
+                "p": 6,
+                "w": 4
+            },
+            "8": {
+                "p": 14,
+                "w": 13
+            }
+        }
+    },
+    "6705": {
+        "name": "BigSmoke",
+        "ragl": {
+            "3": {
+                "p": 13,
+                "w": 8
+            },
+            "5": {
+                "p": 16,
+                "w": 11
+            }
+        }
+    },
+    "6723": {
+        "name": "WhoCares",
+        "ragl": {
+            "3": {
+                "p": 10,
+                "w": 6
+            },
+            "4": {
+                "p": 4,
+                "w": 0
+            },
+            "6": {
+                "p": 24,
+                "w": 19
+            },
+            "7": {
+                "p": 12,
+                "w": 4
+            },
+            "9": {
+                "p": 26,
+                "w": 16
+            }
+        }
+    },
+    "6730": {
+        "name": "camundahl"
+    },
+    "6740": {
+        "name": "DrLuke",
+        "ragl": {
+            "3": {
+                "p": 5,
+                "w": 3
+            }
+        }
+    },
+    "6748": {
+        "name": "Orb",
+        "ragl": {
+            "2": {
+                "p": 18,
+                "w": 14
+            },
+            "3": {
+                "p": 20,
+                "w": 16
+            },
+            "4": {
+                "p": 18,
+                "w": 10
+            },
+            "5": {
+                "p": 22,
+                "w": 13
+            },
+            "6": {
+                "p": 29,
+                "w": 20
+            },
+            "7": {
+                "p": 31,
+                "w": 24
+            },
+            "8": {
+                "p": 26,
+                "w": 17
+            }
+        }
+    },
+    "6750": {
+        "name": "Karthus",
+        "ragl": {
+            "3": {
+                "p": 2,
+                "w": 0
+            }
+        }
+    },
+    "6751": {
+        "name": "Tailix Killa Mentor",
+        "ragl": {
+            "11": {
+                "p": 18,
+                "w": 3
+            },
+            "12": {
+                "p": 12,
+                "w": 5
+            },
+            "13": {
+                "p": 8,
+                "w": 4
+            },
+            "15": {
+                "p": 18,
+                "w": 4
+            },
+            "3": {
+                "p": 17,
+                "w": 3
+            },
+            "4": {
+                "p": 16,
+                "w": 8
+            },
+            "5": {
+                "p": 16,
+                "w": 7
+            },
+            "6": {
+                "p": 22,
+                "w": 0
+            },
+            "7": {
+                "p": 20,
+                "w": 2
+            },
+            "8": {
+                "p": 18,
+                "w": 4
+            }
+        }
+    },
+    "6757": {
+        "name": "mechANIC",
+        "ragl": {
+            "3": {
+                "p": 18,
+                "w": 12
+            },
+            "4": {
+                "p": 18,
+                "w": 16
+            },
+            "5": {
+                "p": 16,
+                "w": 4
+            },
+            "6": {
+                "p": 21,
+                "w": 11
+            },
+            "7": {
+                "p": 16,
+                "w": 11
+            }
+        }
+    },
+    "6766": {
+        "name": "ZxGanon",
+        "ragl": {
+            "5": {
+                "p": 15,
+                "w": 15
+            },
+            "6": {
+                "p": 29,
+                "w": 20
+            },
+            "7": {
+                "p": 32,
+                "w": 27
+            },
+            "8": {
+                "p": 23,
+                "w": 18
+            },
+            "9": {
+                "p": 32,
+                "w": 20
+            }
+        }
+    },
+    "6771": {
+        "name": "Mr Cloudy",
+        "ragl": {
+            "10": {
+                "p": 27,
+                "w": 13
+            },
+            "11": {
+                "p": 20,
+                "w": 12
+            },
+            "12": {
+                "p": 3,
+                "w": 1
+            },
+            "15": {
+                "p": 12,
+                "w": 3
+            },
+            "5": {
+                "p": 8,
+                "w": 5
+            },
+            "6": {
+                "p": 6,
+                "w": 5
+            },
+            "7": {
+                "p": 20,
+                "w": 19
+            },
+            "8": {
+                "p": 14,
+                "w": 7
+            },
+            "9": {
+                "p": 24,
+                "w": 15
+            }
+        }
+    },
+    "6776": {
+        "name": "corrode",
+        "ragl": {
+            "4": {
+                "p": 20,
+                "w": 6
+            }
+        }
+    },
+    "6786": {
+        "name": "DomoTheRussian",
+        "ragl": {
+            "7": {
+                "p": 3,
+                "w": 2
+            }
+        }
+    },
+    "6790": {
+        "name": "barf_openra",
+        "ragl": {
+            "1": {
+                "p": 18,
+                "w": 10
+            },
+            "2": {
+                "p": 19,
+                "w": 13
+            },
+            "3": {
+                "p": 18,
+                "w": 13
+            },
+            "4": {
+                "p": 26,
+                "w": 21
+            },
+            "5": {
+                "p": 17,
+                "w": 7
+            },
+            "6": {
+                "p": 29,
+                "w": 23
+            },
+            "8": {
+                "p": 20,
+                "w": 17
+            }
+        }
+    },
+    "6792": {
+        "name": "Printer",
+        "ragl": {
+            "7": {
+                "p": 12,
+                "w": 5
+            }
+        }
+    },
+    "6793": {
+        "name": "maceman",
+        "ragl": {
+            "11": {
+                "p": 18,
+                "w": 14
+            },
+            "12": {
+                "p": 25,
+                "w": 11
+            },
+            "13": {
+                "p": 27,
+                "w": 12
+            },
+            "14": {
+                "p": 21,
+                "w": 8
+            },
+            "15": {
+                "p": 20,
+                "w": 6
+            },
+            "4": {
+                "p": 20,
+                "w": 17
+            },
+            "5": {
+                "p": 21,
+                "w": 17
+            },
+            "6": {
+                "p": 20,
+                "w": 9
+            }
+        }
+    },
+    "6812": {
+        "name": "jvk",
+        "ragl": {
+            "4": {
+                "p": 16,
+                "w": 14
+            },
+            "5": {
+                "p": 2,
+                "w": 2
+            }
+        }
+    },
+    "6816": {
+        "name": "Gamma"
+    },
+    "6822": {
+        "name": "Anykeyich",
+        "ragl": {
+            "4": {
+                "p": 16,
+                "w": 10
+            },
+            "5": {
+                "p": 16,
+                "w": 4
+            }
+        }
+    },
+    "6832": {
+        "name": "Sotsch",
+        "ragl": {
+            "4": {
+                "p": 23,
+                "w": 17
+            },
+            "5": {
+                "p": 16,
+                "w": 13
+            }
+        }
+    },
+    "6852": {
+        "name": "NethIafin",
+        "ragl": {
+            "4": {
+                "p": 16,
+                "w": 8
+            },
+            "5": {
+                "p": 4,
+                "w": 2
+            }
+        }
+    },
+    "6855": {
+        "name": "Borgmo"
+    },
+    "6856": {
+        "name": "netnazgul",
+        "ragl": {
+            "4": {
+                "p": 14,
+                "w": 8
+            },
+            "5": {
+                "p": 18,
+                "w": 9
+            },
+            "6": {
+                "p": 20,
+                "w": 9
+            },
+            "7": {
+                "p": 24,
+                "w": 12
+            }
+        }
+    },
+    "6859": {
+        "name": "Chewey",
+        "ragl": {
+            "2": {
+                "p": 8,
+                "w": 4
+            },
+            "3": {
+                "p": 12,
+                "w": 4
+            },
+            "4": {
+                "p": 12,
+                "w": 9
+            },
+            "5": {
+                "p": 16,
+                "w": 12
+            }
+        }
+    },
+    "6861": {
+        "name": "potato",
+        "ragl": {
+            "11": {
+                "p": 18,
+                "w": 0
+            },
+            "2": {
+                "p": 17,
+                "w": 1
+            },
+            "3": {
+                "p": 18,
+                "w": 3
+            },
+            "4": {
+                "p": 10,
+                "w": 2
+            }
+        }
+    },
+    "6865": {
+        "name": ".1"
+    },
+    "6880": {
+        "name": "manu200",
+        "ragl": {
+            "4": {
+                "p": 11,
+                "w": 1
+            }
+        }
+    },
+    "6881": {
+        "name": "spetsnaz84",
+        "ragl": {
+            "10": {
+                "p": 22,
+                "w": 9
+            },
+            "12": {
+                "p": 14,
+                "w": 7
+            },
+            "13": {
+                "p": 24,
+                "w": 11
+            },
+            "14": {
+                "p": 20,
+                "w": 3
+            },
+            "15": {
+                "p": 20,
+                "w": 4
+            },
+            "4": {
+                "p": 20,
+                "w": 2
+            },
+            "5": {
+                "p": 10,
+                "w": 0
+            },
+            "8": {
+                "p": 20,
+                "w": 7
+            },
+            "9": {
+                "p": 24,
+                "w": 5
+            }
+        }
+    },
+    "6883": {
+        "name": "Craig Christ",
+        "ragl": {
+            "4": {
+                "p": 16,
+                "w": 8
+            },
+            "5": {
+                "p": 14,
+                "w": 2
+            }
+        }
+    },
+    "6891": {
+        "name": "DaolDnaKcol",
+        "ragl": {
+            "10": {
+                "p": 2,
+                "w": 0
+            },
+            "4": {
+                "p": 2,
+                "w": 0
+            }
+        }
+    },
+    "6896": {
+        "name": "bullE",
+        "ragl": {
+            "4": {
+                "p": 19,
+                "w": 15
+            },
+            "5": {
+                "p": 4,
+                "w": 2
+            }
+        }
+    },
+    "6922": {
+        "name": "ThunderStruck115",
+        "ragl": {
+            "5": {
+                "p": 7,
+                "w": 0
+            }
+        }
+    },
+    "6938": {
+        "name": "WaRRyKeR",
+        "ragl": {
+            "4": {
+                "p": 24,
+                "w": 17
+            }
+        }
+    },
+    "6941": {
+        "name": "Jur",
+        "ragl": {
+            "12": {
+                "p": 20,
+                "w": 15
+            },
+            "5": {
+                "p": 10,
+                "w": 4
+            },
+            "6": {
+                "p": 24,
+                "w": 17
+            },
+            "7": {
+                "p": 22,
+                "w": 8
+            }
+        }
+    },
+    "6974": {
+        "name": "lundiz",
+        "ragl": {
+            "6": {
+                "p": 18,
+                "w": 7
+            },
+            "9": {
+                "p": 30,
+                "w": 15
+            }
+        }
+    },
+    "7021": {
+        "name": "N/a"
+    },
+    "7031": {
+        "name": "Naigel"
+    },
+    "7212": {
+        "name": "Hermann G&#39;",
+        "ragl": {
+            "8": {
+                "p": 15,
+                "w": 9
+            }
+        }
+    },
+    "7223": {
+        "name": "Punsho",
+        "ragl": {
+            "6": {
+                "p": 22,
+                "w": 18
+            },
+            "7": {
+                "p": 29,
+                "w": 21
+            },
+            "8": {
+                "p": 25,
+                "w": 17
+            },
+            "9": {
+                "p": 26,
+                "w": 18
+            }
+        }
+    },
+    "7226": {
+        "name": "Super_Newbie"
+    },
+    "7229": {
+        "name": "dragunoff",
+        "ragl": {
+            "4": {
+                "p": 16,
+                "w": 3
+            },
+            "5": {
+                "p": 21,
+                "w": 4
+            },
+            "6": {
+                "p": 25,
+                "w": 4
+            },
+            "7": {
+                "p": 24,
+                "w": 3
+            }
+        }
+    },
+    "7234": {
+        "name": "b\u00b5g",
+        "ragl": {
+            "5": {
+                "p": 18,
+                "w": 11
+            },
+            "7": {
+                "p": 16,
+                "w": 11
+            },
+            "8": {
+                "p": 10,
+                "w": 4
+            }
+        }
+    },
+    "7254": {
+        "name": "60Hertz"
+    },
+    "7265": {
+        "name": "givepeasachance"
+    },
+    "7295": {
+        "name": "Antares",
+        "ragl": {
+            "1": {
+                "p": 20,
+                "w": 3
+            }
+        }
+    },
+    "7299": {
+        "name": "Kernel Panic",
+        "ragl": {
+            "10": {
+                "p": 18,
+                "w": 13
+            },
+            "8": {
+                "p": 20,
+                "w": 7
+            },
+            "9": {
+                "p": 32,
+                "w": 18
+            }
+        }
+    },
+    "7304": {
+        "name": "Upps",
+        "ragl": {
+            "10": {
+                "p": 22,
+                "w": 13
+            },
+            "11": {
+                "p": 27,
+                "w": 14
+            },
+            "12": {
+                "p": 18,
+                "w": 8
+            },
+            "13": {
+                "p": 18,
+                "w": 6
+            },
+            "14": {
+                "p": 20,
+                "w": 18
+            },
+            "15": {
+                "p": 22,
+                "w": 10
+            },
+            "5": {
+                "p": 10,
+                "w": 5
+            },
+            "6": {
+                "p": 22,
+                "w": 7
+            },
+            "7": {
+                "p": 20,
+                "w": 11
+            },
+            "8": {
+                "p": 16,
+                "w": 4
+            },
+            "9": {
+                "p": 26,
+                "w": 7
+            }
+        }
+    },
+    "7313": {
+        "name": "lonestar"
+    },
+    "7344": {
+        "name": "Icesinithol",
+        "ragl": {
+            "9": {
+                "p": 23,
+                "w": 5
+            }
+        }
+    },
+    "7387": {
+        "name": "TTTPPP",
+        "ragl": {
+            "10": {
+                "p": 18,
+                "w": 7
+            },
+            "11": {
+                "p": 12,
+                "w": 2
+            },
+            "12": {
+                "p": 18,
+                "w": 5
+            },
+            "13": {
+                "p": 26,
+                "w": 10
+            },
+            "14": {
+                "p": 18,
+                "w": 6
+            },
+            "15": {
+                "p": 20,
+                "w": 13
+            },
+            "9": {
+                "p": 29,
+                "w": 8
+            }
+        }
+    },
+    "7392": {
+        "name": "Richter_Alexander"
+    },
+    "7404": {
+        "name": "Dualwarhead"
+    },
+    "7427": {
+        "name": "Xahid"
+    },
+    "7433": {
+        "name": "ShitStormTrooper"
+    },
+    "7472": {
+        "name": "Abarrat",
+        "ragl": {
+            "4": {
+                "p": 18,
+                "w": 12
+            }
+        }
+    },
+    "7478": {
+        "name": "PeterRusselClarke"
+    },
+    "7495": {
+        "name": "pir0-"
+    },
+    "7498": {
+        "name": "Socan"
+    },
+    "7512": {
+        "name": "Comrat"
+    },
+    "7514": {
+        "name": "alex1984"
+    },
+    "7527": {
+        "name": "McAfee"
+    },
+    "7568": {
+        "name": "Timber"
+    },
+    "7571": {
+        "name": "kalessin"
+    },
+    "7591": {
+        "name": "manta151",
+        "ragl": {
+            "11": {
+                "p": 18,
+                "w": 13
+            }
+        }
+    },
+    "7617": {
+        "name": "worldpeace",
+        "ragl": {
+            "10": {
+                "p": 7,
+                "w": 0
+            },
+            "11": {
+                "p": 14,
+                "w": 7
+            },
+            "12": {
+                "p": 16,
+                "w": 6
+            }
+        }
+    },
+    "7644": {
+        "name": "KSK_Nico",
+        "ragl": {
+            "10": {
+                "p": 16,
+                "w": 6
+            },
+            "11": {
+                "p": 20,
+                "w": 8
+            },
+            "7": {
+                "p": 12,
+                "w": 2
+            },
+            "8": {
+                "p": 18,
+                "w": 10
+            },
+            "9": {
+                "p": 30,
+                "w": 25
+            }
+        }
+    },
+    "7653": {
+        "name": "kwibus"
+    },
+    "7687": {
+        "name": "DoDoCat",
+        "ragl": {
+            "6": {
+                "p": 12,
+                "w": 0
+            },
+            "8": {
+                "p": 14,
+                "w": 0
+            }
+        }
+    },
+    "7696": {
+        "name": "Metalcallous",
+        "ragl": {
+            "7": {
+                "p": 18,
+                "w": 12
+            }
+        }
+    },
+    "7714": {
+        "name": "Nilhall",
+        "ragl": {
+            "10": {
+                "p": 12,
+                "w": 1
+            },
+            "11": {
+                "p": 15,
+                "w": 5
+            },
+            "12": {
+                "p": 18,
+                "w": 3
+            },
+            "13": {
+                "p": 26,
+                "w": 12
+            },
+            "14": {
+                "p": 18,
+                "w": 9
+            },
+            "15": {
+                "p": 19,
+                "w": 10
+            },
+            "8": {
+                "p": 16,
+                "w": 3
+            },
+            "9": {
+                "p": 33,
+                "w": 11
+            }
+        }
+    },
+    "7785": {
+        "name": "Lazarus"
+    },
+    "7787": {
+        "name": "porcukor",
+        "ragl": {
+            "10": {
+                "p": 1,
+                "w": 0
+            }
+        }
+    },
+    "7813": {
+        "name": "TiTo",
+        "ragl": {
+            "10": {
+                "p": 18,
+                "w": 12
+            },
+            "11": {
+                "p": 18,
+                "w": 11
+            },
+            "8": {
+                "p": 20,
+                "w": 12
+            },
+            "9": {
+                "p": 26,
+                "w": 2
+            }
+        }
+    },
+    "7954": {
+        "name": "stoutfire"
+    },
+    "8031": {
+        "name": "SarahSicaria",
+        "ragl": {
+            "9": {
+                "p": 2,
+                "w": 2
+            }
+        }
+    },
+    "8152": {
+        "name": "_Bo",
+        "ragl": {
+            "4": {
+                "p": 10,
+                "w": 0
+            },
+            "7": {
+                "p": 16,
+                "w": 11
+            }
+        }
+    },
+    "8255": {
+        "name": "Teew"
+    },
+    "8269": {
+        "name": "SlickSloth",
+        "ragl": {
+            "10": {
+                "p": 16,
+                "w": 8
+            }
+        }
+    },
+    "8419": {
+        "name": "snotty otty"
+    },
+    "8464": {
+        "name": "Serum"
+    },
+    "8494": {
+        "name": "Widow"
+    },
+    "8591": {
+        "name": "Casib"
+    },
+    "8620": {
+        "name": "DaniwA"
+    },
+    "8769": {
+        "name": "Dying Fetus",
+        "ragl": {
+            "7": {
+                "p": 16,
+                "w": 13
+            },
+            "8": {
+                "p": 2,
+                "w": 0
+            }
+        }
+    },
+    "8790": {
+        "name": "Yara",
+        "ragl": {
+            "9": {
+                "p": 30,
+                "w": 28
+            }
+        }
+    },
+    "8797": {
+        "name": "malboo",
+        "ragl": {
+            "7": {
+                "p": 12,
+                "w": 1
+            }
+        }
+    },
+    "8860": {
+        "name": "ROCKhardFISTnips",
+        "ragl": {
+            "11": {
+                "p": 1,
+                "w": 0
+            },
+            "15": {
+                "p": 12,
+                "w": 3
+            },
+            "9": {
+                "p": 18,
+                "w": 15
+            }
+        }
+    },
+    "8869": {
+        "name": "Sigil",
+        "ragl": {
+            "10": {
+                "p": 15,
+                "w": 2
+            },
+            "11": {
+                "p": 20,
+                "w": 3
+            },
+            "12": {
+                "p": 20,
+                "w": 5
+            },
+            "13": {
+                "p": 22,
+                "w": 15
+            },
+            "14": {
+                "p": 18,
+                "w": 4
+            },
+            "8": {
+                "p": 18,
+                "w": 9
+            },
+            "9": {
+                "p": 26,
+                "w": 20
+            }
+        }
+    },
+    "8894": {
+        "name": "PieChild",
+        "ragl": {
+            "8": {
+                "p": 18,
+                "w": 6
+            },
+            "9": {
+                "p": 30,
+                "w": 17
+            }
+        }
+    },
+    "8943": {
+        "name": "maeshi"
+    },
+    "9080": {
+        "name": "niklaskb"
+    },
+    "9156": {
+        "name": "toiletbreakbrb",
+        "ragl": {
+            "14": {
+                "p": 13,
+                "w": 9
+            },
+            "9": {
+                "p": 4,
+                "w": 4
+            }
+        }
+    },
+    "9157": {
+        "name": "Kingster"
+    },
+    "9159": {
+        "name": "MegaTank"
+    },
+    "9175": {
+        "name": "piraengu"
+    },
+    "9249": {
+        "name": "DodoBirb",
+        "ragl": {
+            "9": {
+                "p": 16,
+                "w": 1
+            }
+        }
+    },
+    "9283": {
+        "name": "layer"
+    },
+    "9342": {
+        "name": "JackoDerp",
+        "ragl": {
+            "8": {
+                "p": 20,
+                "w": 14
+            },
+            "9": {
+                "p": 25,
+                "w": 6
+            }
+        }
+    },
+    "9438": {
+        "name": "wismar007"
+    },
+    "9453": {
+        "name": "Snizzle"
+    },
+    "9465": {
+        "name": "bobbyd",
+        "ragl": {
+            "7": {
+                "p": 10,
+                "w": 0
+            }
+        }
+    },
+    "9473": {
+        "name": "Antarctica"
+    },
+    "9506": {
+        "name": "Misery",
+        "ragl": {
+            "8": {
+                "p": 12,
+                "w": 11
+            }
+        }
+    },
+    "9558": {
+        "name": "sup"
+    },
+    "9599": {
+        "name": "goat",
+        "ragl": {
+            "10": {
+                "p": 22,
+                "w": 21
+            },
+            "11": {
+                "p": 28,
+                "w": 25
+            },
+            "8": {
+                "p": 25,
+                "w": 22
+            },
+            "9": {
+                "p": 32,
+                "w": 26
+            }
+        }
+    },
+    "9650": {
+        "name": "Ore Gasm"
+    },
+    "9764": {
+        "name": "disruptor"
+    },
+    "9800": {
+        "name": "Mees",
+        "ragl": {
+            "12": {
+                "p": 16,
+                "w": 15
+            }
+        }
+    },
+    "9865": {
+        "name": "igorbushko"
+    },
+    "9877": {
+        "name": "SinJul",
+        "ragl": {
+            "11": {
+                "p": 20,
+                "w": 10
+            },
+            "8": {
+                "p": 18,
+                "w": 4
+            },
+            "9": {
+                "p": 30,
+                "w": 25
+            }
+        }
+    },
+    "9965": {
+        "name": "ioverthoughtthis",
+        "ragl": {
+            "9": {
+                "p": 22,
+                "w": 2
+            }
+        }
+    },
+    "9984": {
+        "name": "jungle",
+        "ragl": {
+            "13": {
+                "p": 16,
+                "w": 0
+            }
+        }
+    },
+    "9989": {
+        "name": "Biomecaman"
+    },
+    "10220": {
+        "name": "Michigan"
+    },
+    "10237": {
+        "name": "hmma"
+    },
+    "10262": {
+        "name": "Oaked.ru"
+    },
+    "10277": {
+        "name": "Mammoth Silo"
+    },
+    "10286": {
+        "name": "WillVaz"
+    },
+    "10428": {
+        "name": "daniel40392"
+    },
+    "10468": {
+        "name": "willsonwillson"
+    },
+    "10501": {
+        "name": "9H0DxF"
+    },
+    "10509": {
+        "name": "APOLKA"
+    },
+    "10549": {
+        "name": "Azure Anemone",
+        "ragl": {
+            "12": {
+                "p": 14,
+                "w": 6
+            }
+        }
+    },
+    "10569": {
+        "name": "vvoj",
+        "ragl": {
+            "10": {
+                "p": 16,
+                "w": 10
+            }
+        }
+    },
+    "10588": {
+        "name": "JustSomeGuy"
+    },
+    "10747": {
+        "name": "morkel",
+        "ragl": {
+            "9": {
+                "p": 36,
+                "w": 27
+            }
+        }
+    },
+    "10751": {
+        "name": "Zimmer"
+    },
+    "10755": {
+        "name": "TermX"
+    },
+    "10757": {
+        "name": "i like men",
+        "ragl": {
+            "10": {
+                "p": 6,
+                "w": 6
+            },
+            "9": {
+                "p": 35,
+                "w": 25
+            }
+        }
+    },
+    "10801": {
+        "name": "xiaoRen"
+    },
+    "10862": {
+        "name": "f0rk"
+    },
+    "11099": {
+        "name": "Dodder",
+        "ragl": {
+            "11": {
+                "p": 14,
+                "w": 5
+            },
+            "12": {
+                "p": 21,
+                "w": 14
+            },
+            "13": {
+                "p": 14,
+                "w": 1
+            }
+        }
+    },
+    "11188": {
+        "name": "M0nk3Ee"
+    },
+    "11362": {
+        "name": "pgrwoo"
+    },
+    "11435": {
+        "name": "Goremented",
+        "ragl": {
+            "10": {
+                "p": 22,
+                "w": 19
+            },
+            "11": {
+                "p": 20,
+                "w": 6
+            },
+            "12": {
+                "p": 18,
+                "w": 8
+            },
+            "9": {
+                "p": 25,
+                "w": 13
+            }
+        }
+    },
+    "11442": {
+        "name": "Eugenator",
+        "ragl": {
+            "10": {
+                "p": 18,
+                "w": 13
+            },
+            "11": {
+                "p": 15,
+                "w": 13
+            },
+            "12": {
+                "p": 18,
+                "w": 7
+            },
+            "13": {
+                "p": 18,
+                "w": 7
+            }
+        }
+    },
+    "11584": {
+        "name": "Card Ninja"
+    },
+    "11654": {
+        "name": "Gtrizzle"
+    },
+    "11705": {
+        "name": "Pinkthoth",
+        "ragl": {
+            "10": {
+                "p": 23,
+                "w": 21
+            },
+            "11": {
+                "p": 27,
+                "w": 15
+            }
+        }
+    },
+    "11729": {
+        "name": "matts_mum"
+    },
+    "11782": {
+        "name": "Bibodo"
+    },
+    "11835": {
+        "name": "WTF"
+    },
+    "11855": {
+        "name": "Kaution",
+        "ragl": {
+            "10": {
+                "p": 14,
+                "w": 7
+            },
+            "11": {
+                "p": 19,
+                "w": 18
+            }
+        }
+    },
+    "11861": {
+        "name": "akpella"
+    },
+    "11869": {
+        "name": "danorq"
+    },
+    "11913": {
+        "name": "Duke Bones",
+        "ragl": {
+            "10": {
+                "p": 18,
+                "w": 11
+            },
+            "11": {
+                "p": 18,
+                "w": 9
+            },
+            "12": {
+                "p": 20,
+                "w": 14
+            },
+            "13": {
+                "p": 16,
+                "w": 4
+            },
+            "14": {
+                "p": 18,
+                "w": 3
+            },
+            "15": {
+                "p": 20,
+                "w": 17
+            },
+            "9": {
+                "p": 32,
+                "w": 10
+            }
+        }
+    },
+    "11917": {
+        "name": "jkalmar"
+    },
+    "11979": {
+        "name": "blood"
+    },
+    "12022": {
+        "name": "Rossie",
+        "ragl": {
+            "14": {
+                "p": 20,
+                "w": 7
+            }
+        }
+    },
+    "12051": {
+        "name": "sfk"
+    },
+    "12090": {
+        "name": "JoanotColom"
+    },
+    "12160": {
+        "name": "y2\u200e"
+    },
+    "12163": {
+        "name": "MOLLMANIA"
+    },
+    "12261": {
+        "name": "DVoid",
+        "ragl": {
+            "11": {
+                "p": 18,
+                "w": 8
+            }
+        }
+    },
+    "12273": {
+        "name": "luckyluke"
+    },
+    "12283": {
+        "name": "dang_shot",
+        "ragl": {
+            "13": {
+                "p": 6,
+                "w": 5
+            }
+        }
+    },
+    "12323": {
+        "name": "vcxz09876"
+    },
+    "12325": {
+        "name": "maths"
+    },
+    "12399": {
+        "name": "General Zico"
+    },
+    "12444": {
+        "name": "biasao"
+    },
+    "12494": {
+        "name": "akaudio"
+    },
+    "12501": {
+        "name": "TasteOfIndia"
+    },
+    "12517": {
+        "name": "LukaMile"
+    },
+    "12526": {
+        "name": "\u0418\u03b1\u03b9g\u03b5l",
+        "ragl": {
+            "2": {
+                "p": 6,
+                "w": 4
+            }
+        }
+    },
+    "12654": {
+        "name": "Therapist",
+        "ragl": {
+            "11": {
+                "p": 18,
+                "w": 6
+            }
+        }
+    },
+    "12760": {
+        "name": "MASTER"
+    },
+    "12790": {
+        "name": "quarksplitter"
+    },
+    "12835": {
+        "name": "Memnon"
+    },
+    "12877": {
+        "name": "Cymbal"
+    },
+    "12892": {
+        "name": "poop",
+        "ragl": {
+            "10": {
+                "p": 5,
+                "w": 1
+            }
+        }
+    },
+    "12927": {
+        "name": "CottonTheButton",
+        "ragl": {
+            "9": {
+                "p": 4,
+                "w": 0
+            }
+        }
+    },
+    "12930": {
+        "name": "Phoenician"
+    },
+    "12957": {
+        "name": "J!NX",
+        "ragl": {
+            "13": {
+                "p": 24,
+                "w": 13
+            }
+        }
+    },
+    "12961": {
+        "name": "wildwasserpommes"
+    },
+    "12964": {
+        "name": "Oafa",
+        "ragl": {
+            "10": {
+                "p": 10,
+                "w": 3
+            }
+        }
+    },
+    "12997": {
+        "name": "Mr_Biro"
+    },
+    "13008": {
+        "name": "OpiumPrime"
+    },
+    "13011": {
+        "name": "LaRoux"
+    },
+    "13039": {
+        "name": "iljaco"
+    },
+    "13060": {
+        "name": "PallyRoy",
+        "ragl": {
+            "10": {
+                "p": 6,
+                "w": 3
+            }
+        }
+    },
+    "13077": {
+        "name": "Tuborgnamozgu"
+    },
+    "13086": {
+        "name": "RobLoweEscobar",
+        "ragl": {
+            "12": {
+                "p": 6,
+                "w": 0
+            }
+        }
+    },
+    "13090": {
+        "name": "NumericPad"
+    },
+    "13096": {
+        "name": "MR C",
+        "ragl": {
+            "10": {
+                "p": 18,
+                "w": 0
+            },
+            "11": {
+                "p": 12,
+                "w": 2
+            }
+        }
+    },
+    "13101": {
+        "name": "Tomminho"
+    },
+    "13169": {
+        "name": "Kalma"
+    },
+    "13174": {
+        "name": "avro"
+    },
+    "13179": {
+        "name": "SunTzu"
+    },
+    "13191": {
+        "name": "Dassault"
+    },
+    "13200": {
+        "name": "At0mic"
+    },
+    "13217": {
+        "name": "Minsk (Noob)"
+    },
+    "13218": {
+        "name": "Traveler"
+    },
+    "13258": {
+        "name": "copla201",
+        "ragl": {
+            "10": {
+                "p": 14,
+                "w": 2
+            }
+        }
+    },
+    "13378": {
+        "name": "R.Sarah.L"
+    },
+    "13512": {
+        "name": "Drixiart"
+    },
+    "13518": {
+        "name": "Sneeky-Bandit"
+    },
+    "13532": {
+        "name": "Monmarco"
+    },
+    "13559": {
+        "name": "johnnyboy"
+    },
+    "13574": {
+        "name": "paganini"
+    },
+    "13578": {
+        "name": "HAMBONE"
+    },
+    "13612": {
+        "name": "zipp0"
+    },
+    "13635": {
+        "name": "flaker"
+    },
+    "13660": {
+        "name": "Eleiko"
+    },
+    "13674": {
+        "name": "shavkat",
+        "ragl": {
+            "10": {
+                "p": 6,
+                "w": 0
+            }
+        }
+    },
+    "13679": {
+        "name": "Amit"
+    },
+    "13702": {
+        "name": "Enderman6389"
+    },
+    "13704": {
+        "name": "Beebz"
+    },
+    "13705": {
+        "name": "Kav",
+        "ragl": {
+            "11": {
+                "p": 28,
+                "w": 23
+            },
+            "13": {
+                "p": 24,
+                "w": 21
+            },
+            "14": {
+                "p": 26,
+                "w": 20
+            },
+            "15": {
+                "p": 27,
+                "w": 23
+            }
+        }
+    },
+    "13708": {
+        "name": "nvrnight"
+    },
+    "13710": {
+        "name": "Ekanim",
+        "ragl": {
+            "10": {
+                "p": 12,
+                "w": 7
+            },
+            "11": {
+                "p": 18,
+                "w": 10
+            },
+            "12": {
+                "p": 20,
+                "w": 12
+            },
+            "13": {
+                "p": 22,
+                "w": 22
+            },
+            "14": {
+                "p": 18,
+                "w": 7
+            }
+        }
+    },
+    "13730": {
+        "name": "guigz"
+    },
+    "13734": {
+        "name": "McGriff"
+    },
+    "13750": {
+        "name": "Freki"
+    },
+    "13753": {
+        "name": "gargraval"
+    },
+    "13763": {
+        "name": "std::nullptr_t"
+    },
+    "13822": {
+        "name": "ISeeMangos"
+    },
+    "13850": {
+        "name": "Dr. Schmock"
+    },
+    "13872": {
+        "name": "x3oo"
+    },
+    "13873": {
+        "name": "8.9"
+    },
+    "13884": {
+        "name": "Ballistic"
+    },
+    "13920": {
+        "name": "Katzenbaby"
+    },
+    "13943": {
+        "name": "gokserg"
+    },
+    "13962": {
+        "name": "noniXXnarreZZ"
+    },
+    "13964": {
+        "name": "alex italy"
+    },
+    "13969": {
+        "name": "zDig"
+    },
+    "13971": {
+        "name": "skarockoi"
+    },
+    "13987": {
+        "name": "Commander YZ"
+    },
+    "13994": {
+        "name": "jirik"
+    },
+    "14008": {
+        "name": "porenut"
+    },
+    "14021": {
+        "name": "hexagon"
+    },
+    "14070": {
+        "name": "chaircollector"
+    },
+    "14099": {
+        "name": "Zhall"
+    },
+    "14105": {
+        "name": "Handel"
+    },
+    "14115": {
+        "name": "Parsely"
+    },
+    "14146": {
+        "name": "Underware"
+    },
+    "14149": {
+        "name": "alden_the_23rd"
+    },
+    "14174": {
+        "name": "\u20ac5,-"
+    },
+    "14216": {
+        "name": "Death-Sentence"
+    },
+    "14229": {
+        "name": "zx5"
+    },
+    "14232": {
+        "name": "ZorN230"
+    },
+    "14276": {
+        "name": "Fin"
+    },
+    "14285": {
+        "name": "stereofield_"
+    },
+    "14296": {
+        "name": "Commander_Konka"
+    },
+    "14297": {
+        "name": "KlimaOpa"
+    },
+    "14328": {
+        "name": "1997cui"
+    },
+    "14394": {
+        "name": "Tommo_86"
+    },
+    "14453": {
+        "name": "valdurs"
+    },
+    "14458": {
+        "name": "Rimmel"
+    },
+    "14467": {
+        "name": "Skillless"
+    },
+    "14472": {
+        "name": "King Curtis"
+    },
+    "14473": {
+        "name": "fragment"
+    },
+    "14490": {
+        "name": "CatMan3e3"
+    },
+    "14508": {
+        "name": "BigBadBain"
+    },
+    "14560": {
+        "name": "Kasajohn"
+    },
+    "14578": {
+        "name": "HeejinSon"
+    },
+    "14579": {
+        "name": "LordMani"
+    },
+    "14596": {
+        "name": "PrinzPi"
+    },
+    "14600": {
+        "name": "Elon_musk"
+    },
+    "14601": {
+        "name": "feelynx"
+    },
+    "14623": {
+        "name": "Rusty"
+    },
+    "14626": {
+        "name": "boncis"
+    },
+    "14627": {
+        "name": "Sisna22"
+    },
+    "14631": {
+        "name": "Chrono"
+    },
+    "14665": {
+        "name": "boriken1171"
+    },
+    "14725": {
+        "name": "asam"
+    },
+    "14726": {
+        "name": "Stinky Silo"
+    },
+    "14731": {
+        "name": "Daniel"
+    },
+    "14769": {
+        "name": "chouchani",
+        "ragl": {
+            "12": {
+                "p": 12,
+                "w": 0
+            },
+            "13": {
+                "p": 22,
+                "w": 0
+            },
+            "14": {
+                "p": 20,
+                "w": 2
+            },
+            "15": {
+                "p": 20,
+                "w": 7
+            }
+        }
+    },
+    "14834": {
+        "name": "Bobuc\u0131\u2039"
+    },
+    "14894": {
+        "name": "TheFitz"
+    },
+    "14934": {
+        "name": "SquidwardWzRd"
+    },
+    "14938": {
+        "name": "El_Duderino"
+    },
+    "14974": {
+        "name": "Federico"
+    },
+    "15017": {
+        "name": "Kalion"
+    },
+    "15021": {
+        "name": "Onexygor"
+    },
+    "15047": {
+        "name": "ActionMan"
+    },
+    "15057": {
+        "name": "TommyHawkeye"
+    },
+    "15082": {
+        "name": "wtigga"
+    },
+    "15120": {
+        "name": "Pikica"
+    },
+    "15130": {
+        "name": "neveragain"
+    },
+    "15155": {
+        "name": "Dingo"
+    },
+    "15210": {
+        "name": "morty"
+    },
+    "15211": {
+        "name": "comunder"
+    },
+    "15248": {
+        "name": "timl"
+    },
+    "15249": {
+        "name": "Steffen123"
+    },
+    "15266": {
+        "name": "cracksmoka420"
+    },
+    "15293": {
+        "name": "NEGAN"
+    },
+    "15302": {
+        "name": "SnidlWhutz"
+    },
+    "15305": {
+        "name": "Cupko"
+    },
+    "15315": {
+        "name": "Mad_Max"
+    },
+    "15316": {
+        "name": "0x0"
+    },
+    "15361": {
+        "name": "Orangenaffe42"
+    },
+    "15421": {
+        "name": "Gajcus",
+        "ragl": {
+            "11": {
+                "p": 21,
+                "w": 16
+            },
+            "12": {
+                "p": 26,
+                "w": 16
+            },
+            "13": {
+                "p": 25,
+                "w": 12
+            }
+        }
+    },
+    "15423": {
+        "name": "Astolfo_Chan"
+    },
+    "15428": {
+        "name": "bete",
+        "ragl": {
+            "12": {
+                "p": 12,
+                "w": 9
+            },
+            "13": {
+                "p": 22,
+                "w": 12
+            },
+            "15": {
+                "p": 20,
+                "w": 12
+            }
+        }
+    },
+    "15445": {
+        "name": "Batfire"
+    },
+    "15469": {
+        "name": "not happy",
+        "ragl": {
+            "10": {
+                "p": 2,
+                "w": 1
+            },
+            "15": {
+                "p": 20,
+                "w": 17
+            },
+            "3": {
+                "p": 24,
+                "w": 20
+            },
+            "4": {
+                "p": 17,
+                "w": 17
+            },
+            "6": {
+                "p": 6,
+                "w": 5
+            },
+            "7": {
+                "p": 28,
+                "w": 17
+            },
+            "9": {
+                "p": 21,
+                "w": 13
+            }
+        }
+    },
+    "15567": {
+        "name": "s3kit0"
+    },
+    "15568": {
+        "name": "Elmir"
+    },
+    "15584": {
+        "name": "Spider"
+    },
+    "15639": {
+        "name": "tompollon"
+    },
+    "15643": {
+        "name": "Jonesthe1337"
+    },
+    "15652": {
+        "name": "doppiogaming"
+    },
+    "15663": {
+        "name": "Kadirhan"
+    },
+    "15678": {
+        "name": "Kabuum"
+    },
+    "15679": {
+        "name": "catNull"
+    },
+    "15893": {
+        "name": "Muad'Dib"
+    },
+    "15899": {
+        "name": "tux",
+        "ragl": {
+            "12": {
+                "p": 21,
+                "w": 12
+            },
+            "13": {
+                "p": 8,
+                "w": 3
+            },
+            "14": {
+                "p": 16,
+                "w": 12
+            },
+            "15": {
+                "p": 20,
+                "w": 7
+            }
+        }
+    },
+    "15947": {
+        "name": "MrTre"
+    },
+    "15981": {
+        "name": "yur3i__"
+    },
+    "16003": {
+        "name": "_wyrd_"
+    },
+    "16004": {
+        "name": "xXDESTROYERXx"
+    },
+    "16028": {
+        "name": "Koffiato"
+    },
+    "16029": {
+        "name": "2dick1pussy"
+    },
+    "16066": {
+        "name": "milkman",
+        "ragl": {
+            "12": {
+                "p": 20,
+                "w": 5
+            },
+            "13": {
+                "p": 24,
+                "w": 17
+            },
+            "14": {
+                "p": 18,
+                "w": 14
+            },
+            "15": {
+                "p": 20,
+                "w": 3
+            }
+        }
+    },
+    "16080": {
+        "name": "Bea5ty"
+    },
+    "16082": {
+        "name": "Jameson495"
+    },
+    "16083": {
+        "name": "Invade_Pulse"
+    },
+    "16086": {
+        "name": "Norman2021"
+    },
+    "16089": {
+        "name": "Cosmo"
+    },
+    "16175": {
+        "name": "Hackepeter"
+    },
+    "16191": {
+        "name": "Funske"
+    },
+    "16222": {
+        "name": "despro",
+        "ragl": {
+            "12": {
+                "p": 24,
+                "w": 24
+            },
+            "13": {
+                "p": 10,
+                "w": 9
+            }
+        }
+    },
+    "16256": {
+        "name": "nbernhar"
+    },
+    "16264": {
+        "name": "Silviu"
+    },
+    "16266": {
+        "name": "ZippoHERE"
+    },
+    "16314": {
+        "name": "Svedski"
+    },
+    "16316": {
+        "name": "fabio"
+    },
+    "16318": {
+        "name": "wangyanbin"
+    },
+    "16338": {
+        "name": "Pvt_Leaf",
+        "ragl": {
+            "12": {
+                "p": 12,
+                "w": 8
+            },
+            "13": {
+                "p": 24,
+                "w": 11
+            }
+        }
+    },
+    "16385": {
+        "name": "Seth_II"
+    },
+    "16401": {
+        "name": "Margot Honecker",
+        "ragl": {
+            "12": {
+                "p": 20,
+                "w": 9
+            },
+            "14": {
+                "p": 20,
+                "w": 14
+            }
+        }
+    },
+    "16403": {
+        "name": "Lepe"
+    },
+    "16434": {
+        "name": "Murisama"
+    },
+    "16448": {
+        "name": "Noobatron"
+    },
+    "16474": {
+        "name": "Implies"
+    },
+    "16535": {
+        "name": "Starforce"
+    },
+    "16539": {
+        "name": "Frank3412"
+    },
+    "16548": {
+        "name": "SovietArmy"
+    },
+    "16592": {
+        "name": "maralm"
+    },
+    "16594": {
+        "name": "Cliffan"
+    },
+    "16601": {
+        "name": "UnknownSoldier"
+    },
+    "16630": {
+        "name": "ludotaurus"
+    },
+    "16631": {
+        "name": "oule"
+    },
+    "16643": {
+        "name": "jkscorpion"
+    },
+    "16644": {
+        "name": "calangorn1"
+    },
+    "16647": {
+        "name": "peace4ever"
+    },
+    "16675": {
+        "name": "kyshama"
+    },
+    "16677": {
+        "name": "jawsh"
+    },
+    "16703": {
+        "name": "Rush Al"
+    },
+    "16726": {
+        "name": "Pouchy"
+    },
+    "16729": {
+        "name": "Darkalex9"
+    },
+    "16731": {
+        "name": "Karl Marx"
+    },
+    "16737": {
+        "name": "blaze31"
+    },
+    "16744": {
+        "name": "Tioh"
+    },
+    "16783": {
+        "name": "Tim the Psycho Bot"
+    },
+    "16788": {
+        "name": "muleyyyy"
+    },
+    "16795": {
+        "name": "Luxemburg_"
+    },
+    "16804": {
+        "name": "Dr.Grow"
+    },
+    "16809": {
+        "name": "doohhhh"
+    },
+    "16810": {
+        "name": "Techy"
+    },
+    "16814": {
+        "name": "Gargamel"
+    },
+    "16889": {
+        "name": "daswaseinbefel",
+        "ragl": {
+            "12": {
+                "p": 2,
+                "w": 0
+            }
+        }
+    },
+    "16966": {
+        "name": "XiaoMai"
+    },
+    "16967": {
+        "name": "C3(Z)"
+    },
+    "16978": {
+        "name": "Dr.DJ"
+    },
+    "16990": {
+        "name": "openra_admin"
+    },
+    "17029": {
+        "name": "Jake"
+    },
+    "17030": {
+        "name": "Mar_2k6"
+    },
+    "17053": {
+        "name": "realsloth"
+    },
+    "17106": {
+        "name": "neen"
+    },
+    "17212": {
+        "name": "1430Grandi"
+    },
+    "17239": {
+        "name": "Fazzz",
+        "ragl": {
+            "14": {
+                "p": 26,
+                "w": 19
+            },
+            "15": {
+                "p": 20,
+                "w": 17
+            }
+        }
+    },
+    "17267": {
+        "name": "General Carl"
+    },
+    "17300": {
+        "name": "wonky"
+    },
+    "17321": {
+        "name": "gg."
+    },
+    "17367": {
+        "name": "whackpak"
+    },
+    "17380": {
+        "name": "ilrat"
+    },
+    "17465": {
+        "name": "tonfisk1337"
+    },
+    "17600": {
+        "name": "zipex"
+    },
+    "17607": {
+        "name": "BigHALK",
+        "ragl": {
+            "13": {
+                "p": 24,
+                "w": 9
+            },
+            "14": {
+                "p": 19,
+                "w": 7
+            },
+            "15": {
+                "p": 20,
+                "w": 13
+            }
+        }
+    },
+    "17622": {
+        "name": "ICLifeNPixels"
+    },
+    "17627": {
+        "name": "Fixie Hartmann"
+    },
+    "17632": {
+        "name": "jemoeder"
+    },
+    "17642": {
+        "name": "radiohead"
+    },
+    "17645": {
+        "name": "xaxl"
+    },
+    "17672": {
+        "name": "annomy"
+    },
+    "17696": {
+        "name": "Dr.Easy"
+    },
+    "17714": {
+        "name": "peep"
+    },
+    "17730": {
+        "name": "dabber2022"
+    },
+    "17756": {
+        "name": "batica81"
+    },
+    "17757": {
+        "name": "Mare"
+    },
+    "17762": {
+        "name": "PacmanGraphics"
+    },
+    "17783": {
+        "name": "doohhhhh"
+    },
+    "17793": {
+        "name": "CarISweden"
+    },
+    "17794": {
+        "name": "KushBuddy"
+    },
+    "17851": {
+        "name": "Stillness"
+    },
+    "17907": {
+        "name": "jeff"
+    },
+    "17946": {
+        "name": "Chrisib\u00e4r"
+    },
+    "17988": {
+        "name": "CommanderNoob"
+    },
+    "18017": {
+        "name": "Docker_b_49"
+    },
+    "18037": {
+        "name": ".gg"
+    },
+    "18051": {
+        "name": "Lettuce"
+    },
+    "18052": {
+        "name": "qazxcvqaz"
+    },
+    "18102": {
+        "name": "AjejeBraso"
+    },
+    "18149": {
+        "name": "bheleu"
+    },
+    "18150": {
+        "name": "master zorak"
+    },
+    "18203": {
+        "name": "catsby"
+    },
+    "18231": {
+        "name": "ApatheiA"
+    },
+    "18246": {
+        "name": "creo",
+        "ragl": {
+            "14": {
+                "p": 20,
+                "w": 15
+            }
+        }
+    },
+    "18262": {
+        "name": "Thule"
+    },
+    "18263": {
+        "name": "Orcaz"
+    },
+    "18272": {
+        "name": "echkourine25"
+    },
+    "18280": {
+        "name": "pMalone"
+    },
+    "18282": {
+        "name": "Slyjournz"
+    },
+    "18283": {
+        "name": "TheodoxIV"
+    },
+    "18284": {
+        "name": "psykotekIV"
+    },
+    "18299": {
+        "name": "Tunefish"
+    },
+    "18301": {
+        "name": "CyborgMeatPuppet"
+    },
+    "18317": {
+        "name": "qmkadz"
+    },
+    "18318": {
+        "name": "Vivin"
+    },
+    "18359": {
+        "name": "goldie",
+        "ragl": {
+            "15": {
+                "p": 19,
+                "w": 5
+            }
+        }
+    },
+    "18376": {
+        "name": "momo84"
+    },
+    "18404": {
+        "name": "tea_bag"
+    },
+    "18408": {
+        "name": "rovation"
+    },
+    "18417": {
+        "name": "808MANN"
+    },
+    "18431": {
+        "name": "MJI"
+    },
+    "18437": {
+        "name": "ivan_ivanov_2007"
+    },
+    "18445": {
+        "name": "AvAlanche"
+    },
+    "18480": {
+        "name": "WhatEverMan"
+    },
+    "18522": {
+        "name": "Tazding0"
+    },
+    "18537": {
+        "name": "Spud"
+    },
+    "18562": {
+        "name": "pepe the frog"
+    },
+    "18563": {
+        "name": "Piwor"
+    },
+    "18571": {
+        "name": "LongNine"
+    },
+    "18589": {
+        "name": "muttilein"
+    },
+    "18620": {
+        "name": "Ne0n"
+    },
+    "18646": {
+        "name": "realpeep"
+    },
+    "18672": {
+        "name": "fIr3fOx_"
+    },
+    "18693": {
+        "name": "Panek"
+    },
+    "18724": {
+        "name": "rolikoviekonki"
+    },
+    "18732": {
+        "name": "Logos Vindex"
+    },
+    "18733": {
+        "name": "T-Dogg"
+    },
+    "18751": {
+        "name": "quaXe"
+    },
+    "18778": {
+        "name": "gunit"
+    },
+    "18779": {
+        "name": "eX3c"
+    },
+    "18794": {
+        "name": "Lukewarm Placenta"
+    },
+    "18797": {
+        "name": "Longlong"
+    },
+    "18803": {
+        "name": "nbaglietto"
+    },
+    "18804": {
+        "name": "RoboCody"
+    },
+    "18810": {
+        "name": "Mav"
+    },
+    "18864": {
+        "name": "fiwo",
+        "ragl": {
+            "15": {
+                "p": 18,
+                "w": 4
+            }
+        }
+    },
+    "18892": {
+        "name": "Aegidius"
+    },
+    "18910": {
+        "name": "TastySausage"
+    },
+    "18911": {
+        "name": "MaksimGrabko"
+    },
+    "18917": {
+        "name": "Galaxis"
+    },
+    "18925": {
+        "name": "danejohno"
+    },
+    "18926": {
+        "name": "Ginge"
+    },
+    "18931": {
+        "name": "RArev.64"
+    },
+    "18934": {
+        "name": "BussyBoy"
+    },
+    "18935": {
+        "name": "InspectorOfNests"
+    },
+    "18941": {
+        "name": "C4Huevos"
+    },
+    "18947": {
+        "name": "mitestone"
+    },
+    "18968": {
+        "name": "Nightingale",
+        "ragl": {
+            "15": {
+                "p": 20,
+                "w": 18
+            }
+        }
+    },
+    "18979": {
+        "name": "Rocket105"
+    },
+    "18987": {
+        "name": "Lasol"
+    },
+    "18989": {
+        "name": "s\u00e4\u00e4mies1"
+    },
+    "18993": {
+        "name": "Talidan"
+    },
+    "19024": {
+        "name": "xfnty"
+    },
+    "19076": {
+        "name": "pillbox"
+    },
+    "19109": {
+        "name": "NixPlayer"
+    },
+    "19133": {
+        "name": "jediandrew"
+    },
+    "19177": {
+        "name": "kaspersky"
+    },
+    "19178": {
+        "name": "BaTbKa777"
+    },
+    "19209": {
+        "name": "Medium Silo"
+    },
+    "19219": {
+        "name": "Time"
+    },
+    "19241": {
+        "name": "yyfyyf"
+    },
+    "19296": {
+        "name": "lambda madness"
+    },
+    "19305": {
+        "name": "sir123"
+    },
+    "19317": {
+        "name": "Comando"
+    },
+    "19376": {
+        "name": "-Y_a_M_y-"
+    },
+    "19453": {
+        "name": "Leader of Vodka"
+    },
+    "19454": {
+        "name": "random_player"
+    },
+    "19457": {
+        "name": "Jacomo"
+    },
+    "19461": {
+        "name": "0121WinnerGang"
+    },
+    "19474": {
+        "name": "OGAtomic"
+    },
+    "19494": {
+        "name": "Mirror2999"
+    },
+    "19523": {
+        "name": "Ankram"
+    },
+    "19553": {
+        "name": "cpb"
+    },
+    "19557": {
+        "name": "CRYPIC@1"
+    },
+    "19597": {
+        "name": "nordikki"
+    },
+    "19612": {
+        "name": "djarum"
+    },
+    "19618": {
+        "name": "kevinnnn"
+    },
+    "19619": {
+        "name": "anvandaren"
+    },
+    "19620": {
+        "name": "mertpinkman"
+    },
+    "19622": {
+        "name": "sloppyy"
+    },
+    "19623": {
+        "name": "Form"
+    },
+    "19654": {
+        "name": "Easy Dude !!!"
+    },
+    "19661": {
+        "name": "MrVegan1"
+    },
+    "19662": {
+        "name": "FieldRebel"
+    },
+    "19728": {
+        "name": "vgy"
+    },
+    "19771": {
+        "name": "itsrob"
+    },
+    "19776": {
+        "name": "Klm"
+    },
+    "19810": {
+        "name": "ConscriptZor"
+    },
+    "19811": {
+        "name": "Mr.Bombarino"
+    }
 }

@@ -12,7 +12,7 @@ from math import ceil, floor
 SEASON = 15
 # Season 15 registrations.
 REGISTRATION_CLOSE_DATE = date(2023, 10, 5)
-REGISTRATIONS = [15899, 16066, 11913, 7714, 7387, 13008, 18864, 15428, 13705, 7304, 17239, 6793, 
+REGISTRATIONS = [15899, 16066, 11913, 7714, 7387, 13008, 18864, 15428, 13705, 7304, 17239, 6793,
                  17607, 3952, 5292, 14769, 8860, 6751, 6771, 6430, 15469, 18359, 18968, 19133]
 # Season 14 registrations.
 #REGISTRATION_CLOSE_DATE = date(2023, 4, 27)
@@ -42,7 +42,8 @@ TARGET_DIVISION_SIZE = 12
 DIVISION_NAMES = ['Masters', 'Minions', 'Recruits']
 
 with open('docs/data/players.json') as players_file:
-    player_names = json.load(players_file)
+    player_data = json.load(players_file)
+player_names = {player_id: data['name'] for player_id, data in player_data.items()}
 
 # Continuity ranking (Nb. Only season finishers are ranked)
 # * Season forfeits are placed last in their division

@@ -12,10 +12,11 @@ import requests
 results_dir = 'results'
 data_dir = os.path.join('docs', 'data')
 
+ragl_name = 'ragl'
 results_urls = {
     'kk': None,
     'ladder': 'http://oraladder.net/latest-js?mod=ra',
-    'ragl': 'https://ragl.org/games/json'
+    ragl_name: 'https://ragl.org/games/json'
 }
 
 def str_to_date(date_string):
@@ -105,6 +106,9 @@ def get_canonical_player_id(player):
         player_id = str(player_id_replacements[player_id])
     return int(player_id)
 
+with open(os.path.join(data_dir, 'ragl.json')) as ragl_file:
+    ragl_details = json.load(ragl_file)
+
 start_datetime = str_to_date('2016-01-01 00:00:00')
 now = datetime.date.today()
 # End date is the beginning of this week, so we're only including complete weeks.
@@ -144,7 +148,7 @@ def glicko2_table(ratings, games):
                 won[winner] += 1
                 for player in [game['p0'], game['p1']]:
                     if player['id'] not in player_data:
-                        player_data[player['id']] = player['name']
+                        player_data[player['id']] = {'name': player['name']}
         for player_id in ratings.keys():
             if len(results[player_id]) > 0:
                 ratings[player_id].update_player(opponent_ratings[player_id], opponent_rds[player_id], results[player_id])
@@ -164,12 +168,24 @@ def glicko2_table(ratings, games):
 ratings = collections.defaultdict(glicko2_init)
 
 results = []
+per_player_ragl_games = collections.defaultdict(lambda: collections.defaultdict(lambda: {'p': 0, 'w': 0}))
 for year in sorted(results_filenames_by_year.keys()):
     for competition, filename in results_filenames_by_year[year].items():
         with open(filename) as results_file:
-            results += json.load(results_file)
+            competition_results = json.load(results_file)
+            if competition == ragl_name:
+                for season in ragl_details['seasonDates'].keys():
+                    for result in competition_results:
+                        if result['date'] >= ragl_details['seasonDates'][season]['start'] and result['date'] <= ragl_details['seasonDates'][season]['end']:
+                            for p in ['p0', 'p1']:
+                                per_player_ragl_games[get_canonical_player_id(result[p])][season]['p'] += 1
+                            per_player_ragl_games[get_canonical_player_id(result['p0'])][season]['w'] += 1
+            results += competition_results
 
 data, player_data = glicko2_table(ratings, results)
+
+for player_id, player_ragl_games in per_player_ragl_games.items():
+    player_data[player_id]['ragl'] = player_ragl_games
 
 # Create the data files.
 with open(os.path.join(data_dir, 'timestamps.json'), 'w') as timestamp_file:

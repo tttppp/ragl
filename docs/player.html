@@ -31,7 +31,7 @@
                                         lostTotal += lost;
                                     }
                                     if (entry.id != playerId) {
-                                        participantGroup += ' (as ' + players[entry.id] + ')';
+                                        participantGroup += ' (as ' + players[entry.id]['name'] + ')';
                                     }
                                     $('#statistics_ragl_' + pastSeasonRef).html($('<a>').attr('href', 'standings.html?season=' + pastSeasonRef + '#' + divisionTitle.replace(' ', '')).text(participantGroup));
                                 }
@@ -54,10 +54,10 @@
                             const playerIds = Object.keys(players);
                             playerId = playerIds[Math.floor(playerIds.length * Math.random())];
                         }
-                        var name = players[playerId];
+                        var name = players[playerId]['name'];
                         while (playerId in replacements) {
                             playerId = Number(replacements[playerId]);
-                            name = players[playerId] + ' (' + name + ')';
+                            name = players[playerId]['name'] + ' (' + name + ')';
                         }
                         $('#name').text(name)
 

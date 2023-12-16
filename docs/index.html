@@ -70,7 +70,7 @@
                 weekData.forEach((rowData, rowIndex) => {
                     const playerId = rowData['i'];
                     const previousData = previousWeekByPlayer[playerId];
-                    const name = players[playerId];
+                    const name = players[playerId]['name'];
                     const rating = formatField(rowData, previousData, 'r');
                     const error = formatField(rowData, previousData, 'e');
                     const played = formatField(rowData, previousData, 'p');

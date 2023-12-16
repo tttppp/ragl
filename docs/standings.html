@@ -24,7 +24,7 @@
             }
 
             function makePlayerLink(id, players) {
-                return $('<a>').attr('href', 'player.html?player=' + id).text(players[id]);
+                return $('<a>').attr('href', 'player.html?player=' + id).text(players[id]['name']);
             }
 
             function makeRows(columns, entries, players) {
