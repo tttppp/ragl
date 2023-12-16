@@ -22,13 +22,15 @@
                                         divisionTitle += ' ' + groupName;
                                     }
                                     var participantGroup = 'S' + pastSeasonRef + ' ' + divisionTitle;
+                                    if (players[raglPlayerId]['ragl']) {
+                                        var won = players[raglPlayerId]['ragl'][Number(pastSeasonRef)]['w'];
+                                        var lost = (players[raglPlayerId]['ragl'][Number(pastSeasonRef)]['p'] - won);
+                                        participantGroup += ' (W' + won + ' / L' + lost + ')'
+                                        wonTotal += won;
+                                        lostTotal += lost;
+                                    }
                                     if (entry.seasonForfeit) {
                                         participantGroup += ' (SF)'
-                                    } else {
-                                        var lost = (entry.played - entry.won);
-                                        participantGroup += ' (W' + entry.won + ' / L' + lost + ')'
-                                        wonTotal += entry.won;
-                                        lostTotal += lost;
                                     }
                                     if (entry.id != playerId) {
                                         participantGroup += ' (as ' + players[entry.id]['name'] + ')';
