@@ -1522,5 +1522,17 @@
             "id": 17607,
             "name": "BigHALK"
         }
+    },
+    {
+        "date": "2024-01-21 17:37:16",
+        "map": "Ups and Downs",
+        "p0": {
+            "id": 18359,
+            "name": "goldie"
+        },
+        "p1": {
+            "id": 17607,
+            "name": "BigHALK"
+        }
     }
 ]
