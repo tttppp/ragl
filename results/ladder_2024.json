@@ -2506,5 +2506,41 @@
             "id": 12273,
             "name": "luckyluke"
         }
+    },
+    {
+        "date": "2024-02-10 08:29:44",
+        "map": "Twisted Petrol Station",
+        "p0": {
+            "id": 15017,
+            "name": "Kalion"
+        },
+        "p1": {
+            "id": 7787,
+            "name": "porcukor"
+        }
+    },
+    {
+        "date": "2024-02-10 09:42:14",
+        "map": "Innocence",
+        "p0": {
+            "id": 15017,
+            "name": "Kalion"
+        },
+        "p1": {
+            "id": 12444,
+            "name": "biasao"
+        }
+    },
+    {
+        "date": "2024-02-10 16:34:55",
+        "map": "Ups and Downs",
+        "p0": {
+            "id": 18810,
+            "name": "Mav"
+        },
+        "p1": {
+            "id": 15155,
+            "name": "Dingo"
+        }
     }
 ]
