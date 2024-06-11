@@ -15130,5 +15130,41 @@
             "id": 14596,
             "name": "PrinzPi"
         }
+    },
+    {
+        "date": "2024-06-10 09:59:48",
+        "map": "Command and Control",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzz"
+        },
+        "p1": {
+            "id": 15428,
+            "name": "bete"
+        }
+    },
+    {
+        "date": "2024-06-10 10:15:59",
+        "map": "Champion",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzz"
+        },
+        "p1": {
+            "id": 15428,
+            "name": "bete"
+        }
+    },
+    {
+        "date": "2024-06-10 18:25:46",
+        "map": "Kriegsschweine",
+        "p0": {
+            "id": 12273,
+            "name": "luckyluke"
+        },
+        "p1": {
+            "id": 14596,
+            "name": "PrinzPi"
+        }
     }
 ]
