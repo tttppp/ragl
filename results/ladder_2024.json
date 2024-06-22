@@ -15850,5 +15850,17 @@
             "id": 13753,
             "name": "gargraval"
         }
+    },
+    {
+        "date": "2024-06-21 18:24:02",
+        "map": "Kriegsschweine",
+        "p0": {
+            "id": 19961,
+            "name": "rwmanos"
+        },
+        "p1": {
+            "id": 20270,
+            "name": "Heiner007"
+        }
     }
 ]
