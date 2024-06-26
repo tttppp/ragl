@@ -16090,5 +16090,29 @@
             "id": 12273,
             "name": "luckyluke"
         }
+    },
+    {
+        "date": "2024-06-25 16:05:43",
+        "map": "The Wold",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzz"
+        },
+        "p1": {
+            "id": 12444,
+            "name": "biasao"
+        }
+    },
+    {
+        "date": "2024-06-25 16:21:56",
+        "map": "Kriegsschweine",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzz"
+        },
+        "p1": {
+            "id": 12444,
+            "name": "biasao"
+        }
     }
 ]
