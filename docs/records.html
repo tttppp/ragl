@@ -1,0 +1,50 @@
+<html>
+    <head>
+        <title>RAGL Ladder Records</title>
+        <link rel="stylesheet" href="ragl.css">
+        <script src="js/jquery.min.js"></script>
+        <script>
+            $(document).ready(function() {
+                $.getJSON('data/records_position.json', function(records) {
+                    $.getJSON('data/players.json', function(players) {
+                        records.forEach((rowData, rowIndex) => {
+                            const playerId = rowData['i'];
+                            const name = players[playerId]['name'];
+                            const recordData = [];
+                            Object.entries(rowData['O']).forEach(([position, duration]) => recordData.push('#' + position + ' for ' + duration + ' week' + (duration == 1 ? '' : 's')));
+                            $('#records').append($('<tr>')
+                                .append($('<td>').text(rowIndex + 1))
+                                .append($('<td>').append($('<a>').attr('href', 'player.html?player=' + playerId).text(name)))
+                                .append($('<td>').text(recordData.join(', '))));
+                        });
+                    });
+                });
+            });
+        </script>
+    </head>
+    <body>
+        <div id="content">
+            <div id="menu">
+                <span><a href="index.html">RAGL Ladder</a></span>
+                <span><a href="standings.html">RAGL Standings</a></span>
+                <span><a href="forfeits.html">RAGL Forfeits</a></span>
+                <span><a href="records.html">Ladder Records</a></span>
+                <span><a href="https://github.com/tttppp/ragl/blob/master/rules.md">RAGL Rules</a></span>
+            </div>
+            <h1><a href="records.html">RAGL Ladder Records</a></h1>
+            <h2>Longest Periods at the top of the RAGL Ladder:</h2>
+            <table id="results">
+                <thead>
+                    <tr>
+                        <th>Rank</th>
+                        <th>Name</th>
+                        <th>Record</th>
+                    </tr>
+                </thead>
+                <tbody id="records">
+
+                </tbody>
+            </table>
+        </div>
+    </body>
+</html>

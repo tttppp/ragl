@@ -207,6 +207,25 @@ for week_timestamp, week_data in sorted(data.items(), key=lambda item: -item[0])
         json.dump(week_table, week_file, indent=4, sort_keys=True)
 with open(os.path.join(data_dir, 'players.json'), 'w') as players_file:
     json.dump(player_data, players_file, indent=4, sort_keys=True)
+position_data = []
+percentile_data = []
 for player_id, entries in player_rating_data.items():
     with open(os.path.join(data_dir, 'players', 'p{}.json'.format(player_id)), 'w') as player_rating_file:
         json.dump(entries, player_rating_file, indent=4, sort_keys=True)
+    position_duration = collections.Counter()
+    percentile_duration = collections.Counter()
+    # Skip the week in progress and the very first week.
+    for entry in entries[1:-1]:
+        position_duration[entry['o']] += 1
+        percentile_duration[entry['c']] += 1
+    position_duration = {position: count for position, count in position_duration.items() if position in sorted(position_duration.keys())[:3]}
+    percentile_duration = {percentile: count for percentile, count in percentile_duration.items() if percentile in sorted(percentile_duration.keys())[:3]}
+    if len(position_duration) > 0:
+        position_data.append({'i': player_id, 'O': position_duration})
+        percentile_data.append({'i': player_id, 'C': percentile_duration})
+position_data.sort(key=lambda entry: [[pair[0], -pair[1]] for pair in sorted(entry['O'].items())])
+percentile_data.sort(key=lambda entry: [[pair[0], -pair[1]] for pair in sorted(entry['C'].items())])
+with open(os.path.join(data_dir, 'records_position.json'), 'w') as records_file:
+    json.dump(position_data, records_file, indent=4, sort_keys=True)
+with open(os.path.join(data_dir, 'records_percentile.json'), 'w') as records_file:
+    json.dump(percentile_data, records_file, indent=4, sort_keys=True)
