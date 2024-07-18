@@ -17650,5 +17650,17 @@
             "id": 14596,
             "name": "PrinzPi"
         }
+    },
+    {
+        "date": "2024-07-18 00:37:12",
+        "map": "Wasted Opportunity",
+        "p0": {
+            "id": 18810,
+            "name": "Mav"
+        },
+        "p1": {
+            "id": 13660,
+            "name": "Eleiko"
+        }
     }
 ]
