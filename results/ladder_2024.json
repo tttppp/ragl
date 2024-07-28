@@ -18598,5 +18598,89 @@
             "id": 12273,
             "name": "luckyluke"
         }
+    },
+    {
+        "date": "2024-07-27 08:55:55",
+        "map": "Wasted Opportunity",
+        "p0": {
+            "id": 12444,
+            "name": "biasao"
+        },
+        "p1": {
+            "id": 17465,
+            "name": "tonfisk1337"
+        }
+    },
+    {
+        "date": "2024-07-27 18:35:34",
+        "map": "Command and Control",
+        "p0": {
+            "id": 12273,
+            "name": "luckyluke"
+        },
+        "p1": {
+            "id": 14229,
+            "name": "zx5"
+        }
+    },
+    {
+        "date": "2024-07-27 18:49:34",
+        "map": "The Wold",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzz"
+        },
+        "p1": {
+            "id": 12273,
+            "name": "luckyluke"
+        }
+    },
+    {
+        "date": "2024-07-27 19:02:11",
+        "map": "Discovery",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzz"
+        },
+        "p1": {
+            "id": 18810,
+            "name": "Mav"
+        }
+    },
+    {
+        "date": "2024-07-27 19:12:17",
+        "map": "Dry Creek Run",
+        "p0": {
+            "id": 18810,
+            "name": "Mav"
+        },
+        "p1": {
+            "id": 12273,
+            "name": "luckyluke"
+        }
+    },
+    {
+        "date": "2024-07-27 19:27:00",
+        "map": "Champion",
+        "p0": {
+            "id": 18810,
+            "name": "Mav"
+        },
+        "p1": {
+            "id": 12273,
+            "name": "luckyluke"
+        }
+    },
+    {
+        "date": "2024-07-27 19:45:29",
+        "map": "Discovery",
+        "p0": {
+            "id": 18810,
+            "name": "Mav"
+        },
+        "p1": {
+            "id": 12273,
+            "name": "luckyluke"
+        }
     }
 ]
