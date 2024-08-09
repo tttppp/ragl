@@ -19246,5 +19246,41 @@
             "id": 16474,
             "name": "Implies"
         }
+    },
+    {
+        "date": "2024-08-08 12:59:24",
+        "map": "Command and Control",
+        "p0": {
+            "id": 9156,
+            "name": "toiletbreakbrb"
+        },
+        "p1": {
+            "id": 11099,
+            "name": "Dodder"
+        }
+    },
+    {
+        "date": "2024-08-08 13:35:55",
+        "map": "Champion",
+        "p0": {
+            "id": 14725,
+            "name": "asam"
+        },
+        "p1": {
+            "id": 20516,
+            "name": "newlehr"
+        }
+    },
+    {
+        "date": "2024-08-08 16:45:51",
+        "map": "The Wold",
+        "p0": {
+            "id": 14725,
+            "name": "asam"
+        },
+        "p1": {
+            "id": 19618,
+            "name": "kevinnnn"
+        }
     }
 ]
