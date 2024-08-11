@@ -19294,5 +19294,29 @@
             "id": 13994,
             "name": "jirik"
         }
+    },
+    {
+        "date": "2024-08-10 19:02:53",
+        "map": "Wasted Opportunity",
+        "p0": {
+            "id": 7617,
+            "name": "worldpeace"
+        },
+        "p1": {
+            "id": 12273,
+            "name": "luckyluke"
+        }
+    },
+    {
+        "date": "2024-08-10 19:20:57",
+        "map": "Discovery",
+        "p0": {
+            "id": 12273,
+            "name": "luckyluke"
+        },
+        "p1": {
+            "id": 7617,
+            "name": "worldpeace"
+        }
     }
 ]
