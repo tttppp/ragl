@@ -1,6 +1,6 @@
 # The Rulebook
 
-Red Alert Global League (RAGL), Season 15 is played starting 2023-10-09. We will aim to be finished in 10 weeks by 2023-12-17. This timespan includes up to 7 weeks for the group stage and 3 weeks reserved for unforeseen delays, tiebreakers and playoffs.
+Red Alert Global League (RAGL), Season 16 is played starting 2024-10-07. We will aim to be finished in 10 weeks by 2024-12-15. This timespan includes up to 7 weeks for the group stage and 3 weeks reserved for unforeseen delays, tiebreakers and playoffs.
 Timespan of the season is subject to change depending on actual player rosters and will be finalized after player registrations are closed.
 
 Current prize pool total: TBA
@@ -49,8 +49,6 @@ For details on prize pool contributions, check out the [Prize Pool section](#5.2
 
 1.1.6 Players who feel like they've found themselves in a division above their skill level may request to be dropped to a lower division to better accommodate them. These requests will be considered by the administrators.
 
-1.1.7 League officials reserve the rights to not honour the above rules in special cases.
-
 ## 1.2 Group stage
 
 1.2.1 The group stage is held in a round robin format, where each player is to play a match against every opponent in his group.
@@ -74,9 +72,9 @@ For details on prize pool contributions, check out the [Prize Pool section](#5.2
 * Total strikes (less strikes is better)
 * RAGL Ladder rating from the Friday before the Bo5s started
 
-1.3.4 Strikes can be given for a number of different reasons, including failure to report a match, cheating, etc. Each strike is marked in Scoreboards.
+1.3.4 Strikes can be given for a number of different reasons, including failure to report a match, cheating, etc. Strikes are listed in the forum.
 
-1.3.5 Three strikes accumulated during the season result in a straight Disqualification from the group stage. Disqualified players are cleared of any group stage results in that season and are placed last in their respective group.
+1.3.5 Three strikes accumulated during the season result in a straight disqualification from the group stage. Disqualified players are cleared of any group stage results in that season and are placed last in their group.
 
 1.3.6 Players finishing in the top 4 spots of Masters are promoted into Masters Playoffs which decide final standings in Masters.
 
@@ -121,7 +119,7 @@ For details on prize pool contributions, check out the [Prize Pool section](#5.2
 
 ## 2.1 New signups
 
-2.1.1 New players have until 2023-10-05 to send the registration info.
+2.1.1 New players have until 2024-10-03 to send the registration info.
 
 2.1.2 Registration takes place through Discord (#ragl-signups in https://discord.gg/99zBDuS), the primary channel of communication for RAGL, or in the registrations forum thread.
 
@@ -131,13 +129,13 @@ For details on prize pool contributions, check out the [Prize Pool section](#5.2
 * OpenRA discord name (Discord is the primary channel for communication);
 * Forum name (used to find player id).
 
-2.1.4 Registered players are put onto Signup list. If the player sent their registration info but wasn't put onto Signup list then they should subsequently contact the officials no later than the final date.
+2.1.4 Registered players are put onto Signup list. If a player has sent their registration info but hasn't been put onto the Signup list then they should contact the officials no later than the final registration date.
 
 ## 2.2 Returning players
 
-2.2.1 Players transferring over from the previous season have until 2023-10-05 to confirm their participation.
+2.2.1 Players transferring over from the previous season have until 2024-10-03 to confirm their participation.
 
-2.2.2 Returning players don't have to provide any other information than the expressed confirmation, officials are to request any of the above if mandatory information is missing.
+2.2.2 Returning players don't have to provide any other information than the expressed confirmation, officials will request any of the above if mandatory information is missing.
 
 ## 2.3 Qualifications
 
@@ -151,7 +149,7 @@ See https://tttppp.github.io/ragl/forfeits.html for individual records.
 
 ## 2.4 Waiting list
 
-2.4.1 In the event of players leaving during the first week for any reasons, players may be added from the waiting list. The league officials will use a combination of the waiting list and promotion to fill the vacancy.
+2.4.1 In the event of players leaving during the first week for any reasons, they may be replaced from the waiting list. The league officials will use a combination of the waiting list and promotion to fill the vacancy.
 
 # 3. Communications
 
@@ -165,7 +163,7 @@ Official communications between the players and with league officials are primar
 
 ## 3.2 Match reporting
 
-3.2.1 Match reporting is done automatically by RAGL.org and playing on the official RAGL servers. Games played on any other server than the RAGL official server will probably need to be replayed at the discretion of the league officials. After you have completed a match, the result should appear on your player profile at ragl.org.
+3.2.1 Match reporting is done automatically by ragl.org and playing on the official RAGL servers. Games played on any other server than the RAGL official server will probably need to be replayed at the discretion of the league officials. After you have completed a match, the result should appear on your player profile at ragl.org.
 
 3.2.8 Failure to play a match until its weekly deadline can result in strikes for both players. These matches still need to be played (same timeframe as delayed matches).
 
@@ -261,8 +259,6 @@ Players are free to make exceptions from this rule at the discretion of both par
 
 4.1.7 The use of modified clients that alter core gameplay in anyway are strictly forbidden. Positive confirmation of the use of a modified client to gain an unfair advantage will impose a strict ruling, up to a possible ban from participation in RAGL for as long as admins see fit.
 
-4.1.7.1 It is explicitly allowed to use the client Punsho released with [support for dark player colors](https://github.com/OpenRA/OpenRA/pull/20721) as an alternative to release-20230225.
-
 4.1.8 Players found colluding in order to influence the result of their match and remove the uncertainty in the outcome will be subject to strict ruling, up to a possible ban from participation in RAGL for as long as admins see fit. This includes players who surrender prematurely or season forfeit in order to cancel their earlier results.
 
 4.1.9 Rules from the OpenRA Competitive server also apply to in-game chat and player names - don't be a dick. Failure to comply with this rule will result in disqualification.
@@ -271,17 +267,15 @@ Players are free to make exceptions from this rule at the discretion of both par
 
 ## 4.2 Map pool
 
-4.2.1 Map pool consists of 12 maps specifically uploaded to the Resource Centre and marked as "Category: RAGL 15" and explicit naming and thumbnail watermarks. Usage of any other versions of these maps for the league games is disallowed and will be rejected from being reported as a valid match result.
+4.2.1 Map pool consists of 12 maps specifically uploaded to the Resource Centre and marked as "Category: RAGL 16" and explicit naming and thumbnail watermarks. Usage of any other versions of these maps for the league games is disallowed and will be rejected from being reported as a valid match result.
 
 4.2.2 All maps include custom balance changes.
 
-4.2.3 Map pool can be found in the Competitive Discord server.
-
-4.2.3.1 An alternative version of snow maps using the temperate tileset has been provided for Season 15 to assist players with colourblindness. Players are encouraged to play the original map unless they have a strong reason for preferring the temperate version. For the purpose of map bans then the two versions of each map count as the same map.
+4.2.3 Map pool can be found in the Competitive Discord server or downloaded from ragl.org.
 
 ### 4.2.4 Map contest
 
-4.2.4: There will be a vote for the community's favourite map before RAGL, this map will be automatically included in the pool. Maps must be submitted by 2023-09-21.
+4.2.4: There will be a vote for the community's favourite map before RAGL, this map will be automatically included in the pool. Maps must be submitted by 2024-09-19.
 
 4.2.4.1: Map submissions should be made in this thread or in the #map-making channel of the OpenRA Competitive Discord server,
 
@@ -291,7 +285,7 @@ Players are free to make exceptions from this rule at the discretion of both par
 
 4.2.4.4: Voting will open once map submissions have closed.
 
-4.2.4.5: Voting will close on 2023-09-28.
+4.2.4.5: Voting will close on 2024-09-26.
 
 4.2.4.6: Voters assign 3pts, 2pts and 1pt to three different maps (it is not allowed to vote for fewer than three maps)
 
@@ -302,6 +296,8 @@ Players are free to make exceptions from this rule at the discretion of both par
 4.2.4.9: Any mapmakers who vote will receive 3pts bonus on all maps they submitted
 
 4.2.4.10: The map with the highest score will win. If two maps are tied on the same score then the tiebreaker will be number of people who gave it a score (including bonus points). If the maps are still tied after this then the map with the lowest resource centre id wins (as shown in the links below).
+
+4.2.4.11: If there are fewer than five map authors then the map contest will not be run.
 
 ## 4.3 Game disconnects
 
@@ -325,7 +321,7 @@ Players are free to make exceptions from this rule at the discretion of both par
 
 5.2.2 PayPal charges conversion fees for payouts in a different currency than the donation. Conversion fees for payouts will be drawn from the respective prize money rather than the entire pool.
 
-5.2.3 Current Season 15 prize pool: TBA
+5.2.3 Current Season 16 prize pool: TBA
 
 ## 5.3 Officials
 
@@ -343,9 +339,9 @@ For all inquiries you can contact us through Discord or reply on this thread.
 
 # Schedule Summary
 
-* 2023-09-21 Map submission deadline
-* 2023-09-28 Community map vote deadline
-* 2023-10-05 Player registrations close
-* 2023-10-09 Start of week 1
-* 2023-11-27 Start of Playoffs
-* 2023-12-17 Target for end of Playoffs
+* 2024-09-19 Map submission deadline
+* 2024-09-26 Community map vote deadline
+* 2024-10-03 Player registrations close
+* 2024-10-07 Start of week 1
+* 2024-11-25 Start of Playoffs
+* 2024-12-15 Target for end of Playoffs
