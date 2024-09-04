@@ -156,13 +156,14 @@ def glicko2_table(ratings, games):
                 ratings[player_id].did_not_compete()
             if ratings[player_id].rd > MAX_RD:
                 ratings[player_id].rd = MAX_RD
-            data[batch_end][player_id] = {
-                'i': player_id,
-                'r': round(ratings[player_id].rating - 3 * ratings[player_id].rd),
-                'e': round(3 * ratings[player_id].rd),
-                'p': played[player_id],
-                'w': won[player_id]
-            }
+            else:
+                data[batch_end][player_id] = {
+                    'i': player_id,
+                    'r': round(ratings[player_id].rating - 3 * ratings[player_id].rd),
+                    'e': round(3 * ratings[player_id].rd),
+                    'p': played[player_id],
+                    'w': won[player_id]
+                }
     return data, player_data
 
 ratings = collections.defaultdict(glicko2_init)

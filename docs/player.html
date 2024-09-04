@@ -64,40 +64,42 @@
                         $('#name').text(name)
 
                         $.getJSON('data/ragl.json', function(ragl) {
-                            $.getJSON('data/players/p'+playerId+'.json', function(weekData) {
-                                const weekInProgress = weekData[0]['d'];
-                                weekData.forEach(rowData => {
-                                    const timestamp = rowData['d'];
-                                    var raglSeason = '';
-                                    Object.entries(ragl['seasonDates']).forEach(entry => {
-                                        const [seasonStr, datePair] = entry;
-                                        const startTimestamp = Date.parse(datePair['start']) / 1000;
-                                        const endTimestamp = Date.parse(datePair['end']) / 1000;
-                                        if (timestamp >= startTimestamp && timestamp - 7*24*60*60 < endTimestamp) {
-                                            raglSeason = 'S' + seasonStr;
-                                        }
+                            $.getJSON('data/timestamps.json', function(timestamps) {
+                                const weekInProgress = timestamps[timestamps.length - 1];
+                                $.getJSON('data/players/p'+playerId+'.json', function(weekData) {
+                                    weekData.forEach(rowData => {
+                                        const timestamp = rowData['d'];
+                                        var raglSeason = '';
+                                        Object.entries(ragl['seasonDates']).forEach(entry => {
+                                            const [seasonStr, datePair] = entry;
+                                            const startTimestamp = Date.parse(datePair['start']) / 1000;
+                                            const endTimestamp = Date.parse(datePair['end']) / 1000;
+                                            if (timestamp >= startTimestamp && timestamp - 7*24*60*60 < endTimestamp) {
+                                                raglSeason = 'S' + seasonStr;
+                                            }
+                                        });
+                                        const date = new Date(timestamp * 1000);
+                                        const rank = rowData['o'];
+                                        const percentile = rowData['c'];
+                                        const rating = rowData['r'];
+                                        const error = rowData['e'];
+                                        const played = rowData['p'];
+                                        const won = rowData['w'];
+                                        const dateText = (timestamp == weekInProgress ? 'Week in progress' : date.toDateString());
+                                        $('#week').append($('<tr>')
+                                                .append($('<td>').append(raglSeason))
+                                                .append($('<td>').append($('<a>').attr('href', 'index.html?timestamp=' + timestamp).text(dateText)))
+                                                .append($('<td>').text(rank))
+                                                .append($('<td>').text(percentile))
+                                                .append($('<td>').text(rating))
+                                                .append($('<td>').text(error))
+                                                .append($('<td>').text(played))
+                                                .append($('<td>').text(won)));
                                     });
-                                    const date = new Date(timestamp * 1000);
-                                    const rank = rowData['o'];
-                                    const percentile = rowData['c'];
-                                    const rating = rowData['r'];
-                                    const error = rowData['e'];
-                                    const played = rowData['p'];
-                                    const won = rowData['w'];
-                                    const dateText = (timestamp == weekInProgress ? 'Week in progress' : date.toDateString());
-                                    $('#week').append($('<tr>')
-                                            .append($('<td>').append(raglSeason))
-                                            .append($('<td>').append($('<a>').attr('href', 'index.html?timestamp=' + timestamp).text(dateText)))
-                                            .append($('<td>').text(rank))
-                                            .append($('<td>').text(percentile))
-                                            .append($('<td>').text(rating))
-                                            .append($('<td>').text(error))
-                                            .append($('<td>').text(played))
-                                            .append($('<td>').text(won)));
+                                    $('#statistics_highestrank').text(Math.min(...weekData.map(rowData => rowData['o'])));
+                                    $('#statistics_highestpercentile').text(Math.min(...weekData.map(rowData => rowData['c'])));
+                                    $('#statistics_highestrating').text(Math.max(...weekData.map(rowData => rowData['r'])));
                                 });
-                                $('#statistics_highestrank').text(Math.min(...weekData.map(rowData => rowData['o'])));
-                                $('#statistics_highestpercentile').text(Math.min(...weekData.map(rowData => rowData['c'])));
-                                $('#statistics_highestrating').text(Math.max(...weekData.map(rowData => rowData['r'])));
                             });
 
                             for (var pastSeason = 1; pastSeason <= ragl.latestSeason; pastSeason++) {
