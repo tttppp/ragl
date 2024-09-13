@@ -20830,5 +20830,17 @@
             "id": 15017,
             "name": "Kalion"
         }
+    },
+    {
+        "date": "2024-09-12 17:40:22",
+        "map": "Fallout",
+        "p0": {
+            "id": 12273,
+            "name": "luckyluke"
+        },
+        "p1": {
+            "id": 11654,
+            "name": "Gtrizzle"
+        }
     }
 ]
