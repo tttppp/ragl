@@ -21046,5 +21046,53 @@
             "id": 20339,
             "name": "Sudothinker"
         }
+    },
+    {
+        "date": "2024-09-20 17:46:35",
+        "map": "Inhospitality",
+        "p0": {
+            "id": 18810,
+            "name": "Mav"
+        },
+        "p1": {
+            "id": 15428,
+            "name": "bete"
+        }
+    },
+    {
+        "date": "2024-09-20 17:53:53",
+        "map": "Fury Sands II",
+        "p0": {
+            "id": 18810,
+            "name": "Mav"
+        },
+        "p1": {
+            "id": 15428,
+            "name": "bete"
+        }
+    },
+    {
+        "date": "2024-09-20 18:00:55",
+        "map": "Cliffwoods",
+        "p0": {
+            "id": 18810,
+            "name": "Mav"
+        },
+        "p1": {
+            "id": 15428,
+            "name": "bete"
+        }
+    },
+    {
+        "date": "2024-09-20 18:12:45",
+        "map": "Hinterlands",
+        "p0": {
+            "id": 18810,
+            "name": "Mav"
+        },
+        "p1": {
+            "id": 15428,
+            "name": "bete"
+        }
     }
 ]
