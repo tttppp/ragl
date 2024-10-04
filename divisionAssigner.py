@@ -9,11 +9,14 @@ from functools import cmp_to_key
 import json
 from math import ceil, floor
 
-SEASON = 15
+SEASON = 16
+REGISTRATION_CLOSE_DATE = date(2024, 10, 3)
+REGISTRATIONS = [15469, 18968, 17239, 6430, 11913, 7304, 3952, 7387, 6793, 15428, 5292, 16066, 7714, 17607, 18864, 6751, 18359,
+                 8869, 21155, 20339, 20136, 21084, 6865, 13710]
 # Season 15 registrations.
-REGISTRATION_CLOSE_DATE = date(2023, 10, 5)
-REGISTRATIONS = [15899, 16066, 11913, 7714, 7387, 13008, 18864, 15428, 13705, 7304, 17239, 6793,
-                 17607, 3952, 5292, 14769, 8860, 6751, 6771, 6430, 15469, 18359, 18968, 19133]
+#REGISTRATION_CLOSE_DATE = date(2023, 10, 5)
+#REGISTRATIONS = [15899, 16066, 11913, 7714, 7387, 13008, 18864, 15428, 13705, 7304, 17239, 6793,
+#                 17607, 3952, 5292, 14769, 8860, 6751, 6771, 6430, 15469, 18359, 18968, 19133]
 # Season 14 registrations.
 #REGISTRATION_CLOSE_DATE = date(2023, 4, 27)
 #REGISTRATIONS = [16066, 6793, 11913, 17607, 7387, 7714, 15899, 3952, 17239,
@@ -237,9 +240,10 @@ with open_rating_file(REGISTRATION_CLOSE_DATE) as ratings_file:
     ladder_ratings = json.load(ratings_file)
 
 continuity_order = continuity_sort(REGISTRATIONS, standings_from_last_season, eliminations)
+potential_order = continuity_sort([player for division in standings_from_last_season for player in division], standings_from_last_season, eliminations)
 print('### Continuity ranking ###')
 for i, player_id in enumerate(continuity_order):
-    print('{} ({})'.format(player_names[str(player_id)], i+1))
+    print('{} ({})'.format(player_names[str(player_id)], potential_order.index(player_id) + 1))
 
 print('### Ladder ranking ###')
 ladder_order = ladder_sort(REGISTRATIONS, ladder_ratings)
