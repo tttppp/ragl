@@ -6,38 +6,38 @@ from datetime import date, timedelta
 from math import ceil
 from random import seed, shuffle
 
-SEASON = 15
-GROUP_STAGE_START_DATE = date(2023, 10, 9)
+SEASON = 16
+GROUP_STAGE_START_DATE = date(2024, 10, 7)
 GROUP_STAGE_WEEKS = 7
 
 divisions = [
 ('Masters', sorted(
-'''Kav (13705)
-Fazzar (17239)
+'''not happy (15469)
+Fazzz (17239)
+Nightingale (18968)
 Blackened (6430)
-Upps (7304)
-not happy (15469)
 maceman (6793)
-tux (15899)
-ROCKhardFISTnips (8860)
+Duke Bones (11913)
+inno (21084)
+Upps (7304)
+Ekanim (13710)
 anjew (3952)
-Mr Cloudy (6771)
-Mo (5292)
-milkman (16066)'''.split('\n'), key=str.casefold)),
+bete (15428)
+.1 (6865)'''.split('\n'), key=str.casefold)),
 
 ('Minions', sorted(
-'''Duke Bones (11913)
-Nilhall (7714)
-bete (15428)
+'''TTTPPP (7387)
+Mo (5292)
+milkman (16066)
+ORA_CN-Hans (7714)
 BigHALK (17607)
-Nightingale (18968)
-TTTPPP (7387)
-chouchani (14769)
+fiwo (18864)
+Sigil (8869)
 Tailix Killa Mentor (6751)
 goldie (18359)
-fiwo (18864)
-OpiumPrime (13008)
-jediandrew (19133)'''.split('\n'), key=str.casefold))
+Sudothinker (20339)
+Gregory_Mhf (20136)
+sliceoflife (21155)'''.split('\n'), key=str.casefold))
 ]
 
 # Make the schedule for the season reproducible.
