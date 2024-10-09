@@ -58,5 +58,17 @@
             "id": 5292,
             "name": "Mo"
         }
+    },
+    {
+        "date": "2024-10-08 10:20:21",
+        "map": "Island Fight [RAGL-16]",
+        "p0": {
+            "id": 7387,
+            "name": "TTTPPP"
+        },
+        "p1": {
+            "id": 20136,
+            "name": "Gregory_Mhf"
+        }
     }
 ]
