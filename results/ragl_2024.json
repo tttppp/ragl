@@ -70,5 +70,53 @@
             "id": 20136,
             "name": "Gregory_Mhf"
         }
+    },
+    {
+        "date": "2024-10-09 18:25:26",
+        "map": "Island Fight [RAGL-16]",
+        "p0": {
+            "id": 21084,
+            "name": "inno"
+        },
+        "p1": {
+            "id": 17239,
+            "name": "Fazzz"
+        }
+    },
+    {
+        "date": "2024-10-09 18:43:40",
+        "map": "Champion [RAGL-16]",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzz"
+        },
+        "p1": {
+            "id": 21084,
+            "name": "inno"
+        }
+    },
+    {
+        "date": "2024-10-09 21:21:58",
+        "map": "malevolence [RAGL-16]",
+        "p0": {
+            "id": 16066,
+            "name": "milkman"
+        },
+        "p1": {
+            "id": 18864,
+            "name": "fiwo"
+        }
+    },
+    {
+        "date": "2024-10-09 21:41:49",
+        "map": "Mini Asymmetric Battle [RAGL-16]",
+        "p0": {
+            "id": 16066,
+            "name": "milkman"
+        },
+        "p1": {
+            "id": 18864,
+            "name": "fiwo"
+        }
     }
 ]
