@@ -358,5 +358,101 @@
             "id": 18359,
             "name": "goldie"
         }
+    },
+    {
+        "date": "2024-10-13 18:22:12",
+        "map": "Mini Asymmetric Battle [RAGL-16]",
+        "p0": {
+            "id": 18864,
+            "name": "fiwo"
+        },
+        "p1": {
+            "id": 21155,
+            "name": "sliceoflife"
+        }
+    },
+    {
+        "date": "2024-10-13 18:36:16",
+        "map": "Elevation [RAGL-16]",
+        "p0": {
+            "id": 18864,
+            "name": "fiwo"
+        },
+        "p1": {
+            "id": 21155,
+            "name": "sliceoflife"
+        }
+    },
+    {
+        "date": "2024-10-13 18:53:37",
+        "map": "Deadly Dunes [RAGL-16]",
+        "p0": {
+            "id": 7714,
+            "name": "ORA_CN-Hans"
+        },
+        "p1": {
+            "id": 21155,
+            "name": "sliceoflife"
+        }
+    },
+    {
+        "date": "2024-10-13 19:06:31",
+        "map": "Bloody Winter [RAGL-16]",
+        "p0": {
+            "id": 7714,
+            "name": "ORA_CN-Hans"
+        },
+        "p1": {
+            "id": 21155,
+            "name": "sliceoflife"
+        }
+    },
+    {
+        "date": "2024-10-13 19:36:41",
+        "map": "Island Fight [RAGL-16]",
+        "p0": {
+            "id": 7714,
+            "name": "ORA_CN-Hans"
+        },
+        "p1": {
+            "id": 18864,
+            "name": "fiwo"
+        }
+    },
+    {
+        "date": "2024-10-13 19:52:04",
+        "map": "Mini Asymmetric Battle [RAGL-16]",
+        "p0": {
+            "id": 7714,
+            "name": "ORA_CN-Hans"
+        },
+        "p1": {
+            "id": 18864,
+            "name": "fiwo"
+        }
+    },
+    {
+        "date": "2024-10-13 19:53:07",
+        "map": "malevolence [RAGL-16]",
+        "p0": {
+            "id": 7387,
+            "name": "TTTPPP"
+        },
+        "p1": {
+            "id": 16066,
+            "name": "milkman"
+        }
+    },
+    {
+        "date": "2024-10-13 20:06:37",
+        "map": "Styx [RAGL-16]",
+        "p0": {
+            "id": 16066,
+            "name": "milkman"
+        },
+        "p1": {
+            "id": 7387,
+            "name": "TTTPPP"
+        }
     }
 ]
