@@ -23590,5 +23590,17 @@
             "id": 13710,
             "name": "Ekanim"
         }
+    },
+    {
+        "date": "2024-10-14 02:19:44",
+        "map": "The Wold",
+        "p0": {
+            "id": 16814,
+            "name": "Gargamel"
+        },
+        "p1": {
+            "id": 12654,
+            "name": "Therapist"
+        }
     }
 ]
