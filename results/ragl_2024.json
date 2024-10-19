@@ -826,5 +826,113 @@
             "id": 5292,
             "name": "Mo"
         }
+    },
+    {
+        "date": "2024-10-18 18:33:04",
+        "map": "malevolence [RAGL-16]",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 5292,
+            "name": "Mo"
+        }
+    },
+    {
+        "date": "2024-10-18 18:48:48",
+        "map": "malevolence [RAGL-16]",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 21084,
+            "name": "inno"
+        }
+    },
+    {
+        "date": "2024-10-18 18:50:07",
+        "map": "Darker Woods [RAGL-16]",
+        "p0": {
+            "id": 17607,
+            "name": "BigHALK"
+        },
+        "p1": {
+            "id": 18359,
+            "name": "goldie"
+        }
+    },
+    {
+        "date": "2024-10-18 19:03:26",
+        "map": "Elevation [RAGL-16]",
+        "p0": {
+            "id": 21084,
+            "name": "inno"
+        },
+        "p1": {
+            "id": 6430,
+            "name": "Blackened"
+        }
+    },
+    {
+        "date": "2024-10-18 19:08:58",
+        "map": "Styx [RAGL-16]",
+        "p0": {
+            "id": 17607,
+            "name": "BigHALK"
+        },
+        "p1": {
+            "id": 18359,
+            "name": "goldie"
+        }
+    },
+    {
+        "date": "2024-10-18 19:13:30",
+        "map": "malevolence [RAGL-16]",
+        "p0": {
+            "id": 6793,
+            "name": "maceman"
+        },
+        "p1": {
+            "id": 13710,
+            "name": "Ekanim"
+        }
+    },
+    {
+        "date": "2024-10-18 19:23:33",
+        "map": "Champion [RAGL-16]",
+        "p0": {
+            "id": 6793,
+            "name": "maceman"
+        },
+        "p1": {
+            "id": 13710,
+            "name": "Ekanim"
+        }
+    },
+    {
+        "date": "2024-10-18 19:47:27",
+        "map": "Bloody Winter [RAGL-16]",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 11913,
+            "name": "Duke Bones"
+        }
+    },
+    {
+        "date": "2024-10-18 19:53:27",
+        "map": "Messened [RAGL-16]",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 11913,
+            "name": "Duke Bones"
+        }
     }
 ]
