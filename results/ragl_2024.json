@@ -934,5 +934,29 @@
             "id": 11913,
             "name": "Duke Bones"
         }
+    },
+    {
+        "date": "2024-10-19 19:57:21",
+        "map": "Slight Miscalculation [RAGL-16]",
+        "p0": {
+            "id": 13710,
+            "name": "Ekanim"
+        },
+        "p1": {
+            "id": 5292,
+            "name": "Mo"
+        }
+    },
+    {
+        "date": "2024-10-19 20:16:21",
+        "map": "Elevation [RAGL-16]",
+        "p0": {
+            "id": 13710,
+            "name": "Ekanim"
+        },
+        "p1": {
+            "id": 5292,
+            "name": "Mo"
+        }
     }
 ]
