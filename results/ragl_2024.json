@@ -958,5 +958,53 @@
             "id": 5292,
             "name": "Mo"
         }
+    },
+    {
+        "date": "2024-10-20 19:15:23",
+        "map": "Champion [RAGL-16]",
+        "p0": {
+            "id": 13710,
+            "name": "Ekanim"
+        },
+        "p1": {
+            "id": 15428,
+            "name": "bete"
+        }
+    },
+    {
+        "date": "2024-10-20 19:23:32",
+        "map": "Mini Asymmetric Battle [RAGL-16]",
+        "p0": {
+            "id": 13710,
+            "name": "Ekanim"
+        },
+        "p1": {
+            "id": 15428,
+            "name": "bete"
+        }
+    },
+    {
+        "date": "2024-10-21 00:32:21",
+        "map": "Styx [RAGL-16]",
+        "p0": {
+            "id": 8869,
+            "name": "Sigil"
+        },
+        "p1": {
+            "id": 17607,
+            "name": "BigHALK"
+        }
+    },
+    {
+        "date": "2024-10-21 00:50:15",
+        "map": "Styx [RAGL-16]",
+        "p0": {
+            "id": 17607,
+            "name": "BigHALK"
+        },
+        "p1": {
+            "id": 8869,
+            "name": "Sigil"
+        }
     }
 ]
