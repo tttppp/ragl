@@ -24334,5 +24334,65 @@
             "id": 13710,
             "name": "Ekanim"
         }
+    },
+    {
+        "date": "2024-10-21 17:27:59",
+        "map": "Enhanced Snakes and Ladders",
+        "p0": {
+            "id": 14596,
+            "name": "PrinzPi"
+        },
+        "p1": {
+            "id": 12273,
+            "name": "luckyluke"
+        }
+    },
+    {
+        "date": "2024-10-21 17:48:34",
+        "map": "Styx",
+        "p0": {
+            "id": 12273,
+            "name": "luckyluke"
+        },
+        "p1": {
+            "id": 14596,
+            "name": "PrinzPi"
+        }
+    },
+    {
+        "date": "2024-10-21 18:14:50",
+        "map": "Mini Asymmetric Battle",
+        "p0": {
+            "id": 12273,
+            "name": "luckyluke"
+        },
+        "p1": {
+            "id": 14596,
+            "name": "PrinzPi"
+        }
+    },
+    {
+        "date": "2024-10-21 18:28:53",
+        "map": "malevolence",
+        "p0": {
+            "id": 12273,
+            "name": "luckyluke"
+        },
+        "p1": {
+            "id": 14596,
+            "name": "PrinzPi"
+        }
+    },
+    {
+        "date": "2024-10-21 19:00:02",
+        "map": "Slight Miscalculation",
+        "p0": {
+            "id": 6793,
+            "name": "maceman"
+        },
+        "p1": {
+            "id": 14596,
+            "name": "PrinzPi"
+        }
     }
 ]

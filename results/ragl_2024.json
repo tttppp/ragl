@@ -1006,5 +1006,53 @@
             "id": 8869,
             "name": "Sigil"
         }
+    },
+    {
+        "date": "2024-10-21 01:13:20",
+        "map": "Messened [RAGL-16]",
+        "p0": {
+            "id": 8869,
+            "name": "Sigil"
+        },
+        "p1": {
+            "id": 17607,
+            "name": "BigHALK"
+        }
+    },
+    {
+        "date": "2024-10-21 16:09:45",
+        "map": "malevolence [RAGL-16]",
+        "p0": {
+            "id": 20136,
+            "name": "Gregory_Mhf"
+        },
+        "p1": {
+            "id": 20339,
+            "name": "Sudothinker"
+        }
+    },
+    {
+        "date": "2024-10-21 21:38:18",
+        "map": "Elevation [RAGL-16]",
+        "p0": {
+            "id": 5292,
+            "name": "Mo"
+        },
+        "p1": {
+            "id": 6793,
+            "name": "maceman"
+        }
+    },
+    {
+        "date": "2024-10-21 22:14:44",
+        "map": "malevolence [RAGL-16]",
+        "p0": {
+            "id": 5292,
+            "name": "Mo"
+        },
+        "p1": {
+            "id": 6793,
+            "name": "maceman"
+        }
     }
 ]
