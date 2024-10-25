@@ -1078,5 +1078,29 @@
             "id": 17239,
             "name": "Fazzz"
         }
+    },
+    {
+        "date": "2024-10-24 11:41:03",
+        "map": "malevolence [RAGL-16]",
+        "p0": {
+            "id": 3952,
+            "name": "anjew"
+        },
+        "p1": {
+            "id": 5292,
+            "name": "Mo"
+        }
+    },
+    {
+        "date": "2024-10-24 12:03:28",
+        "map": "Champion [RAGL-16]",
+        "p0": {
+            "id": 5292,
+            "name": "Mo"
+        },
+        "p1": {
+            "id": 3952,
+            "name": "anjew"
+        }
     }
 ]
