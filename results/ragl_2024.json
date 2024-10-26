@@ -1102,5 +1102,29 @@
             "id": 3952,
             "name": "anjew"
         }
+    },
+    {
+        "date": "2024-10-25 21:36:36",
+        "map": "Styx [RAGL-16]",
+        "p0": {
+            "id": 17607,
+            "name": "BigHALK"
+        },
+        "p1": {
+            "id": 16066,
+            "name": "milkman"
+        }
+    },
+    {
+        "date": "2024-10-25 22:04:27",
+        "map": "Messened [RAGL-16]",
+        "p0": {
+            "id": 17607,
+            "name": "BigHALK"
+        },
+        "p1": {
+            "id": 16066,
+            "name": "milkman"
+        }
     }
 ]
