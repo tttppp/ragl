@@ -1126,5 +1126,29 @@
             "id": 16066,
             "name": "milkman"
         }
+    },
+    {
+        "date": "2024-10-26 21:07:08",
+        "map": "Enhanced Snakes and Ladders [RAGL-16]",
+        "p0": {
+            "id": 8869,
+            "name": "Sigil"
+        },
+        "p1": {
+            "id": 20136,
+            "name": "Gregory_Mhf"
+        }
+    },
+    {
+        "date": "2024-10-26 21:19:04",
+        "map": "malevolence [RAGL-16]",
+        "p0": {
+            "id": 8869,
+            "name": "Sigil"
+        },
+        "p1": {
+            "id": 20136,
+            "name": "Gregory_Mhf"
+        }
     }
 ]
