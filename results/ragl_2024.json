@@ -1210,5 +1210,53 @@
             "id": 13710,
             "name": "Ekanim"
         }
+    },
+    {
+        "date": "2024-10-28 20:52:36",
+        "map": "Champion [RAGL-16]",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzz"
+        },
+        "p1": {
+            "id": 7304,
+            "name": "Upps"
+        }
+    },
+    {
+        "date": "2024-10-28 21:05:54",
+        "map": "Darker Woods [RAGL-16]",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzz"
+        },
+        "p1": {
+            "id": 7304,
+            "name": "Upps"
+        }
+    },
+    {
+        "date": "2024-10-28 23:57:12",
+        "map": "malevolence [RAGL-16]",
+        "p0": {
+            "id": 5292,
+            "name": "Mo"
+        },
+        "p1": {
+            "id": 11913,
+            "name": "Duke Bones"
+        }
+    },
+    {
+        "date": "2024-10-29 00:12:39",
+        "map": "Bloody Winter [RAGL-16]",
+        "p0": {
+            "id": 5292,
+            "name": "Mo"
+        },
+        "p1": {
+            "id": 11913,
+            "name": "Duke Bones"
+        }
     }
 ]
