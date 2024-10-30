@@ -1258,5 +1258,29 @@
             "id": 11913,
             "name": "Duke Bones"
         }
+    },
+    {
+        "date": "2024-10-29 21:43:39",
+        "map": "Mini Asymmetric Battle [RAGL-16]",
+        "p0": {
+            "id": 18864,
+            "name": "fiwo"
+        },
+        "p1": {
+            "id": 7387,
+            "name": "TTTPPP"
+        }
+    },
+    {
+        "date": "2024-10-29 21:57:50",
+        "map": "Island Fight [RAGL-16]",
+        "p0": {
+            "id": 18864,
+            "name": "fiwo"
+        },
+        "p1": {
+            "id": 7387,
+            "name": "TTTPPP"
+        }
     }
 ]
