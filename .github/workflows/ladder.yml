@@ -23,5 +23,12 @@ jobs:
           git config --global user.name 'GitHub Action';
           git config --global user.email 'github-action@users.noreply.github.com';
           git add docs/data results;
-          git commit -m "Update for `date -I`.";
-          git push;
+          author=$(git log --format='%ae' -1);
+          if [[ "$author" != 'github-action@users.noreply.github.com' ]];
+          then
+            git commit -m "Update for `date -I`.";
+          else
+            message=$(git log --format='%s' -1);
+            git commit --amend -m "${message::21} to `date -I`.";
+          fi;
+          git push -f;
