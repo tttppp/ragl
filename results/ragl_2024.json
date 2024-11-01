@@ -1270,5 +1270,401 @@
             "id": 7387,
             "name": "TTTPPP"
         }
+    },
+    {
+        "date": "2024-10-30 20:29:26",
+        "map": "Darker Woods [RAGL-16]",
+        "p0": {
+            "id": 7387,
+            "name": "TTTPPP"
+        },
+        "p1": {
+            "id": 20339,
+            "name": "Sudothinker"
+        }
+    },
+    {
+        "date": "2024-10-30 20:42:31",
+        "map": "Elevation [RAGL-16]",
+        "p0": {
+            "id": 7387,
+            "name": "TTTPPP"
+        },
+        "p1": {
+            "id": 20339,
+            "name": "Sudothinker"
+        }
+    },
+    {
+        "date": "2024-10-30 20:52:15",
+        "map": "malevolence [RAGL-16]",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 7304,
+            "name": "Upps"
+        }
+    },
+    {
+        "date": "2024-10-30 21:02:23",
+        "map": "Enhanced Snakes and Ladders [RAGL-16]",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 7304,
+            "name": "Upps"
+        }
+    },
+    {
+        "date": "2024-10-30 21:20:04",
+        "map": "Enhanced Snakes and Ladders [RAGL-16]",
+        "p0": {
+            "id": 18864,
+            "name": "fiwo"
+        },
+        "p1": {
+            "id": 20339,
+            "name": "Sudothinker"
+        }
+    },
+    {
+        "date": "2024-10-30 21:38:16",
+        "map": "Mini Asymmetric Battle [RAGL-16]",
+        "p0": {
+            "id": 18864,
+            "name": "fiwo"
+        },
+        "p1": {
+            "id": 20339,
+            "name": "Sudothinker"
+        }
+    },
+    {
+        "date": "2024-10-31 18:59:07",
+        "map": "Darker Woods [RAGL-16]",
+        "p0": {
+            "id": 18359,
+            "name": "goldie"
+        },
+        "p1": {
+            "id": 20339,
+            "name": "Sudothinker"
+        }
+    },
+    {
+        "date": "2024-10-31 19:10:19",
+        "map": "Enhanced Snakes and Ladders [RAGL-16]",
+        "p0": {
+            "id": 18359,
+            "name": "goldie"
+        },
+        "p1": {
+            "id": 20339,
+            "name": "Sudothinker"
+        }
+    },
+    {
+        "date": "2024-11-01 07:14:29",
+        "map": "Island Fight [RAGL-16]",
+        "p0": {
+            "id": 7387,
+            "name": "TTTPPP"
+        },
+        "p1": {
+            "id": 7714,
+            "name": "ORA_CN-Hans"
+        }
+    },
+    {
+        "date": "2024-11-01 07:27:00",
+        "map": "Champion [RAGL-16]",
+        "p0": {
+            "id": 7387,
+            "name": "TTTPPP"
+        },
+        "p1": {
+            "id": 7714,
+            "name": "ORA_CN-Hans"
+        }
+    },
+    {
+        "date": "2024-11-01 18:38:20",
+        "map": "Darker Woods [RAGL-16]",
+        "p0": {
+            "id": 15428,
+            "name": "bete"
+        },
+        "p1": {
+            "id": 11913,
+            "name": "Duke Bones"
+        }
+    },
+    {
+        "date": "2024-11-01 18:44:19",
+        "map": "Champion [RAGL-16]",
+        "p0": {
+            "id": 15428,
+            "name": "bete"
+        },
+        "p1": {
+            "id": 11913,
+            "name": "Duke Bones"
+        }
+    },
+    {
+        "date": "2024-11-01 19:21:09",
+        "map": "Enhanced Snakes and Ladders [RAGL-16]",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 6793,
+            "name": "maceman"
+        }
+    },
+    {
+        "date": "2024-11-01 19:29:44",
+        "map": "Deadly Dunes [RAGL-16]",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 6793,
+            "name": "maceman"
+        }
+    },
+    {
+        "date": "2024-11-01 22:37:38",
+        "map": "malevolence [RAGL-16]",
+        "p0": {
+            "id": 8869,
+            "name": "Sigil"
+        },
+        "p1": {
+            "id": 16066,
+            "name": "milkman"
+        }
+    },
+    {
+        "date": "2024-11-01 22:58:33",
+        "map": "Styx [RAGL-16]",
+        "p0": {
+            "id": 16066,
+            "name": "milkman"
+        },
+        "p1": {
+            "id": 8869,
+            "name": "Sigil"
+        }
+    },
+    {
+        "date": "2024-11-02 13:20:23",
+        "map": "Elevation [RAGL-16]",
+        "p0": {
+            "id": 7304,
+            "name": "Upps"
+        },
+        "p1": {
+            "id": 11913,
+            "name": "Duke Bones"
+        }
+    },
+    {
+        "date": "2024-11-02 13:31:29",
+        "map": "Island Fight [RAGL-16]",
+        "p0": {
+            "id": 7304,
+            "name": "Upps"
+        },
+        "p1": {
+            "id": 11913,
+            "name": "Duke Bones"
+        }
+    },
+    {
+        "date": "2024-11-02 19:18:26",
+        "map": "Champion [RAGL-16]",
+        "p0": {
+            "id": 13710,
+            "name": "Ekanim"
+        },
+        "p1": {
+            "id": 11913,
+            "name": "Duke Bones"
+        }
+    },
+    {
+        "date": "2024-11-02 19:28:43",
+        "map": "Messened [RAGL-16]",
+        "p0": {
+            "id": 13710,
+            "name": "Ekanim"
+        },
+        "p1": {
+            "id": 11913,
+            "name": "Duke Bones"
+        }
+    },
+    {
+        "date": "2024-11-02 20:20:13",
+        "map": "Slight Miscalculation [RAGL-16]",
+        "p0": {
+            "id": 21155,
+            "name": "sliceoflife"
+        },
+        "p1": {
+            "id": 17607,
+            "name": "BigHALK"
+        }
+    },
+    {
+        "date": "2024-11-02 20:36:47",
+        "map": "Slight Miscalculation [RAGL-16]",
+        "p0": {
+            "id": 17607,
+            "name": "BigHALK"
+        },
+        "p1": {
+            "id": 21155,
+            "name": "sliceoflife"
+        }
+    },
+    {
+        "date": "2024-11-02 20:48:27",
+        "map": "Bloody Winter [RAGL-16]",
+        "p0": {
+            "id": 17607,
+            "name": "BigHALK"
+        },
+        "p1": {
+            "id": 21155,
+            "name": "sliceoflife"
+        }
+    },
+    {
+        "date": "2024-11-04 20:07:57",
+        "map": "Deadly Dunes [RAGL-16]",
+        "p0": {
+            "id": 7387,
+            "name": "TTTPPP"
+        },
+        "p1": {
+            "id": 21155,
+            "name": "sliceoflife"
+        }
+    },
+    {
+        "date": "2024-11-04 20:21:35",
+        "map": "Darker Woods [RAGL-16]",
+        "p0": {
+            "id": 7387,
+            "name": "TTTPPP"
+        },
+        "p1": {
+            "id": 21155,
+            "name": "sliceoflife"
+        }
+    },
+    {
+        "date": "2024-11-07 19:56:24",
+        "map": "Champion [RAGL-16]",
+        "p0": {
+            "id": 16066,
+            "name": "milkman"
+        },
+        "p1": {
+            "id": 20339,
+            "name": "Sudothinker"
+        }
+    },
+    {
+        "date": "2024-11-07 20:13:26",
+        "map": "Darker Woods [RAGL-16]",
+        "p0": {
+            "id": 20339,
+            "name": "Sudothinker"
+        },
+        "p1": {
+            "id": 16066,
+            "name": "milkman"
+        }
+    },
+    {
+        "date": "2024-11-08 12:41:15",
+        "map": "Elevation [RAGL-16]",
+        "p0": {
+            "id": 16066,
+            "name": "milkman"
+        },
+        "p1": {
+            "id": 18359,
+            "name": "goldie"
+        }
+    },
+    {
+        "date": "2024-11-08 12:56:50",
+        "map": "Styx [RAGL-16]",
+        "p0": {
+            "id": 16066,
+            "name": "milkman"
+        },
+        "p1": {
+            "id": 18359,
+            "name": "goldie"
+        }
+    },
+    {
+        "date": "2024-11-08 18:50:35",
+        "map": "Darker Woods [RAGL-16]",
+        "p0": {
+            "id": 7714,
+            "name": "ORA_CN-Hans"
+        },
+        "p1": {
+            "id": 20339,
+            "name": "Sudothinker"
+        }
+    },
+    {
+        "date": "2024-11-08 19:02:12",
+        "map": "Island Fight [RAGL-16]",
+        "p0": {
+            "id": 20339,
+            "name": "Sudothinker"
+        },
+        "p1": {
+            "id": 7714,
+            "name": "ORA_CN-Hans"
+        }
+    },
+    {
+        "date": "2024-11-08 19:42:21",
+        "map": "Slight Miscalculation [RAGL-16]",
+        "p0": {
+            "id": 17607,
+            "name": "BigHALK"
+        },
+        "p1": {
+            "id": 7714,
+            "name": "ORA_CN-Hans"
+        }
+    },
+    {
+        "date": "2024-11-08 19:57:17",
+        "map": "Island Fight [RAGL-16]",
+        "p0": {
+            "id": 17607,
+            "name": "BigHALK"
+        },
+        "p1": {
+            "id": 7714,
+            "name": "ORA_CN-Hans"
+        }
     }
 ]
