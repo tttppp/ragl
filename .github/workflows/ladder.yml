@@ -8,13 +8,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout project
-        uses: actions/checkout@v2
-      - name: Install python
-        uses: actions/setup-python@v2
+        uses: actions/checkout@v4
         with:
-          python-version: 3.8
+          fetch-depth: 2
+      - name: Install python
+        uses: actions/setup-python@v5
+        with:
+          python-version: 3.13
       - name: Install dependencies
-        uses: py-actions/py-dependency-install@v3
+        uses: py-actions/py-dependency-install@v4
       - name: Refresh ladder
         run: python3 ladder.py
       - name: Push if there are changes
