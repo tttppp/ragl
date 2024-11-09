@@ -1654,5 +1654,641 @@
             "id": 7714,
             "name": "ORA_CN-Hans"
         }
+    },
+    {
+        "date": "2024-11-09 19:16:39",
+        "map": "Elevation [RAGL-16]",
+        "p0": {
+            "id": 18359,
+            "name": "goldie"
+        },
+        "p1": {
+            "id": 18864,
+            "name": "fiwo"
+        }
+    },
+    {
+        "date": "2024-11-09 19:18:12",
+        "map": "malevolence [RAGL-16]",
+        "p0": {
+            "id": 7714,
+            "name": "ORA_CN-Hans"
+        },
+        "p1": {
+            "id": 8869,
+            "name": "Sigil"
+        }
+    },
+    {
+        "date": "2024-11-09 19:27:37",
+        "map": "Mini Asymmetric Battle [RAGL-16]",
+        "p0": {
+            "id": 18359,
+            "name": "goldie"
+        },
+        "p1": {
+            "id": 18864,
+            "name": "fiwo"
+        }
+    },
+    {
+        "date": "2024-11-09 19:37:09",
+        "map": "Bloody Winter [RAGL-16]",
+        "p0": {
+            "id": 8869,
+            "name": "Sigil"
+        },
+        "p1": {
+            "id": 7714,
+            "name": "ORA_CN-Hans"
+        }
+    },
+    {
+        "date": "2024-11-09 19:52:18",
+        "map": "malevolence [RAGL-16]",
+        "p0": {
+            "id": 17607,
+            "name": "BigHALK"
+        },
+        "p1": {
+            "id": 18864,
+            "name": "fiwo"
+        }
+    },
+    {
+        "date": "2024-11-09 20:06:35",
+        "map": "malevolence [RAGL-16]",
+        "p0": {
+            "id": 8869,
+            "name": "Sigil"
+        },
+        "p1": {
+            "id": 18359,
+            "name": "goldie"
+        }
+    },
+    {
+        "date": "2024-11-09 20:12:12",
+        "map": "Mini Asymmetric Battle [RAGL-16]",
+        "p0": {
+            "id": 17607,
+            "name": "BigHALK"
+        },
+        "p1": {
+            "id": 18864,
+            "name": "fiwo"
+        }
+    },
+    {
+        "date": "2024-11-09 20:19:48",
+        "map": "Darker Woods [RAGL-16]",
+        "p0": {
+            "id": 8869,
+            "name": "Sigil"
+        },
+        "p1": {
+            "id": 18359,
+            "name": "goldie"
+        }
+    },
+    {
+        "date": "2024-11-10 18:50:35",
+        "map": "Bloody Winter [RAGL-16]",
+        "p0": {
+            "id": 18359,
+            "name": "goldie"
+        },
+        "p1": {
+            "id": 6751,
+            "name": "Tailix Killa Mentor"
+        }
+    },
+    {
+        "date": "2024-11-10 18:53:44",
+        "map": "malevolence [RAGL-16]",
+        "p0": {
+            "id": 8869,
+            "name": "Sigil"
+        },
+        "p1": {
+            "id": 18864,
+            "name": "fiwo"
+        }
+    },
+    {
+        "date": "2024-11-10 19:13:08",
+        "map": "Elevation [RAGL-16]",
+        "p0": {
+            "id": 6751,
+            "name": "Tailix Killa Mentor"
+        },
+        "p1": {
+            "id": 18359,
+            "name": "goldie"
+        }
+    },
+    {
+        "date": "2024-11-10 19:16:35",
+        "map": "Bloody Winter [RAGL-16]",
+        "p0": {
+            "id": 8869,
+            "name": "Sigil"
+        },
+        "p1": {
+            "id": 18864,
+            "name": "fiwo"
+        }
+    },
+    {
+        "date": "2024-11-10 20:04:24",
+        "map": "malevolence [RAGL-16]",
+        "p0": {
+            "id": 21084,
+            "name": "inno"
+        },
+        "p1": {
+            "id": 7304,
+            "name": "Upps"
+        }
+    },
+    {
+        "date": "2024-11-10 20:36:22",
+        "map": "Darker Woods [RAGL-16]",
+        "p0": {
+            "id": 21084,
+            "name": "inno"
+        },
+        "p1": {
+            "id": 7304,
+            "name": "Upps"
+        }
+    },
+    {
+        "date": "2024-11-10 20:49:34",
+        "map": "Messened [RAGL-16]",
+        "p0": {
+            "id": 13710,
+            "name": "Ekanim"
+        },
+        "p1": {
+            "id": 7304,
+            "name": "Upps"
+        }
+    },
+    {
+        "date": "2024-11-10 20:58:31",
+        "map": "Mini Asymmetric Battle [RAGL-16]",
+        "p0": {
+            "id": 13710,
+            "name": "Ekanim"
+        },
+        "p1": {
+            "id": 7304,
+            "name": "Upps"
+        }
+    },
+    {
+        "date": "2024-11-12 20:30:38",
+        "map": "Darker Woods [RAGL-16]",
+        "p0": {
+            "id": 20339,
+            "name": "Sudothinker"
+        },
+        "p1": {
+            "id": 21155,
+            "name": "sliceoflife"
+        }
+    },
+    {
+        "date": "2024-11-12 20:45:36",
+        "map": "Deadly Dunes [RAGL-16]",
+        "p0": {
+            "id": 20339,
+            "name": "Sudothinker"
+        },
+        "p1": {
+            "id": 21155,
+            "name": "sliceoflife"
+        }
+    },
+    {
+        "date": "2024-11-14 21:06:50",
+        "map": "malevolence [RAGL-16]",
+        "p0": {
+            "id": 7304,
+            "name": "Upps"
+        },
+        "p1": {
+            "id": 5292,
+            "name": "Mo"
+        }
+    },
+    {
+        "date": "2024-11-14 21:43:09",
+        "map": "Elevation [RAGL-16]",
+        "p0": {
+            "id": 7304,
+            "name": "Upps"
+        },
+        "p1": {
+            "id": 5292,
+            "name": "Mo"
+        }
+    },
+    {
+        "date": "2024-11-15 12:58:25",
+        "map": "Elevation [RAGL-16]",
+        "p0": {
+            "id": 15428,
+            "name": "bete"
+        },
+        "p1": {
+            "id": 7304,
+            "name": "Upps"
+        }
+    },
+    {
+        "date": "2024-11-15 13:09:53",
+        "map": "malevolence [RAGL-16]",
+        "p0": {
+            "id": 7304,
+            "name": "Upps"
+        },
+        "p1": {
+            "id": 15428,
+            "name": "bete"
+        }
+    },
+    {
+        "date": "2024-11-15 21:42:00",
+        "map": "Mini Asymmetric Battle [RAGL-16]",
+        "p0": {
+            "id": 17607,
+            "name": "BigHALK"
+        },
+        "p1": {
+            "id": 7387,
+            "name": "TTTPPP"
+        }
+    },
+    {
+        "date": "2024-11-15 21:56:31",
+        "map": "Styx [RAGL-16]",
+        "p0": {
+            "id": 7387,
+            "name": "TTTPPP"
+        },
+        "p1": {
+            "id": 17607,
+            "name": "BigHALK"
+        }
+    },
+    {
+        "date": "2024-11-15 22:18:51",
+        "map": "Messened [RAGL-16]",
+        "p0": {
+            "id": 8869,
+            "name": "Sigil"
+        },
+        "p1": {
+            "id": 7387,
+            "name": "TTTPPP"
+        }
+    },
+    {
+        "date": "2024-11-15 22:42:10",
+        "map": "Bloody Winter [RAGL-16]",
+        "p0": {
+            "id": 7387,
+            "name": "TTTPPP"
+        },
+        "p1": {
+            "id": 8869,
+            "name": "Sigil"
+        }
+    },
+    {
+        "date": "2024-11-16 19:18:35",
+        "map": "Messened [RAGL-16]",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 15428,
+            "name": "bete"
+        }
+    },
+    {
+        "date": "2024-11-16 19:24:06",
+        "map": "malevolence [RAGL-16]",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 15428,
+            "name": "bete"
+        }
+    },
+    {
+        "date": "2024-11-17 10:11:18",
+        "map": "Elevation [RAGL-16]",
+        "p0": {
+            "id": 21084,
+            "name": "inno"
+        },
+        "p1": {
+            "id": 3952,
+            "name": "anjew"
+        }
+    },
+    {
+        "date": "2024-11-17 10:39:54",
+        "map": "malevolence [RAGL-16]",
+        "p0": {
+            "id": 21084,
+            "name": "inno"
+        },
+        "p1": {
+            "id": 3952,
+            "name": "anjew"
+        }
+    },
+    {
+        "date": "2024-11-17 11:17:52",
+        "map": "Elevation [RAGL-16]",
+        "p0": {
+            "id": 6793,
+            "name": "maceman"
+        },
+        "p1": {
+            "id": 3952,
+            "name": "anjew"
+        }
+    },
+    {
+        "date": "2024-11-17 11:38:50",
+        "map": "malevolence [RAGL-16]",
+        "p0": {
+            "id": 3952,
+            "name": "anjew"
+        },
+        "p1": {
+            "id": 6793,
+            "name": "maceman"
+        }
+    },
+    {
+        "date": "2024-11-17 16:15:36",
+        "map": "malevolence [RAGL-16]",
+        "p0": {
+            "id": 6793,
+            "name": "maceman"
+        },
+        "p1": {
+            "id": 11913,
+            "name": "Duke Bones"
+        }
+    },
+    {
+        "date": "2024-11-17 16:25:06",
+        "map": "Mini Asymmetric Battle [RAGL-16]",
+        "p0": {
+            "id": 6793,
+            "name": "maceman"
+        },
+        "p1": {
+            "id": 11913,
+            "name": "Duke Bones"
+        }
+    },
+    {
+        "date": "2024-11-17 16:42:22",
+        "map": "Elevation [RAGL-16]",
+        "p0": {
+            "id": 21084,
+            "name": "inno"
+        },
+        "p1": {
+            "id": 11913,
+            "name": "Duke Bones"
+        }
+    },
+    {
+        "date": "2024-11-17 16:47:32",
+        "map": "Champion [RAGL-16]",
+        "p0": {
+            "id": 21084,
+            "name": "inno"
+        },
+        "p1": {
+            "id": 11913,
+            "name": "Duke Bones"
+        }
+    },
+    {
+        "date": "2024-11-17 17:48:52",
+        "map": "Messened [RAGL-16]",
+        "p0": {
+            "id": 21084,
+            "name": "inno"
+        },
+        "p1": {
+            "id": 15428,
+            "name": "bete"
+        }
+    },
+    {
+        "date": "2024-11-17 17:54:18",
+        "map": "malevolence [RAGL-16]",
+        "p0": {
+            "id": 21084,
+            "name": "inno"
+        },
+        "p1": {
+            "id": 15428,
+            "name": "bete"
+        }
+    },
+    {
+        "date": "2024-11-17 19:33:15",
+        "map": "Messened [RAGL-16]",
+        "p0": {
+            "id": 21084,
+            "name": "inno"
+        },
+        "p1": {
+            "id": 13710,
+            "name": "Ekanim"
+        }
+    },
+    {
+        "date": "2024-11-17 19:52:07",
+        "map": "Champion [RAGL-16]",
+        "p0": {
+            "id": 21084,
+            "name": "inno"
+        },
+        "p1": {
+            "id": 13710,
+            "name": "Ekanim"
+        }
+    },
+    {
+        "date": "2024-11-19 19:08:44",
+        "map": "Deadly Dunes [RAGL-16]",
+        "p0": {
+            "id": 17607,
+            "name": "BigHALK"
+        },
+        "p1": {
+            "id": 20339,
+            "name": "Sudothinker"
+        }
+    },
+    {
+        "date": "2024-11-19 19:21:42",
+        "map": "Darker Woods [RAGL-16]",
+        "p0": {
+            "id": 17607,
+            "name": "BigHALK"
+        },
+        "p1": {
+            "id": 20339,
+            "name": "Sudothinker"
+        }
+    },
+    {
+        "date": "2024-11-21 13:18:51",
+        "map": "Elevation [RAGL-16]",
+        "p0": {
+            "id": 7304,
+            "name": "Upps"
+        },
+        "p1": {
+            "id": 3952,
+            "name": "anjew"
+        }
+    },
+    {
+        "date": "2024-11-21 13:28:41",
+        "map": "Enhanced Snakes and Ladders [RAGL-16]",
+        "p0": {
+            "id": 7304,
+            "name": "Upps"
+        },
+        "p1": {
+            "id": 3952,
+            "name": "anjew"
+        }
+    },
+    {
+        "date": "2024-11-21 14:12:22",
+        "map": "Slight Miscalculation [RAGL-16]",
+        "p0": {
+            "id": 3952,
+            "name": "anjew"
+        },
+        "p1": {
+            "id": 11913,
+            "name": "Duke Bones"
+        }
+    },
+    {
+        "date": "2024-11-21 14:37:10",
+        "map": "Messened [RAGL-16]",
+        "p0": {
+            "id": 11913,
+            "name": "Duke Bones"
+        },
+        "p1": {
+            "id": 3952,
+            "name": "anjew"
+        }
+    },
+    {
+        "date": "2024-11-23 19:27:14",
+        "map": "Darker Woods [RAGL-16]",
+        "p0": {
+            "id": 8869,
+            "name": "Sigil"
+        },
+        "p1": {
+            "id": 21155,
+            "name": "sliceoflife"
+        }
+    },
+    {
+        "date": "2024-11-23 19:39:19",
+        "map": "Mini Asymmetric Battle [RAGL-16]",
+        "p0": {
+            "id": 8869,
+            "name": "Sigil"
+        },
+        "p1": {
+            "id": 21155,
+            "name": "sliceoflife"
+        }
+    },
+    {
+        "date": "2024-11-24 19:22:00",
+        "map": "Deadly Dunes [RAGL-16]",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 13710,
+            "name": "Ekanim"
+        }
+    },
+    {
+        "date": "2024-11-24 19:35:04",
+        "map": "Messened [RAGL-16]",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 13710,
+            "name": "Ekanim"
+        }
+    },
+    {
+        "date": "2024-11-24 19:41:41",
+        "map": "Elevation [RAGL-16]",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzz"
+        },
+        "p1": {
+            "id": 13710,
+            "name": "Ekanim"
+        }
+    },
+    {
+        "date": "2024-11-24 20:07:19",
+        "map": "Elevation [RAGL-16]",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzz"
+        },
+        "p1": {
+            "id": 13710,
+            "name": "Ekanim"
+        }
+    },
+    {
+        "date": "2024-11-24 20:18:20",
+        "map": "Darker Woods [RAGL-16]",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzz"
+        },
+        "p1": {
+            "id": 13710,
+            "name": "Ekanim"
+        }
     }
 ]
