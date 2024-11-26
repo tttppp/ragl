@@ -2278,5 +2278,29 @@
             "id": 13710,
             "name": "Ekanim"
         }
+    },
+    {
+        "date": "2024-11-30 11:31:33",
+        "map": "malevolence [RAGL-16]",
+        "p0": {
+            "id": 6793,
+            "name": "maceman"
+        },
+        "p1": {
+            "id": 21084,
+            "name": "inno"
+        }
+    },
+    {
+        "date": "2024-11-30 11:44:37",
+        "map": "Champion [RAGL-16]",
+        "p0": {
+            "id": 21084,
+            "name": "inno"
+        },
+        "p1": {
+            "id": 6793,
+            "name": "maceman"
+        }
     }
 ]
