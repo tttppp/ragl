@@ -175,9 +175,11 @@ for year in sorted(results_filenames_by_year.keys()):
         with open(filename) as results_file:
             competition_results = json.load(results_file)
             if competition == ragl_name:
-                for season in ragl_details['seasonDates'].keys():
+                for season, seasonDates in ragl_details['seasonDates'].items():
+                    seasonStart = seasonDates['start'].replace('T', ' ')
+                    seasonEnd = seasonDates['end'].replace('T', ' ')
                     for result in competition_results:
-                        if result['date'] >= ragl_details['seasonDates'][season]['start'] and result['date'] <= ragl_details['seasonDates'][season]['end']:
+                        if result['date'] >= seasonStart and result['date'] <= seasonEnd:
                             for p in ['p0', 'p1']:
                                 per_player_ragl_games[get_canonical_player_id(result[p])][season]['p'] += 1
                             per_player_ragl_games[get_canonical_player_id(result['p0'])][season]['w'] += 1
