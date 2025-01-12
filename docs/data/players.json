@@ -1267,8 +1267,8 @@
                 "w": 18
             },
             "16": {
-                "p": 28,
-                "w": 21
+                "p": 27,
+                "w": 20
             },
             "2": {
                 "p": 16,
@@ -1814,7 +1814,7 @@
                 "w": 6
             },
             "16": {
-                "p": 29,
+                "p": 28,
                 "w": 15
             },
             "4": {
@@ -2511,6 +2511,9 @@
             }
         }
     },
+    "7851": {
+        "name": "Razorback"
+    },
     "7892": {
         "name": "usr"
     },
@@ -2860,6 +2863,9 @@
     "10509": {
         "name": "APOLKA"
     },
+    "10546": {
+        "name": "Squichibo"
+    },
     "10549": {
         "name": "Azure Anemone",
         "ragl": {
@@ -2931,6 +2937,9 @@
                 "w": 1
             }
         }
+    },
+    "11178": {
+        "name": "metcarob"
     },
     "11188": {
         "name": "M0nk3Ee"
@@ -3778,6 +3787,9 @@
     "15679": {
         "name": "catNull"
     },
+    "15725": {
+        "name": "ers"
+    },
     "15893": {
         "name": "Muad'Dib"
     },
@@ -4007,6 +4019,9 @@
     "16744": {
         "name": "Tioh"
     },
+    "16762": {
+        "name": "adam_pour"
+    },
     "16783": {
         "name": "Tim the Psycho Bot"
     },
@@ -4070,6 +4085,9 @@
     "17117": {
         "name": "jesus"
     },
+    "17126": {
+        "name": "twitch"
+    },
     "17212": {
         "name": "1430Grandi"
     },
@@ -4085,8 +4103,8 @@
                 "w": 17
             },
             "16": {
-                "p": 26,
-                "w": 22
+                "p": 25,
+                "w": 21
             }
         }
     },
@@ -4665,6 +4683,9 @@
     "20516": {
         "name": "newlehr"
     },
+    "20536": {
+        "name": "EurusXun"
+    },
     "20553": {
         "name": "klieg2323"
     },
@@ -4673,6 +4694,9 @@
     },
     "20608": {
         "name": "salvos-ossenmarkt"
+    },
+    "20623": {
+        "name": "TheGreatLynx"
     },
     "20651": {
         "name": "PlayToChill"
@@ -4734,6 +4758,9 @@
     "20967": {
         "name": "Luc Warm"
     },
+    "20985": {
+        "name": "grabataire"
+    },
     "21011": {
         "name": "meowcat"
     },
@@ -4750,7 +4777,7 @@
         "name": "inno",
         "ragl": {
             "16": {
-                "p": 27,
+                "p": 26,
                 "w": 18
             }
         }
@@ -4803,6 +4830,9 @@
     "21275": {
         "name": "currupipi73"
     },
+    "21341": {
+        "name": "Yufaka"
+    },
     "21427": {
         "name": "jumper149"
     },
@@ -4824,6 +4854,9 @@
     "21540": {
         "name": "tankrat"
     },
+    "21553": {
+        "name": "OverlordOne"
+    },
     "21556": {
         "name": "NadeenTheFIend"
     },
@@ -4835,5 +4868,44 @@
     },
     "21621": {
         "name": "Picard"
+    },
+    "21630": {
+        "name": "phnx"
+    },
+    "21713": {
+        "name": "droppat"
+    },
+    "21820": {
+        "name": "duhuhu"
+    },
+    "21829": {
+        "name": "Throatfuck"
+    },
+    "21836": {
+        "name": "Orcie"
+    },
+    "21861": {
+        "name": "WHOAMI69"
+    },
+    "21868": {
+        "name": "Stelletje Mongolen"
+    },
+    "21878": {
+        "name": "LeChuck"
+    },
+    "21904": {
+        "name": "Soupcan_Pyro"
+    },
+    "21918": {
+        "name": "ilmetu"
+    },
+    "21946": {
+        "name": "Nicknobody[N.N]"
+    },
+    "21964": {
+        "name": "derduck"
+    },
+    "21976": {
+        "name": "enea_super_rap"
     }
 }
