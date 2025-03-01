@@ -102,10 +102,10 @@ For details on prize pool contributions, check out the [Prize Pool section](#5.2
 * 38% Masters Champion
 * 19% Masters 2nd
 * 16% Masters 3rd
-* 12% Season finisher prizes
+* 12% Season Finisher prizes
 * 15% Mapmaker who wins the preliminary community voted map competition.
 
-1.5.1.1 Prize payments are subject to transfer fees and consequently it is not worth paying very small prizes. A small prize pool may result in prizes being omitted.
+1.5.1.1 Prize payments are subject to transfer fees and consequently it is not worth paying very small prizes. If a prize is less than €5 then it will be omitted. Prizes will be allocated in the order Masters Champion, Mapmaker prize, Masters 2nd, Season Finisher, Masters 3rd. So for example a €20 prize pool will be split in the ratio 38:15 between Masters Champion and the winning mapmaker, giving ~€15 and ~€5 respectively. If trying to include a prize for 2nd place the minimum prize would drop to ~€4, and so only two prizes would be awarded.
 
 1.5.2 Players who successfully finished the Group Stage and did not win any other prize will be entered into the Season finisher prize draw. Note that if players drop from the Playoffs then they are not eligible for the top three prizes, but could still win a Season finisher prize.
 
