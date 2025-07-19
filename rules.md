@@ -1,6 +1,6 @@
 # The Rulebook
 
-Red Alert Global League (RAGL), Season 16 is played starting 2024-10-07. We will aim to be finished in 10 weeks by 2024-12-15. This timespan includes up to 7 weeks for the group stage and 3 weeks reserved for unforeseen delays, tiebreakers and playoffs.
+Red Alert Global League (RAGL), Season 17 is played starting 2025-10-06. We will aim to be finished in 10 weeks by 2025-12-14. This timespan includes up to 7 weeks for the group stage and 3 weeks reserved for unforeseen delays, tiebreakers and playoffs.
 Timespan of the season is subject to change depending on actual player rosters and will be finalized after player registrations are closed.
 
 Current prize pool total: TBA
@@ -49,6 +49,8 @@ For details on prize pool contributions, check out the [Prize Pool section](#5.2
 
 1.1.6 Players who feel like they've found themselves in a division above their skill level may request to be dropped to a lower division to better accommodate them. These requests will be considered by the administrators.
 
+1.1.7 If there are only fifteen or fewer players who are qualified to play then the season will be delayed until later point.
+
 ## 1.2 Group stage
 
 1.2.1 The group stage is held in a round robin format, where each player is to play a match against every opponent in his group.
@@ -78,13 +80,13 @@ For details on prize pool contributions, check out the [Prize Pool section](#5.2
 
 1.3.6 Players finishing in the top 4 spots of Masters are promoted into Masters Playoffs which decide final standings in Masters.
 
-1.3.8 Any required rematches are to be resolved in a week time following the end of the group stage. In case of failure of one of the players to schedule and play the rematch in the specified timeframe that player is automatically assigned a technical loss. In case of failure of both of the players to schedule and play the rematch in the specified timeframe both players are excluded from any following stages of the season.
+1.3.8 Any required rematches are to be resolved in the week following the end of the group stage. In case of failure of one of the players to schedule and play the rematch in the specified timeframe that player is automatically assigned a technical loss. In case of failure of both of the players to schedule and play the rematch in the specified timeframe both players are excluded from any following stages of the season.
 
 1.3.9 Due to the nature of the League, actual promotions/relegations between divisions can't be defined up until the start of the next season.
 
 ## 1.4 Playoffs
 
-1.4.1 Players finishing in the top 4 spots of Masters are promoted into Masters Playoffs. Playoffs consist of two Semi-final matches, Bronze Match and Final. All matches are Best-of-5.
+1.4.1 Players finishing in the top 4 spots of Masters are promoted into Masters Playoffs. Playoffs consist of two Semi-final matches, Bronze Match and Final. All matches are Best-of-7.
 
 1.4.2 Players finishing 1st and 4th play in the first Semi-final. Players finishing 2nd and 3rd play in the second Semi-final. Semi-final losers play in Bronze Match for the 3rd and 4th place overall. Semi-final winners play in the Final for the Masters Champion title and 2nd place overall.
 
@@ -92,9 +94,9 @@ For details on prize pool contributions, check out the [Prize Pool section](#5.2
 
 1.4.4 Once the Semi-final maps are announced then any Playoff player dropping will not be replaced. It is possible that a prize will be unallocated and rolled over to the next season.
 
-1.4.5 Semi-final matches are to be resolved in 2 weeks time following the end of the group stage. In case of failure of one of the players to schedule and play the match in the specified timeframe that player is automatically assigned a technical loss. In case of failure of both of the players to schedule and play the match in the specified timeframe both players are excluded from top three prize allocations and any following stages of the season.
+1.4.5 Semi-final matches are to be resolved in the 2 weeks following the end of the group stage. In case of failure of one of the players to schedule and play the match in the specified timeframe that player is automatically assigned a technical loss. In case of failure of both of the players to schedule and play the match in the specified timeframe both players are excluded from top three prize allocations and any following stages of the season.
 
-1.4.6 Final and 3rd place matches are to be resolved in 3 weeks time following the end of the group stage. In case of failure of one of the players to schedule and play the match in the specified timeframe that player is automatically assigned a technical loss. In case of failure of both of the players to schedule and play the match in the specified timeframe both players are excluded from top three prize allocations.
+1.4.6 Final and 3rd place matches are to be resolved in the 3 weeks following the end of the group stage. In case of failure of one of the players to schedule and play the match in the specified timeframe that player is automatically assigned a technical loss. In case of failure of both of the players to schedule and play the match in the specified timeframe both players are excluded from top three prize allocations and their prizes will be rolled over to the next season.
 
 ## 1.5 Prizes
 
@@ -105,13 +107,13 @@ For details on prize pool contributions, check out the [Prize Pool section](#5.2
 * 12% Season Finisher prizes
 * 15% Mapmaker who wins the preliminary community voted map competition.
 
-1.5.1.1 Prize payments are subject to transfer fees and consequently it is not worth paying very small prizes. If a prize is less than €5 then it will be omitted. Prizes will be allocated in the order Masters Champion, Mapmaker prize, Masters 2nd, Season Finisher, Masters 3rd. So for example a €20 prize pool will be split in the ratio 38:15 between Masters Champion and the winning mapmaker, giving ~€15 and ~€5 respectively. If trying to include a prize for 2nd place the minimum prize would drop to ~€4, and so only two prizes would be awarded.
+1.5.1.1 Prize payments are subject to transfer fees and consequently it is not worth paying very small prizes. If a prize is less than €5 then it will be omitted. Prizes will be allocated in the order Masters Champion, Mapmaker prize, Masters 2nd, Season Finisher, Masters 3rd. So for example a €20 prize pool will be split in the ratio 38:15 between Masters Champion and the winning mapmaker, giving ~€15 and ~€5 respectively. When trying to split the €20 prize pool three ways (i.e. including a prize for 2nd place) then the minimum prize would drop to ~€4 which is not allowed.
 
-1.5.2 Players who successfully finished the Group Stage and did not win any other prize will be entered into the Season finisher prize draw. Note that if players drop from the Playoffs then they are not eligible for the top three prizes, but could still win a Season finisher prize.
+1.5.2 If there are at least four prizes then players who successfully finished the Group Stage and did not win any other prize will be entered into the Season finisher prize draw. Note that if players drop from the Playoffs then they are not eligible for the top three prizes, but could still win a Season finisher prize.
 
 1.5.2.1 The season finisher prize pool will be split into some number of season finisher prizes and those players with more unused strikes will have a higher chance of winning a prize. (Nb. Due to the implementation of the prize draw the chance of winning may not be proportional to the number of strikes a player has left)
 
-1.5.3 Prize pools are completely voluntary and are not expected to be significant each season. If the prize pool for a particular season is thin the exact spread and rewards will be carefully considered.
+1.5.3 Prize pools are completely voluntary and are not expected to be significant each season.
 
 1.5.4 Players may be ineligable for prizes if they are based in countries on economic sanctions lists (for example PayPal is currently not operating in Russia). We reserve the right to reassign or roll over prizes to the next season if this is the case.
 
@@ -119,7 +121,7 @@ For details on prize pool contributions, check out the [Prize Pool section](#5.2
 
 ## 2.1 New signups
 
-2.1.1 New players have until 2024-10-03 to send the registration info.
+2.1.1 New players have until 2025-10-02 to send the registration info.
 
 2.1.2 Registration takes place through Discord (#ragl-signups in https://discord.gg/99zBDuS), the primary channel of communication for RAGL, or in the registrations forum thread.
 
@@ -133,23 +135,23 @@ For details on prize pool contributions, check out the [Prize Pool section](#5.2
 
 ## 2.2 Returning players
 
-2.2.1 Players transferring over from the previous season have until 2024-10-03 to confirm their participation.
+2.2.1 Players transferring over from the previous season have until 2025-10-02 to confirm their participation.
 
 2.2.2 Returning players don't have to provide any other information than the expressed confirmation, officials will request any of the above if mandatory information is missing.
 
 ## 2.3 Qualifications
 
-2.3.5 Players who have been forfeit or disqualified in more seasons than they have completed will need to play some pre-season games on the ladder to be eligible to return. Players must have played `4*(incomplete - complete)²` games on the ladder in the month prior to registration closing.
+2.3.5 Players who have been forfeit or disqualified in more seasons than they have completed will need to play some pre-season games on the ladder to be eligible to return. Players must have played `4*(incomplete - complete)²` games on the ladder between the targetted end of playoffs for the previous season (see rules page for previous season) and registration closing for this season.
 
 For example: If a player has season forfeit in 3 seasons and only completed 1 season then they must play `4*(3-1)² = 4*2² = 16` preseason ladder games to be eligible for the season.
 
 See https://tttppp.github.io/ragl/forfeits.html for individual records.
 
-2.3.6 Forfeits during the playoffs of this season will count as a completed season for future qualification (although similar forfeits in the past were subject to different rules and so continue to count as forfeits).
+2.3.6 Forfeits during the playoffs of this season will count as a completed season for future qualification (although similar forfeits in some past seasons were subject to different rules and so continue to count as forfeits).
 
 ## 2.4 Waiting list
 
-2.4.1 In the event of players leaving during the first week for any reasons, they may be replaced from the waiting list. The league officials will use a combination of the waiting list and promotion to fill the vacancy.
+2.4.1 In the event of players leaving during the first week for any reason, they may be replaced from the waiting list. The league officials will use a combination of the waiting list and promotion to fill the vacancy.
 
 # 3. Communications
 
@@ -165,7 +167,7 @@ Official communications between the players and with league officials are primar
 
 3.2.1 Match reporting is done automatically by ragl.org and playing on the official RAGL servers. Games played on any other server than the RAGL official server will probably need to be replayed at the discretion of the league officials. After you have completed a match, the result should appear on your player profile at ragl.org.
 
-3.2.8 Failure to play a match until its weekly deadline can result in strikes for both players. These matches still need to be played (same timeframe as delayed matches).
+3.2.8 Failure to play a match before its weekly deadline can result in strikes for both players. These matches still need to be played (same timeframe as delayed matches).
 
 ## 3.3 Strikes
 
@@ -189,7 +191,7 @@ Official communications between the players and with league officials are primar
 
 3.5.2 The league officials reserve the right to make the final call in disputed situations with the health of the league in mind.
 
-3.5.3 CHEATING: any forms of cheating will be marked with various penalties decided by admins. Cheating can be anything deemed to give an unfair advantage to one player. This could be (but not limited to) Disconnecting on purpose, pausing and using actions, macros, GPS hacks etc. Penalties can range from a replay of the game to a ban from the league. DO NOT CHEAT.
+3.5.3 CHEATING: any forms of cheating will be marked with various penalties decided by admins. Cheating can be anything deemed to give an unfair advantage to one player. This could be (but not limited to) disconnecting on purpose, pausing and using actions, macros, GPS hacks etc. Penalties can range from a replay of the game to a ban from the league. DO NOT CHEAT.
 
 ## 3.6 Match delays
 
@@ -240,9 +242,9 @@ Players are free to make exceptions from this rule at the discretion of both par
 * Build off Allies: (irrelevant)
 * Limit Build Area: On
 * Separate Team Spawns: Off (irrelevant for maps with 2 spawns)
-* Reusable engineers: On (optional off if both players agree)
+* Reusable engineers: On
 * Redeployable MCVs: On
-* Kill Bounties: On (optional off if both players agree)
+* Kill Bounties: On
 * Debug Menu : Off
 * Starting Cash : $5000
 * Tech Level : Unrestricted
@@ -267,7 +269,7 @@ Players are free to make exceptions from this rule at the discretion of both par
 
 ## 4.2 Map pool
 
-4.2.1 Map pool consists of 12 maps specifically uploaded to the Resource Centre and marked as "Category: RAGL 16" and explicit naming and thumbnail watermarks. Usage of any other versions of these maps for the league games is disallowed and will be rejected from being reported as a valid match result.
+4.2.1 Map pool consists of 12 maps specifically uploaded to the Resource Centre and marked as "Category: RAGL 17" and explicit naming and thumbnail watermarks. Usage of any other versions of these maps for the league games is disallowed and will be rejected from being reported as a valid match result.
 
 4.2.2 All maps include custom balance changes.
 
@@ -275,7 +277,7 @@ Players are free to make exceptions from this rule at the discretion of both par
 
 ### 4.2.4 Map contest
 
-4.2.4: There will be a vote for the community's favourite map before RAGL, this map will be automatically included in the pool. Maps must be submitted by 2024-09-19.
+4.2.4: There will be a vote for the community's favourite map before RAGL, this map will be automatically included in the pool. Maps must be submitted by 2025-09-18.
 
 4.2.4.1: Map submissions should be made in this thread or in the #map-making channel of the OpenRA Competitive Discord server,
 
@@ -285,7 +287,7 @@ Players are free to make exceptions from this rule at the discretion of both par
 
 4.2.4.4: Voting will open once map submissions have closed.
 
-4.2.4.5: Voting will close on 2024-09-26.
+4.2.4.5: Voting will close on 2025-09-25.
 
 4.2.4.6: Voters assign 3pts, 2pts and 1pt to three different maps (it is not allowed to vote for fewer than three maps)
 
@@ -297,7 +299,7 @@ Players are free to make exceptions from this rule at the discretion of both par
 
 4.2.4.10: The map with the highest score will win. If two maps are tied on the same score then the tiebreaker will be number of people who gave it a score (including bonus points). If the maps are still tied after this then the map with the lowest resource centre id wins (as shown in the links below).
 
-4.2.4.11: If there are fewer than five map authors then the map contest will not be run.
+4.2.4.11: If there are fewer than five map authors then the map contest will not be run, but some of the maps may be included in the map pool.
 
 ## 4.3 Game disconnects
 
@@ -321,8 +323,6 @@ Players are free to make exceptions from this rule at the discretion of both par
 
 5.2.2 PayPal charges conversion fees for payouts in a different currency than the donation. Conversion fees for payouts will be drawn from the respective prize money rather than the entire pool.
 
-5.2.3 Current Season 16 prize pool: TBA
-
 ## 5.3 Officials
 
 5.3.1 The list of officials to contact is as follows:
@@ -339,9 +339,9 @@ For all inquiries you can contact us through Discord or reply on this thread.
 
 # Schedule Summary
 
-* 2024-09-19 Map submission deadline
-* 2024-09-26 Community map vote deadline
-* 2024-10-03 Player registrations close
-* 2024-10-07 Start of week 1
-* 2024-11-25 Start of Playoffs
-* 2024-12-15 Target for end of Playoffs
+* 2025-09-18 Map submission deadline
+* 2025-09-25 Community map vote deadline
+* 2025-10-02 Player registrations close
+* 2025-10-06 Start of week 1
+* 2025-11-24 Start of Playoffs
+* 2025-12-14 Target for end of Playoffs
