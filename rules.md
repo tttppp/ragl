@@ -141,7 +141,7 @@ For details on prize pool contributions, check out the [Prize Pool section](#5.2
 
 ## 2.3 Qualifications
 
-2.3.5 Players who have been forfeit or disqualified in more seasons than they have completed will need to play some pre-season games on the ladder to be eligible to return. Players must have played `4*(incomplete - complete)²` games on the ladder between the targetted end of playoffs for the previous season (see rules page for previous season) and registration closing for this season.
+2.3.5 Players who have been forfeit or disqualified in more seasons than they have completed will need to play some pre-season games on the ladder to be eligible to return. Players must have played `4*(incomplete - complete)²` games on the ladder between the targeted end of playoffs for the previous season (see rules page for previous season) and registration closing for this season.
 
 For example: If a player has season forfeit in 3 seasons and only completed 1 season then they must play `4*(3-1)² = 4*2² = 16` preseason ladder games to be eligible for the season.
 
