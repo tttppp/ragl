@@ -5,9 +5,18 @@ import re
 
 # A script to help generating the forum post for the rulebook.
 
+print('''[img]https://raw.githubusercontent.com/tttppp/ragl/master/docs/img/logo.png[/img]
+
+[url=https://forum.openra.net/]Rulebook[/url] [u]Registrations[/u] [u]Map Making Contest[/u] [u]Schedule[/u] [u]Weekly Highlights[/u] [url=https://ragl.org]Standings[/url]
+
+A summary of the changes from last season can be found at the bottom of this post.
+Full history of the RAGL Rulebook (including all previous seasons) can be found here: https://github.com/tttppp/ragl/blob/master/rules.md
+''')
+
 with open('rules.md') as rules:
     in_list = False
     for line in rules.read().split('\n'):
+        line = line.replace('`', '')
         if line.startswith('* '):
             if not in_list:
                 in_list = True
