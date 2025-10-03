@@ -1,0 +1,2054 @@
+[
+    {
+        "date": "2025-10-06 10:53:54",
+        "map": "Rift 2 [RAGL-17]",
+        "p0": {
+            "id": 16814,
+            "name": "Gargamel"
+        },
+        "p1": {
+            "id": 5292,
+            "name": "Mo"
+        }
+    },
+    {
+        "date": "2025-10-06 11:06:11",
+        "map": "Jungle Boogie [RAGL-17]",
+        "p0": {
+            "id": 16814,
+            "name": "Gargamel"
+        },
+        "p1": {
+            "id": 5292,
+            "name": "Mo"
+        }
+    },
+    {
+        "date": "2025-10-06 20:07:53",
+        "map": "Sleepy Isle [RAGL-17]",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzz"
+        },
+        "p1": {
+            "id": 5292,
+            "name": "Mo"
+        }
+    },
+    {
+        "date": "2025-10-06 20:19:30",
+        "map": "Up For Disaster [RAGL-17]",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzz"
+        },
+        "p1": {
+            "id": 5292,
+            "name": "Mo"
+        }
+    },
+    {
+        "date": "2025-10-06 20:31:55",
+        "map": "The Ruined Kingdom [RAGL-17]",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzz"
+        },
+        "p1": {
+            "id": 16066,
+            "name": "milkman"
+        }
+    },
+    {
+        "date": "2025-10-06 20:44:58",
+        "map": "Evergreens [RAGL-17]",
+        "p0": {
+            "id": 16066,
+            "name": "milkman"
+        },
+        "p1": {
+            "id": 17239,
+            "name": "Fazzz"
+        }
+    },
+    {
+        "date": "2025-10-06 21:19:38",
+        "map": "Sleepy Isle [RAGL-17]",
+        "p0": {
+            "id": 6751,
+            "name": "Tailix Killa Mentor"
+        },
+        "p1": {
+            "id": 22949,
+            "name": "ashleynewson"
+        }
+    },
+    {
+        "date": "2025-10-06 21:38:55",
+        "map": "Jungle Boogie [RAGL-17]",
+        "p0": {
+            "id": 22949,
+            "name": "ashleynewson"
+        },
+        "p1": {
+            "id": 6751,
+            "name": "Tailix Killa Mentor"
+        }
+    },
+    {
+        "date": "2025-10-07 11:13:01",
+        "map": "Sleepy Isle [RAGL-17]",
+        "p0": {
+            "id": 16814,
+            "name": "Gargamel"
+        },
+        "p1": {
+            "id": 7387,
+            "name": "TTTPPP"
+        }
+    },
+    {
+        "date": "2025-10-07 11:23:59",
+        "map": "Circuit of Command [RAGL-17]",
+        "p0": {
+            "id": 16814,
+            "name": "Gargamel"
+        },
+        "p1": {
+            "id": 7387,
+            "name": "TTTPPP"
+        }
+    },
+    {
+        "date": "2025-10-10 15:52:17",
+        "map": "Sleepy Isle [RAGL-17]",
+        "p0": {
+            "id": 6881,
+            "name": "spetsnaz84"
+        },
+        "p1": {
+            "id": 6751,
+            "name": "Tailix Killa Mentor"
+        }
+    },
+    {
+        "date": "2025-10-10 16:11:58",
+        "map": "Assault [RAGL-17]",
+        "p0": {
+            "id": 6881,
+            "name": "spetsnaz84"
+        },
+        "p1": {
+            "id": 6751,
+            "name": "Tailix Killa Mentor"
+        }
+    },
+    {
+        "date": "2025-10-11 14:59:14",
+        "map": "Sleepy Isle [RAGL-17]",
+        "p0": {
+            "id": 6751,
+            "name": "Tailix Killa Mentor"
+        },
+        "p1": {
+            "id": 16677,
+            "name": "jawsh"
+        }
+    },
+    {
+        "date": "2025-10-11 15:12:45",
+        "map": "Assault [RAGL-17]",
+        "p0": {
+            "id": 6751,
+            "name": "Tailix Killa Mentor"
+        },
+        "p1": {
+            "id": 16677,
+            "name": "jawsh"
+        }
+    },
+    {
+        "date": "2025-10-11 21:15:59",
+        "map": "Dryened [RAGL-17]",
+        "p0": {
+            "id": 19305,
+            "name": "sir123"
+        },
+        "p1": {
+            "id": 7387,
+            "name": "TTTPPP"
+        }
+    },
+    {
+        "date": "2025-10-11 21:24:30",
+        "map": "Rift 2 [RAGL-17]",
+        "p0": {
+            "id": 19305,
+            "name": "sir123"
+        },
+        "p1": {
+            "id": 7387,
+            "name": "TTTPPP"
+        }
+    },
+    {
+        "date": "2025-10-11 21:35:19",
+        "map": "Circuit of Command [RAGL-17]",
+        "p0": {
+            "id": 22706,
+            "name": ".gg."
+        },
+        "p1": {
+            "id": 7387,
+            "name": "TTTPPP"
+        }
+    },
+    {
+        "date": "2025-10-11 21:42:52",
+        "map": "Jungle Boogie [RAGL-17]",
+        "p0": {
+            "id": 22706,
+            "name": ".gg."
+        },
+        "p1": {
+            "id": 7387,
+            "name": "TTTPPP"
+        }
+    },
+    {
+        "date": "2025-10-11 22:07:50",
+        "map": "Assault [RAGL-17]",
+        "p0": {
+            "id": 19305,
+            "name": "sir123"
+        },
+        "p1": {
+            "id": 22706,
+            "name": ".gg."
+        }
+    },
+    {
+        "date": "2025-10-11 22:17:57",
+        "map": "The Ruined Kingdom [RAGL-17]",
+        "p0": {
+            "id": 19305,
+            "name": "sir123"
+        },
+        "p1": {
+            "id": 22706,
+            "name": ".gg."
+        }
+    },
+    {
+        "date": "2025-10-12 07:42:44",
+        "map": "Selection Bias [RAGL-17]",
+        "p0": {
+            "id": 15017,
+            "name": "Kalion"
+        },
+        "p1": {
+            "id": 7714,
+            "name": "ORA_CN-Hans"
+        }
+    },
+    {
+        "date": "2025-10-12 07:57:15",
+        "map": "Circuit of Command [RAGL-17]",
+        "p0": {
+            "id": 15017,
+            "name": "Kalion"
+        },
+        "p1": {
+            "id": 7714,
+            "name": "ORA_CN-Hans"
+        }
+    },
+    {
+        "date": "2025-10-12 08:49:20",
+        "map": "Assault [RAGL-17]",
+        "p0": {
+            "id": 15017,
+            "name": "Kalion"
+        },
+        "p1": {
+            "id": 18864,
+            "name": "fiwo"
+        }
+    },
+    {
+        "date": "2025-10-12 09:04:46",
+        "map": "Up For Disaster [RAGL-17]",
+        "p0": {
+            "id": 15017,
+            "name": "Kalion"
+        },
+        "p1": {
+            "id": 18864,
+            "name": "fiwo"
+        }
+    },
+    {
+        "date": "2025-10-12 09:23:55",
+        "map": "Assault [RAGL-17]",
+        "p0": {
+            "id": 6941,
+            "name": "Jur"
+        },
+        "p1": {
+            "id": 18864,
+            "name": "fiwo"
+        }
+    },
+    {
+        "date": "2025-10-12 09:37:37",
+        "map": "Evergreens [RAGL-17]",
+        "p0": {
+            "id": 6941,
+            "name": "Jur"
+        },
+        "p1": {
+            "id": 18864,
+            "name": "fiwo"
+        }
+    },
+    {
+        "date": "2025-10-12 15:18:25",
+        "map": "Up For Disaster [RAGL-17]",
+        "p0": {
+            "id": 11913,
+            "name": "Duke Bones"
+        },
+        "p1": {
+            "id": 7714,
+            "name": "ORA_CN-Hans"
+        }
+    },
+    {
+        "date": "2025-10-12 15:40:03",
+        "map": "Circuit of Command [RAGL-17]",
+        "p0": {
+            "id": 11913,
+            "name": "Duke Bones"
+        },
+        "p1": {
+            "id": 7714,
+            "name": "ORA_CN-Hans"
+        }
+    },
+    {
+        "date": "2025-10-12 16:00:40",
+        "map": "Evergreens [RAGL-17]",
+        "p0": {
+            "id": 7714,
+            "name": "ORA_CN-Hans"
+        },
+        "p1": {
+            "id": 6881,
+            "name": "spetsnaz84"
+        }
+    },
+    {
+        "date": "2025-10-12 16:09:27",
+        "map": "Circuit of Command [RAGL-17]",
+        "p0": {
+            "id": 22949,
+            "name": "ashleynewson"
+        },
+        "p1": {
+            "id": 11913,
+            "name": "Duke Bones"
+        }
+    },
+    {
+        "date": "2025-10-12 16:21:17",
+        "map": "Sleepy Isle [RAGL-17]",
+        "p0": {
+            "id": 6881,
+            "name": "spetsnaz84"
+        },
+        "p1": {
+            "id": 7714,
+            "name": "ORA_CN-Hans"
+        }
+    },
+    {
+        "date": "2025-10-12 16:27:34",
+        "map": "Freezer [RAGL-17]",
+        "p0": {
+            "id": 22949,
+            "name": "ashleynewson"
+        },
+        "p1": {
+            "id": 11913,
+            "name": "Duke Bones"
+        }
+    },
+    {
+        "date": "2025-10-12 17:06:53",
+        "map": "Dryened [RAGL-17]",
+        "p0": {
+            "id": 6941,
+            "name": "Jur"
+        },
+        "p1": {
+            "id": 12022,
+            "name": "Rossie"
+        }
+    },
+    {
+        "date": "2025-10-12 17:17:58",
+        "map": "Assault [RAGL-17]",
+        "p0": {
+            "id": 6941,
+            "name": "Jur"
+        },
+        "p1": {
+            "id": 12022,
+            "name": "Rossie"
+        }
+    },
+    {
+        "date": "2025-10-12 18:39:20",
+        "map": "Jungle Boogie [RAGL-17]",
+        "p0": {
+            "id": 15428,
+            "name": "bete"
+        },
+        "p1": {
+            "id": 11913,
+            "name": "Duke Bones"
+        }
+    },
+    {
+        "date": "2025-10-12 18:49:16",
+        "map": "Assault [RAGL-17]",
+        "p0": {
+            "id": 11913,
+            "name": "Duke Bones"
+        },
+        "p1": {
+            "id": 15428,
+            "name": "bete"
+        }
+    },
+    {
+        "date": "2025-10-12 19:00:09",
+        "map": "The Ruined Kingdom [RAGL-17]",
+        "p0": {
+            "id": 11913,
+            "name": "Duke Bones"
+        },
+        "p1": {
+            "id": 12022,
+            "name": "Rossie"
+        }
+    },
+    {
+        "date": "2025-10-12 19:27:48",
+        "map": "Jungle Boogie [RAGL-17]",
+        "p0": {
+            "id": 11913,
+            "name": "Duke Bones"
+        },
+        "p1": {
+            "id": 12022,
+            "name": "Rossie"
+        }
+    },
+    {
+        "date": "2025-10-13 10:34:34",
+        "map": "Jungle Boogie [RAGL-17]",
+        "p0": {
+            "id": 16814,
+            "name": "Gargamel"
+        },
+        "p1": {
+            "id": 17239,
+            "name": "Fazzz"
+        }
+    },
+    {
+        "date": "2025-10-13 12:21:25",
+        "map": "Jungle Boogie [RAGL-17]",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzz"
+        },
+        "p1": {
+            "id": 16814,
+            "name": "Gargamel"
+        }
+    },
+    {
+        "date": "2025-10-13 19:32:24",
+        "map": "Jungle Boogie [RAGL-17]",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzz"
+        },
+        "p1": {
+            "id": 7387,
+            "name": "TTTPPP"
+        }
+    },
+    {
+        "date": "2025-10-13 19:40:10",
+        "map": "Sleepy Isle [RAGL-17]",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzz"
+        },
+        "p1": {
+            "id": 7387,
+            "name": "TTTPPP"
+        }
+    },
+    {
+        "date": "2025-10-15 18:58:23",
+        "map": "Sleepy Isle [RAGL-17]",
+        "p0": {
+            "id": 6941,
+            "name": "Jur"
+        },
+        "p1": {
+            "id": 6751,
+            "name": "Tailix Killa Mentor"
+        }
+    },
+    {
+        "date": "2025-10-15 19:10:17",
+        "map": "Evergreens [RAGL-17]",
+        "p0": {
+            "id": 6941,
+            "name": "Jur"
+        },
+        "p1": {
+            "id": 6751,
+            "name": "Tailix Killa Mentor"
+        }
+    },
+    {
+        "date": "2025-10-15 19:21:43",
+        "map": "Sleepy Isle [RAGL-17]",
+        "p0": {
+            "id": 6751,
+            "name": "Tailix Killa Mentor"
+        },
+        "p1": {
+            "id": 18864,
+            "name": "fiwo"
+        }
+    },
+    {
+        "date": "2025-10-15 19:24:32",
+        "map": "Jungle Boogie [RAGL-17]",
+        "p0": {
+            "id": 15428,
+            "name": "bete"
+        },
+        "p1": {
+            "id": 22949,
+            "name": "ashleynewson"
+        }
+    },
+    {
+        "date": "2025-10-15 19:42:36",
+        "map": "Assault [RAGL-17]",
+        "p0": {
+            "id": 15428,
+            "name": "bete"
+        },
+        "p1": {
+            "id": 22949,
+            "name": "ashleynewson"
+        }
+    },
+    {
+        "date": "2025-10-15 19:52:31",
+        "map": "Evergreens [RAGL-17]",
+        "p0": {
+            "id": 6751,
+            "name": "Tailix Killa Mentor"
+        },
+        "p1": {
+            "id": 18864,
+            "name": "fiwo"
+        }
+    },
+    {
+        "date": "2025-10-15 23:17:22",
+        "map": "Evergreens [RAGL-17]",
+        "p0": {
+            "id": 12022,
+            "name": "Rossie"
+        },
+        "p1": {
+            "id": 16677,
+            "name": "jawsh"
+        }
+    },
+    {
+        "date": "2025-10-15 23:36:06",
+        "map": "Assault [RAGL-17]",
+        "p0": {
+            "id": 12022,
+            "name": "Rossie"
+        },
+        "p1": {
+            "id": 16677,
+            "name": "jawsh"
+        }
+    },
+    {
+        "date": "2025-10-16 09:31:16",
+        "map": "Assault [RAGL-17]",
+        "p0": {
+            "id": 6941,
+            "name": "Jur"
+        },
+        "p1": {
+            "id": 15017,
+            "name": "Kalion"
+        }
+    },
+    {
+        "date": "2025-10-16 09:41:43",
+        "map": "Evergreens [RAGL-17]",
+        "p0": {
+            "id": 15017,
+            "name": "Kalion"
+        },
+        "p1": {
+            "id": 6941,
+            "name": "Jur"
+        }
+    },
+    {
+        "date": "2025-10-16 12:12:46",
+        "map": "Rift 2 [RAGL-17]",
+        "p0": {
+            "id": 16814,
+            "name": "Gargamel"
+        },
+        "p1": {
+            "id": 7304,
+            "name": "Upps"
+        }
+    },
+    {
+        "date": "2025-10-16 12:26:11",
+        "map": "Dryened [RAGL-17]",
+        "p0": {
+            "id": 7304,
+            "name": "Upps"
+        },
+        "p1": {
+            "id": 16814,
+            "name": "Gargamel"
+        }
+    },
+    {
+        "date": "2025-10-16 13:13:54",
+        "map": "Jungle Boogie [RAGL-17]",
+        "p0": {
+            "id": 7304,
+            "name": "Upps"
+        },
+        "p1": {
+            "id": 3952,
+            "name": "anjew"
+        }
+    },
+    {
+        "date": "2025-10-16 13:28:11",
+        "map": "Freezer [RAGL-17]",
+        "p0": {
+            "id": 7304,
+            "name": "Upps"
+        },
+        "p1": {
+            "id": 3952,
+            "name": "anjew"
+        }
+    },
+    {
+        "date": "2025-10-16 20:33:31",
+        "map": "The Ruined Kingdom [RAGL-17]",
+        "p0": {
+            "id": 7304,
+            "name": "Upps"
+        },
+        "p1": {
+            "id": 16066,
+            "name": "milkman"
+        }
+    },
+    {
+        "date": "2025-10-16 20:45:31",
+        "map": "Circuit of Command [RAGL-17]",
+        "p0": {
+            "id": 7304,
+            "name": "Upps"
+        },
+        "p1": {
+            "id": 16066,
+            "name": "milkman"
+        }
+    },
+    {
+        "date": "2025-10-17 12:46:49",
+        "map": "The Ruined Kingdom [RAGL-17]",
+        "p0": {
+            "id": 6941,
+            "name": "Jur"
+        },
+        "p1": {
+            "id": 7714,
+            "name": "ORA_CN-Hans"
+        }
+    },
+    {
+        "date": "2025-10-17 12:58:50",
+        "map": "Assault [RAGL-17]",
+        "p0": {
+            "id": 6941,
+            "name": "Jur"
+        },
+        "p1": {
+            "id": 7714,
+            "name": "ORA_CN-Hans"
+        }
+    },
+    {
+        "date": "2025-10-17 14:26:58",
+        "map": "Selection Bias [RAGL-17]",
+        "p0": {
+            "id": 15428,
+            "name": "bete"
+        },
+        "p1": {
+            "id": 7714,
+            "name": "ORA_CN-Hans"
+        }
+    },
+    {
+        "date": "2025-10-17 14:45:03",
+        "map": "Sleepy Isle [RAGL-17]",
+        "p0": {
+            "id": 15428,
+            "name": "bete"
+        },
+        "p1": {
+            "id": 7714,
+            "name": "ORA_CN-Hans"
+        }
+    },
+    {
+        "date": "2025-10-17 15:47:46",
+        "map": "Sleepy Isle [RAGL-17]",
+        "p0": {
+            "id": 6881,
+            "name": "spetsnaz84"
+        },
+        "p1": {
+            "id": 16677,
+            "name": "jawsh"
+        }
+    },
+    {
+        "date": "2025-10-17 16:04:02",
+        "map": "Selection Bias [RAGL-17]",
+        "p0": {
+            "id": 6881,
+            "name": "spetsnaz84"
+        },
+        "p1": {
+            "id": 16677,
+            "name": "jawsh"
+        }
+    },
+    {
+        "date": "2025-10-18 13:03:37",
+        "map": "Freezer [RAGL-17]",
+        "p0": {
+            "id": 7304,
+            "name": "Upps"
+        },
+        "p1": {
+            "id": 5292,
+            "name": "Mo"
+        }
+    },
+    {
+        "date": "2025-10-18 13:22:04",
+        "map": "Rift 2 [RAGL-17]",
+        "p0": {
+            "id": 7304,
+            "name": "Upps"
+        },
+        "p1": {
+            "id": 5292,
+            "name": "Mo"
+        }
+    },
+    {
+        "date": "2025-10-18 21:27:28",
+        "map": "Rift 2 [RAGL-17]",
+        "p0": {
+            "id": 19305,
+            "name": "sir123"
+        },
+        "p1": {
+            "id": 8869,
+            "name": "Sigil"
+        }
+    },
+    {
+        "date": "2025-10-18 21:54:45",
+        "map": "Evergreens [RAGL-17]",
+        "p0": {
+            "id": 19305,
+            "name": "sir123"
+        },
+        "p1": {
+            "id": 8869,
+            "name": "Sigil"
+        }
+    },
+    {
+        "date": "2025-10-19 16:12:30",
+        "map": "Evergreens [RAGL-17]",
+        "p0": {
+            "id": 22706,
+            "name": ".gg."
+        },
+        "p1": {
+            "id": 5292,
+            "name": "Mo"
+        }
+    },
+    {
+        "date": "2025-10-19 16:21:56",
+        "map": "Freezer [RAGL-17]",
+        "p0": {
+            "id": 5292,
+            "name": "Mo"
+        },
+        "p1": {
+            "id": 22706,
+            "name": ".gg."
+        }
+    },
+    {
+        "date": "2025-10-19 17:07:51",
+        "map": "Evergreens [RAGL-17]",
+        "p0": {
+            "id": 22706,
+            "name": ".gg."
+        },
+        "p1": {
+            "id": 16066,
+            "name": "milkman"
+        }
+    },
+    {
+        "date": "2025-10-19 17:16:57",
+        "map": "Jungle Boogie [RAGL-17]",
+        "p0": {
+            "id": 22706,
+            "name": ".gg."
+        },
+        "p1": {
+            "id": 16066,
+            "name": "milkman"
+        }
+    },
+    {
+        "date": "2025-10-19 18:20:00",
+        "map": "Evergreens [RAGL-17]",
+        "p0": {
+            "id": 22706,
+            "name": ".gg."
+        },
+        "p1": {
+            "id": 8869,
+            "name": "Sigil"
+        }
+    },
+    {
+        "date": "2025-10-19 18:35:32",
+        "map": "Something Special [RAGL-17]",
+        "p0": {
+            "id": 22706,
+            "name": ".gg."
+        },
+        "p1": {
+            "id": 8869,
+            "name": "Sigil"
+        }
+    },
+    {
+        "date": "2025-10-19 18:50:08",
+        "map": "Up For Disaster [RAGL-17]",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzz"
+        },
+        "p1": {
+            "id": 22706,
+            "name": ".gg."
+        }
+    },
+    {
+        "date": "2025-10-19 19:01:13",
+        "map": "Evergreens [RAGL-17]",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzz"
+        },
+        "p1": {
+            "id": 22706,
+            "name": ".gg."
+        }
+    },
+    {
+        "date": "2025-10-20 17:21:22",
+        "map": "Rift 2 [RAGL-17]",
+        "p0": {
+            "id": 19305,
+            "name": "sir123"
+        },
+        "p1": {
+            "id": 16066,
+            "name": "milkman"
+        }
+    },
+    {
+        "date": "2025-10-20 17:31:18",
+        "map": "Sleepy Isle [RAGL-17]",
+        "p0": {
+            "id": 19305,
+            "name": "sir123"
+        },
+        "p1": {
+            "id": 16066,
+            "name": "milkman"
+        }
+    },
+    {
+        "date": "2025-10-21 13:43:36",
+        "map": "Freezer [RAGL-17]",
+        "p0": {
+            "id": 21084,
+            "name": "inno"
+        },
+        "p1": {
+            "id": 5292,
+            "name": "Mo"
+        }
+    },
+    {
+        "date": "2025-10-21 14:04:30",
+        "map": "Rift 2 [RAGL-17]",
+        "p0": {
+            "id": 21084,
+            "name": "inno"
+        },
+        "p1": {
+            "id": 5292,
+            "name": "Mo"
+        }
+    },
+    {
+        "date": "2025-10-21 19:59:56",
+        "map": "Sleepy Isle [RAGL-17]",
+        "p0": {
+            "id": 16066,
+            "name": "milkman"
+        },
+        "p1": {
+            "id": 21084,
+            "name": "inno"
+        }
+    },
+    {
+        "date": "2025-10-22 19:14:07",
+        "map": "Freezer [RAGL-17]",
+        "p0": {
+            "id": 6941,
+            "name": "Jur"
+        },
+        "p1": {
+            "id": 22949,
+            "name": "ashleynewson"
+        }
+    },
+    {
+        "date": "2025-10-22 19:25:53",
+        "map": "Jungle Boogie [RAGL-17]",
+        "p0": {
+            "id": 6941,
+            "name": "Jur"
+        },
+        "p1": {
+            "id": 22949,
+            "name": "ashleynewson"
+        }
+    },
+    {
+        "date": "2025-10-23 05:34:55",
+        "map": "Up For Disaster [RAGL-17]",
+        "p0": {
+            "id": 8869,
+            "name": "Sigil"
+        },
+        "p1": {
+            "id": 7387,
+            "name": "TTTPPP"
+        }
+    },
+    {
+        "date": "2025-10-23 05:51:19",
+        "map": "Jungle Boogie [RAGL-17]",
+        "p0": {
+            "id": 8869,
+            "name": "Sigil"
+        },
+        "p1": {
+            "id": 7387,
+            "name": "TTTPPP"
+        }
+    },
+    {
+        "date": "2025-10-24 13:34:21",
+        "map": "Up For Disaster [RAGL-17]",
+        "p0": {
+            "id": 7304,
+            "name": "Upps"
+        },
+        "p1": {
+            "id": 7387,
+            "name": "TTTPPP"
+        }
+    },
+    {
+        "date": "2025-10-24 13:48:01",
+        "map": "Something Special [RAGL-17]",
+        "p0": {
+            "id": 7304,
+            "name": "Upps"
+        },
+        "p1": {
+            "id": 7387,
+            "name": "TTTPPP"
+        }
+    },
+    {
+        "date": "2025-10-25 09:17:56",
+        "map": "Sleepy Isle [RAGL-17]",
+        "p0": {
+            "id": 15017,
+            "name": "Kalion"
+        },
+        "p1": {
+            "id": 6751,
+            "name": "Tailix Killa Mentor"
+        }
+    },
+    {
+        "date": "2025-10-25 09:30:50",
+        "map": "Assault [RAGL-17]",
+        "p0": {
+            "id": 15017,
+            "name": "Kalion"
+        },
+        "p1": {
+            "id": 6751,
+            "name": "Tailix Killa Mentor"
+        }
+    },
+    {
+        "date": "2025-10-25 13:32:04",
+        "map": "Assault [RAGL-17]",
+        "p0": {
+            "id": 16814,
+            "name": "Gargamel"
+        },
+        "p1": {
+            "id": 22706,
+            "name": ".gg."
+        }
+    },
+    {
+        "date": "2025-10-25 13:54:34",
+        "map": "Evergreens [RAGL-17]",
+        "p0": {
+            "id": 16814,
+            "name": "Gargamel"
+        },
+        "p1": {
+            "id": 22706,
+            "name": ".gg."
+        }
+    },
+    {
+        "date": "2025-10-25 14:09:58",
+        "map": "Circuit of Command v2 [RAGL-17]",
+        "p0": {
+            "id": 22706,
+            "name": ".gg."
+        },
+        "p1": {
+            "id": 3952,
+            "name": "anjew"
+        }
+    },
+    {
+        "date": "2025-10-25 14:30:51",
+        "map": "Evergreens [RAGL-17]",
+        "p0": {
+            "id": 22706,
+            "name": ".gg."
+        },
+        "p1": {
+            "id": 3952,
+            "name": "anjew"
+        }
+    },
+    {
+        "date": "2025-10-25 14:51:18",
+        "map": "Evergreens [RAGL-17]",
+        "p0": {
+            "id": 7304,
+            "name": "Upps"
+        },
+        "p1": {
+            "id": 22706,
+            "name": ".gg."
+        }
+    },
+    {
+        "date": "2025-10-25 15:06:30",
+        "map": "Something Special [RAGL-17]",
+        "p0": {
+            "id": 22706,
+            "name": ".gg."
+        },
+        "p1": {
+            "id": 7304,
+            "name": "Upps"
+        }
+    },
+    {
+        "date": "2025-10-25 16:03:27",
+        "map": "Circuit of Command v2 [RAGL-17]",
+        "p0": {
+            "id": 19305,
+            "name": "sir123"
+        },
+        "p1": {
+            "id": 3952,
+            "name": "anjew"
+        }
+    },
+    {
+        "date": "2025-10-25 16:20:04",
+        "map": "Rift 2 [RAGL-17]",
+        "p0": {
+            "id": 19305,
+            "name": "sir123"
+        },
+        "p1": {
+            "id": 3952,
+            "name": "anjew"
+        }
+    },
+    {
+        "date": "2025-10-26 16:24:09",
+        "map": "Sleepy Isle [RAGL-17]",
+        "p0": {
+            "id": 6751,
+            "name": "Tailix Killa Mentor"
+        },
+        "p1": {
+            "id": 12022,
+            "name": "Rossie"
+        }
+    },
+    {
+        "date": "2025-10-26 16:34:21",
+        "map": "Dryened [RAGL-17]",
+        "p0": {
+            "id": 12022,
+            "name": "Rossie"
+        },
+        "p1": {
+            "id": 6751,
+            "name": "Tailix Killa Mentor"
+        }
+    },
+    {
+        "date": "2025-10-26 17:32:30",
+        "map": "Sleepy Isle [RAGL-17]",
+        "p0": {
+            "id": 12022,
+            "name": "Rossie"
+        },
+        "p1": {
+            "id": 18864,
+            "name": "fiwo"
+        }
+    },
+    {
+        "date": "2025-10-26 17:56:56",
+        "map": "Dryened [RAGL-17]",
+        "p0": {
+            "id": 12022,
+            "name": "Rossie"
+        },
+        "p1": {
+            "id": 18864,
+            "name": "fiwo"
+        }
+    },
+    {
+        "date": "2025-10-26 19:54:04",
+        "map": "Sleepy Isle [RAGL-17]",
+        "p0": {
+            "id": 11913,
+            "name": "Duke Bones"
+        },
+        "p1": {
+            "id": 6881,
+            "name": "spetsnaz84"
+        }
+    },
+    {
+        "date": "2025-10-26 20:03:14",
+        "map": "Circuit of Command v2 [RAGL-17]",
+        "p0": {
+            "id": 11913,
+            "name": "Duke Bones"
+        },
+        "p1": {
+            "id": 6881,
+            "name": "spetsnaz84"
+        }
+    },
+    {
+        "date": "2025-10-28 20:14:39",
+        "map": "Sleepy Isle [RAGL-17]",
+        "p0": {
+            "id": 15428,
+            "name": "bete"
+        },
+        "p1": {
+            "id": 6881,
+            "name": "spetsnaz84"
+        }
+    },
+    {
+        "date": "2025-10-28 20:26:47",
+        "map": "Assault [RAGL-17]",
+        "p0": {
+            "id": 15428,
+            "name": "bete"
+        },
+        "p1": {
+            "id": 6881,
+            "name": "spetsnaz84"
+        }
+    },
+    {
+        "date": "2025-10-28 20:37:41",
+        "map": "Circuit of Command v2 [RAGL-17]",
+        "p0": {
+            "id": 18864,
+            "name": "fiwo"
+        },
+        "p1": {
+            "id": 15428,
+            "name": "bete"
+        }
+    },
+    {
+        "date": "2025-10-28 20:53:44",
+        "map": "Evergreens [RAGL-17]",
+        "p0": {
+            "id": 18864,
+            "name": "fiwo"
+        },
+        "p1": {
+            "id": 15428,
+            "name": "bete"
+        }
+    },
+    {
+        "date": "2025-11-01 01:52:28",
+        "map": "Circuit of Command v2 [RAGL-17]",
+        "p0": {
+            "id": 19305,
+            "name": "sir123"
+        },
+        "p1": {
+            "id": 16814,
+            "name": "Gargamel"
+        }
+    },
+    {
+        "date": "2025-11-01 02:06:00",
+        "map": "Dryened [RAGL-17]",
+        "p0": {
+            "id": 16814,
+            "name": "Gargamel"
+        },
+        "p1": {
+            "id": 19305,
+            "name": "sir123"
+        }
+    },
+    {
+        "date": "2025-11-01 20:02:53",
+        "map": "Sleepy Isle [RAGL-17]",
+        "p0": {
+            "id": 22949,
+            "name": "ashleynewson"
+        },
+        "p1": {
+            "id": 6881,
+            "name": "spetsnaz84"
+        }
+    },
+    {
+        "date": "2025-11-01 20:12:39",
+        "map": "Freezer [RAGL-17]",
+        "p0": {
+            "id": 22949,
+            "name": "ashleynewson"
+        },
+        "p1": {
+            "id": 6881,
+            "name": "spetsnaz84"
+        }
+    },
+    {
+        "date": "2025-11-01 21:38:09",
+        "map": "Rift 2 [RAGL-17]",
+        "p0": {
+            "id": 19305,
+            "name": "sir123"
+        },
+        "p1": {
+            "id": 5292,
+            "name": "Mo"
+        }
+    },
+    {
+        "date": "2025-11-01 21:47:17",
+        "map": "Circuit of Command v2 [RAGL-17]",
+        "p0": {
+            "id": 19305,
+            "name": "sir123"
+        },
+        "p1": {
+            "id": 5292,
+            "name": "Mo"
+        }
+    },
+    {
+        "date": "2025-11-01 22:35:55",
+        "map": "Rift 2 [RAGL-17]",
+        "p0": {
+            "id": 8869,
+            "name": "Sigil"
+        },
+        "p1": {
+            "id": 16066,
+            "name": "milkman"
+        }
+    },
+    {
+        "date": "2025-11-01 22:46:34",
+        "map": "Jungle Boogie [RAGL-17]",
+        "p0": {
+            "id": 8869,
+            "name": "Sigil"
+        },
+        "p1": {
+            "id": 16066,
+            "name": "milkman"
+        }
+    },
+    {
+        "date": "2025-11-02 14:45:44",
+        "map": "The Ruined Kingdom [RAGL-17]",
+        "p0": {
+            "id": 22949,
+            "name": "ashleynewson"
+        },
+        "p1": {
+            "id": 7714,
+            "name": "ORA_CN-Hans"
+        }
+    },
+    {
+        "date": "2025-11-02 14:54:27",
+        "map": "Freezer [RAGL-17]",
+        "p0": {
+            "id": 22949,
+            "name": "ashleynewson"
+        },
+        "p1": {
+            "id": 7714,
+            "name": "ORA_CN-Hans"
+        }
+    },
+    {
+        "date": "2025-11-02 15:06:41",
+        "map": "Evergreens [RAGL-17]",
+        "p0": {
+            "id": 22949,
+            "name": "ashleynewson"
+        },
+        "p1": {
+            "id": 18864,
+            "name": "fiwo"
+        }
+    },
+    {
+        "date": "2025-11-02 15:25:21",
+        "map": "Selection Bias [RAGL-17]",
+        "p0": {
+            "id": 22949,
+            "name": "ashleynewson"
+        },
+        "p1": {
+            "id": 18864,
+            "name": "fiwo"
+        }
+    },
+    {
+        "date": "2025-11-02 15:50:01",
+        "map": "Circuit of Command v2 [RAGL-17]",
+        "p0": {
+            "id": 11913,
+            "name": "Duke Bones"
+        },
+        "p1": {
+            "id": 18864,
+            "name": "fiwo"
+        }
+    },
+    {
+        "date": "2025-11-02 16:00:39",
+        "map": "Sleepy Isle [RAGL-17]",
+        "p0": {
+            "id": 11913,
+            "name": "Duke Bones"
+        },
+        "p1": {
+            "id": 18864,
+            "name": "fiwo"
+        }
+    },
+    {
+        "date": "2025-11-02 16:20:25",
+        "map": "Evergreens [RAGL-17]",
+        "p0": {
+            "id": 7714,
+            "name": "ORA_CN-Hans"
+        },
+        "p1": {
+            "id": 18864,
+            "name": "fiwo"
+        }
+    },
+    {
+        "date": "2025-11-02 16:38:14",
+        "map": "Assault [RAGL-17]",
+        "p0": {
+            "id": 18864,
+            "name": "fiwo"
+        },
+        "p1": {
+            "id": 7714,
+            "name": "ORA_CN-Hans"
+        }
+    },
+    {
+        "date": "2025-11-02 19:48:20",
+        "map": "Up For Disaster [RAGL-17]",
+        "p0": {
+            "id": 7714,
+            "name": "ORA_CN-Hans"
+        },
+        "p1": {
+            "id": 16677,
+            "name": "jawsh"
+        }
+    },
+    {
+        "date": "2025-11-02 20:00:42",
+        "map": "Jungle Boogie [RAGL-17]",
+        "p0": {
+            "id": 7714,
+            "name": "ORA_CN-Hans"
+        },
+        "p1": {
+            "id": 16677,
+            "name": "jawsh"
+        }
+    },
+    {
+        "date": "2025-11-02 20:17:45",
+        "map": "Jungle Boogie [RAGL-17]",
+        "p0": {
+            "id": 6941,
+            "name": "Jur"
+        },
+        "p1": {
+            "id": 16677,
+            "name": "jawsh"
+        }
+    },
+    {
+        "date": "2025-11-02 20:26:20",
+        "map": "Circuit of Command v2 [RAGL-17]",
+        "p0": {
+            "id": 6941,
+            "name": "Jur"
+        },
+        "p1": {
+            "id": 16677,
+            "name": "jawsh"
+        }
+    },
+    {
+        "date": "2025-11-02 20:32:13",
+        "map": "Sleepy Isle [RAGL-17]",
+        "p0": {
+            "id": 15017,
+            "name": "Kalion"
+        },
+        "p1": {
+            "id": 11913,
+            "name": "Duke Bones"
+        }
+    },
+    {
+        "date": "2025-11-02 20:43:32",
+        "map": "Circuit of Command v2 [RAGL-17]",
+        "p0": {
+            "id": 15017,
+            "name": "Kalion"
+        },
+        "p1": {
+            "id": 11913,
+            "name": "Duke Bones"
+        }
+    },
+    {
+        "date": "2025-11-02 21:01:19",
+        "map": "Jungle Boogie [RAGL-17]",
+        "p0": {
+            "id": 18864,
+            "name": "fiwo"
+        },
+        "p1": {
+            "id": 16677,
+            "name": "jawsh"
+        }
+    },
+    {
+        "date": "2025-11-02 21:02:06",
+        "map": "Circuit of Command v2 [RAGL-17]",
+        "p0": {
+            "id": 11913,
+            "name": "Duke Bones"
+        },
+        "p1": {
+            "id": 6941,
+            "name": "Jur"
+        }
+    },
+    {
+        "date": "2025-11-02 21:08:03",
+        "map": "Assault [RAGL-17]",
+        "p0": {
+            "id": 18864,
+            "name": "fiwo"
+        },
+        "p1": {
+            "id": 16677,
+            "name": "jawsh"
+        }
+    },
+    {
+        "date": "2025-11-02 21:25:59",
+        "map": "Jungle Boogie [RAGL-17]",
+        "p0": {
+            "id": 11913,
+            "name": "Duke Bones"
+        },
+        "p1": {
+            "id": 6941,
+            "name": "Jur"
+        }
+    },
+    {
+        "date": "2025-11-02 21:39:21",
+        "map": "Jungle Boogie [RAGL-17]",
+        "p0": {
+            "id": 15017,
+            "name": "Kalion"
+        },
+        "p1": {
+            "id": 16677,
+            "name": "jawsh"
+        }
+    },
+    {
+        "date": "2025-11-02 21:57:33",
+        "map": "Sleepy Isle [RAGL-17]",
+        "p0": {
+            "id": 15017,
+            "name": "Kalion"
+        },
+        "p1": {
+            "id": 16677,
+            "name": "jawsh"
+        }
+    },
+    {
+        "date": "2025-11-04 21:29:27",
+        "map": "Dryened [RAGL-17]",
+        "p0": {
+            "id": 15017,
+            "name": "Kalion"
+        },
+        "p1": {
+            "id": 15428,
+            "name": "bete"
+        }
+    },
+    {
+        "date": "2025-11-04 21:37:05",
+        "map": "Selection Bias [RAGL-17]",
+        "p0": {
+            "id": 15017,
+            "name": "Kalion"
+        },
+        "p1": {
+            "id": 15428,
+            "name": "bete"
+        }
+    },
+    {
+        "date": "2025-11-05 12:31:39",
+        "map": "Evergreens [RAGL-17]",
+        "p0": {
+            "id": 9156,
+            "name": "toiletbreakbrb"
+        },
+        "p1": {
+            "id": 22706,
+            "name": ".gg."
+        }
+    },
+    {
+        "date": "2025-11-05 12:57:30",
+        "map": "Something Special [RAGL-17]",
+        "p0": {
+            "id": 9156,
+            "name": "toiletbreakbrb"
+        },
+        "p1": {
+            "id": 7387,
+            "name": "TTTPPP"
+        }
+    },
+    {
+        "date": "2025-11-05 13:10:49",
+        "map": "Freezer [RAGL-17]",
+        "p0": {
+            "id": 9156,
+            "name": "toiletbreakbrb"
+        },
+        "p1": {
+            "id": 7387,
+            "name": "TTTPPP"
+        }
+    },
+    {
+        "date": "2025-11-05 14:17:46",
+        "map": "Freezer [RAGL-17]",
+        "p0": {
+            "id": 22706,
+            "name": ".gg."
+        },
+        "p1": {
+            "id": 9156,
+            "name": "toiletbreakbrb"
+        }
+    },
+    {
+        "date": "2025-11-05 19:04:50",
+        "map": "Sleepy Isle [RAGL-17]",
+        "p0": {
+            "id": 7714,
+            "name": "ORA_CN-Hans"
+        },
+        "p1": {
+            "id": 6751,
+            "name": "Tailix Killa Mentor"
+        }
+    },
+    {
+        "date": "2025-11-05 19:19:56",
+        "map": "Selection Bias [RAGL-17]",
+        "p0": {
+            "id": 7714,
+            "name": "ORA_CN-Hans"
+        },
+        "p1": {
+            "id": 6751,
+            "name": "Tailix Killa Mentor"
+        }
+    },
+    {
+        "date": "2025-11-06 12:54:26",
+        "map": "Dryened [RAGL-17]",
+        "p0": {
+            "id": 16814,
+            "name": "Gargamel"
+        },
+        "p1": {
+            "id": 9156,
+            "name": "toiletbreakbrb"
+        }
+    },
+    {
+        "date": "2025-11-06 13:11:10",
+        "map": "Assault [RAGL-17]",
+        "p0": {
+            "id": 9156,
+            "name": "toiletbreakbrb"
+        },
+        "p1": {
+            "id": 16814,
+            "name": "Gargamel"
+        }
+    },
+    {
+        "date": "2025-11-08 20:51:11",
+        "map": "Rift 2 [RAGL-17]",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzz"
+        },
+        "p1": {
+            "id": 8869,
+            "name": "Sigil"
+        }
+    },
+    {
+        "date": "2025-11-08 21:05:05",
+        "map": "Something Special [RAGL-17]",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzz"
+        },
+        "p1": {
+            "id": 8869,
+            "name": "Sigil"
+        }
+    },
+    {
+        "date": "2025-11-08 21:43:03",
+        "map": "Sleepy Isle [RAGL-17]",
+        "p0": {
+            "id": 15017,
+            "name": "Kalion"
+        },
+        "p1": {
+            "id": 22949,
+            "name": "ashleynewson"
+        }
+    },
+    {
+        "date": "2025-11-08 21:56:23",
+        "map": "Freezer [RAGL-17]",
+        "p0": {
+            "id": 15017,
+            "name": "Kalion"
+        },
+        "p1": {
+            "id": 22949,
+            "name": "ashleynewson"
+        }
+    },
+    {
+        "date": "2025-11-08 22:06:50",
+        "map": "Rift 2 [RAGL-17]",
+        "p0": {
+            "id": 19305,
+            "name": "sir123"
+        },
+        "p1": {
+            "id": 17239,
+            "name": "Fazzz"
+        }
+    },
+    {
+        "date": "2025-11-08 22:21:58",
+        "map": "Something Special [RAGL-17]",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzz"
+        },
+        "p1": {
+            "id": 19305,
+            "name": "sir123"
+        }
+    },
+    {
+        "date": "2025-11-09 07:21:43",
+        "map": "Circuit of Command v2 [RAGL-17]",
+        "p0": {
+            "id": 3952,
+            "name": "anjew"
+        },
+        "p1": {
+            "id": 7387,
+            "name": "TTTPPP"
+        }
+    },
+    {
+        "date": "2025-11-09 07:32:23",
+        "map": "Up For Disaster [RAGL-17]",
+        "p0": {
+            "id": 3952,
+            "name": "anjew"
+        },
+        "p1": {
+            "id": 7387,
+            "name": "TTTPPP"
+        }
+    },
+    {
+        "date": "2025-11-09 09:04:22",
+        "map": "Rift 2 [RAGL-17]",
+        "p0": {
+            "id": 9156,
+            "name": "toiletbreakbrb"
+        },
+        "p1": {
+            "id": 3952,
+            "name": "anjew"
+        }
+    },
+    {
+        "date": "2025-11-09 09:24:03",
+        "map": "Circuit of Command v2 [RAGL-17]",
+        "p0": {
+            "id": 9156,
+            "name": "toiletbreakbrb"
+        },
+        "p1": {
+            "id": 3952,
+            "name": "anjew"
+        }
+    },
+    {
+        "date": "2025-11-09 10:50:09",
+        "map": "Circuit of Command v2 [RAGL-17]",
+        "p0": {
+            "id": 3952,
+            "name": "anjew"
+        },
+        "p1": {
+            "id": 16066,
+            "name": "milkman"
+        }
+    },
+    {
+        "date": "2025-11-09 11:04:12",
+        "map": "Sleepy Isle [RAGL-17]",
+        "p0": {
+            "id": 16066,
+            "name": "milkman"
+        },
+        "p1": {
+            "id": 3952,
+            "name": "anjew"
+        }
+    },
+    {
+        "date": "2025-11-09 17:59:52",
+        "map": "Sleepy Isle [RAGL-17]",
+        "p0": {
+            "id": 11913,
+            "name": "Duke Bones"
+        },
+        "p1": {
+            "id": 6751,
+            "name": "Tailix Killa Mentor"
+        }
+    },
+    {
+        "date": "2025-11-09 18:14:30",
+        "map": "Circuit of Command v2 [RAGL-17]",
+        "p0": {
+            "id": 11913,
+            "name": "Duke Bones"
+        },
+        "p1": {
+            "id": 6751,
+            "name": "Tailix Killa Mentor"
+        }
+    },
+    {
+        "date": "2025-11-09 19:48:40",
+        "map": "Jungle Boogie [RAGL-17]",
+        "p0": {
+            "id": 5292,
+            "name": "Mo"
+        },
+        "p1": {
+            "id": 8869,
+            "name": "Sigil"
+        }
+    },
+    {
+        "date": "2025-11-09 20:19:58",
+        "map": "Rift 2 [RAGL-17]",
+        "p0": {
+            "id": 5292,
+            "name": "Mo"
+        },
+        "p1": {
+            "id": 8869,
+            "name": "Sigil"
+        }
+    },
+    {
+        "date": "2025-11-10 00:38:04",
+        "map": "Rift 2 [RAGL-17]",
+        "p0": {
+            "id": 9156,
+            "name": "toiletbreakbrb"
+        },
+        "p1": {
+            "id": 5292,
+            "name": "Mo"
+        }
+    },
+    {
+        "date": "2025-11-10 01:02:43",
+        "map": "Something Special [RAGL-17]",
+        "p0": {
+            "id": 9156,
+            "name": "toiletbreakbrb"
+        },
+        "p1": {
+            "id": 5292,
+            "name": "Mo"
+        }
+    },
+    {
+        "date": "2025-11-10 01:19:26",
+        "map": "Rift 2 [RAGL-17]",
+        "p0": {
+            "id": 9156,
+            "name": "toiletbreakbrb"
+        },
+        "p1": {
+            "id": 8869,
+            "name": "Sigil"
+        }
+    },
+    {
+        "date": "2025-11-10 01:39:50",
+        "map": "Up For Disaster [RAGL-17]",
+        "p0": {
+            "id": 9156,
+            "name": "toiletbreakbrb"
+        },
+        "p1": {
+            "id": 8869,
+            "name": "Sigil"
+        }
+    },
+    {
+        "date": "2025-11-10 02:03:32",
+        "map": "Dryened [RAGL-17]",
+        "p0": {
+            "id": 9156,
+            "name": "toiletbreakbrb"
+        },
+        "p1": {
+            "id": 19305,
+            "name": "sir123"
+        }
+    },
+    {
+        "date": "2025-11-10 02:24:29",
+        "map": "Something Special [RAGL-17]",
+        "p0": {
+            "id": 19305,
+            "name": "sir123"
+        },
+        "p1": {
+            "id": 9156,
+            "name": "toiletbreakbrb"
+        }
+    },
+    {
+        "date": "2025-11-10 11:46:01",
+        "map": "Something Special [RAGL-17]",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzz"
+        },
+        "p1": {
+            "id": 9156,
+            "name": "toiletbreakbrb"
+        }
+    },
+    {
+        "date": "2025-11-10 11:57:57",
+        "map": "Up For Disaster [RAGL-17]",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzz"
+        },
+        "p1": {
+            "id": 9156,
+            "name": "toiletbreakbrb"
+        }
+    },
+    {
+        "date": "2025-11-10 14:17:57",
+        "map": "Something Special [RAGL-17]",
+        "p0": {
+            "id": 7304,
+            "name": "Upps"
+        },
+        "p1": {
+            "id": 17239,
+            "name": "Fazzz"
+        }
+    },
+    {
+        "date": "2025-11-10 14:32:57",
+        "map": "Dryened [RAGL-17]",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzz"
+        },
+        "p1": {
+            "id": 7304,
+            "name": "Upps"
+        }
+    }
+]
