@@ -10,9 +10,9 @@ import json
 from math import ceil, floor
 
 SEASON = 17
-REGISTRATION_CLOSE_DATE = date(2024, 10, 3)
-REGISTRATIONS = [15469, 18968, 17239, 6430, 11913, 7304, 3952, 7387, 6793, 15428, 5292, 16066, 7714, 17607, 18864, 6751, 18359,
-                 8869, 21155, 20339, 20136, 21084, 6865, 13710]
+REGISTRATION_CLOSE_DATE = date(2025, 10, 2)
+REGISTRATIONS = [17239, 21084, 7387, 16066, 3952, 5292, 8869, 15428, 11913, 7714, 18864, 6751, 
+                 22706, 19305, 16814, 15017, 6881, 9156, 22949, 6941, 16677, 12022]
 # Season 16 registrations.
 #REGISTRATION_CLOSE_DATE = date(2024, 10, 3)
 #REGISTRATIONS = [15469, 18968, 17239, 6430, 11913, 7304, 3952, 7387, 6793, 15428, 5292, 16066, 7714, 17607, 18864, 6751, 18359,
@@ -248,6 +248,7 @@ potential_order = continuity_sort([player for division in standings_from_last_se
 print('### Continuity ranking ###')
 for i, player_id in enumerate(continuity_order):
     print('{} ({})'.format(player_names[str(player_id)], potential_order.index(player_id) + 1))
+    #print('[url=https://tttppp.github.io/ragl/player.html?player={}]{}[/url] (COUNTRY) ([color=#808080]unconfirmed[/color])'.format(player_id, player_names[str(player_id)]))
 
 print('### Ladder ranking ###')
 ladder_order = ladder_sort(REGISTRATIONS, ladder_ratings)
