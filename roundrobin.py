@@ -6,38 +6,36 @@ from datetime import date, timedelta
 from math import ceil
 from random import seed, shuffle
 
-SEASON = 16
-GROUP_STAGE_START_DATE = date(2024, 10, 7)
+SEASON = 17
+GROUP_STAGE_START_DATE = date(2025, 10, 6)
 GROUP_STAGE_WEEKS = 7
 
 divisions = [
 ('Masters', sorted(
-'''not happy (15469)
-Fazzz (17239)
-Nightingale (18968)
-Blackened (6430)
-maceman (6793)
-Duke Bones (11913)
+'''Fazzz (17239)
 inno (21084)
-Upps (7304)
-Ekanim (13710)
+sir123 (19305)
+TTTPPP (7387)
+Gargamel (16814)
+milkman (16066)
+.gg. (22706)
 anjew (3952)
-bete (15428)
-.1 (6865)'''.split('\n'), key=str.casefold)),
+Mo (5292)
+toiletbreakbrb (9156)
+Sigil (8869)'''.split('\n'), key=str.casefold)),
 
 ('Minions', sorted(
-'''TTTPPP (7387)
-Mo (5292)
-milkman (16066)
+'''Kalion (15017)
+bete (15428)
+Jur (6941)
+Duke Bones (11913)
 ORA_CN-Hans (7714)
-BigHALK (17607)
 fiwo (18864)
-Sigil (8869)
 Tailix Killa Mentor (6751)
-goldie (18359)
-Sudothinker (20339)
-Gregory_Mhf (20136)
-sliceoflife (21155)'''.split('\n'), key=str.casefold))
+Rossie (12022)
+ashleynewson (22949)
+spetsnaz84 (6881)
+jawsh (16677)'''.split('\n'), key=str.casefold))
 ]
 
 # Make the schedule for the season reproducible.
@@ -45,6 +43,8 @@ seed(SEASON)
 
 match_rounds_by_division = {}
 for division, players in divisions:
+    if len(players) % 2 == 1:
+        players.append('[bye]')
     match_rounds = []
     names = [player.split(' (')[0] for player in players]
     shuffle(names)
