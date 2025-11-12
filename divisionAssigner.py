@@ -262,5 +262,6 @@ for division_index, division in enumerate(divisions):
     print('--- {} ({}) ---'.format(DIVISION_NAMES[division_index], len(division)))
     for player_id in division:
         print(player_names[str(player_id)])
+        #print('{{"id": {}}},'.format(player_id))
         #print('{} ({})'.format(player_names[str(player_id)], player_id))
         #print('        - [{}, {}]'.format(player_id, player_names[str(player_id)]))

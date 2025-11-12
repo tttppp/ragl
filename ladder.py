@@ -11,6 +11,7 @@ import requests
 
 results_dir = 'results'
 data_dir = os.path.join('docs', 'data')
+skip_update = False
 
 ragl_name = 'ragl'
 results_urls = {
@@ -62,7 +63,7 @@ for competition, competition_url in results_urls.items():
     last_stored_competition_time = str_to_date(results[-1]['date'])
 
     # Load the results from the url.
-    if competition_url != None:
+    if competition_url != None and not skip_update:
         competition_games = requests.get(competition_url).json()
         new_games_by_year = collections.defaultdict(list)
         for competition_game in sorted(competition_games, key=lambda game: game['date']):
@@ -170,6 +171,7 @@ ratings = collections.defaultdict(glicko2_init)
 
 results = []
 per_player_ragl_games = collections.defaultdict(lambda: collections.defaultdict(lambda: {'p': 0, 'w': 0}))
+head_to_head_ragl_scores = collections.defaultdict(lambda: collections.defaultdict(lambda: collections.defaultdict(lambda: [0, 0])))
 for year in sorted(results_filenames_by_year.keys()):
     for competition, filename in results_filenames_by_year[year].items():
         with open(filename) as results_file:
@@ -180,10 +182,65 @@ for year in sorted(results_filenames_by_year.keys()):
                     seasonEnd = seasonDates['end'].replace('T', ' ')
                     for result in competition_results:
                         if result['date'] >= seasonStart and result['date'] <= seasonEnd:
-                            for p in ['p0', 'p1']:
-                                per_player_ragl_games[get_canonical_player_id(result[p])][season]['p'] += 1
-                            per_player_ragl_games[get_canonical_player_id(result['p0'])][season]['w'] += 1
+                            winner, loser = get_canonical_player_id(result['p0']), get_canonical_player_id(result['p1'])
+                            for p in [winner, loser]:
+                                per_player_ragl_games[p][season]['p'] += 1
+                            per_player_ragl_games[winner][season]['w'] += 1
+                            if sum(head_to_head_ragl_scores[season][winner][loser]) < 2:
+                                head_to_head_ragl_scores[season][winner][loser][0] += 1
+                                head_to_head_ragl_scores[season][loser][winner][1] += 1
             results += competition_results
+
+# Currently this only copes with a single depth of head-to-head results.
+def populate_head_to_head_results(division, forfeit_player_ids, head_to_head_season_scores):
+    for points in {player_data['won'] for player_data in division if player_data['id'] not in forfeit_player_ids}:
+        players_on_points = [player_data for player_data in division if player_data['id'] not in forfeit_player_ids and player_data['won'] == points]
+        if len(players_on_points) > 1:
+            for player_data in players_on_points:
+                opponent_ids = [opponent_data['id'] for opponent_data in players_on_points if opponent_data != player_data]
+                won = sum(result[0] for (opponent_id, result) in head_to_head_season_scores[player_data['id']].items() if opponent_id in opponent_ids)
+                lost = sum(result[1] for (opponent_id, result) in head_to_head_season_scores[player_data['id']].items() if opponent_id in opponent_ids)
+                player_data['headToHead'] = f'{won}-{lost}'
+
+def wins_from_scores_string(scores_string):
+    return tuple(int(score.split('-')[0]) for score in scores_string.split(', '))
+
+def player_data_to_sort_vector(player_data):
+    if 'seasonForfeit' in player_data and player_data['seasonForfeit']:
+        return (0,)
+    head_to_head_wins = wins_from_scores_string(player_data['headToHead']) if 'headToHead' in player_data else (0,)
+    strikes = player_data['strikes'] if 'strikes' in player_data else 0
+    tie_break_wins = wins_from_scores_string(player_data['tieBreak']) if 'tieBreak' in player_data else (0,)
+    return (1, player_data['won'], head_to_head_wins, -strikes, tie_break_wins)
+
+latest_season = ragl_details['latestSeason']
+head_to_head_season_scores = head_to_head_ragl_scores[str(latest_season)]
+with open(os.path.join(data_dir, 'standings', f's{latest_season:02d}.json')) as latest_season_file:
+    data = json.load(latest_season_file)
+    groups = data['groups']
+for group_name, group in groups.items():
+    for division_name, division in group.items():
+        forfeit_player_ids = [player_data['id'] for player_data in division if 'seasonForfeit' in player_data and player_data['seasonForfeit']]
+        for player_data in division:
+            player_id = player_data['id']
+            player_data.pop('headToHead', None)
+            if player_id in forfeit_player_ids:
+                player_data.pop('played', None)
+                player_data.pop('won', None)
+                player_data.pop('strikes', None)
+                continue
+            non_cancelled_scores = [score for (opponent_id, score) in head_to_head_season_scores[player_id].items() if opponent_id not in forfeit_player_ids]
+            won = sum(score[0] for score in non_cancelled_scores)
+            lost = sum(score[1] for score in non_cancelled_scores)
+            player_data['played'] = won + lost
+            player_data['won'] = won
+        populate_head_to_head_results(division, forfeit_player_ids, head_to_head_season_scores)
+        # Finally sort by the appropriate fields to ensure the ordinals are correct in the webpage.
+        group[division_name] = sorted(division, key=player_data_to_sort_vector, reverse=True)
+with open(os.path.join(data_dir, 'standings', f's{latest_season:02d}.json'), 'w') as latest_season_file:
+    data = {'order': [{'won': 'DESC'}, {'headToHead': 'DESC'}, {'strikes': 'ASC'}, {'tieBreak': 'DESC'}]}
+    data['groups'] = groups
+    json.dump(data, latest_season_file, indent=2, sort_keys=False)
 
 data, player_data = glicko2_table(ratings, results)
 
