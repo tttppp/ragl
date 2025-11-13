@@ -456,20 +456,20 @@
         }
     },
     {
-        "date": "2025-10-13 10:34:34",
+        "date": "2025-10-13 12:21:25",
         "map": "Jungle Boogie [RAGL-17]",
         "p0": {
-            "id": 16814,
-            "name": "Gargamel"
-        },
-        "p1": {
             "id": 17239,
             "name": "Fazzz"
+        },
+        "p1": {
+            "id": 16814,
+            "name": "Gargamel"
         }
     },
     {
-        "date": "2025-10-13 12:21:25",
-        "map": "Jungle Boogie [RAGL-17]",
+        "date": "2025-10-13 12:34:59",
+        "map": "Up For Disaster [RAGL-17]",
         "p0": {
             "id": 17239,
             "name": "Fazzz"
