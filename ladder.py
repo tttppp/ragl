@@ -223,21 +223,29 @@ def populate_head_to_head_results(division, forfeit_player_ids, head_to_head_sea
         head_to_head_display = head_to_head_displays[player_data['id']]
         if len(head_to_head_display) > 0:
             player_data['headToHead'] = ', '.join(head_to_head_display)
+            # Put strikes after headToHead in the json file for easy reading.
+            if 'strikes' in player_data:
+                strikes = player_data.pop('strikes')
+                player_data['strikes'] = strikes
 
 def wins_from_scores_string(scores_string):
     return tuple(int(score.split('-')[0]) for score in scores_string.split(', '))
 
 def player_data_to_sort_vector(player_data):
     if 'seasonForfeit' in player_data and player_data['seasonForfeit']:
-        return (0, int(player_data['id']))
+        return (0, -int(player_data['id']))
     head_to_head_wins = wins_from_scores_string(player_data['headToHead']) if 'headToHead' in player_data else (0,)
     strikes = player_data['strikes'] if 'strikes' in player_data else 0
     tie_break_wins = wins_from_scores_string(player_data['tieBreak']) if 'tieBreak' in player_data else (0,)
-    return (1, player_data['won'], head_to_head_wins, -strikes, tie_break_wins, int(player_data['id']))
+    return (1, player_data['won'], head_to_head_wins, -strikes, tie_break_wins, -int(player_data['id']))
 
 latest_season = ragl_details['latestSeason']
 head_to_head_season_scores = head_to_head_ragl_scores[str(latest_season)]
-with open(os.path.join(data_dir, 'standings', f's{latest_season:02d}.json')) as latest_season_file:
+latest_season_path = os.path.join(data_dir, 'standings', f's{latest_season:02d}.json')
+if not os.path.isfile(latest_season_path):
+    with open(latest_season_path, 'w') as latest_season_file:
+        json.dump({'order': [{'won': 'DESC'}, {'headToHead': 'DESC'}, {'strikes': 'ASC'}, {'tieBreak': 'DESC'}]}, latest_season_file)
+with open(latest_season_path) as latest_season_file:
     data = json.load(latest_season_file)
     groups = data['groups']
 for group_name, group in groups.items():
@@ -260,7 +268,6 @@ for group_name, group in groups.items():
         # Finally sort by the appropriate fields to ensure the ordinals are correct in the webpage.
         group[division_name] = sorted(division, key=player_data_to_sort_vector, reverse=True)
 with open(os.path.join(data_dir, 'standings', f's{latest_season:02d}.json'), 'w') as latest_season_file:
-    data = {'order': [{'won': 'DESC'}, {'headToHead': 'DESC'}, {'strikes': 'ASC'}, {'tieBreak': 'DESC'}]}
     data['groups'] = groups
     json.dump(data, latest_season_file, indent=2, sort_keys=False)
 
