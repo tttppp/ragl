@@ -17,13 +17,13 @@
     "Masters": {
       "": [
         {
-          "id": 19305,
+          "id": 17239,
           "played": 18,
           "won": 15,
           "headToHead": "1-1"
         },
         {
-          "id": 17239,
+          "id": 19305,
           "played": 18,
           "won": 15,
           "headToHead": "1-1"
@@ -35,18 +35,18 @@
           "headToHead": "2-2"
         },
         {
-          "id": 9156,
-          "strikes": 1,
-          "played": 16,
-          "won": 11,
-          "headToHead": "1-1"
-        },
-        {
           "id": 7304,
-          "strikes": 1,
           "played": 14,
           "won": 11,
-          "headToHead": "1-1"
+          "headToHead": "1-1, 0-0",
+          "strikes": 1
+        },
+        {
+          "id": 9156,
+          "played": 16,
+          "won": 11,
+          "headToHead": "1-1, 0-0",
+          "strikes": 1
         },
         {
           "id": 16814,
@@ -59,14 +59,14 @@
           "won": 4
         },
         {
-          "id": 5292,
-          "played": 14,
+          "id": 3952,
+          "played": 12,
           "won": 3,
           "headToHead": "0-0"
         },
         {
-          "id": 3952,
-          "played": 12,
+          "id": 5292,
+          "played": 14,
           "won": 3,
           "headToHead": "0-0"
         },
