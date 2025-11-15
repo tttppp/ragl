@@ -11,7 +11,7 @@ import requests
 
 results_dir = 'results'
 data_dir = os.path.join('docs', 'data')
-skip_update = False
+skip_update = True
 
 ragl_name = 'ragl'
 results_urls = {
@@ -193,25 +193,47 @@ for year in sorted(results_filenames_by_year.keys()):
 
 # Currently this only copes with a single depth of head-to-head results.
 def populate_head_to_head_results(division, forfeit_player_ids, head_to_head_season_scores):
-    for points in {player_data['won'] for player_data in division if player_data['id'] not in forfeit_player_ids}:
-        players_on_points = [player_data for player_data in division if player_data['id'] not in forfeit_player_ids and player_data['won'] == points]
-        if len(players_on_points) > 1:
-            for player_data in players_on_points:
-                opponent_ids = [opponent_data['id'] for opponent_data in players_on_points if opponent_data != player_data]
-                won = sum(result[0] for (opponent_id, result) in head_to_head_season_scores[player_data['id']].items() if opponent_id in opponent_ids)
-                lost = sum(result[1] for (opponent_id, result) in head_to_head_season_scores[player_data['id']].items() if opponent_id in opponent_ids)
-                player_data['headToHead'] = f'{won}-{lost}'
+    sort_vectors = {}
+    for player_data in division:
+        if player_data['id'] not in forfeit_player_ids:
+            sort_vectors[player_data['id']] = (player_data['won'],)
+    unsorted = []
+    for sort_vector in set(sort_vectors.values()):
+        if list(sort_vectors.values()).count(sort_vector) > 1:
+            tied_players = [player_id for (player_id, vector) in sort_vectors.items() if vector == sort_vector]
+            unsorted.append(tied_players)
+    head_to_head_displays = collections.defaultdict(list)
+    while len(unsorted) > 0:
+        tied_players = unsorted.pop()
+        # Need to add h2h results to the end of the vector for each player.
+        new_sort_vectors_to_players = collections.defaultdict(list)
+        for player_id in tied_players:
+            opponent_ids = [opponent_id for opponent_id in tied_players if opponent_id != player_id]
+            won = sum(result[0] for (opponent_id, result) in head_to_head_season_scores[player_id].items() if opponent_id in opponent_ids)
+            lost = sum(result[1] for (opponent_id, result) in head_to_head_season_scores[player_id].items() if opponent_id in opponent_ids)
+            head_to_head_displays[player_id].append(f'{won}-{lost}')
+            new_sort_vector = sort_vectors[player_id] + (won,)
+            new_sort_vectors_to_players[new_sort_vector].append(player_id)
+            sort_vectors[player_id] = new_sort_vector
+        if len(new_sort_vectors_to_players) > 1:
+            for player_ids in new_sort_vectors_to_players.values():
+                if len(player_ids) > 1:
+                    unsorted.append(player_ids)
+    for player_data in division:
+        head_to_head_display = head_to_head_displays[player_data['id']]
+        if len(head_to_head_display) > 0:
+            player_data['headToHead'] = ', '.join(head_to_head_display)
 
 def wins_from_scores_string(scores_string):
     return tuple(int(score.split('-')[0]) for score in scores_string.split(', '))
 
 def player_data_to_sort_vector(player_data):
     if 'seasonForfeit' in player_data and player_data['seasonForfeit']:
-        return (0,)
+        return (0, int(player_data['id']))
     head_to_head_wins = wins_from_scores_string(player_data['headToHead']) if 'headToHead' in player_data else (0,)
     strikes = player_data['strikes'] if 'strikes' in player_data else 0
     tie_break_wins = wins_from_scores_string(player_data['tieBreak']) if 'tieBreak' in player_data else (0,)
-    return (1, player_data['won'], head_to_head_wins, -strikes, tie_break_wins)
+    return (1, player_data['won'], head_to_head_wins, -strikes, tie_break_wins, int(player_data['id']))
 
 latest_season = ragl_details['latestSeason']
 head_to_head_season_scores = head_to_head_ragl_scores[str(latest_season)]
