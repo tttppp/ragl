@@ -11,7 +11,7 @@ import requests
 
 results_dir = 'results'
 data_dir = os.path.join('docs', 'data')
-skip_update = True
+skip_update = False
 
 ragl_name = 'ragl'
 results_urls = {
