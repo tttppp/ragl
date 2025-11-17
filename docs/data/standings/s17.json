@@ -26,7 +26,8 @@
           "id": 19305,
           "played": 18,
           "won": 15,
-          "headToHead": "1-1"
+          "headToHead": "1-1",
+          "strikes": 1
         },
         {
           "id": 22706,
@@ -39,7 +40,7 @@
           "played": 14,
           "won": 11,
           "headToHead": "1-1, 0-0",
-          "strikes": 1
+          "strikes": 2
         },
         {
           "id": 9156,
@@ -56,13 +57,15 @@
         {
           "id": 8869,
           "played": 14,
-          "won": 4
+          "won": 4,
+          "strikes": 1
         },
         {
           "id": 3952,
           "played": 12,
           "won": 3,
-          "headToHead": "0-0"
+          "headToHead": "0-0",
+          "strikes": 1
         },
         {
           "id": 5292,
@@ -91,7 +94,8 @@
         {
           "id": 15017,
           "played": 16,
-          "won": 15
+          "won": 15,
+          "strikes": 1
         },
         {
           "id": 11913,
@@ -144,7 +148,8 @@
           "id": 16677,
           "strikes": 1,
           "played": 14,
-          "won": 0
+          "won": 0,
+          "seasonForfeit": true
         }
       ]
     }
