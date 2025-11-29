@@ -2602,5 +2602,125 @@
             "id": 6881,
             "name": "spetsnaz84"
         }
+    },
+    {
+        "date": "2025-11-28 18:12:28",
+        "map": "Sleepy Isle [RAGL-17]",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzz"
+        },
+        "p1": {
+            "id": 19305,
+            "name": "sir123"
+        }
+    },
+    {
+        "date": "2025-11-28 18:26:13",
+        "map": "Jungle Boogie [RAGL-17]",
+        "p0": {
+            "id": 19305,
+            "name": "sir123"
+        },
+        "p1": {
+            "id": 17239,
+            "name": "Fazzz"
+        }
+    },
+    {
+        "date": "2025-11-28 18:44:12",
+        "map": "Up For Disaster [RAGL-17]",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzz"
+        },
+        "p1": {
+            "id": 19305,
+            "name": "sir123"
+        }
+    },
+    {
+        "date": "2025-11-28 18:52:05",
+        "map": "Circuit of Command v2 [RAGL-17]",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzz"
+        },
+        "p1": {
+            "id": 19305,
+            "name": "sir123"
+        }
+    },
+    {
+        "date": "2025-11-28 19:02:40",
+        "map": "The Ruined Kingdom [RAGL-17]",
+        "p0": {
+            "id": 17239,
+            "name": "Fazzz"
+        },
+        "p1": {
+            "id": 19305,
+            "name": "sir123"
+        }
+    },
+    {
+        "date": "2025-11-30 12:16:40",
+        "map": "Sleepy Isle [RAGL-17]",
+        "p0": {
+            "id": 16814,
+            "name": "Gargamel"
+        },
+        "p1": {
+            "id": 7304,
+            "name": "Upps"
+        }
+    },
+    {
+        "date": "2025-11-30 12:27:36",
+        "map": "Freezer [RAGL-17]",
+        "p0": {
+            "id": 16814,
+            "name": "Gargamel"
+        },
+        "p1": {
+            "id": 7304,
+            "name": "Upps"
+        }
+    },
+    {
+        "date": "2025-11-30 12:58:46",
+        "map": "The Ruined Kingdom [RAGL-17]",
+        "p0": {
+            "id": 7304,
+            "name": "Upps"
+        },
+        "p1": {
+            "id": 16814,
+            "name": "Gargamel"
+        }
+    },
+    {
+        "date": "2025-11-30 13:15:28",
+        "map": "Circuit of Command v2 [RAGL-17]",
+        "p0": {
+            "id": 16814,
+            "name": "Gargamel"
+        },
+        "p1": {
+            "id": 7304,
+            "name": "Upps"
+        }
+    },
+    {
+        "date": "2025-11-30 13:26:18",
+        "map": "Jungle Boogie [RAGL-17]",
+        "p0": {
+            "id": 16814,
+            "name": "Gargamel"
+        },
+        "p1": {
+            "id": 7304,
+            "name": "Upps"
+        }
     }
 ]
