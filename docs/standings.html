@@ -81,7 +81,11 @@
                     var row = $('<tr>');
                     var sortedPlayerIds = Object.keys(result).sort(function(playerA, playerB) { return result[playerB] - result[playerA]; });
                     row.append($('<td>').append(makePlayerLink(sortedPlayerIds[0], players)));
-                    row.append($('<td>').text(result[sortedPlayerIds[0]] + ' - ' + result[sortedPlayerIds[1]]));
+                    var resultText = result[sortedPlayerIds[0]] + ' - ' + result[sortedPlayerIds[1]];
+                    if (Object.keys(result).includes('awards')) {
+                        resultText = result['awards'][0] + ' ' + resultText + ' ' + result['awards'][1];
+                    }
+                    row.append($('<td>').text(resultText));
                     row.append($('<td>').append(makePlayerLink(sortedPlayerIds[1], players)));
                     tbody.append(row);
                 }
