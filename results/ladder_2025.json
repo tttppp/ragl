@@ -36142,5 +36142,617 @@
             "id": 23449,
             "name": "DumbosFeather"
         }
+    },
+    {
+        "date": "2025-12-18 12:47:45",
+        "map": "Assault",
+        "p0": {
+            "id": 18810,
+            "name": "Mav"
+        },
+        "p1": {
+            "id": 13872,
+            "name": "x3oo"
+        }
+    },
+    {
+        "date": "2025-12-18 13:09:32",
+        "map": "Devils Marsh",
+        "p0": {
+            "id": 18810,
+            "name": "Mav"
+        },
+        "p1": {
+            "id": 15899,
+            "name": "tux"
+        }
+    },
+    {
+        "date": "2025-12-18 13:48:16",
+        "map": "The Ruined Kingdom",
+        "p0": {
+            "id": 18810,
+            "name": "Mav"
+        },
+        "p1": {
+            "id": 15899,
+            "name": "tux"
+        }
+    },
+    {
+        "date": "2025-12-18 15:13:29",
+        "map": "Devils Marsh",
+        "p0": {
+            "id": 15899,
+            "name": "tux"
+        },
+        "p1": {
+            "id": 22949,
+            "name": "ashleynewson"
+        }
+    },
+    {
+        "date": "2025-12-18 15:26:05",
+        "map": "Summer Camp",
+        "p0": {
+            "id": 15899,
+            "name": "tux"
+        },
+        "p1": {
+            "id": 22949,
+            "name": "ashleynewson"
+        }
+    },
+    {
+        "date": "2025-12-18 17:53:46",
+        "map": "Annihilate",
+        "p0": {
+            "id": 7304,
+            "name": "Upps"
+        },
+        "p1": {
+            "id": 23449,
+            "name": "DumbosFeather"
+        }
+    },
+    {
+        "date": "2025-12-18 18:09:19",
+        "map": "Myriad",
+        "p0": {
+            "id": 7304,
+            "name": "Upps"
+        },
+        "p1": {
+            "id": 23449,
+            "name": "DumbosFeather"
+        }
+    },
+    {
+        "date": "2025-12-18 18:22:39",
+        "map": "Circuit of Command v2",
+        "p0": {
+            "id": 22956,
+            "name": "cx-29"
+        },
+        "p1": {
+            "id": 7304,
+            "name": "Upps"
+        }
+    },
+    {
+        "date": "2025-12-19 04:26:23",
+        "map": "The Ruined Kingdom",
+        "p0": {
+            "id": 15899,
+            "name": "tux"
+        },
+        "p1": {
+            "id": 12022,
+            "name": "Rossie"
+        }
+    },
+    {
+        "date": "2025-12-19 08:20:55",
+        "map": "Assault",
+        "p0": {
+            "id": 12022,
+            "name": "Rossie"
+        },
+        "p1": {
+            "id": 20339,
+            "name": "Sudothinker"
+        }
+    },
+    {
+        "date": "2025-12-19 09:19:48",
+        "map": "Something Special",
+        "p0": {
+            "id": 11099,
+            "name": "Dodder"
+        },
+        "p1": {
+            "id": 9156,
+            "name": "toiletbreakbrb"
+        }
+    },
+    {
+        "date": "2025-12-19 19:57:21",
+        "map": "Annihilate",
+        "p0": {
+            "id": 18810,
+            "name": "Mav"
+        },
+        "p1": {
+            "id": 22956,
+            "name": "cx-29"
+        }
+    },
+    {
+        "date": "2025-12-19 20:09:22",
+        "map": "Sleepy Isle",
+        "p0": {
+            "id": 18810,
+            "name": "Mav"
+        },
+        "p1": {
+            "id": 22956,
+            "name": "cx-29"
+        }
+    },
+    {
+        "date": "2025-12-19 20:18:00",
+        "map": "Devils Marsh",
+        "p0": {
+            "id": 22956,
+            "name": "cx-29"
+        },
+        "p1": {
+            "id": 18810,
+            "name": "Mav"
+        }
+    },
+    {
+        "date": "2025-12-19 20:27:34",
+        "map": "Something Special",
+        "p0": {
+            "id": 18810,
+            "name": "Mav"
+        },
+        "p1": {
+            "id": 22956,
+            "name": "cx-29"
+        }
+    },
+    {
+        "date": "2025-12-20 02:14:26",
+        "map": "Annihilate",
+        "p0": {
+            "id": 12022,
+            "name": "Rossie"
+        },
+        "p1": {
+            "id": 19305,
+            "name": "sir123"
+        }
+    },
+    {
+        "date": "2025-12-20 02:33:23",
+        "map": "Assault",
+        "p0": {
+            "id": 19305,
+            "name": "sir123"
+        },
+        "p1": {
+            "id": 12022,
+            "name": "Rossie"
+        }
+    },
+    {
+        "date": "2025-12-22 04:36:28",
+        "map": "Arctic Paradise",
+        "p0": {
+            "id": 23418,
+            "name": "Tooty"
+        },
+        "p1": {
+            "id": 23419,
+            "name": "Gemyhood"
+        }
+    },
+    {
+        "date": "2025-12-22 13:00:21",
+        "map": "Assault",
+        "p0": {
+            "id": 18810,
+            "name": "Mav"
+        },
+        "p1": {
+            "id": 21976,
+            "name": "enea_super_rap"
+        }
+    },
+    {
+        "date": "2025-12-22 13:08:04",
+        "map": "Sleepy Isle",
+        "p0": {
+            "id": 18810,
+            "name": "Mav"
+        },
+        "p1": {
+            "id": 16788,
+            "name": "muleyyyy"
+        }
+    },
+    {
+        "date": "2025-12-22 18:19:58",
+        "map": "Up For Disaster",
+        "p0": {
+            "id": 19305,
+            "name": "sir123"
+        },
+        "p1": {
+            "id": 17053,
+            "name": "realsloth"
+        }
+    },
+    {
+        "date": "2025-12-23 11:18:20",
+        "map": "Assault",
+        "p0": {
+            "id": 11435,
+            "name": "Goremented"
+        },
+        "p1": {
+            "id": 23301,
+            "name": "Cat GPT"
+        }
+    },
+    {
+        "date": "2025-12-23 11:35:02",
+        "map": "Assault",
+        "p0": {
+            "id": 23301,
+            "name": "Cat GPT"
+        },
+        "p1": {
+            "id": 14724,
+            "name": "i am bad at this"
+        }
+    },
+    {
+        "date": "2025-12-23 14:11:24",
+        "map": "Assault",
+        "p0": {
+            "id": 16814,
+            "name": "Gargamel"
+        },
+        "p1": {
+            "id": 11435,
+            "name": "Goremented"
+        }
+    },
+    {
+        "date": "2025-12-23 23:58:03",
+        "map": "Rift 2",
+        "p0": {
+            "id": 19305,
+            "name": "sir123"
+        },
+        "p1": {
+            "id": 5292,
+            "name": "Mo"
+        }
+    },
+    {
+        "date": "2025-12-24 07:30:27",
+        "map": "Devils Marsh",
+        "p0": {
+            "id": 15899,
+            "name": "tux"
+        },
+        "p1": {
+            "id": 12022,
+            "name": "Rossie"
+        }
+    },
+    {
+        "date": "2025-12-24 07:54:29",
+        "map": "Annihilate",
+        "p0": {
+            "id": 12022,
+            "name": "Rossie"
+        },
+        "p1": {
+            "id": 15899,
+            "name": "tux"
+        }
+    },
+    {
+        "date": "2025-12-24 08:23:14",
+        "map": "Annihilate",
+        "p0": {
+            "id": 12022,
+            "name": "Rossie"
+        },
+        "p1": {
+            "id": 15899,
+            "name": "tux"
+        }
+    },
+    {
+        "date": "2025-12-24 23:03:14",
+        "map": "Jungle Boogie",
+        "p0": {
+            "id": 19305,
+            "name": "sir123"
+        },
+        "p1": {
+            "id": 17053,
+            "name": "realsloth"
+        }
+    },
+    {
+        "date": "2025-12-25 14:17:25",
+        "map": "Sleepy Isle",
+        "p0": {
+            "id": 20510,
+            "name": "Amelza"
+        },
+        "p1": {
+            "id": 15899,
+            "name": "tux"
+        }
+    },
+    {
+        "date": "2025-12-25 14:31:50",
+        "map": "Schwerpunkt",
+        "p0": {
+            "id": 15899,
+            "name": "tux"
+        },
+        "p1": {
+            "id": 20510,
+            "name": "Amelza"
+        }
+    },
+    {
+        "date": "2025-12-25 14:50:59",
+        "map": "Rift 2",
+        "p0": {
+            "id": 15899,
+            "name": "tux"
+        },
+        "p1": {
+            "id": 20510,
+            "name": "Amelza"
+        }
+    },
+    {
+        "date": "2025-12-25 15:23:03",
+        "map": "Summer Camp",
+        "p0": {
+            "id": 15899,
+            "name": "tux"
+        },
+        "p1": {
+            "id": 20510,
+            "name": "Amelza"
+        }
+    },
+    {
+        "date": "2025-12-26 01:00:56",
+        "map": "Summer Camp",
+        "p0": {
+            "id": 19305,
+            "name": "sir123"
+        },
+        "p1": {
+            "id": 9156,
+            "name": "toiletbreakbrb"
+        }
+    },
+    {
+        "date": "2025-12-26 02:39:55",
+        "map": "Rift 2",
+        "p0": {
+            "id": 9156,
+            "name": "toiletbreakbrb"
+        },
+        "p1": {
+            "id": 6865,
+            "name": ".1"
+        }
+    },
+    {
+        "date": "2025-12-28 06:43:23",
+        "map": "Circuit of Command v2",
+        "p0": {
+            "id": 16814,
+            "name": "Gargamel"
+        },
+        "p1": {
+            "id": 15899,
+            "name": "tux"
+        }
+    },
+    {
+        "date": "2025-12-28 19:34:11",
+        "map": "Assault",
+        "p0": {
+            "id": 23546,
+            "name": "Freyr69"
+        },
+        "p1": {
+            "id": 23545,
+            "name": "yslpn"
+        }
+    },
+    {
+        "date": "2025-12-28 19:47:52",
+        "map": "The Ruined Kingdom",
+        "p0": {
+            "id": 23546,
+            "name": "Freyr69"
+        },
+        "p1": {
+            "id": 23545,
+            "name": "yslpn"
+        }
+    },
+    {
+        "date": "2025-12-30 02:51:27",
+        "map": "Evergreens",
+        "p0": {
+            "id": 16814,
+            "name": "Gargamel"
+        },
+        "p1": {
+            "id": 23552,
+            "name": "bucket"
+        }
+    },
+    {
+        "date": "2025-12-30 02:55:21",
+        "map": "Dryened",
+        "p0": {
+            "id": 16814,
+            "name": "Gargamel"
+        },
+        "p1": {
+            "id": 23552,
+            "name": "bucket"
+        }
+    },
+    {
+        "date": "2025-12-30 03:08:15",
+        "map": "Dryened",
+        "p0": {
+            "id": 16814,
+            "name": "Gargamel"
+        },
+        "p1": {
+            "id": 23552,
+            "name": "bucket"
+        }
+    },
+    {
+        "date": "2025-12-30 03:41:01",
+        "map": "Circuit of Command v2",
+        "p0": {
+            "id": 16814,
+            "name": "Gargamel"
+        },
+        "p1": {
+            "id": 11913,
+            "name": "Duke Bones"
+        }
+    },
+    {
+        "date": "2025-12-30 03:58:21",
+        "map": "Caldera",
+        "p0": {
+            "id": 23552,
+            "name": "bucket"
+        },
+        "p1": {
+            "id": 16814,
+            "name": "Gargamel"
+        }
+    },
+    {
+        "date": "2025-12-30 21:25:55",
+        "map": "Rift 2",
+        "p0": {
+            "id": 6793,
+            "name": "maceman"
+        },
+        "p1": {
+            "id": 20510,
+            "name": "Amelza"
+        }
+    },
+    {
+        "date": "2025-12-31 04:22:36",
+        "map": "Evergreens",
+        "p0": {
+            "id": 16814,
+            "name": "Gargamel"
+        },
+        "p1": {
+            "id": 12022,
+            "name": "Rossie"
+        }
+    },
+    {
+        "date": "2025-12-31 04:39:26",
+        "map": "Devils Marsh",
+        "p0": {
+            "id": 12022,
+            "name": "Rossie"
+        },
+        "p1": {
+            "id": 16814,
+            "name": "Gargamel"
+        }
+    },
+    {
+        "date": "2025-12-31 04:48:58",
+        "map": "Caldera",
+        "p0": {
+            "id": 16814,
+            "name": "Gargamel"
+        },
+        "p1": {
+            "id": 12022,
+            "name": "Rossie"
+        }
+    },
+    {
+        "date": "2025-12-31 04:59:39",
+        "map": "Schwerpunkt",
+        "p0": {
+            "id": 16814,
+            "name": "Gargamel"
+        },
+        "p1": {
+            "id": 12022,
+            "name": "Rossie"
+        }
+    },
+    {
+        "date": "2025-12-31 05:11:18",
+        "map": "Annihilate",
+        "p0": {
+            "id": 16814,
+            "name": "Gargamel"
+        },
+        "p1": {
+            "id": 12022,
+            "name": "Rossie"
+        }
+    },
+    {
+        "date": "2025-12-31 08:36:30",
+        "map": "Arctic Paradise",
+        "p0": {
+            "id": 16814,
+            "name": "Gargamel"
+        },
+        "p1": {
+            "id": 23404,
+            "name": "Hell-Cat"
+        }
+    },
+    {
+        "date": "2025-12-31 08:38:28",
+        "map": "Polemos",
+        "p0": {
+            "id": 16814,
+            "name": "Gargamel"
+        },
+        "p1": {
+            "id": 23404,
+            "name": "Hell-Cat"
+        }
     }
 ]
