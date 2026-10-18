@@ -64,20 +64,24 @@ for competition, competition_url in results_urls.items():
 
     # Load the results from the url.
     if competition_url != None and not skip_update:
-        competition_games = requests.get(competition_url).json()
-        new_games_by_year = collections.defaultdict(list)
-        for competition_game in sorted(competition_games, key=lambda game: game['date']):
-            # Ignore games involving deleted players.
-            if competition_game['p0'] == None or competition_game['p1'] == None:
-                continue
-            # Store the results of new games.
-            game_date = str_to_date(competition_game['date'])
-            if game_date > last_stored_competition_time:
-                # Restrict to just the minimum data we want.
-                p0 = create_player_dict(competition_game, 'p0')
-                p1 = create_player_dict(competition_game, 'p1')
-                competition_game = {'date': competition_game['date'], 'map': competition_game['map'], 'p0': p0, 'p1': p1}
-                new_games_by_year[game_date.year].append(competition_game)
+        try:
+            competition_games = requests.get(competition_url).json()
+            new_games_by_year = collections.defaultdict(list)
+            for competition_game in sorted(competition_games, key=lambda game: game['date']):
+                # Ignore games involving deleted players.
+                if competition_game['p0'] == None or competition_game['p1'] == None:
+                    continue
+                # Store the results of new games.
+                game_date = str_to_date(competition_game['date'])
+                if game_date > last_stored_competition_time:
+                    # Restrict to just the minimum data we want.
+                    p0 = create_player_dict(competition_game, 'p0')
+                    p1 = create_player_dict(competition_game, 'p1')
+                    competition_game = {'date': competition_game['date'], 'map': competition_game['map'], 'p0': p0, 'p1': p1}
+                    new_games_by_year[game_date.year].append(competition_game)
+        except json.JSONDecodeError:
+            print('Failed to load {} games from {}'.format(competition, competition_url))
+            continue
 
         # Store any new results.
         for year in sorted(new_games_by_year.keys()):
