@@ -1,0 +1,26 @@
+[
+    {
+        "date": "2026-10-25 21:00:32",
+        "map": "Expedition: Valley v2 [RAGL-18]",
+        "p0": {
+            "id": 12654,
+            "name": "Therapist"
+        },
+        "p1": {
+            "id": 16066,
+            "name": "milkman"
+        }
+    },
+    {
+        "date": "2026-10-25 21:15:18",
+        "map": "Tears in Rain v2 [RAGL-18]",
+        "p0": {
+            "id": 16066,
+            "name": "milkman"
+        },
+        "p1": {
+            "id": 12654,
+            "name": "Therapist"
+        }
+    }
+]
