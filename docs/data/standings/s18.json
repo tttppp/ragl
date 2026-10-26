@@ -16,54 +16,237 @@
   "groups": {
     "Masters": {
       "": [
-        {"id": 16814},
-        {"id": 19305},
-        {"id": 15899},
-        {"id": 7304},
-        {"id": 24123},
-        {"id": 6793},
-        {"id": 11913},
-        {"id": 13710},
-        {"id": 6430},
-        {"id": 8869},
-        {"id": 20510},
-        {"id": 6766},
-        {"id": 5292},
-        {"id": 6748}
+        {
+          "id": 6748,
+          "played": 3,
+          "won": 2
+        },
+        {
+          "id": 6766,
+          "played": 2,
+          "won": 1,
+          "headToHead": "1-1, 1-1"
+        },
+        {
+          "id": 20510,
+          "played": 2,
+          "won": 1,
+          "headToHead": "1-1, 1-1"
+        },
+        {
+          "id": 15899,
+          "played": 1,
+          "won": 1,
+          "headToHead": "0-0"
+        },
+        {
+          "id": 5292,
+          "played": 0,
+          "won": 0,
+          "headToHead": "0-0"
+        },
+        {
+          "id": 6430,
+          "played": 0,
+          "won": 0,
+          "headToHead": "0-0"
+        },
+        {
+          "id": 6793,
+          "played": 0,
+          "won": 0,
+          "headToHead": "0-0"
+        },
+        {
+          "id": 7304,
+          "played": 0,
+          "won": 0,
+          "headToHead": "0-0"
+        },
+        {
+          "id": 8869,
+          "played": 0,
+          "won": 0,
+          "headToHead": "0-0"
+        },
+        {
+          "id": 11913,
+          "played": 2,
+          "won": 0,
+          "headToHead": "0-0"
+        },
+        {
+          "id": 13710,
+          "played": 0,
+          "won": 0,
+          "headToHead": "0-0"
+        },
+        {
+          "id": 16814,
+          "played": 0,
+          "won": 0,
+          "headToHead": "0-0"
+        },
+        {
+          "id": 19305,
+          "played": 0,
+          "won": 0,
+          "headToHead": "0-0"
+        },
+        {
+          "id": 24123,
+          "played": 0,
+          "won": 0,
+          "headToHead": "0-0"
+        }
       ]
     },
     "Minions": {
       "": [
-        {"id": 15428},
-        {"id": 14724},
-        {"id": 16066},
-        {"id": 16314},
-        {"id": 3952},
-        {"id": 7387},
-        {"id": 12654},
-        {"id": 11861},
-        {"id": 7714},
-        {"id": 22545},
-        {"id": 6751},
-        {"id": 16788}
+        {
+          "id": 3952,
+          "played": 2,
+          "won": 2,
+          "headToHead": "0-0"
+        },
+        {
+          "id": 12654,
+          "played": 4,
+          "won": 2,
+          "headToHead": "0-0"
+        },
+        {
+          "id": 15428,
+          "played": 2,
+          "won": 1,
+          "headToHead": "1-1, 1-1"
+        },
+        {
+          "id": 22545,
+          "played": 2,
+          "won": 1,
+          "headToHead": "1-1, 1-1"
+        },
+        {
+          "id": 6751,
+          "played": 2,
+          "won": 1,
+          "headToHead": "0-0, 0-0"
+        },
+        {
+          "id": 16066,
+          "played": 2,
+          "won": 1,
+          "headToHead": "0-0, 0-0"
+        },
+        {
+          "id": 7387,
+          "played": 0,
+          "won": 0,
+          "headToHead": "0-0"
+        },
+        {
+          "id": 7714,
+          "played": 0,
+          "won": 0,
+          "headToHead": "0-0"
+        },
+        {
+          "id": 11861,
+          "played": 0,
+          "won": 0,
+          "headToHead": "0-0"
+        },
+        {
+          "id": 14724,
+          "played": 2,
+          "won": 0,
+          "headToHead": "0-0"
+        },
+        {
+          "id": 16314,
+          "played": 0,
+          "won": 0,
+          "headToHead": "0-0"
+        },
+        {
+          "id": 16788,
+          "played": 0,
+          "won": 0,
+          "headToHead": "0-0"
+        }
       ]
     },
     "Recruits": {
       "": [
-        {"id": 18864},
-        {"id": 6881},
-        {"id": 22897},
-        {"id": 18417},
-        {"id": 16474},
-        {"id": 18359},
-        {"id": 21158},
-        {"id": 21011},
-        {"id": 14328},
-        {"id": 9372},
-        {"id": 25670}
+        {
+          "id": 16474,
+          "played": 2,
+          "won": 2,
+          "headToHead": "0-0"
+        },
+        {
+          "id": 21011,
+          "played": 2,
+          "won": 2,
+          "headToHead": "0-0"
+        },
+        {
+          "id": 6881,
+          "played": 0,
+          "won": 0,
+          "headToHead": "0-0"
+        },
+        {
+          "id": 9372,
+          "played": 0,
+          "won": 0,
+          "headToHead": "0-0"
+        },
+        {
+          "id": 14328,
+          "played": 2,
+          "won": 0,
+          "headToHead": "0-0"
+        },
+        {
+          "id": 18359,
+          "played": 0,
+          "won": 0,
+          "headToHead": "0-0"
+        },
+        {
+          "id": 18417,
+          "played": 0,
+          "won": 0,
+          "headToHead": "0-0"
+        },
+        {
+          "id": 18864,
+          "played": 0,
+          "won": 0,
+          "headToHead": "0-0"
+        },
+        {
+          "id": 21158,
+          "played": 0,
+          "won": 0,
+          "headToHead": "0-0"
+        },
+        {
+          "id": 22897,
+          "played": 0,
+          "won": 0,
+          "headToHead": "0-0"
+        },
+        {
+          "id": 25670,
+          "played": 2,
+          "won": 0,
+          "headToHead": "0-0"
+        }
       ]
     }
   },
-  "playoffs": {
-  }
+  "playoffs": {}
 }
