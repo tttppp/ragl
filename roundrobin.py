@@ -6,36 +6,54 @@ from datetime import date, timedelta
 from math import ceil
 from random import seed, shuffle
 
-SEASON = 17
-GROUP_STAGE_START_DATE = date(2025, 10, 6)
+SEASON = 18
+GROUP_STAGE_START_DATE = date(2026, 10, 26)
 GROUP_STAGE_WEEKS = 7
 
 divisions = [
 ('Masters', sorted(
-'''Fazzz (17239)
-inno (21084)
+'''Gargamel (16814)
 sir123 (19305)
-TTTPPP (7387)
-Gargamel (16814)
-milkman (16066)
-.gg. (22706)
-anjew (3952)
+tux (15899)
+Upps (7304)
+maceman (6793)
+dark (24123)
+Duke Bones (11913)
+Ekanim (13710)
+Blackened (6430)
+Sigil (8869)
+Amelza (20510)
+ZxGanon (6766)
 Mo (5292)
-toiletbreakbrb (9156)
-Sigil (8869)'''.split('\n'), key=str.casefold)),
+Orb (6748)'''.split('\n'), key=str.casefold)),
 
 ('Minions', sorted(
-'''Kalion (15017)
-bete (15428)
-Jur (6941)
-Duke Bones (11913)
+'''bete (15428)
+i am bad at this (14724)
+milkman (16066)
+Svedski (16314)
+anjew (3952)
+TTTPPP (7387)
+Therapist (12654)
+akpella (11861)
 ORA_CN-Hans (7714)
-fiwo (18864)
+Stromberg_CN (22545)
 Tailix Killa Mentor (6751)
-Rossie (12022)
-ashleynewson (22949)
+muleyyyy (16788)'''.split('\n'), key=str.casefold)),
+
+('Recruits', sorted(
+'''fiwo (18864)
 spetsnaz84 (6881)
-jawsh (16677)'''.split('\n'), key=str.casefold))
+Wolffang (22897)
+808MANN (18417)
+Implies (16474)
+goldie (18359)
+Gadderach (21158)
+meowcat (21011)
+1997cui (14328)
+ERWARLORD (9372)
+bongcloud (25635)
+Gacid (25670)'''.split('\n'), key=str.casefold)),
 ]
 
 # Make the schedule for the season reproducible.

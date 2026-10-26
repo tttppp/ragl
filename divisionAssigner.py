@@ -9,10 +9,15 @@ from functools import cmp_to_key
 import json
 from math import ceil, floor
 
-SEASON = 17
-REGISTRATION_CLOSE_DATE = date(2025, 10, 2)
-REGISTRATIONS = [17239, 21084, 7387, 16066, 3952, 5292, 8869, 15428, 11913, 7714, 18864, 6751, 
-                 22706, 19305, 16814, 15017, 6881, 9156, 22949, 6941, 16677, 12022]
+SEASON = 18
+REGISTRATION_CLOSE_DATE = date(2026, 10, 29)
+REGISTRATIONS = [16814, 19305, 11913, 8869, 5292, 15428, 16066, 3952, 7387, 7714, 6751, 18864, 6881, 7304,
+                 20510, 15899, 14724, 24123, 24123, 6793, 12654, 18359, 22897, 18417, 9372, 25635,
+                 14328, 22545, 16314, 16788, 21011, 25670, 16474, 6748, 13710, 6766, 6430, 11861, 21158]
+# Season 17 registrations.
+#REGISTRATION_CLOSE_DATE = date(2025, 10, 2)
+#REGISTRATIONS = [17239, 21084, 7387, 16066, 3952, 5292, 8869, 15428, 11913, 7714, 18864, 6751, 
+#                 22706, 19305, 16814, 15017, 6881, 9156, 22949, 6941, 16677, 12022]
 # Season 16 registrations.
 #REGISTRATION_CLOSE_DATE = date(2024, 10, 3)
 #REGISTRATIONS = [15469, 18968, 17239, 6430, 11913, 7304, 3952, 7387, 6793, 15428, 5292, 16066, 7714, 17607, 18864, 6751, 18359,
@@ -140,6 +145,7 @@ with open('docs/data/standings/s{:02d}.json'.format(SEASON - 1)) as standings_fi
             playoff_results = defaultdict(str)
             if 'playoffs' in data and '{} Playoffs'.format(division) in data['playoffs']:
                 for game in data['playoffs']['{} Playoffs'.format(division)]:
+                    game = {p: g for (p, g) in game.items() if type(g) == int}
                     for player_id, score in game.items():
                         winner = (score == max(game.values()))
                         playoff_results[int(player_id)] += '1' if winner else '0'
@@ -231,8 +237,10 @@ def create_divisions(continuity_order, ladder_order):
     for i in range(len(continuity_order)):
         if continuity_order[i] not in combined_list:
             combined_list.append(continuity_order[i])
-        if ladder_order[i] not in combined_list:
-            combined_list.append(ladder_order[i])
+        if ladder_order[2 * i] not in combined_list:
+            combined_list.append(ladder_order[2 * i])
+        if ladder_order[2 * i + 1] not in combined_list:
+            combined_list.append(ladder_order[2 * i + 1])
     for i in range(len(continuity_order), len(ladder_order)):
         if ladder_order[i] not in combined_list:
             combined_list.append(ladder_order[i])
