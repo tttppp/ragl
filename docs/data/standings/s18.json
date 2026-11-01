@@ -17,31 +17,48 @@
     "Masters": {
       "": [
         {
+          "id": 16814,
+          "played": 6,
+          "won": 5,
+          "headToHead": "2-0"
+        },
+        {
+          "id": 15899,
+          "played": 8,
+          "won": 5,
+          "headToHead": "0-2"
+        },
+        {
           "id": 6748,
-          "played": 3,
-          "won": 2
+          "played": 4,
+          "won": 3
         },
         {
           "id": 6766,
+          "played": 6,
+          "won": 2,
+          "headToHead": "0-0"
+        },
+        {
+          "id": 7304,
           "played": 2,
-          "won": 1,
-          "headToHead": "1-1, 1-1"
+          "won": 2,
+          "headToHead": "0-0"
+        },
+        {
+          "id": 11913,
+          "played": 6,
+          "won": 2,
+          "headToHead": "0-0"
         },
         {
           "id": 20510,
           "played": 2,
-          "won": 1,
-          "headToHead": "1-1, 1-1"
-        },
-        {
-          "id": 15899,
-          "played": 1,
-          "won": 1,
-          "headToHead": "0-0"
+          "won": 1
         },
         {
           "id": 5292,
-          "played": 0,
+          "played": 4,
           "won": 0,
           "headToHead": "0-0"
         },
@@ -58,31 +75,13 @@
           "headToHead": "0-0"
         },
         {
-          "id": 7304,
-          "played": 0,
-          "won": 0,
-          "headToHead": "0-0"
-        },
-        {
           "id": 8869,
-          "played": 0,
-          "won": 0,
-          "headToHead": "0-0"
-        },
-        {
-          "id": 11913,
           "played": 2,
           "won": 0,
           "headToHead": "0-0"
         },
         {
           "id": 13710,
-          "played": 0,
-          "won": 0,
-          "headToHead": "0-0"
-        },
-        {
-          "id": 16814,
           "played": 0,
           "won": 0,
           "headToHead": "0-0"
@@ -105,50 +104,50 @@
       "": [
         {
           "id": 3952,
-          "played": 2,
-          "won": 2,
-          "headToHead": "0-0"
+          "played": 4,
+          "won": 3,
+          "headToHead": "1-1, 1-1"
         },
         {
           "id": 12654,
+          "played": 6,
+          "won": 3,
+          "headToHead": "1-1, 1-1"
+        },
+        {
+          "id": 22545,
           "played": 4,
+          "won": 3,
+          "headToHead": "0-0"
+        },
+        {
+          "id": 7714,
+          "played": 2,
           "won": 2,
+          "headToHead": "2-0"
+        },
+        {
+          "id": 7387,
+          "played": 6,
+          "won": 2,
+          "headToHead": "0-2"
+        },
+        {
+          "id": 6751,
+          "played": 2,
+          "won": 1,
           "headToHead": "0-0"
         },
         {
           "id": 15428,
           "played": 2,
           "won": 1,
-          "headToHead": "1-1, 1-1"
-        },
-        {
-          "id": 22545,
-          "played": 2,
-          "won": 1,
-          "headToHead": "1-1, 1-1"
-        },
-        {
-          "id": 6751,
-          "played": 2,
-          "won": 1,
-          "headToHead": "0-0, 0-0"
+          "headToHead": "0-0"
         },
         {
           "id": 16066,
           "played": 2,
           "won": 1,
-          "headToHead": "0-0, 0-0"
-        },
-        {
-          "id": 7387,
-          "played": 0,
-          "won": 0,
-          "headToHead": "0-0"
-        },
-        {
-          "id": 7714,
-          "played": 0,
-          "won": 0,
           "headToHead": "0-0"
         },
         {
@@ -165,34 +164,53 @@
         },
         {
           "id": 16788,
-          "played": 0,
+          "played": 2,
           "won": 0,
           "headToHead": "0-0"
         },
         {
-          "id": 17645
+          "id": 17645,
+          "played": 0,
+          "won": 0,
+          "headToHead": "0-0"
         }
       ]
     },
     "Recruits": {
       "": [
         {
-          "id": 16474,
-          "played": 2,
-          "won": 2,
-          "headToHead": "0-0"
-        },
-        {
           "id": 21011,
-          "played": 2,
-          "won": 2,
-          "headToHead": "0-0"
+          "played": 4,
+          "won": 4
         },
         {
           "id": 6881,
-          "played": 0,
-          "won": 0,
-          "headToHead": "0-0"
+          "played": 4,
+          "won": 3,
+          "headToHead": "1-1"
+        },
+        {
+          "id": 16314,
+          "played": 4,
+          "won": 3,
+          "headToHead": "1-1"
+        },
+        {
+          "id": 16474,
+          "played": 4,
+          "won": 2
+        },
+        {
+          "id": 21158,
+          "played": 2,
+          "won": 1,
+          "headToHead": "1-1"
+        },
+        {
+          "id": 22897,
+          "played": 2,
+          "won": 1,
+          "headToHead": "1-1"
         },
         {
           "id": 9372,
@@ -202,7 +220,7 @@
         },
         {
           "id": 14328,
-          "played": 2,
+          "played": 6,
           "won": 0,
           "headToHead": "0-0"
         },
@@ -225,25 +243,10 @@
           "headToHead": "0-0"
         },
         {
-          "id": 21158,
-          "played": 0,
-          "won": 0,
-          "headToHead": "0-0"
-        },
-        {
-          "id": 22897,
-          "played": 0,
-          "won": 0,
-          "headToHead": "0-0"
-        },
-        {
           "id": 25670,
           "played": 2,
           "won": 0,
           "headToHead": "0-0"
-        },
-        {
-          "id": 16314
         }
       ]
     }

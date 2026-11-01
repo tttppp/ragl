@@ -20470,5 +20470,221 @@
             "id": 15899,
             "name": "tux"
         }
+    },
+    {
+        "date": "2026-10-31 13:52:24",
+        "map": "Status Quo Ante v2",
+        "p0": {
+            "id": 20510,
+            "name": "Amelza"
+        },
+        "p1": {
+            "id": 15899,
+            "name": "tux"
+        }
+    },
+    {
+        "date": "2026-10-31 16:18:54",
+        "map": "Moonopoly v2",
+        "p0": {
+            "id": 15899,
+            "name": "tux"
+        },
+        "p1": {
+            "id": 20510,
+            "name": "Amelza"
+        }
+    },
+    {
+        "date": "2026-10-31 16:28:04",
+        "map": "Expedition: Valley v2",
+        "p0": {
+            "id": 20510,
+            "name": "Amelza"
+        },
+        "p1": {
+            "id": 15899,
+            "name": "tux"
+        }
+    },
+    {
+        "date": "2026-10-31 17:41:02",
+        "map": "Expedition: Valley v2",
+        "p0": {
+            "id": 13710,
+            "name": "Ekanim"
+        },
+        "p1": {
+            "id": 18864,
+            "name": "fiwo"
+        }
+    },
+    {
+        "date": "2026-11-01 15:01:26",
+        "map": "Purple Forest v2",
+        "p0": {
+            "id": 15899,
+            "name": "tux"
+        },
+        "p1": {
+            "id": 18864,
+            "name": "fiwo"
+        }
+    },
+    {
+        "date": "2026-11-02 07:26:32",
+        "map": "Status Quo Ante v2",
+        "p0": {
+            "id": 15899,
+            "name": "tux"
+        },
+        "p1": {
+            "id": 15017,
+            "name": "Kalion"
+        }
+    },
+    {
+        "date": "2026-11-02 07:38:05",
+        "map": "Two Towns v2",
+        "p0": {
+            "id": 15017,
+            "name": "Kalion"
+        },
+        "p1": {
+            "id": 15899,
+            "name": "tux"
+        }
+    },
+    {
+        "date": "2026-11-02 07:50:46",
+        "map": "Two Towns v2",
+        "p0": {
+            "id": 15017,
+            "name": "Kalion"
+        },
+        "p1": {
+            "id": 15899,
+            "name": "tux"
+        }
+    },
+    {
+        "date": "2026-11-02 08:01:46",
+        "map": "Two Towns v2",
+        "p0": {
+            "id": 15017,
+            "name": "Kalion"
+        },
+        "p1": {
+            "id": 15899,
+            "name": "tux"
+        }
+    },
+    {
+        "date": "2026-11-02 23:45:40",
+        "map": "Tears in Rain v2",
+        "p0": {
+            "id": 6748,
+            "name": "Orb"
+        },
+        "p1": {
+            "id": 15899,
+            "name": "tux"
+        }
+    },
+    {
+        "date": "2026-11-02 23:57:38",
+        "map": "Eastreach v2",
+        "p0": {
+            "id": 6748,
+            "name": "Orb"
+        },
+        "p1": {
+            "id": 15899,
+            "name": "tux"
+        }
+    },
+    {
+        "date": "2026-11-03 13:53:21",
+        "map": "Status Quo Ante v2",
+        "p0": {
+            "id": 15899,
+            "name": "tux"
+        },
+        "p1": {
+            "id": 11099,
+            "name": "Dodder"
+        }
+    },
+    {
+        "date": "2026-11-03 20:53:27",
+        "map": "Island Rock v2",
+        "p0": {
+            "id": 17645,
+            "name": "xaxl"
+        },
+        "p1": {
+            "id": 7387,
+            "name": "TTTPPP"
+        }
+    },
+    {
+        "date": "2026-11-05 13:31:14",
+        "map": "Expedition: Valley v2",
+        "p0": {
+            "id": 16814,
+            "name": "Gargamel"
+        },
+        "p1": {
+            "id": 11099,
+            "name": "Dodder"
+        }
+    },
+    {
+        "date": "2026-11-05 23:49:11",
+        "map": "Purple Forest v3",
+        "p0": {
+            "id": 6766,
+            "name": "ZxGanon"
+        },
+        "p1": {
+            "id": 15899,
+            "name": "tux"
+        }
+    },
+    {
+        "date": "2026-11-06 22:13:16",
+        "map": "Endless Reincarnation v3",
+        "p0": {
+            "id": 16066,
+            "name": "milkman"
+        },
+        "p1": {
+            "id": 6786,
+            "name": "DomoTheRussian"
+        }
+    },
+    {
+        "date": "2026-11-06 22:40:25",
+        "map": "Eastreach v3",
+        "p0": {
+            "id": 16066,
+            "name": "milkman"
+        },
+        "p1": {
+            "id": 6786,
+            "name": "DomoTheRussian"
+        }
+    },
+    {
+        "date": "2026-11-06 23:15:34",
+        "map": "Purple Forest v3",
+        "p0": {
+            "id": 16814,
+            "name": "Gargamel"
+        },
+        "p1": {
+            "id": 16066,
+            "name": "milkman"
+        }
     }
 ]
