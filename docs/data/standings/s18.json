@@ -154,7 +154,8 @@
           "id": 11861,
           "played": 0,
           "won": 0,
-          "headToHead": "0-0"
+          "headToHead": "0-0",
+          "strikes": 2
         },
         {
           "id": 14724,
@@ -225,16 +226,11 @@
           "headToHead": "0-0"
         },
         {
-          "id": 18359,
-          "played": 0,
-          "won": 0,
-          "headToHead": "0-0"
-        },
-        {
           "id": 18417,
           "played": 0,
           "won": 0,
-          "headToHead": "0-0"
+          "headToHead": "0-0",
+          "strikes": 2
         },
         {
           "id": 18864,
@@ -247,6 +243,10 @@
           "played": 2,
           "won": 0,
           "headToHead": "0-0"
+        },
+        {
+          "id": 18359,
+          "seasonForfeit": true
         }
       ]
     }
