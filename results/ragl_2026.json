@@ -670,5 +670,557 @@
             "id": 3952,
             "name": "anjew"
         }
+    },
+    {
+        "date": "2026-11-07 11:13:37",
+        "map": "Broken Circle v3 [RAGL-18]",
+        "p0": {
+            "id": 16814,
+            "name": "Gargamel"
+        },
+        "p1": {
+            "id": 6793,
+            "name": "maceman"
+        }
+    },
+    {
+        "date": "2026-11-07 11:26:33",
+        "map": "Sidestep v3 [RAGL-18]",
+        "p0": {
+            "id": 16814,
+            "name": "Gargamel"
+        },
+        "p1": {
+            "id": 6793,
+            "name": "maceman"
+        }
+    },
+    {
+        "date": "2026-11-07 11:55:16",
+        "map": "Expedition: Valley v3 [RAGL-18]",
+        "p0": {
+            "id": 6793,
+            "name": "maceman"
+        },
+        "p1": {
+            "id": 24123,
+            "name": "dark"
+        }
+    },
+    {
+        "date": "2026-11-07 12:10:17",
+        "map": "Purple Forest v3 [RAGL-18]",
+        "p0": {
+            "id": 24123,
+            "name": "dark"
+        },
+        "p1": {
+            "id": 6793,
+            "name": "maceman"
+        }
+    },
+    {
+        "date": "2026-11-07 12:55:57",
+        "map": "Endless Reincarnation v3 [RAGL-18]",
+        "p0": {
+            "id": 16066,
+            "name": "milkman"
+        },
+        "p1": {
+            "id": 6751,
+            "name": "Tailix Killa Mentor"
+        }
+    },
+    {
+        "date": "2026-11-07 13:01:15",
+        "map": "Endless Reincarnation v3 [RAGL-18]",
+        "p0": {
+            "id": 22545,
+            "name": "Stromberg_CN"
+        },
+        "p1": {
+            "id": 14724,
+            "name": "i am bad at this"
+        }
+    },
+    {
+        "date": "2026-11-07 13:19:49",
+        "map": "Purple Forest v3 [RAGL-18]",
+        "p0": {
+            "id": 14724,
+            "name": "i am bad at this"
+        },
+        "p1": {
+            "id": 22545,
+            "name": "Stromberg_CN"
+        }
+    },
+    {
+        "date": "2026-11-07 13:26:22",
+        "map": "Two Towns v3 [RAGL-18]",
+        "p0": {
+            "id": 16066,
+            "name": "milkman"
+        },
+        "p1": {
+            "id": 6751,
+            "name": "Tailix Killa Mentor"
+        }
+    },
+    {
+        "date": "2026-11-07 14:53:47",
+        "map": "Purple Forest v3 [RAGL-18]",
+        "p0": {
+            "id": 16066,
+            "name": "milkman"
+        },
+        "p1": {
+            "id": 17645,
+            "name": "xaxl"
+        }
+    },
+    {
+        "date": "2026-11-07 15:06:04",
+        "map": "Moonopoly v3 [RAGL-18]",
+        "p0": {
+            "id": 16066,
+            "name": "milkman"
+        },
+        "p1": {
+            "id": 17645,
+            "name": "xaxl"
+        }
+    },
+    {
+        "date": "2026-11-07 15:34:30",
+        "map": "Two Towns v3 [RAGL-18]",
+        "p0": {
+            "id": 17645,
+            "name": "xaxl"
+        },
+        "p1": {
+            "id": 6751,
+            "name": "Tailix Killa Mentor"
+        }
+    },
+    {
+        "date": "2026-11-07 15:59:36",
+        "map": "Road To The Champion v3 [RAGL-18]",
+        "p0": {
+            "id": 17645,
+            "name": "xaxl"
+        },
+        "p1": {
+            "id": 6751,
+            "name": "Tailix Killa Mentor"
+        }
+    },
+    {
+        "date": "2026-11-07 17:46:57",
+        "map": "Eastreach v3 [RAGL-18]",
+        "p0": {
+            "id": 19305,
+            "name": "sir123"
+        },
+        "p1": {
+            "id": 11913,
+            "name": "Duke Bones"
+        }
+    },
+    {
+        "date": "2026-11-07 17:58:49",
+        "map": "Moonopoly v3 [RAGL-18]",
+        "p0": {
+            "id": 19305,
+            "name": "sir123"
+        },
+        "p1": {
+            "id": 11913,
+            "name": "Duke Bones"
+        }
+    },
+    {
+        "date": "2026-11-07 18:08:05",
+        "map": "Expedition: Valley v3 [RAGL-18]",
+        "p0": {
+            "id": 19305,
+            "name": "sir123"
+        },
+        "p1": {
+            "id": 6793,
+            "name": "maceman"
+        }
+    },
+    {
+        "date": "2026-11-07 18:18:24",
+        "map": "Purple Forest v3 [RAGL-18]",
+        "p0": {
+            "id": 19305,
+            "name": "sir123"
+        },
+        "p1": {
+            "id": 6793,
+            "name": "maceman"
+        }
+    },
+    {
+        "date": "2026-11-07 18:34:17",
+        "map": "Status Quo Ante v3 [RAGL-18]",
+        "p0": {
+            "id": 15899,
+            "name": "tux"
+        },
+        "p1": {
+            "id": 6793,
+            "name": "maceman"
+        }
+    },
+    {
+        "date": "2026-11-07 18:57:30",
+        "map": "Expedition: Valley v3 [RAGL-18]",
+        "p0": {
+            "id": 15899,
+            "name": "tux"
+        },
+        "p1": {
+            "id": 6793,
+            "name": "maceman"
+        }
+    },
+    {
+        "date": "2026-11-07 19:02:38",
+        "map": "Road To The Champion v3 [RAGL-18]",
+        "p0": {
+            "id": 7714,
+            "name": "ORA_CN-Hans"
+        },
+        "p1": {
+            "id": 6751,
+            "name": "Tailix Killa Mentor"
+        }
+    },
+    {
+        "date": "2026-11-07 19:10:03",
+        "map": "Purple Forest v3 [RAGL-18]",
+        "p0": {
+            "id": 19305,
+            "name": "sir123"
+        },
+        "p1": {
+            "id": 15899,
+            "name": "tux"
+        }
+    },
+    {
+        "date": "2026-11-07 19:21:40",
+        "map": "Two Towns v3 [RAGL-18]",
+        "p0": {
+            "id": 7714,
+            "name": "ORA_CN-Hans"
+        },
+        "p1": {
+            "id": 6751,
+            "name": "Tailix Killa Mentor"
+        }
+    },
+    {
+        "date": "2026-11-07 19:23:05",
+        "map": "Status Quo Ante v3 [RAGL-18]",
+        "p0": {
+            "id": 6793,
+            "name": "maceman"
+        },
+        "p1": {
+            "id": 6766,
+            "name": "ZxGanon"
+        }
+    },
+    {
+        "date": "2026-11-07 19:24:53",
+        "map": "Status Quo Ante v3 [RAGL-18]",
+        "p0": {
+            "id": 15899,
+            "name": "tux"
+        },
+        "p1": {
+            "id": 19305,
+            "name": "sir123"
+        }
+    },
+    {
+        "date": "2026-11-07 19:35:01",
+        "map": "Tears in Rain v3 [RAGL-18]",
+        "p0": {
+            "id": 6766,
+            "name": "ZxGanon"
+        },
+        "p1": {
+            "id": 6793,
+            "name": "maceman"
+        }
+    },
+    {
+        "date": "2026-11-07 23:12:38",
+        "map": "Moonopoly v3 [RAGL-18]",
+        "p0": {
+            "id": 5292,
+            "name": "Mo"
+        },
+        "p1": {
+            "id": 6766,
+            "name": "ZxGanon"
+        }
+    },
+    {
+        "date": "2026-11-07 23:17:55",
+        "map": "Purple Forest v3 [RAGL-18]",
+        "p0": {
+            "id": 18864,
+            "name": "fiwo"
+        },
+        "p1": {
+            "id": 16474,
+            "name": "Implies"
+        }
+    },
+    {
+        "date": "2026-11-07 23:23:37",
+        "map": "Broken Circle v3 [RAGL-18]",
+        "p0": {
+            "id": 6766,
+            "name": "ZxGanon"
+        },
+        "p1": {
+            "id": 5292,
+            "name": "Mo"
+        }
+    },
+    {
+        "date": "2026-11-07 23:27:47",
+        "map": "Expedition: Valley v3 [RAGL-18]",
+        "p0": {
+            "id": 18864,
+            "name": "fiwo"
+        },
+        "p1": {
+            "id": 16474,
+            "name": "Implies"
+        }
+    },
+    {
+        "date": "2026-11-08 01:19:45",
+        "map": "Moonopoly v3 [RAGL-18]",
+        "p0": {
+            "id": 16814,
+            "name": "Gargamel"
+        },
+        "p1": {
+            "id": 5292,
+            "name": "Mo"
+        }
+    },
+    {
+        "date": "2026-11-08 01:32:53",
+        "map": "Broken Circle v3 [RAGL-18]",
+        "p0": {
+            "id": 16814,
+            "name": "Gargamel"
+        },
+        "p1": {
+            "id": 5292,
+            "name": "Mo"
+        }
+    },
+    {
+        "date": "2026-11-08 11:21:09",
+        "map": "Endless Reincarnation v3 [RAGL-18]",
+        "p0": {
+            "id": 15428,
+            "name": "bete"
+        },
+        "p1": {
+            "id": 16066,
+            "name": "milkman"
+        }
+    },
+    {
+        "date": "2026-11-08 11:31:34",
+        "map": "Expedition: Valley v3 [RAGL-18]",
+        "p0": {
+            "id": 15428,
+            "name": "bete"
+        },
+        "p1": {
+            "id": 16066,
+            "name": "milkman"
+        }
+    },
+    {
+        "date": "2026-11-08 14:45:54",
+        "map": "Road To The Champion v3 [RAGL-18]",
+        "p0": {
+            "id": 22545,
+            "name": "Stromberg_CN"
+        },
+        "p1": {
+            "id": 6751,
+            "name": "Tailix Killa Mentor"
+        }
+    },
+    {
+        "date": "2026-11-08 14:52:46",
+        "map": "Purple Forest v3 [RAGL-18]",
+        "p0": {
+            "id": 24123,
+            "name": "dark"
+        },
+        "p1": {
+            "id": 15899,
+            "name": "tux"
+        }
+    },
+    {
+        "date": "2026-11-08 14:59:53",
+        "map": "Status Quo Ante v3 [RAGL-18]",
+        "p0": {
+            "id": 24123,
+            "name": "dark"
+        },
+        "p1": {
+            "id": 15899,
+            "name": "tux"
+        }
+    },
+    {
+        "date": "2026-11-08 15:08:42",
+        "map": "Two Towns v3 [RAGL-18]",
+        "p0": {
+            "id": 22545,
+            "name": "Stromberg_CN"
+        },
+        "p1": {
+            "id": 6751,
+            "name": "Tailix Killa Mentor"
+        }
+    },
+    {
+        "date": "2026-11-08 20:18:50",
+        "map": "Purple Forest v3 [RAGL-18]",
+        "p0": {
+            "id": 24123,
+            "name": "dark"
+        },
+        "p1": {
+            "id": 13710,
+            "name": "Ekanim"
+        }
+    },
+    {
+        "date": "2026-11-08 20:30:29",
+        "map": "Status Quo Ante v3 [RAGL-18]",
+        "p0": {
+            "id": 24123,
+            "name": "dark"
+        },
+        "p1": {
+            "id": 13710,
+            "name": "Ekanim"
+        }
+    },
+    {
+        "date": "2026-11-08 20:55:59",
+        "map": "Broken Circle v3 [RAGL-18]",
+        "p0": {
+            "id": 6766,
+            "name": "ZxGanon"
+        },
+        "p1": {
+            "id": 7304,
+            "name": "Upps"
+        }
+    },
+    {
+        "date": "2026-11-08 21:15:11",
+        "map": "Eastreach v3 [RAGL-18]",
+        "p0": {
+            "id": 7304,
+            "name": "Upps"
+        },
+        "p1": {
+            "id": 6766,
+            "name": "ZxGanon"
+        }
+    },
+    {
+        "date": "2026-11-08 21:33:46",
+        "map": "Purple Forest v3 [RAGL-18]",
+        "p0": {
+            "id": 7304,
+            "name": "Upps"
+        },
+        "p1": {
+            "id": 6430,
+            "name": "Blackened"
+        }
+    },
+    {
+        "date": "2026-11-08 21:40:21",
+        "map": "Tears in Rain v3 [RAGL-18]",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 7304,
+            "name": "Upps"
+        }
+    },
+    {
+        "date": "2026-11-08 21:57:53",
+        "map": "Two Towns v3 [RAGL-18]",
+        "p0": {
+            "id": 6766,
+            "name": "ZxGanon"
+        },
+        "p1": {
+            "id": 6430,
+            "name": "Blackened"
+        }
+    },
+    {
+        "date": "2026-11-08 22:12:42",
+        "map": "Status Quo Ante v3 [RAGL-18]",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 6766,
+            "name": "ZxGanon"
+        }
+    },
+    {
+        "date": "2026-11-08 22:15:06",
+        "map": "Status Quo Ante v3 [RAGL-18]",
+        "p0": {
+            "id": 19305,
+            "name": "sir123"
+        },
+        "p1": {
+            "id": 13710,
+            "name": "Ekanim"
+        }
+    },
+    {
+        "date": "2026-11-08 22:28:05",
+        "map": "Moonopoly v3 [RAGL-18]",
+        "p0": {
+            "id": 13710,
+            "name": "Ekanim"
+        },
+        "p1": {
+            "id": 19305,
+            "name": "sir123"
+        }
     }
 ]

@@ -20674,5 +20674,17 @@
             "id": 16066,
             "name": "milkman"
         }
+    },
+    {
+        "date": "2026-11-08 12:30:06",
+        "map": "Two Towns v3",
+        "p0": {
+            "id": 16814,
+            "name": "Gargamel"
+        },
+        "p1": {
+            "id": 6751,
+            "name": "Tailix Killa Mentor"
+        }
     }
 ]
