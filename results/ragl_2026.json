@@ -192,6 +192,30 @@
         }
     },
     {
+        "date": "2026-10-30 19:49:39",
+        "map": "Two Towns v2 [RAGL-18]",
+        "p0": {
+            "id": 18864,
+            "name": "fiwo"
+        },
+        "p1": {
+            "id": 21011,
+            "name": "meowcat"
+        }
+    },
+    {
+        "date": "2026-10-30 20:03:59",
+        "map": "Tears in Rain v2 [RAGL-18]",
+        "p0": {
+            "id": 18864,
+            "name": "fiwo"
+        },
+        "p1": {
+            "id": 21011,
+            "name": "meowcat"
+        }
+    },
+    {
         "date": "2026-10-31 03:34:38",
         "map": "Moonopoly v2 [RAGL-18]",
         "p0": {
@@ -477,6 +501,54 @@
         "p1": {
             "id": 7387,
             "name": "TTTPPP"
+        }
+    },
+    {
+        "date": "2026-11-03 20:53:27",
+        "map": "Island Rock v2 [RAGL-18]",
+        "p0": {
+            "id": 17645,
+            "name": "xaxl"
+        },
+        "p1": {
+            "id": 7387,
+            "name": "TTTPPP"
+        }
+    },
+    {
+        "date": "2026-11-03 21:11:57",
+        "map": "Tears in Rain v2 [RAGL-18]",
+        "p0": {
+            "id": 7387,
+            "name": "TTTPPP"
+        },
+        "p1": {
+            "id": 17645,
+            "name": "xaxl"
+        }
+    },
+    {
+        "date": "2026-11-04 17:52:17",
+        "map": "Two Towns v2 [RAGL-18]",
+        "p0": {
+            "id": 15428,
+            "name": "bete"
+        },
+        "p1": {
+            "id": 17645,
+            "name": "xaxl"
+        }
+    },
+    {
+        "date": "2026-11-04 18:04:33",
+        "map": "Two Towns v2 [RAGL-18]",
+        "p0": {
+            "id": 15428,
+            "name": "bete"
+        },
+        "p1": {
+            "id": 17645,
+            "name": "xaxl"
         }
     },
     {
