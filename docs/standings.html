@@ -16,7 +16,12 @@
             function hashEntry(columns, entry) {
                 var hashFields = [];
                 for (column of columns) {
-                    if (!['position', 'name', 'played'].includes(column)) {
+                    if (column == 'headToHead' && entry[column]) {
+                        var winList = entry[column].split(',').map(function(score) {
+                            return Number(score.split('-')[0]);
+                        });
+                        hashFields.push(winList);
+                    } else if (!['position', 'name', 'played'].includes(column)) {
                         hashFields.push(entry[column]);
                     }
                 }
