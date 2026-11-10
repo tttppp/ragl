@@ -5976,32 +5976,8 @@
         }
     },
     {
-        "date": "2017-10-08 15:12:19",
-        "map": "Ysmir (RAGL:S4)",
-        "p0": {
-            "name": "kazu.",
-            "id": 6528
-        },
-        "p1": {
-            "name": "dragunoff",
-            "id": 7229
-        }
-    },
-    {
         "date": "2017-10-08 15:12:21",
         "map": "Ysmir (RAGL:S4)",
-        "p0": {
-            "name": "kazu.",
-            "id": 6528
-        },
-        "p1": {
-            "name": "dragunoff",
-            "id": 7229
-        }
-    },
-    {
-        "date": "2017-10-08 15:24:34",
-        "map": "Pitfight (RAGL:S4)",
         "p0": {
             "name": "kazu.",
             "id": 6528
@@ -9021,18 +8997,6 @@
         "p1": {
             "name": "ass_pounder_4000",
             "id": -28
-        }
-    },
-    {
-        "date": "2017-12-03 15:04:22",
-        "map": "A Nuclear Winter (RAGL:S4)",
-        "p0": {
-            "name": "kazu.",
-            "id": 6528
-        },
-        "p1": {
-            "name": "fittsaft",
-            "id": -32
         }
     },
     {
