@@ -264,30 +264,6 @@
         }
     },
     {
-        "date": "2020-05-17 02:45:02",
-        "map": "Shadowfiend II RAGL S9",
-        "p0": {
-            "name": "SarahSicaria",
-            "id": 8031
-        },
-        "p1": {
-            "name": "ORA_CN-Hans",
-            "id": 7714
-        }
-    },
-    {
-        "date": "2020-05-17 02:56:52",
-        "map": "Teared Strait RAGL S9",
-        "p0": {
-            "name": "SarahSicaria",
-            "id": 8031
-        },
-        "p1": {
-            "name": "ORA_CN-Hans",
-            "id": 7714
-        }
-    },
-    {
         "date": "2020-05-17 15:49:43",
         "map": "Dual Cold Front RAGL S9",
         "p0": {
