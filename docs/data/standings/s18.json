@@ -66,12 +66,6 @@
           "headToHead": "0-0"
         },
         {
-          "id": 11913,
-          "played": 8,
-          "won": 2,
-          "headToHead": "0-0"
-        },
-        {
           "id": 5292,
           "played": 8,
           "won": 1,
@@ -90,6 +84,11 @@
           "headToHead": "0-0"
         },
         {
+          "id": 11913,
+          "played": 6,
+          "won": 0
+        },
+        {
           "id": 8869,
           "seasonForfeit": true
         }
@@ -98,21 +97,19 @@
     "Minions": {
       "": [
         {
+          "id": 15428,
+          "played": 8,
+          "won": 7
+        },
+        {
           "id": 22545,
           "played": 8,
           "won": 6
         },
         {
-          "id": 15428,
-          "played": 6,
-          "won": 5,
-          "headToHead": "2-0"
-        },
-        {
           "id": 16066,
           "played": 8,
-          "won": 5,
-          "headToHead": "0-2"
+          "won": 5
         },
         {
           "id": 7714,
@@ -158,9 +155,8 @@
         },
         {
           "id": 16788,
-          "played": 2,
+          "played": 4,
           "won": 0,
-          "headToHead": "0-0",
           "strikes": 1
         },
         {
@@ -184,6 +180,12 @@
           "headToHead": "0-2"
         },
         {
+          "id": 16314,
+          "played": 4,
+          "won": 3,
+          "headToHead": "1-1"
+        },
+        {
           "id": 6881,
           "played": 4,
           "won": 3,
@@ -191,15 +193,15 @@
           "strikes": 1
         },
         {
-          "id": 16314,
-          "played": 4,
-          "won": 3,
-          "headToHead": "1-1"
-        },
-        {
           "id": 16474,
           "played": 6,
           "won": 2
+        },
+        {
+          "id": 22897,
+          "played": 2,
+          "won": 1,
+          "headToHead": "1-1"
         },
         {
           "id": 21158,
@@ -207,12 +209,6 @@
           "won": 1,
           "headToHead": "1-1",
           "strikes": 2
-        },
-        {
-          "id": 22897,
-          "played": 2,
-          "won": 1,
-          "headToHead": "1-1"
         },
         {
           "id": 9372,
@@ -234,11 +230,11 @@
           "strikes": 2
         },
         {
-          "id": 18417,
+          "id": 18359,
           "seasonForfeit": true
         },
         {
-          "id": 18359,
+          "id": 18417,
           "seasonForfeit": true
         }
       ]
