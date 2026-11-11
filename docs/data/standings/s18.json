@@ -40,8 +40,9 @@
         },
         {
           "id": 24123,
-          "played": 6,
-          "won": 5
+          "played": 8,
+          "won": 6,
+          "headToHead": "0-0"
         },
         {
           "id": 7304,
@@ -54,6 +55,12 @@
           "won": 3
         },
         {
+          "id": 5292,
+          "played": 10,
+          "won": 2,
+          "headToHead": "0-0"
+        },
+        {
           "id": 6430,
           "played": 4,
           "won": 2,
@@ -63,12 +70,6 @@
           "id": 6793,
           "played": 10,
           "won": 2,
-          "headToHead": "0-0"
-        },
-        {
-          "id": 5292,
-          "played": 8,
-          "won": 1,
           "headToHead": "0-0"
         },
         {
@@ -97,9 +98,16 @@
     "Minions": {
       "": [
         {
+          "id": 3952,
+          "played": 8,
+          "won": 7,
+          "headToHead": "0-0"
+        },
+        {
           "id": 15428,
           "played": 8,
-          "won": 7
+          "won": 7,
+          "headToHead": "0-0"
         },
         {
           "id": 22545,
@@ -107,20 +115,34 @@
           "won": 6
         },
         {
-          "id": 16066,
-          "played": 8,
-          "won": 5
+          "id": 7714,
+          "played": 6,
+          "won": 5,
+          "headToHead": "0-0"
         },
         {
-          "id": 7714,
-          "played": 4,
+          "id": 16066,
+          "played": 8,
+          "won": 5,
+          "headToHead": "0-0"
+        },
+        {
+          "id": 12654,
+          "played": 8,
           "won": 4
         },
         {
-          "id": 3952,
-          "played": 4,
+          "id": 17645,
+          "played": 10,
           "won": 3,
-          "headToHead": "1-1"
+          "headToHead": "3-3"
+        },
+        {
+          "id": 14724,
+          "played": 6,
+          "won": 3,
+          "headToHead": "2-0",
+          "strikes": 1
         },
         {
           "id": 7387,
@@ -129,33 +151,14 @@
           "headToHead": "1-1"
         },
         {
-          "id": 12654,
-          "played": 6,
-          "won": 3,
-          "headToHead": "1-1"
-        },
-        {
-          "id": 17645,
-          "played": 8,
-          "won": 3,
-          "headToHead": "1-1"
-        },
-        {
           "id": 6751,
-          "played": 10,
-          "won": 1,
-          "headToHead": "0-0"
-        },
-        {
-          "id": 14724,
-          "played": 4,
-          "won": 1,
-          "headToHead": "0-0",
-          "strikes": 1
+          "played": 14,
+          "won": 3,
+          "headToHead": "0-2"
         },
         {
           "id": 16788,
-          "played": 4,
+          "played": 8,
           "won": 0,
           "strikes": 1
         },
@@ -167,6 +170,12 @@
     },
     "Recruits": {
       "": [
+        {
+          "id": 6881,
+          "played": 6,
+          "won": 5,
+          "strikes": 1
+        },
         {
           "id": 18864,
           "played": 4,
@@ -183,31 +192,23 @@
           "id": 16314,
           "played": 4,
           "won": 3,
-          "headToHead": "1-1"
-        },
-        {
-          "id": 6881,
-          "played": 4,
-          "won": 3,
-          "headToHead": "1-1",
-          "strikes": 1
+          "headToHead": "0-0"
         },
         {
           "id": 16474,
-          "played": 6,
-          "won": 2
+          "played": 8,
+          "won": 3,
+          "headToHead": "0-0"
         },
         {
           "id": 22897,
-          "played": 2,
-          "won": 1,
-          "headToHead": "1-1"
+          "played": 6,
+          "won": 2
         },
         {
           "id": 21158,
           "played": 2,
           "won": 1,
-          "headToHead": "1-1",
           "strikes": 2
         },
         {

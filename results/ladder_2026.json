@@ -20686,5 +20686,101 @@
             "id": 6751,
             "name": "Tailix Killa Mentor"
         }
+    },
+    {
+        "date": "2026-11-11 22:13:43",
+        "map": "Purple Forest v3",
+        "p0": {
+            "id": 13710,
+            "name": "Ekanim"
+        },
+        "p1": {
+            "id": 20510,
+            "name": "Amelza"
+        }
+    },
+    {
+        "date": "2026-11-11 22:26:09",
+        "map": "Two Towns v3",
+        "p0": {
+            "id": 13710,
+            "name": "Ekanim"
+        },
+        "p1": {
+            "id": 20510,
+            "name": "Amelza"
+        }
+    },
+    {
+        "date": "2026-11-11 22:34:53",
+        "map": "Eastreach v3",
+        "p0": {
+            "id": 19305,
+            "name": "sir123"
+        },
+        "p1": {
+            "id": 20510,
+            "name": "Amelza"
+        }
+    },
+    {
+        "date": "2026-11-11 22:52:57",
+        "map": "Two Towns v3",
+        "p0": {
+            "id": 20510,
+            "name": "Amelza"
+        },
+        "p1": {
+            "id": 19305,
+            "name": "sir123"
+        }
+    },
+    {
+        "date": "2026-11-12 23:43:31",
+        "map": "Moonopoly v3",
+        "p0": {
+            "id": 13710,
+            "name": "Ekanim"
+        },
+        "p1": {
+            "id": 20510,
+            "name": "Amelza"
+        }
+    },
+    {
+        "date": "2026-11-12 23:55:17",
+        "map": "Eastreach v3",
+        "p0": {
+            "id": 20510,
+            "name": "Amelza"
+        },
+        "p1": {
+            "id": 13710,
+            "name": "Ekanim"
+        }
+    },
+    {
+        "date": "2026-11-13 00:09:50",
+        "map": "Two Towns v3",
+        "p0": {
+            "id": 20510,
+            "name": "Amelza"
+        },
+        "p1": {
+            "id": 13710,
+            "name": "Ekanim"
+        }
+    },
+    {
+        "date": "2026-11-14 00:09:42",
+        "map": "Eastreach v3",
+        "p0": {
+            "id": 6748,
+            "name": "Orb"
+        },
+        "p1": {
+            "id": 20510,
+            "name": "Amelza"
+        }
     }
 ]
