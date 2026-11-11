@@ -144,6 +144,30 @@
         }
     },
     {
+        "date": "2026-10-29 23:33:15",
+        "map": "Purple Forest v2 [RAGL-18]",
+        "p0": {
+            "id": 16474,
+            "name": "Implies"
+        },
+        "p1": {
+            "id": 22897,
+            "name": "Wolffang"
+        }
+    },
+    {
+        "date": "2026-10-29 23:46:50",
+        "map": "Moonopoly v2 [RAGL-18]",
+        "p0": {
+            "id": 22897,
+            "name": "Wolffang"
+        },
+        "p1": {
+            "id": 16474,
+            "name": "Implies"
+        }
+    },
+    {
         "date": "2026-10-30 00:16:54",
         "map": "Purple Forest v2 [RAGL-18]",
         "p0": {
@@ -528,7 +552,7 @@
         }
     },
     {
-        "date": "2026-11-04 17:52:17",
+        "date": "2026-11-04 18:04:33",
         "map": "Two Towns v2 [RAGL-18]",
         "p0": {
             "id": 15428,
@@ -540,8 +564,8 @@
         }
     },
     {
-        "date": "2026-11-04 18:04:33",
-        "map": "Two Towns v2 [RAGL-18]",
+        "date": "2026-11-04 18:17:34",
+        "map": "Expedition: Valley v2 [RAGL-18]",
         "p0": {
             "id": 15428,
             "name": "bete"
@@ -948,6 +972,18 @@
         }
     },
     {
+        "date": "2026-11-07 19:31:06",
+        "map": "Sidestep v2 [RAGL-18]",
+        "p0": {
+            "id": 6881,
+            "name": "spetsnaz84"
+        },
+        "p1": {
+            "id": 22897,
+            "name": "Wolffang"
+        }
+    },
+    {
         "date": "2026-11-07 19:35:01",
         "map": "Tears in Rain v3 [RAGL-18]",
         "p0": {
@@ -957,6 +993,18 @@
         "p1": {
             "id": 6793,
             "name": "maceman"
+        }
+    },
+    {
+        "date": "2026-11-07 19:45:55",
+        "map": "Eastreach v2 [RAGL-18]",
+        "p0": {
+            "id": 6881,
+            "name": "spetsnaz84"
+        },
+        "p1": {
+            "id": 22897,
+            "name": "Wolffang"
         }
     },
     {
