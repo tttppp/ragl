@@ -45,9 +45,16 @@
           "headToHead": "0-0"
         },
         {
+          "id": 6793,
+          "played": 12,
+          "won": 4,
+          "headToHead": "0-0"
+        },
+        {
           "id": 7304,
           "played": 6,
-          "won": 4
+          "won": 4,
+          "headToHead": "0-0"
         },
         {
           "id": 6748,
@@ -67,12 +74,6 @@
           "headToHead": "0-0"
         },
         {
-          "id": 6793,
-          "played": 10,
-          "won": 2,
-          "headToHead": "0-0"
-        },
-        {
           "id": 13710,
           "played": 4,
           "won": 1,
@@ -80,7 +81,7 @@
         },
         {
           "id": 20510,
-          "played": 2,
+          "played": 4,
           "won": 1,
           "headToHead": "0-0"
         },
@@ -191,14 +192,7 @@
         {
           "id": 16314,
           "played": 4,
-          "won": 3,
-          "headToHead": "0-0"
-        },
-        {
-          "id": 16474,
-          "played": 8,
-          "won": 3,
-          "headToHead": "0-0"
+          "won": 3
         },
         {
           "id": 22897,
@@ -206,9 +200,16 @@
           "won": 2
         },
         {
+          "id": 16474,
+          "played": 6,
+          "won": 1,
+          "headToHead": "0-0"
+        },
+        {
           "id": 21158,
           "played": 2,
           "won": 1,
+          "headToHead": "0-0",
           "strikes": 2
         },
         {
@@ -224,15 +225,15 @@
           "headToHead": "0-0"
         },
         {
-          "id": 25670,
-          "seasonForfeit": true
-        },
-        {
           "id": 18359,
           "seasonForfeit": true
         },
         {
           "id": 18417,
+          "seasonForfeit": true
+        },
+        {
+          "id": 25670,
           "seasonForfeit": true
         }
       ]
