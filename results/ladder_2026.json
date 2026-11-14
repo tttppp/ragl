@@ -20782,5 +20782,101 @@
             "id": 20510,
             "name": "Amelza"
         }
+    },
+    {
+        "date": "2026-11-14 15:00:33",
+        "map": "Eastreach v3",
+        "p0": {
+            "id": 15899,
+            "name": "tux"
+        },
+        "p1": {
+            "id": 20510,
+            "name": "Amelza"
+        }
+    },
+    {
+        "date": "2026-11-16 10:37:16",
+        "map": "Two Towns v3",
+        "p0": {
+            "id": 15899,
+            "name": "tux"
+        },
+        "p1": {
+            "id": 22706,
+            "name": ".gg."
+        }
+    },
+    {
+        "date": "2026-11-16 15:59:16",
+        "map": "Eastreach v3",
+        "p0": {
+            "id": 15899,
+            "name": "tux"
+        },
+        "p1": {
+            "id": 22706,
+            "name": ".gg."
+        }
+    },
+    {
+        "date": "2026-11-16 16:10:22",
+        "map": "Expedition: Valley v3",
+        "p0": {
+            "id": 15899,
+            "name": "tux"
+        },
+        "p1": {
+            "id": 22706,
+            "name": ".gg."
+        }
+    },
+    {
+        "date": "2026-11-16 16:22:09",
+        "map": "Status Quo Ante v3",
+        "p0": {
+            "id": 15899,
+            "name": "tux"
+        },
+        "p1": {
+            "id": 22706,
+            "name": ".gg."
+        }
+    },
+    {
+        "date": "2026-11-16 16:31:35",
+        "map": "Moonopoly v3",
+        "p0": {
+            "id": 15899,
+            "name": "tux"
+        },
+        "p1": {
+            "id": 22706,
+            "name": ".gg."
+        }
+    },
+    {
+        "date": "2026-11-16 16:44:38",
+        "map": "Sidestep v3",
+        "p0": {
+            "id": 15899,
+            "name": "tux"
+        },
+        "p1": {
+            "id": 22706,
+            "name": ".gg."
+        }
+    },
+    {
+        "date": "2026-11-16 17:31:06",
+        "map": "Endless Reincarnation v3",
+        "p0": {
+            "id": 15899,
+            "name": "tux"
+        },
+        "p1": {
+            "id": 22706,
+            "name": ".gg."
+        }
     }
 ]
