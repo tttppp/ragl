@@ -1,0 +1,150 @@
+<html>
+    <head>
+        <title>RAGL Replays</title>
+        <link rel="stylesheet" href="ragl.css">
+        <script src="js/jquery.min.js"></script>
+        <script src="js/group_table.js"></script>
+        <script>
+            function makePlayerLink(id, players) {
+                return $('<a>').attr('href', 'player.html?player=' + id).text(players[id]['name']);
+            }
+
+            $(document).ready(function() {
+                $.getJSON('data/ragl.json', function(ragl) {
+                    const urlSearchParams = new URLSearchParams(window.location.search);
+                    var season = Number(urlSearchParams.get('season'));
+                    if (!season) {
+                        season = ragl.latestSeason;
+                    }
+                    const divisionGroupName = urlSearchParams.get('g').replace(' Tie Break', '');
+                    const isTieBreak = urlSearchParams.get('t') == 'true';
+                    const groupUrl = 'matches.html?season=' + season + '#' + divisionGroupName.replace(' ', '');
+                    const groupLink = $('<a>').attr('href', groupUrl).text('Season ' + season + ' ' + divisionGroupName);
+                    $('#group').html(groupLink);
+
+                    var date = urlSearchParams.get('date');
+
+                    $.getJSON('data/players.json', function(players) {
+                        const player0 = parseInt(urlSearchParams.get('p0'));
+                        const player1 = parseInt(urlSearchParams.get('p1'));
+                        const score0 = parseInt(urlSearchParams.get('s0'));
+                        const score1 = parseInt(urlSearchParams.get('s1'));
+                        $('#p0').html(makePlayerLink(player0, players));
+                        $('#p1').html(makePlayerLink(player1, players));
+
+                        $.getJSON('data/matches/s' + (season < 10 ? '0' : '') + season+'.json', function(matches) {
+                            $.getJSON('data/standings/s' + (season < 10 ? '0' : '') + season+'.json', function(standingData) {
+                                var played = {};
+                                var won = {};
+                                const splitIndex = divisionGroupName.indexOf(' ');
+                                var divisionName;
+                                if (splitIndex == -1) {
+                                    divisionName = divisionGroupName;
+                                    groupName = '';
+                                } else {
+                                    divisionName = divisionGroupName.substr(0, splitIndex);
+                                    groupName = divisionGroupName.substr(splitIndex + 1);
+                                }
+                                standingData.groups[divisionName][groupName].forEach(player => {
+                                    played[player.id] = 0;
+                                    won[player.id] = 0;
+                                });
+                                matches.forEach(match => {
+                                    if (match['g'] != divisionGroupName || (date && match['d'] >= date)) {
+                                        return;
+                                    }
+                                    ['0', '1'].forEach(index => {
+                                        player_id = match['p' + index];
+                                        score = match['s' + index];
+                                        played[player_id] += 1;
+                                        won[player_id] += score;
+                                    });
+                                });
+
+                                // TODO Calculate h2h scores
+                                var headToHead = {};
+
+                                var groupData = [];
+                                standingData.groups[divisionName][groupName].forEach(player => {
+                                    groupData.push({
+                                        "id": player.id,
+                                        "played": played[player.id],
+                                        "won": won[player.id],
+                                        "headToHead": headToHead[player.id],
+                                        //"strikes": player.strikes ? 0 : 0,
+                                        //"tieBreak": isTieBreak ? '' : ''
+                                    });
+                                });
+
+                                var columns = ['position', 'name', 'played'];
+                                standingData.order.forEach(column => columns.push(Object.keys(column)[0]));
+                                $('.table').append($('<h3>').text(divisionGroupName));
+                                $('#groups').append($('<table>').attr('id', 'results')
+                                    .append($('<thead>')
+                                        .html(makeHeaders(columns)))
+                                    .append(makeRows(standingData.order, groupData, players)));
+
+                                groupData.forEach(playerInfo => {
+                                    if (playerInfo['id'] == player0) {
+                                        playerInfo['played'] += score0 + score1;
+                                        playerInfo['won'] += score0;
+                                    } else if (playerInfo['id'] == player1) {
+                                        playerInfo['played'] += score0 + score1;
+                                        playerInfo['won'] += score1;
+                                    }
+                                });
+                                $('#groups_after').append($('<table>').attr('id', 'results')
+                                    .append($('<thead>')
+                                        .html(makeHeaders(columns)))
+                                    .append(makeRows(standingData.order, groupData, players)));
+                            });
+                        });
+
+                        // Populate before/after links.
+                        var beforeLink = $('<a>').text("Table Before");
+                        $('#before').html(beforeLink);
+                        var afterLink = $('<a>').attr('href', '#').text("Table After");
+                        $('#after').html(afterLink);
+                        $('#navigation a').click(event => {
+                            event.preventDefault();
+                            $('.table').toggle();
+                            if ($(event.target).attr('href')) {
+                                $('#navigation a').each(function() {
+                                    if ($(this).attr('href')) {
+                                        $(this).removeAttr('href');
+                                    } else {
+                                        $(this).attr('href', '#');
+                                    }
+                                });
+                            }
+                        });
+                    });
+                });
+            });
+        </script>
+    </head>
+    <body>
+        <div id="content">
+            <div class="menu">
+                <span><a href="index.html">RAGL Ladder</a></span>
+                <span><a href="standings.html">RAGL Standings</a></span>
+                <span><a href="forfeits.html">RAGL Forfeits</a></span>
+                <span><a href="records.html">Ladder Records</a></span>
+                <span><a href="https://github.com/tttppp/ragl/blob/master/rules.md">RAGL Rules</a></span>
+            </div>
+            <h1><a href="matches.html">RAGL Replays</a></h1>
+            <h2>RAGL Replays for <span id="group"></span></h2>
+            <h3><span id="p0"></span> vs <span id="p1"></span></h3>
+            <div id="replays">
+            </div>
+            <div id="navigation">
+                <span id="before"></span>
+                <span id="after"></span>
+            </div>
+            <div id="groups" class="table">
+            </div>
+            <div id="groups_after" class="table" style="display: none;">
+            </div>
+        </div>
+    </body>
+</html>

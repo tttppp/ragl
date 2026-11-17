@@ -96,3 +96,13 @@ a[href]:hover {
 .negativeChange {
     color: #a44;
 }
+
+.spoiler {
+    background-color: #000;
+    color: transparent;
+}
+
+.spoiler:hover {
+    background-color: transparent;
+    color: inherit;
+}

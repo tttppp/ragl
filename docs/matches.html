@@ -1,0 +1,83 @@
+<html>
+    <head>
+        <title>RAGL Season Matches</title>
+        <link rel="stylesheet" href="ragl.css">
+        <script src="js/jquery.min.js"></script>
+        <script>
+            function makePlayerLink(id, players) {
+                return $('<a>').attr('href', 'player.html?player=' + id).text(players[id]['name']);
+            }
+
+            $(document).ready(function() {
+                $.getJSON('data/ragl.json', function(ragl) {
+                    const urlSearchParams = new URLSearchParams(window.location.search);
+                    var season = Number(urlSearchParams.get('season'));
+                    if (!season) {
+                        season = ragl.latestSeason;
+                    }
+                    $('#season').text(season);
+
+                    $.getJSON('data/players.json', function(players) {
+                        $.getJSON('data/matches/s' + (season < 10 ? '0' : '') + season+'.json', function(matches) {
+                            matches.forEach(match => {
+                                var player_pair = $('<span>')
+                                    .append(makePlayerLink(match['p0'], players))
+                                    .append($('<span>').text(' vs '))
+                                    .append(makePlayerLink(match['p1'], players));
+                                const isTieBreak = match['g'].indexOf('Tie Break') >= 0;
+                                $('#matches').append($('<tr>')
+                                    .append($('<td>').text(match['d']))
+                                    .append($('<td>').html(player_pair))
+                                    .append($('<td>').html($('<a>').attr('href', 'replays.html?season=' + season + '&date=' + match['d'] + '&p0=' + match['p0'] + '&s0=' + match['s0'] + '&p1=' + match['p1'] + '&s1=' + match['s1'] + '&g=' + match['g'] + '&t=' + isTieBreak).text(match['g'])))
+                                    .append($('<td class="spoiler">').text(match['s0'] + '-' + match['s1']))
+                                );
+                            });
+                        });
+
+                        // Populate previous/next links.
+                        var previousSeasonLink = $('<a>').text("Previous Season");
+                        if (season > 1) {
+                            previousSeasonLink.attr('href', '?season=' + (season - 1));
+
+                        }
+                        $('#previous').append(previousSeasonLink);
+                        var nextSeasonLink = $('<a>').text("Next Season");
+                        if (season < ragl.latestSeason) {
+                            nextSeasonLink.attr('href', '?season=' + (season + 1));
+                        }
+                        $('#next').append(nextSeasonLink);
+                    });
+                });
+            });
+        </script>
+    </head>
+    <body>
+        <div id="content">
+            <div class="menu">
+                <span><a href="index.html">RAGL Ladder</a></span>
+                <span><a href="standings.html">RAGL Standings</a></span>
+                <span><a href="forfeits.html">RAGL Forfeits</a></span>
+                <span><a href="records.html">Ladder Records</a></span>
+                <span><a href="https://github.com/tttppp/ragl/blob/master/rules.md">RAGL Rules</a></span>
+            </div>
+            <h1><a href="matches.html">RAGL Matches</a></h1>
+            <h2>RAGL Matches for Season <span id="season"></span>:</h2>
+            <div id="navigation">
+                <span id="previous"></span>
+                <span id="next"></span>
+            </div>
+            <table id="results">
+                <thead>
+                    <tr>
+                        <th>Date</th>
+                        <th>Players</th>
+                        <th>Table Before/After</th>
+                        <th>Result</th>
+                    </tr>
+                </thead>
+                <tbody id="matches">
+                </tbody>
+            </table>
+        </div>
+    </body>
+</html>
