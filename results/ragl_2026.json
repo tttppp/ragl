@@ -1822,5 +1822,29 @@
             "id": 7387,
             "name": "TTTPPP"
         }
+    },
+    {
+        "date": "2026-11-17 20:18:33",
+        "map": "Endless Reincarnation v3 [RAGL-18]",
+        "p0": {
+            "id": 15428,
+            "name": "bete"
+        },
+        "p1": {
+            "id": 7387,
+            "name": "TTTPPP"
+        }
+    },
+    {
+        "date": "2026-11-17 20:31:50",
+        "map": "Moonopoly v3 [RAGL-18]",
+        "p0": {
+            "id": 15428,
+            "name": "bete"
+        },
+        "p1": {
+            "id": 7387,
+            "name": "TTTPPP"
+        }
     }
 ]
