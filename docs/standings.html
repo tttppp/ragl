@@ -3,100 +3,8 @@
         <title>RAGL Standings</title>
         <link rel="stylesheet" href="ragl.css">
         <script src="js/jquery.min.js"></script>
+        <script src="js/group_table.js"></script>
         <script>
-            function makeHeaders(columns) {
-                const columnNames = {'position': 'Position', 'name': 'Name', 'played': 'Played', 'won': 'Won', 'guestWins': 'Guest Wins', 'headToHead': 'Head To Head', 'strikes': 'Strikes', 'tieBreak': 'Tie-Break'};
-                var headers = $('<tr>');
-                columns.forEach(column => {
-                    headers.append($('<th>').text(columnNames[column]));
-                });
-                return headers;
-            }
-
-            function hashEntry(columns, entry) {
-                var hashFields = [];
-                for (column of columns) {
-                    if (column == 'headToHead' && entry[column]) {
-                        var winList = entry[column].split(',').map(function(score) {
-                            return Number(score.split('-')[0]);
-                        });
-                        hashFields.push(winList);
-                    } else if (!['position', 'name', 'played'].includes(column)) {
-                        hashFields.push(entry[column]);
-                    }
-                }
-                return hashFields.join('|');
-            }
-
-            function makePlayerLink(id, players) {
-                return $('<a>').attr('href', 'player.html?player=' + id).text(players[id]['name']);
-            }
-
-            function makeRows(columns, entries, players) {
-                var tbody = $('<tbody>');
-                var positionCounter = {};
-                for (entry of entries) {
-                    var key = hashEntry(columns, entry);
-                    if (!Object.keys(positionCounter).includes(key)) {
-                        positionCounter[key] = 0;
-                    }
-                    positionCounter[key]++;
-                }
-                var currentPosition = 1;
-                var countAtPosition = 0;
-                entries.forEach(function(entry, i) {
-                    var row = $('<tr>');
-                    columns.forEach(column => {
-                        var text = entry[column];
-                        if (column == 'position') {
-                            var totalAtPosition = positionCounter[hashEntry(columns, entry)];
-                            if (totalAtPosition > 1) {
-                                text = '=' + currentPosition;
-                            } else {
-                                text = currentPosition;
-                            }
-                            countAtPosition++;
-                            if (countAtPosition == totalAtPosition) {
-                                currentPosition += countAtPosition;
-                                countAtPosition = 0;
-                            }
-
-                            if (entry['seasonForfeit']) {
-                                text = 'SF';
-                            }
-                        }
-                        var cell = $('<td>');
-                        if (column == 'name') {
-                            cell.append(makePlayerLink(entry['id'], players));
-                        } else {
-                            cell.text(text);
-                        }
-                        row.append(cell);
-                    });
-                    tbody.append(row);
-                });
-                return tbody;
-            }
-
-            function makePlayoff(playoff, players) {
-                var table = $('<table>').attr('id', 'results');
-                var tbody = $('<tbody>');
-                table.append(tbody);
-                for (result of playoff) {
-                    var row = $('<tr>');
-                    var sortedPlayerIds = Object.keys(result).sort(function(playerA, playerB) { return result[playerB] - result[playerA]; });
-                    row.append($('<td>').append(makePlayerLink(sortedPlayerIds[0], players)));
-                    var resultText = result[sortedPlayerIds[0]] + ' - ' + result[sortedPlayerIds[1]];
-                    if (Object.keys(result).includes('awards')) {
-                        resultText = result['awards'][0] + ' ' + resultText + ' ' + result['awards'][1];
-                    }
-                    row.append($('<td>').text(resultText));
-                    row.append($('<td>').append(makePlayerLink(sortedPlayerIds[1], players)));
-                    tbody.append(row);
-                }
-                return table;
-            }
-
             $(document).ready(function() {
                 $.getJSON('data/ragl.json', function(ragl) {
                     const urlSearchParams = new URLSearchParams(window.location.search);
@@ -125,7 +33,7 @@
                                         $('#groups').append($('<table>').attr('id', 'results')
                                             .append($('<thead>')
                                                 .html(makeHeaders(columns)))
-                                            .append(makeRows(columns, standingData.groups[divisionName][groupName], players)));
+                                            .append(makeRows(standingData.order, standingData.groups[divisionName][groupName], players)));
                                     });
 
                                     if ('playoffs' in standingData) {
