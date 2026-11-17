@@ -173,9 +173,33 @@ def glicko2_table(ratings, games):
 
 ratings = collections.defaultdict(glicko2_init)
 
+group_by_player = collections.defaultdict(dict)
+tie_break_game_count = collections.defaultdict(collections.Counter)
+playoff_by_pair = collections.defaultdict(lambda: collections.defaultdict(lambda: 'Other'))
+for season, _ in ragl_details['seasonDates'].items():
+    with open(os.path.join(data_dir, 'standings', f's{int(season):02d}.json')) as standings_file:
+        data = json.load(standings_file)
+        for group_name, group in data['groups'].items():
+            for division_name, division in group.items():
+                for player in division:
+                    player_id = int(player['id'])
+                    if 'tieBreak' in player:
+                        tie_break_game_count[season][player_id] = sum(map(int, player['tieBreak'].split('-')))
+                    group_by_player[season][player_id] = group_name + (' ' + division_name if division_name.strip() else '')
+        if 'playoffs' in data:
+            for playoff_name, playoff_results in data['playoffs'].items():
+                for playoff_result in playoff_results:
+                    pair = tuple(sorted(int(k) for k in playoff_result.keys() if k != 'awards'))
+                    playoff_by_pair[season][pair] = playoff_name
+
 results = []
 per_player_ragl_games = collections.defaultdict(lambda: collections.defaultdict(lambda: {'p': 0, 'w': 0}))
 head_to_head_ragl_scores = collections.defaultdict(lambda: collections.defaultdict(lambda: collections.defaultdict(lambda: [0, 0])))
+# Includes playoffs, tiebreaks, etc.
+all_ragl_scores = collections.defaultdict(lambda: collections.defaultdict(lambda: collections.defaultdict(lambda: [0, 0])))
+ragl_match_dates = collections.defaultdict(lambda: collections.defaultdict(lambda: collections.defaultdict(dict)))
+ragl_group_game_wins = collections.defaultdict(lambda: collections.defaultdict(collections.Counter))
+ragl_group_game_losses = collections.defaultdict(lambda: collections.defaultdict(collections.Counter))
 for year in sorted(results_filenames_by_year.keys()):
     for competition, filename in results_filenames_by_year[year].items():
         with open(filename) as results_file:
@@ -190,12 +214,30 @@ for year in sorted(results_filenames_by_year.keys()):
                             for p in [winner, loser]:
                                 per_player_ragl_games[p][season]['p'] += 1
                             per_player_ragl_games[winner][season]['w'] += 1
-                            if sum(head_to_head_ragl_scores[season][winner][loser]) < 2:
+                            all_ragl_scores[season][winner][loser][0] += 1
+                            all_ragl_scores[season][loser][winner][1] += 1
+                            player_pair = (min(result['p0']['id'], result['p1']['id']), max(result['p0']['id'], result['p1']['id']))
+                            group0, group1 = group_by_player[season][player_pair[0]], group_by_player[season][player_pair[1]]
+                            if group0 == group1 and ragl_group_game_wins[season][group0][player_pair] + ragl_group_game_losses[season][group0][player_pair] < 2:
+                                group_name = group_by_player[season][player_pair[0]]
                                 head_to_head_ragl_scores[season][winner][loser][0] += 1
                                 head_to_head_ragl_scores[season][loser][winner][1] += 1
+                            elif tie_break_game_count[season][player_pair[0]] > 0 and tie_break_game_count[season][player_pair[1]] > 0:
+                                group_name = 'Tie Break'
+                                if group_by_player[season][player_pair[0]] == group_by_player[season][player_pair[1]]:
+                                    group_name = group_by_player[season][player_pair[0]] + ' ' + group_name
+                                tie_break_game_count[season][player_pair[0]] -= 1
+                                tie_break_game_count[season][player_pair[1]] -= 1
+                            else:
+                                group_name = playoff_by_pair[season][player_pair]
+                            if player_pair[0] == winner:
+                                ragl_group_game_wins[season][group_name][player_pair] += 1
+                            else:
+                                ragl_group_game_losses[season][group_name][player_pair] += 1
+                            if player_pair not in ragl_match_dates[season][group_name].keys():
+                                ragl_match_dates[season][group_name][player_pair] = result['date']
             results += competition_results
 
-# Currently this only copes with a single depth of head-to-head results.
 def populate_head_to_head_results(division, forfeit_player_ids, head_to_head_season_scores):
     sort_vectors = {}
     for player_data in division:
@@ -274,6 +316,16 @@ for group_name, group in groups.items():
 with open(os.path.join(data_dir, 'standings', f's{latest_season:02d}.json'), 'w') as latest_season_file:
     data['groups'] = groups
     json.dump(data, latest_season_file, indent=2, sort_keys=False)
+for season, group_information in ragl_match_dates.items():
+    matches_data = []
+    for group_name, group_stage_dates in group_information.items():
+        for pair, match_date in group_stage_dates.items():
+            p0, p1 = pair
+            s0, s1 = ragl_group_game_wins[season][group_name][pair], ragl_group_game_losses[season][group_name][pair]
+            matches_data.append({'p0': p0, 'p1': p1, 's0': s0, 's1': s1, 'd': match_date, 'g': group_name})
+    matches_data = sorted(matches_data, key=lambda match: match['d'])
+    with open(os.path.join(data_dir, 'matches', f's{int(season):02d}.json'), 'w') as season_file:
+        json.dump(matches_data, season_file, indent=2, sort_keys=False)
 
 data, player_data = glicko2_table(ratings, results)
 
