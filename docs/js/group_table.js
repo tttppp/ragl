@@ -28,14 +28,14 @@ function makePlayerLink(id, players) {
 
 function compareEntriesFn(columnOrder) {
     return function(entryA, entryB) {
-        if (entryA['seasonForfeit'] != entryB['seasonForfeit']) {
+        if (('seasonForfeit' in entryA) != ('seasonForfeit' in entryB)) {
             return entryA['seasonForfeit'];
         }
         for (const columnInfo of columnOrder) {
             const column = Object.keys(columnInfo)[0];
             const direction = columnInfo[column] == 'ASC';
-            var valueA = entryA[column] ? entryA[column] : '0';
-            var valueB = entryB[column] ? entryB[column] : '0';
+            var valueA = (column in entryA && entryA[column]) ? '' + entryA[column] : '0';
+            var valueB = (column in entryB && entryB[column]) ? '' + entryB[column] : '0';
             if (column == 'headToHead' || column == 'tieBreak') {
                 valueA = valueA.split(', ').map(score => score.split('-')[0]);
                 valueB = valueB.split(', ').map(score => score.split('-')[0]);
@@ -46,6 +46,8 @@ function compareEntriesFn(columnOrder) {
                     return ((valueA[i] > valueB[i]) == direction);
                 }
             } else {
+                valueA = Number(valueA);
+                valueB = Number(valueB);
                 if (valueA == valueB) {
                     continue;
                 }
