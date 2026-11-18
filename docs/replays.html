@@ -53,11 +53,11 @@
                                     if (match['g'] != divisionGroupName || (date && match['d'] >= date)) {
                                         return;
                                     }
+                                    var total = match['s0'] + match['s1'];
                                     ['0', '1'].forEach(index => {
                                         player_id = match['p' + index];
-                                        score = match['s' + index];
-                                        played[player_id] += 1;
-                                        won[player_id] += score;
+                                        played[player_id] += total;
+                                        won[player_id] += match['s' + index];
                                     });
                                 });
 
