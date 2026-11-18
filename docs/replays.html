@@ -84,6 +84,7 @@
                                         .html(makeHeaders(columns)))
                                     .append(makeRows(standingData.order, groupData, players)));
 
+                                var afterGroupData = [];
                                 groupData.forEach(playerInfo => {
                                     if (playerInfo['id'] == player0) {
                                         playerInfo['played'] += score0 + score1;
@@ -92,11 +93,12 @@
                                         playerInfo['played'] += score0 + score1;
                                         playerInfo['won'] += score1;
                                     }
+                                    afterGroupData.push(playerInfo);
                                 });
                                 $('#groups_after').append($('<table>').attr('id', 'results')
                                     .append($('<thead>')
                                         .html(makeHeaders(columns)))
-                                    .append(makeRows(standingData.order, groupData, players)));
+                                    .append(makeRows(standingData.order, afterGroupData, players)));
                             });
                         });
 
