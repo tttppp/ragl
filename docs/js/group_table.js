@@ -81,7 +81,16 @@ function makeRows(columnOrder, entries, players) {
 
     debug('entriesBeforeSort', entries);
 
-    entries.sort(compareEntriesFn(columnOrder));
+    const compare = compareEntriesFn(columnOrder);
+    for (var i = 0; i < entries.length; i++) {
+        for (var j = i + 1; j < entries.length; j++) {
+            if (compare(entries[i], entries[j])) {
+                var temp = entries[i];
+                entries[i] = entries[j];
+                entries[j] = temp;
+            }
+        }
+    }
 
     debug('entriesAfterSort', entries);
 
