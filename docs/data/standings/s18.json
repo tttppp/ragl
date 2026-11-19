@@ -39,28 +39,26 @@
           "won": 8
         },
         {
+          "id": 6766,
+          "played": 16,
+          "won": 7
+        },
+        {
           "id": 6430,
           "played": 10,
           "won": 6,
-          "headToHead": "1-1"
-        },
-        {
-          "id": 6766,
-          "played": 14,
-          "won": 6,
-          "headToHead": "1-1"
+          "headToHead": "2-0"
         },
         {
           "id": 6748,
-          "played": 8,
-          "won": 5,
-          "headToHead": "0-0"
+          "played": 10,
+          "won": 6,
+          "headToHead": "0-2"
         },
         {
           "id": 6793,
           "played": 14,
-          "won": 5,
-          "headToHead": "0-0"
+          "won": 5
         },
         {
           "id": 7304,
