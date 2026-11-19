@@ -27,7 +27,10 @@ function makePlayerLink(id, players) {
 }
 
 function compareEntriesFn(columnOrder) {
+    debug('columnOrder', columnOrder);
     return function(entryA, entryB) {
+        debug('entryA', entryA);
+        debug('entryB', entryB);
         if (('seasonForfeit' in entryA) != ('seasonForfeit' in entryB)) {
             return entryA['seasonForfeit'];
         }
@@ -51,9 +54,13 @@ function compareEntriesFn(columnOrder) {
                 if (valueA == valueB) {
                     continue;
                 }
+                debug('valueA', valueA);
+                debug('valueB', valueB);
+                debug('result', ((valueA > valueB) == direction));
                 return ((valueA > valueB) == direction);
             }
         }
+        debug('Dropped out', true);
     }
 }
 
@@ -72,7 +79,11 @@ function makeRows(columnOrder, entries, players) {
     var currentPosition = 1;
     var countAtPosition = 0;
 
+    debug('entriesBeforeSort', entries);
+
     entries.sort(compareEntriesFn(columnOrder));
+
+    debug('entriesAfterSort', entries);
 
     entries.forEach(function(entry, i) {
         var row = $('<tr>');

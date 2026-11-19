@@ -5,6 +5,9 @@
         <script src="js/jquery.min.js"></script>
         <script src="js/group_table.js"></script>
         <script>
+            function debug(label, value) {
+            }
+
             $(document).ready(function() {
                 $.getJSON('data/ragl.json', function(ragl) {
                     const urlSearchParams = new URLSearchParams(window.location.search);

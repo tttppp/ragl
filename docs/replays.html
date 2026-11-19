@@ -5,6 +5,9 @@
         <script src="js/jquery.min.js"></script>
         <script src="js/group_table.js"></script>
         <script>
+            function debug(label, text) {
+                $('#debug').append(jQuery('<div>').text(label + ': ' + JSON.stringify(text)));
+            }
             function makePlayerLink(id, players) {
                 return $('<a>').attr('href', 'player.html?player=' + id).text(players[id]['name']);
             }
@@ -12,6 +15,11 @@
             $(document).ready(function() {
                 $.getJSON('data/ragl.json', function(ragl) {
                     const urlSearchParams = new URLSearchParams(window.location.search);
+
+                    if (urlSearchParams.get('debug') == 'true') {
+                        $('#debug').show();
+                    }
+
                     var season = Number(urlSearchParams.get('season'));
                     if (!season) {
                         season = ragl.latestSeason;
@@ -23,6 +31,7 @@
                     $('#group').html(groupLink);
 
                     var date = urlSearchParams.get('date');
+                    debug('date', date);
 
                     $.getJSON('data/players.json', function(players) {
                         const player0 = parseInt(urlSearchParams.get('p0'));
@@ -31,6 +40,11 @@
                         const score1 = parseInt(urlSearchParams.get('s1'));
                         $('#p0').html(makePlayerLink(player0, players));
                         $('#p1').html(makePlayerLink(player1, players));
+
+                        debug('p0', player0);
+                        debug('p1', player1);
+                        debug('s0', score0);
+                        debug('s1', score1);
 
                         $.getJSON('data/matches/s' + (season < 10 ? '0' : '') + season+'.json', function(matches) {
                             $.getJSON('data/standings/s' + (season < 10 ? '0' : '') + season+'.json', function(standingData) {
@@ -76,6 +90,8 @@
                                     });
                                 });
 
+                                debug('groupData', groupData);
+
                                 var columns = ['position', 'name', 'played'];
                                 standingData.order.forEach(column => columns.push(Object.keys(column)[0]));
                                 $('.table').append($('<h3>').text(divisionGroupName));
@@ -94,6 +110,7 @@
                                         playerInfo['won'] += score1;
                                     }
                                 });
+                                debug('afterGroupData', afterGroupData);
                                 $('#groups_after').append($('<table>').attr('id', 'results')
                                     .append($('<thead>')
                                         .html(makeHeaders(columns)))
@@ -146,6 +163,7 @@
             </div>
             <div id="groups_after" class="table" style="display: none;">
             </div>
+            <div style="display: none;" id="debug"><br/></div>
         </div>
     </body>
 </html>
