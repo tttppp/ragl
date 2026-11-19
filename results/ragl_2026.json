@@ -1870,5 +1870,509 @@
             "id": 6748,
             "name": "Orb"
         }
+    },
+    {
+        "date": "2026-11-19 15:51:02",
+        "map": "Eastreach v3 [RAGL-18]",
+        "p0": {
+            "id": 6748,
+            "name": "Orb"
+        },
+        "p1": {
+            "id": 7304,
+            "name": "Upps"
+        }
+    },
+    {
+        "date": "2026-11-19 16:08:42",
+        "map": "Two Towns v3 [RAGL-18]",
+        "p0": {
+            "id": 6748,
+            "name": "Orb"
+        },
+        "p1": {
+            "id": 7304,
+            "name": "Upps"
+        }
+    },
+    {
+        "date": "2026-11-21 12:11:42",
+        "map": "Expedition: Valley v3 [RAGL-18]",
+        "p0": {
+            "id": 6793,
+            "name": "maceman"
+        },
+        "p1": {
+            "id": 5292,
+            "name": "Mo"
+        }
+    },
+    {
+        "date": "2026-11-21 12:20:41",
+        "map": "Moonopoly v3 [RAGL-18]",
+        "p0": {
+            "id": 6793,
+            "name": "maceman"
+        },
+        "p1": {
+            "id": 5292,
+            "name": "Mo"
+        }
+    },
+    {
+        "date": "2026-11-21 19:19:36",
+        "map": "Purple Forest v3 [RAGL-18]",
+        "p0": {
+            "id": 13710,
+            "name": "Ekanim"
+        },
+        "p1": {
+            "id": 11913,
+            "name": "Duke Bones"
+        }
+    },
+    {
+        "date": "2026-11-21 19:25:53",
+        "map": "Expedition: Valley v3 [RAGL-18]",
+        "p0": {
+            "id": 13710,
+            "name": "Ekanim"
+        },
+        "p1": {
+            "id": 11913,
+            "name": "Duke Bones"
+        }
+    },
+    {
+        "date": "2026-11-21 19:34:35",
+        "map": "Expedition: Valley v3 [RAGL-18]",
+        "p0": {
+            "id": 22706,
+            "name": ".gg."
+        },
+        "p1": {
+            "id": 11913,
+            "name": "Duke Bones"
+        }
+    },
+    {
+        "date": "2026-11-21 19:47:29",
+        "map": "Purple Forest v3 [RAGL-18]",
+        "p0": {
+            "id": 22706,
+            "name": ".gg."
+        },
+        "p1": {
+            "id": 11913,
+            "name": "Duke Bones"
+        }
+    },
+    {
+        "date": "2026-11-21 20:07:05",
+        "map": "Moonopoly v3 [RAGL-18]",
+        "p0": {
+            "id": 15899,
+            "name": "tux"
+        },
+        "p1": {
+            "id": 11913,
+            "name": "Duke Bones"
+        }
+    },
+    {
+        "date": "2026-11-21 20:12:46",
+        "map": "Status Quo Ante v3 [RAGL-18]",
+        "p0": {
+            "id": 15899,
+            "name": "tux"
+        },
+        "p1": {
+            "id": 11913,
+            "name": "Duke Bones"
+        }
+    },
+    {
+        "date": "2026-11-21 20:16:43",
+        "map": "Purple Forest v3 [RAGL-18]",
+        "p0": {
+            "id": 6748,
+            "name": "Orb"
+        },
+        "p1": {
+            "id": 22706,
+            "name": ".gg."
+        }
+    },
+    {
+        "date": "2026-11-21 20:36:10",
+        "map": "Moonopoly v3 [RAGL-18]",
+        "p0": {
+            "id": 22706,
+            "name": ".gg."
+        },
+        "p1": {
+            "id": 6748,
+            "name": "Orb"
+        }
+    },
+    {
+        "date": "2026-11-21 20:49:47",
+        "map": "Endless Reincarnation v3 [RAGL-18]",
+        "p0": {
+            "id": 19305,
+            "name": "sir123"
+        },
+        "p1": {
+            "id": 22706,
+            "name": ".gg."
+        }
+    },
+    {
+        "date": "2026-11-21 20:53:52",
+        "map": "Moonopoly v3 [RAGL-18]",
+        "p0": {
+            "id": 5292,
+            "name": "Mo"
+        },
+        "p1": {
+            "id": 13710,
+            "name": "Ekanim"
+        }
+    },
+    {
+        "date": "2026-11-21 21:02:37",
+        "map": "Purple Forest v3 [RAGL-18]",
+        "p0": {
+            "id": 19305,
+            "name": "sir123"
+        },
+        "p1": {
+            "id": 22706,
+            "name": ".gg."
+        }
+    },
+    {
+        "date": "2026-11-21 21:14:26",
+        "map": "Endless Reincarnation v3 [RAGL-18]",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 22706,
+            "name": ".gg."
+        }
+    },
+    {
+        "date": "2026-11-21 21:28:36",
+        "map": "Moonopoly v3 [RAGL-18]",
+        "p0": {
+            "id": 6430,
+            "name": "Blackened"
+        },
+        "p1": {
+            "id": 22706,
+            "name": ".gg."
+        }
+    },
+    {
+        "date": "2026-11-21 21:31:47",
+        "map": "Tears in Rain v3 [RAGL-18]",
+        "p0": {
+            "id": 13710,
+            "name": "Ekanim"
+        },
+        "p1": {
+            "id": 5292,
+            "name": "Mo"
+        }
+    },
+    {
+        "date": "2026-11-21 22:28:11",
+        "map": "Broken Circle v3 [RAGL-18]",
+        "p0": {
+            "id": 12654,
+            "name": "Therapist"
+        },
+        "p1": {
+            "id": 16788,
+            "name": "muleyyyy"
+        }
+    },
+    {
+        "date": "2026-11-21 22:36:01",
+        "map": "Two Towns v3 [RAGL-18]",
+        "p0": {
+            "id": 12654,
+            "name": "Therapist"
+        },
+        "p1": {
+            "id": 16788,
+            "name": "muleyyyy"
+        }
+    },
+    {
+        "date": "2026-11-21 23:10:27",
+        "map": "Status Quo Ante v3 [RAGL-18]",
+        "p0": {
+            "id": 7714,
+            "name": "ORA_CN-Hans"
+        },
+        "p1": {
+            "id": 16788,
+            "name": "muleyyyy"
+        }
+    },
+    {
+        "date": "2026-11-21 23:23:16",
+        "map": "Broken Circle v3 [RAGL-18]",
+        "p0": {
+            "id": 7714,
+            "name": "ORA_CN-Hans"
+        },
+        "p1": {
+            "id": 16788,
+            "name": "muleyyyy"
+        }
+    },
+    {
+        "date": "2026-11-22 04:43:24",
+        "map": "Purple Forest v3 [RAGL-18]",
+        "p0": {
+            "id": 13710,
+            "name": "Ekanim"
+        },
+        "p1": {
+            "id": 15899,
+            "name": "tux"
+        }
+    },
+    {
+        "date": "2026-11-22 05:03:54",
+        "map": "Expedition: Valley v3 [RAGL-18]",
+        "p0": {
+            "id": 15899,
+            "name": "tux"
+        },
+        "p1": {
+            "id": 13710,
+            "name": "Ekanim"
+        }
+    },
+    {
+        "date": "2026-11-22 08:33:00",
+        "map": "Eastreach v3 [RAGL-18]",
+        "p0": {
+            "id": 16066,
+            "name": "milkman"
+        },
+        "p1": {
+            "id": 14724,
+            "name": "i am bad at this"
+        }
+    },
+    {
+        "date": "2026-11-22 08:50:30",
+        "map": "Tears in Rain v3 [RAGL-18]",
+        "p0": {
+            "id": 16066,
+            "name": "milkman"
+        },
+        "p1": {
+            "id": 14724,
+            "name": "i am bad at this"
+        }
+    },
+    {
+        "date": "2026-11-22 12:16:37",
+        "map": "Expedition: Valley v3 [RAGL-18]",
+        "p0": {
+            "id": 22545,
+            "name": "Stromberg_CN"
+        },
+        "p1": {
+            "id": 3952,
+            "name": "anjew"
+        }
+    },
+    {
+        "date": "2026-11-22 12:40:01",
+        "map": "Endless Reincarnation v3 [RAGL-18]",
+        "p0": {
+            "id": 3952,
+            "name": "anjew"
+        },
+        "p1": {
+            "id": 22545,
+            "name": "Stromberg_CN"
+        }
+    },
+    {
+        "date": "2026-11-22 13:02:58",
+        "map": "Island Rock v3 [RAGL-18]",
+        "p0": {
+            "id": 7714,
+            "name": "ORA_CN-Hans"
+        },
+        "p1": {
+            "id": 22545,
+            "name": "Stromberg_CN"
+        }
+    },
+    {
+        "date": "2026-11-22 13:10:23",
+        "map": "Endless Reincarnation v3 [RAGL-18]",
+        "p0": {
+            "id": 22545,
+            "name": "Stromberg_CN"
+        },
+        "p1": {
+            "id": 7714,
+            "name": "ORA_CN-Hans"
+        }
+    },
+    {
+        "date": "2026-11-22 19:25:33",
+        "map": "Eastreach v3 [RAGL-18]",
+        "p0": {
+            "id": 15428,
+            "name": "bete"
+        },
+        "p1": {
+            "id": 12654,
+            "name": "Therapist"
+        }
+    },
+    {
+        "date": "2026-11-22 19:29:13",
+        "map": "Status Quo Ante v3 [RAGL-18]",
+        "p0": {
+            "id": 7714,
+            "name": "ORA_CN-Hans"
+        },
+        "p1": {
+            "id": 17645,
+            "name": "xaxl"
+        }
+    },
+    {
+        "date": "2026-11-22 19:40:21",
+        "map": "Eastreach v3 [RAGL-18]",
+        "p0": {
+            "id": 17645,
+            "name": "xaxl"
+        },
+        "p1": {
+            "id": 7714,
+            "name": "ORA_CN-Hans"
+        }
+    },
+    {
+        "date": "2026-11-22 19:48:44",
+        "map": "Two Towns v3 [RAGL-18]",
+        "p0": {
+            "id": 15428,
+            "name": "bete"
+        },
+        "p1": {
+            "id": 12654,
+            "name": "Therapist"
+        }
+    },
+    {
+        "date": "2026-11-23 03:00:33",
+        "map": "Sidestep v2 [RAGL-18]",
+        "p0": {
+            "id": 21011,
+            "name": "meowcat"
+        },
+        "p1": {
+            "id": 22897,
+            "name": "Wolffang"
+        }
+    },
+    {
+        "date": "2026-11-23 03:13:45",
+        "map": "Moonopoly v2 [RAGL-18]",
+        "p0": {
+            "id": 21011,
+            "name": "meowcat"
+        },
+        "p1": {
+            "id": 22897,
+            "name": "Wolffang"
+        }
+    },
+    {
+        "date": "2026-11-23 13:26:32",
+        "map": "Broken Circle v3 [RAGL-18]",
+        "p0": {
+            "id": 3952,
+            "name": "anjew"
+        },
+        "p1": {
+            "id": 17645,
+            "name": "xaxl"
+        }
+    },
+    {
+        "date": "2026-11-23 13:41:47",
+        "map": "Eastreach v3 [RAGL-18]",
+        "p0": {
+            "id": 3952,
+            "name": "anjew"
+        },
+        "p1": {
+            "id": 17645,
+            "name": "xaxl"
+        }
+    },
+    {
+        "date": "2026-11-23 18:59:53",
+        "map": "Expedition: Valley v3 [RAGL-18]",
+        "p0": {
+            "id": 19305,
+            "name": "sir123"
+        },
+        "p1": {
+            "id": 6766,
+            "name": "ZxGanon"
+        }
+    },
+    {
+        "date": "2026-11-23 19:15:33",
+        "map": "Broken Circle v3 [RAGL-18]",
+        "p0": {
+            "id": 19305,
+            "name": "sir123"
+        },
+        "p1": {
+            "id": 6766,
+            "name": "ZxGanon"
+        }
+    },
+    {
+        "date": "2026-11-23 19:55:59",
+        "map": "Tears in Rain v3 [RAGL-18]",
+        "p0": {
+            "id": 7304,
+            "name": "Upps"
+        },
+        "p1": {
+            "id": 19305,
+            "name": "sir123"
+        }
+    },
+    {
+        "date": "2026-11-23 20:09:16",
+        "map": "Expedition: Valley v3 [RAGL-18]",
+        "p0": {
+            "id": 19305,
+            "name": "sir123"
+        },
+        "p1": {
+            "id": 7304,
+            "name": "Upps"
+        }
     }
 ]
