@@ -84,8 +84,7 @@
         },
         {
           "id": 20510,
-          "played": 6,
-          "won": 1
+          "seasonForfeit": true
         },
         {
           "id": 11913,
