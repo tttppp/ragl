@@ -13,7 +13,8 @@
           "played": 18,
           "won": 15,
           "strikes": 1,
-          "seasonForfeit": true
+          "seasonForfeit": "2023-06-26 00:00:00",
+          "includeInGroupStage": true
         },
         {
           "id": 13705,
@@ -68,11 +69,11 @@
         },
         {
           "id": 10588,
-          "seasonForfeit": true
+          "seasonForfeit": "2023-05-30 00:00:00"
         },
         {
           "id": 11442,
-          "seasonForfeit": true
+          "seasonForfeit": "2023-05-08 00:00:00"
         }
       ]
     },
@@ -139,11 +140,11 @@
         },
         {
           "id": 6771,
-          "seasonForfeit": true
+          "seasonForfeit": "2023-05-13 00:00:00"
         },
         {
           "id": 9156,
-          "seasonForfeit": true
+          "seasonForfeit": "2023-06-13 00:00:00"
         }
       ]
     }

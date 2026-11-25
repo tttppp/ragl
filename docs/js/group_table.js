@@ -31,8 +31,10 @@ function compareEntriesFn(columnOrder) {
     return function(entryA, entryB) {
         debug('entryA', entryA);
         debug('entryB', entryB);
-        if (('seasonForfeit' in entryA) != ('seasonForfeit' in entryB)) {
-            return entryA['seasonForfeit'];
+        const aForfeit = (!!entryA['seasonForfeit'] && !entryA['includeInGroupStage']);
+        const bForfeit = (!!entryB['seasonForfeit'] && !entryB['includeInGroupStage']);
+        if (aForfeit != bForfeit) {
+            return !!entryA['seasonForfeit'] && !entryA['includeInGroupStage'];
         }
         for (const columnInfo of columnOrder) {
             const column = Object.keys(columnInfo)[0];
@@ -111,13 +113,15 @@ function makeRows(columnOrder, entries, players) {
                     countAtPosition = 0;
                 }
 
-                if (entry['seasonForfeit']) {
+                if (!!entry['seasonForfeit']) {
                     text = 'SF';
                 }
             }
             var cell = $('<td>');
             if (column == 'name') {
                 cell.append(makePlayerLink(entry['id'], players));
+            } else if (column != 'position' && !!entry['seasonForfeit'] && !entry['includeInGroupStage']) {
+                cell.text('');
             } else {
                 cell.text(text);
             }

@@ -8,8 +8,19 @@
             function debug(label, text) {
                 $('#debug').append(jQuery('<div>').text(label + ': ' + JSON.stringify(text)));
             }
+
             function makePlayerLink(id, players) {
                 return $('<a>').attr('href', 'player.html?player=' + id).text(players[id]['name']);
+            }
+
+            function isForfeitYet(player, date) {
+                if (!'seasonForfeit' in player || !!player['includeInGroupStage']) {
+                    return false;
+                }
+                if (player['seasonForfeit'] == true) {
+                    return true;
+                }
+                return player['seasonForfeit'] <= date;
             }
 
             $(document).ready(function() {
@@ -50,6 +61,7 @@
                             $.getJSON('data/standings/s' + (season < 10 ? '0' : '') + season+'.json', function(standingData) {
                                 var played = {};
                                 var won = {};
+                                var isForfeit = {};
                                 const splitIndex = divisionGroupName.indexOf(' ');
                                 var divisionName;
                                 if (splitIndex == -1) {
@@ -62,9 +74,13 @@
                                 standingData.groups[divisionName][groupName].forEach(player => {
                                     played[player.id] = 0;
                                     won[player.id] = 0;
+                                    isForfeit[player.id] = isForfeitYet(player, date);
                                 });
                                 matches.forEach(match => {
                                     if (match['g'] != divisionGroupName || (date && match['d'] >= date)) {
+                                        return;
+                                    }
+                                    if (isForfeit[match['p0']] || isForfeit[match['p1']]) {
                                         return;
                                     }
                                     var total = match['s0'] + match['s1'];
@@ -86,7 +102,8 @@
                                         "won": won[player.id],
                                         "headToHead": headToHead[player.id],
                                         //"strikes": player.strikes ? 0 : 0,
-                                        //"tieBreak": isTieBreak ? '' : ''
+                                        //"tieBreak": isTieBreak ? '' : '',
+                                        "seasonForfeit": isForfeit[player.id]
                                     });
                                 });
 
@@ -150,7 +167,7 @@
                 <span><a href="records.html">Ladder Records</a></span>
                 <span><a href="https://github.com/tttppp/ragl/blob/master/rules.md">RAGL Rules</a></span>
             </div>
-            <h1><a href="matches.html">RAGL Replays</a></h1>
+            <h1>RAGL Replays</h1>
             <h2>RAGL Replays for <span id="group"></span></h2>
             <h3><span id="p0"></span> vs <span id="p1"></span></h3>
             <div id="replays">

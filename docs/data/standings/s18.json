@@ -93,11 +93,11 @@
         },
         {
           "id": 8869,
-          "seasonForfeit": true
+          "seasonForfeit": "2026-11-09 00:00:00"
         },
         {
           "id": 20510,
-          "seasonForfeit": true
+          "seasonForfeit": "2026-11-24 00:00:00"
         }
       ]
     },
@@ -167,7 +167,7 @@
         },
         {
           "id": 11861,
-          "seasonForfeit": true
+          "seasonForfeit": "2026-11-10 00:00:00"
         }
       ]
     },
@@ -195,46 +195,41 @@
           "won": 3
         },
         {
-          "id": 22897,
-          "played": 8,
-          "won": 2
-        },
-        {
           "id": 16474,
           "played": 6,
           "won": 1,
-          "headToHead": "0-0"
+          "headToHead": "1-1"
         },
         {
-          "id": 21158,
-          "played": 2,
+          "id": 22897,
+          "played": 6,
           "won": 1,
-          "headToHead": "0-0",
-          "strikes": 2
-        },
-        {
-          "id": 9372,
-          "played": 0,
-          "won": 0,
-          "headToHead": "0-0"
+          "headToHead": "1-1"
         },
         {
           "id": 14328,
           "played": 6,
-          "won": 0,
-          "headToHead": "0-0"
+          "won": 0
+        },
+        {
+          "id": 9372,
+          "seasonForfeit": "2026-11-17 00:00:00"
         },
         {
           "id": 18359,
-          "seasonForfeit": true
+          "seasonForfeit": "2026-10-30 00:00:00"
         },
         {
           "id": 18417,
-          "seasonForfeit": true
+          "seasonForfeit": "2026-11-10 00:00:00"
+        },
+        {
+          "id": 21158,
+          "seasonForfeit": "2026-11-17 00:00:00"
         },
         {
           "id": 25670,
-          "seasonForfeit": true
+          "seasonForfeit": "2026-11-17 00:00:00"
         }
       ]
     }

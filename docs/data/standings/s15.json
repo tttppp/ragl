@@ -69,11 +69,11 @@
         },
         {
           "id": 6771,
-          "seasonForfeit": true
+          "seasonForfeit": "2023-11-21 00:00:00"
         },
         {
           "id": 8860,
-          "seasonForfeit": true
+          "seasonForfeit": "2023-11-14 00:00:00"
         }
       ]
     },
@@ -146,7 +146,7 @@
         },
         {
           "id": 13008,
-          "seasonForfeit": true
+          "seasonForfeit": "2024-10-24 00:00:00"
         }
       ]
     }
